@@ -84,6 +84,7 @@ for _codes, _bref, _name in (
 NAME_ALIASES = {
     "Alex Sarr": "Alexandre Sarr",
     "Cam Johnson": "Cameron Johnson",
+    "DaRon Holmes II": "DaRon Holmes",
     "Herb Jones": "Herbert Jones",
     "Jakob Poeltl": "Jakob Pöltl",
     "Jimmy Butler III": "Jimmy Butler",
@@ -327,7 +328,8 @@ def espn_box(event_id):
     st = comp.get("status", {})
     if not st.get("type", {}).get("completed"):
         return None, 2, st.get("type", {}).get("shortDetail", "")
-    periods = int(st.get("period") or 4)
+    # the summary header usually has no period count; the per-period line scores do
+    periods = max([int(st.get("period") or 0), 4] + [len(c.get("linescores") or []) for c in comp.get("competitors", [])])
     scores = {c["team"]["abbreviation"]: int(c.get("score") or 0) for c in comp.get("competitors", [])}
     sides = {c["homeAway"]: c["team"]["abbreviation"] for c in comp.get("competitors", [])}
     teams = {}

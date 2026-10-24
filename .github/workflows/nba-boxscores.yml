@@ -7,6 +7,10 @@ name: NBA box scores
 on:
   schedule:
     - cron: "7,27,47 1-9 * * *"  # 01:07-09:47 UTC = evening to early morning US Eastern
+  push:  # a change to the fetcher runs it once right away (data commits don't match these paths)
+    paths:
+      - "nba_boxscores/**"
+      - ".github/workflows/nba-boxscores.yml"
   workflow_dispatch:
     inputs:
       dates:

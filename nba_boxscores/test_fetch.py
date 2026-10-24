@@ -267,6 +267,14 @@ class FetchTest(unittest.TestCase):
         den_total = next(r for r in rows if r["team"] == "Denver Nuggets" and r["section"] == "Totals")
         self.assertEqual((den_total["TRB"], den_total["TOV"], den_total["PTS"]), ("53", "21", "84"))
 
+    def test_espn_overtime_minutes_from_linescores(self):
+        summary = espn_summary()
+        for c in summary["header"]["competitions"][0]["competitors"]:
+            c["linescores"] = [{"displayValue": "20"}] * 5  # ESPN's header has no period count
+        with mock.patch.object(fetch, "get_json", FakeHTTP({fetch.ESPN_SUMMARY_URL.format("1"): summary})):
+            box, status, _ = fetch.espn_box("1")
+        self.assertEqual((status, box["periods"], box["away"]["totals"]["mp"]), (3, 5, 265))
+
     def test_espn_only_when_nba_schedule_down(self):
         http = FakeHTTP(routes(**{u: RuntimeError("down") for u in fetch.NBA_SCHEDULE_URLS}))
         games = self.run_day("2026-10-22", http)
