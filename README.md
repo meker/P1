@@ -18,7 +18,8 @@ NBA.com instead, minutes after each game ends, and commits them here.
     Ids and URLs keep Basketball-Reference's form (`202610230MIL`) so `build_day.py` reads them unchanged;
   - `source.json`: per game status, source (nba/espn), NBA.com game id and link, self-check problems.
     ESPN minutes are whole minutes, so a team's minutes can be a minute or two off 240 there.
-- `nba_boxscores/RUNBOOK_SECTION.md`: the fetch steps the morning job follows.
+- `nba_boxscores/RUNBOOK_SECTION.md`: the fetch steps the morning job follows; `nba_boxscores/HEARTH_SETUP.md`:
+  the one-time switch the report thread applies (runbook section, new routine prompt, rebuild).
 
 Tests: `python3 -m unittest nba_boxscores/test_fetch.py`
 
