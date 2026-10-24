@@ -30,13 +30,11 @@ Memphis Grizzlies	Reserves	Scotty Pippen Jr.	20:11	2	7	0	3	5	6	2	0	2	5	3	0	2	1	9
 Memphis Grizzlies	Reserves	Quinten Post	19:22	3	4	1	2	0	0	0	1	1	0	0	0	1	4	7
 Memphis Grizzlies	Reserves	GG Jackson	18:41	4	8	2	2	2	2	2	6	8	0	0	2	4	2	12
 Memphis Grizzlies	Reserves	Cam Spencer	16:17	1	4	1	1	0	0	1	2	3	2	1	0	1	1	3
-Memphis Grizzlies	Reserves	Carson Cooper	Did Not Dress
 Memphis Grizzlies	Reserves	Taylor Hendricks	Did Not Play
 Memphis Grizzlies	Reserves	Karim López	Did Not Play
 Memphis Grizzlies	Reserves	Jahmai Mashack	Did Not Play
 Memphis Grizzlies	Reserves	Kris Murray	Did Not Play
 Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	Did Not Play
-Memphis Grizzlies	Reserves	Javon Small	Did Not Dress
 Memphis Grizzlies	Reserves	Isaiah Stewart	Did Not Dress
 Memphis Grizzlies	Totals	Team Totals	240	44	93	13	34	22	28	15	40	55	23	8	7	13	26	123
 ```

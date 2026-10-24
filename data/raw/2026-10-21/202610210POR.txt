@@ -17,7 +17,6 @@ Phoenix Suns	Reserves	Jamaree Bouyea	7:01	1	1	0	0	1	1	0	2	2	2	0	0	0	0	3
 Phoenix Suns	Reserves	Pat Spencer	7:01	1	2	1	1	0	0	0	3	3	1	1	1	1	0	3
 Phoenix Suns	Reserves	Koa Peat	7:01	2	4	0	0	0	0	1	0	1	0	0	0	0	0	4
 Phoenix Suns	Reserves	Luke Kennard	Did Not Dress
-Phoenix Suns	Reserves	Drew Timme	Did Not Dress
 Phoenix Suns	Reserves	Mark Williams	Did Not Dress
 Phoenix Suns	Totals	Team Totals	240	30	84	6	32	17	23	13	26	39	14	10	6	15	17	83
 Portland Trail Blazers	Starters	Damian Lillard	23:51	7	12	6	10	5	5	1	2	3	6	1	0	1	0	25
@@ -30,7 +29,7 @@ Portland Trail Blazers	Reserves	Jrue Holiday	20:36	2	6	0	3	4	4	2	2	4	1	2	0	0	1	8
 Portland Trail Blazers	Reserves	Scoot Henderson	19:18	7	14	1	6	0	0	0	2	2	1	1	0	4	0	15
 Portland Trail Blazers	Reserves	Vít Krejčí	15:30	0	3	0	2	1	1	0	2	2	3	2	0	2	3	1
 Portland Trail Blazers	Reserves	Robert Williams III	15:16	1	3	0	0	0	0	3	7	10	1	0	1	0	1	2
-Portland Trail Blazers	Reserves	Hansen Yang	12:00	2	4	1	2	0	0	1	2	3	0	0	0	2	2	5
+Portland Trail Blazers	Reserves	Yang Hansen	12:00	2	4	1	2	0	0	1	2	3	0	0	0	2	2	5
 Portland Trail Blazers	Reserves	Micah Potter	12:00	2	3	0	1	0	0	0	3	3	0	0	0	1	0	4
 Portland Trail Blazers	Reserves	Jayson Kent	7:01	0	4	0	2	0	0	1	0	1	0	1	0	2	0	0
 Portland Trail Blazers	Reserves	Branden Carlson	Did Not Dress

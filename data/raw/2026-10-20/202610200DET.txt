@@ -31,11 +31,8 @@ Detroit Pistons	Reserves	Javonte Green	17:49	5	10	5	8	4	4	1	3	4	0	0	0	0	2	19
 Detroit Pistons	Reserves	Paul Reed	16:42	2	3	0	0	2	2	2	4	6	2	1	0	2	3	6
 Detroit Pistons	Reserves	Daniss Jenkins	15:20	1	3	1	1	0	0	2	0	2	3	0	0	1	4	3
 Detroit Pistons	Reserves	Ronald Holland II	2:45	0	1	0	1	0	0	1	0	1	1	0	1	1	2	0
-Detroit Pistons	Reserves	Elijah Harkless	Did Not Dress
-Detroit Pistons	Reserves	Isaac Jones	Did Not Dress
 Detroit Pistons	Reserves	Chaz Lanier	Did Not Play
 Detroit Pistons	Reserves	Ebuka Okorie	Did Not Play
-Detroit Pistons	Reserves	Ugonna Onyenso	Did Not Dress
 Detroit Pistons	Reserves	Taurean Prince	Did Not Play
 Detroit Pistons	Reserves	Tolu Smith	Did Not Play
 Detroit Pistons	Totals	Team Totals	240	39	86	15	40	28	32	14	35	49	27	7	5	17	22	121

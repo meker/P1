@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "updated_at": "2026-10-24T08:03:26Z",
+ "updated_at": "2026-10-24T08:06:00Z",
  "games": 2,
  "final": 2,
  "pending": 0,
@@ -18,9 +18,9 @@
    "source": "nba",
    "away_score": 106,
    "home_score": 114,
-   "final_at": "2026-10-24T07:59:49Z",
+   "final_at": "2026-10-24T08:05:36Z",
    "nba_game_id": "0022600006",
-   "espn_event_id": "401909093",
+   "espn_event_id": null,
    "url": "https://www.nba.com/game/0022600006/box-score",
    "problems": []
   },
@@ -33,9 +33,9 @@
    "source": "nba",
    "away_score": 84,
    "home_score": 96,
-   "final_at": "2026-10-24T07:59:49Z",
+   "final_at": "2026-10-24T08:05:36Z",
    "nba_game_id": "0022600007",
-   "espn_event_id": "401909094",
+   "espn_event_id": null,
    "url": "https://www.nba.com/game/0022600007/box-score",
    "problems": []
   }

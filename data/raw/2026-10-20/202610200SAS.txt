@@ -15,7 +15,6 @@ Oklahoma City Thunder	Reserves	Aday Mara	11:44	3	4	0	0	1	2	1	1	2	1	0	1	1	1	7
 Oklahoma City Thunder	Reserves	Kenrich Williams	7:04	1	1	1	1	0	0	1	1	2	0	0	0	0	1	3
 Oklahoma City Thunder	Reserves	Bennett Stirtz	0:47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 Oklahoma City Thunder	Reserves	Brooks Barnhizer	0:47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Oklahoma City Thunder	Reserves	Josh Dix	Did Not Dress
 Oklahoma City Thunder	Reserves	Otega Oweh	Did Not Dress
 Oklahoma City Thunder	Reserves	Thomas Sorber	Did Not Dress
 Oklahoma City Thunder	Reserves	Nikola Topić	Did Not Dress
