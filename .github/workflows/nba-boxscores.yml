@@ -35,28 +35,32 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}  # the branch head, not the commit the run was started from
 
-      - name: Fetch box scores
+      - name: Fetch box scores and commit new data
         env:
           DATES: ${{ inputs.dates }}
           REFETCH: ${{ inputs.refetch && '--refetch' || '' }}
-        run: python3 nba_boxscores/fetch.py --out data/raw --summary "$RUNNER_TEMP/summary.txt" --debug $REFETCH ${DATES:+--dates "$DATES"}
-
-      - name: Commit new data
         run: |
-          touch "$RUNNER_TEMP/summary.txt"
-          git add data
-          if git diff --cached --quiet; then
-            echo "No new data."
-            exit 0
-          fi
-          cat "$RUNNER_TEMP/summary.txt" >> "$GITHUB_STEP_SUMMARY"
-          { echo "data: $(head -n1 "$RUNNER_TEMP/summary.txt")"; echo; cat "$RUNNER_TEMP/summary.txt"; } > "$RUNNER_TEMP/msg.txt"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -q -F "$RUNNER_TEMP/msg.txt"
           for attempt in 1 2 3; do
-            git push -q && exit 0
-            git pull -q --rebase
+            : > "$RUNNER_TEMP/summary.txt"
+            python3 nba_boxscores/fetch.py --out data/raw --summary "$RUNNER_TEMP/summary.txt" --debug $REFETCH ${DATES:+--dates "$DATES"}
+            git add data
+            if git diff --cached --quiet; then
+              echo "No new data."
+              exit 0
+            fi
+            { echo "data: $(head -n1 "$RUNNER_TEMP/summary.txt")"; echo; cat "$RUNNER_TEMP/summary.txt"; } > "$RUNNER_TEMP/msg.txt"
+            git commit -q -F "$RUNNER_TEMP/msg.txt"
+            if git push -q; then
+              cat "$RUNNER_TEMP/summary.txt" >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            echo "The branch moved meanwhile: fetching again on top of it."
+            git fetch -q origin "$GITHUB_REF_NAME"
+            git reset -q --hard "origin/$GITHUB_REF_NAME"
           done
           exit 1
