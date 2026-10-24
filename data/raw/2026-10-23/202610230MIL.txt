@@ -2,37 +2,36 @@ Final: Chicago Bulls 132, Milwaukee Bucks 125
 
 ```
 team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
-Chicago Bulls	Starters	Caleb Wilson	33:00	7	14	2	6	5	6	2	4	6	1	1	2	3	2	21
-Chicago Bulls	Starters	Norman Powell	33:00	7	20	2	12	9	9	1	3	4	1	0	0	1	1	25
-Chicago Bulls	Starters	Josh Giddey	25:00	3	9	0	2	0	0	0	4	4	9	0	0	1	1	6
-Chicago Bulls	Starters	Jalen Smith	24:00	6	10	2	5	0	0	5	8	13	1	3	0	1	1	14
-Chicago Bulls	Starters	Matas Buzelis	17:00	2	9	0	4	3	4	1	4	5	3	0	1	2	3	7
-Chicago Bulls	Reserves	Isaac Okoro	28:00	4	7	1	4	3	3	2	1	3	1	0	1	2	1	12
-Chicago Bulls	Reserves	Leonard Miller	24:00	7	11	2	5	3	3	1	2	3	2	0	1	0	3	19
-Chicago Bulls	Reserves	Tre Jones	24:00	3	8	0	1	5	5	1	2	3	8	2	0	0	4	11
-Chicago Bulls	Reserves	Noa Essengue	17:00	2	4	0	2	0	0	0	1	1	1	3	1	2	1	4
-Chicago Bulls	Reserves	Buddy Hield	15:00	5	6	3	4	0	0	0	2	2	2	1	0	2	3	13
-Chicago Bulls	Reserves	Zach Collins	Did Not Play
-Chicago Bulls	Reserves	Patrick Williams	Did Not Play
+Chicago Bulls	Starters	Caleb Wilson	33:11	7	14	2	6	5	6	2	4	6	1	1	2	3	2	21
+Chicago Bulls	Starters	Norman Powell	32:33	7	20	2	12	9	9	1	3	4	1	0	0	1	1	25
+Chicago Bulls	Starters	Josh Giddey	24:34	3	9	0	2	0	0	0	4	4	9	0	0	1	1	6
+Chicago Bulls	Starters	Jalen Smith	24:22	6	10	2	5	0	0	5	8	13	1	3	0	1	1	14
+Chicago Bulls	Starters	Matas Buzelis	17:18	2	9	0	4	3	4	1	4	5	3	0	1	2	3	7
+Chicago Bulls	Reserves	Isaac Okoro	27:46	4	7	1	4	3	3	2	1	3	1	0	1	2	1	12
+Chicago Bulls	Reserves	Tre Jones	23:59	3	8	0	1	5	5	1	2	3	8	2	0	0	4	11
+Chicago Bulls	Reserves	Leonard Miller	23:38	7	11	2	5	3	3	1	2	3	2	0	1	0	3	19
+Chicago Bulls	Reserves	Noa Essengue	17:12	2	4	0	2	0	0	0	1	1	1	3	1	2	1	4
+Chicago Bulls	Reserves	Buddy Hield	15:27	5	6	3	4	0	0	0	2	2	2	1	0	2	3	13
 Chicago Bulls	Reserves	Tobe Awaka	Did Not Play
-Chicago Bulls	Reserves	Dailyn Swain	Did Not Play
+Chicago Bulls	Reserves	Zach Collins	Did Not Play
 Chicago Bulls	Reserves	Jaylin Sellers	Did Not Play
+Chicago Bulls	Reserves	Dailyn Swain	Did Not Play
+Chicago Bulls	Reserves	Patrick Williams	Did Not Play
 Chicago Bulls	Totals	Team Totals	240	46	98	12	45	28	30	13	31	44	29	10	6	14	20	132
-Milwaukee Bucks	Starters	Jaime Jaquez Jr.	35:00	7	11	2	3	3	6	2	9	11	5	0	0	6	2	19
-Milwaukee Bucks	Starters	Ryan Rollins	34:00	3	9	2	8	3	4	2	5	7	6	1	1	4	4	11
-Milwaukee Bucks	Starters	Tyler Herro	32:00	12	24	5	10	5	7	1	4	5	4	1	0	1	0	34
-Milwaukee Bucks	Starters	Kyle Kuzma	30:00	6	12	2	5	0	1	2	7	9	4	0	0	0	0	14
-Milwaukee Bucks	Starters	Myles Turner	30:00	5	12	2	7	0	0	2	1	3	1	0	5	3	4	12
-Milwaukee Bucks	Reserves	Kasparas Jakučionis	23:00	2	4	1	2	2	2	0	2	2	5	2	0	1	3	7
-Milwaukee Bucks	Reserves	AJ Green	17:00	4	7	3	6	0	0	0	1	1	0	0	0	1	3	11
-Milwaukee Bucks	Reserves	Ousmane Dieng	16:00	1	3	0	1	1	2	1	0	1	1	0	0	0	5	3
-Milwaukee Bucks	Reserves	Kel'el Ware	15:00	5	7	1	1	0	2	0	4	4	0	0	0	2	1	11
-Milwaukee Bucks	Reserves	Brayden Burries	8:00	1	3	1	3	0	2	1	0	1	3	1	0	1	4	3
+Milwaukee Bucks	Starters	Jaime Jaquez Jr.	35:22	7	11	2	3	3	6	2	9	11	5	0	0	6	2	19
+Milwaukee Bucks	Starters	Ryan Rollins	33:36	3	9	2	8	3	4	2	5	7	6	1	1	4	4	11
+Milwaukee Bucks	Starters	Tyler Herro	31:34	12	24	5	10	5	7	1	4	5	4	1	0	1	0	34
+Milwaukee Bucks	Starters	Myles Turner	30:13	5	12	2	7	0	0	2	1	3	1	0	5	3	4	12
+Milwaukee Bucks	Starters	Kyle Kuzma	29:44	6	12	2	5	0	1	2	7	9	4	0	0	0	0	14
+Milwaukee Bucks	Reserves	Kasparas Jakučionis	22:44	2	4	1	2	2	2	0	2	2	5	2	0	1	3	7
+Milwaukee Bucks	Reserves	AJ Green	16:59	4	7	3	6	0	0	0	1	1	0	0	0	1	3	11
+Milwaukee Bucks	Reserves	Ousmane Dieng	16:02	1	3	0	1	1	2	1	0	1	1	0	0	0	5	3
+Milwaukee Bucks	Reserves	Kel'el Ware	15:24	5	7	1	1	0	2	0	4	4	0	0	0	2	1	11
+Milwaukee Bucks	Reserves	Brayden Burries	8:21	1	3	1	3	0	2	1	0	1	3	1	0	1	4	3
 Milwaukee Bucks	Reserves	Nate Ament	Did Not Play
-Milwaukee Bucks	Reserves	Bogoljub Markovic	Did Not Play
-Milwaukee Bucks	Reserves	Jericho Sims	Did Not Play
 Milwaukee Bucks	Reserves	Caris LeVert	Did Not Play
+Milwaukee Bucks	Reserves	Bogoljub Marković	Did Not Play
+Milwaukee Bucks	Reserves	Jericho Sims	Did Not Play
 Milwaukee Bucks	Reserves	Gary Trent Jr.	Did Not Play
-Milwaukee Bucks	Reserves	Kevin Porter Jr.	Did Not Play
 Milwaukee Bucks	Totals	Team Totals	240	46	92	19	46	14	26	11	33	44	29	5	6	19	26	125
 ```

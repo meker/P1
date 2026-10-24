@@ -2,34 +2,42 @@ Final: Los Angeles Clippers 117, Los Angeles Lakers 125
 
 ```
 team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
-Los Angeles Clippers	Starters	Darius Garland	37:00	9	19	4	10	4	5	0	0	0	6	1	0	9	2	26
-Los Angeles Clippers	Starters	Derrick Jones Jr.	35:00	6	13	3	8	1	2	3	1	4	1	2	0	0	3	16
-Los Angeles Clippers	Starters	Kris Dunn	34:00	3	6	1	3	0	0	0	4	4	5	2	0	2	4	7
-Los Angeles Clippers	Starters	Rui Hachimura	33:00	5	14	3	6	3	4	1	5	6	1	2	0	2	1	16
-Los Angeles Clippers	Starters	Isaiah Jackson	28:00	3	5	0	0	0	0	3	3	6	3	3	1	3	4	6
-Los Angeles Clippers	Reserves	Keaton Wagler	24:00	2	8	2	5	7	9	0	3	3	3	1	0	4	3	13
-Los Angeles Clippers	Reserves	Brook Lopez	20:00	8	9	2	2	4	5	3	1	4	0	0	3	2	2	22
-Los Angeles Clippers	Reserves	Kobe Sanders	19:00	2	4	1	3	0	0	0	3	3	5	1	0	2	1	5
-Los Angeles Clippers	Reserves	Gradey Dick	12:00	3	5	0	0	0	0	1	3	4	0	1	0	1	1	6
-Los Angeles Clippers	Reserves	Baba Miller	Did Not Play
-Los Angeles Clippers	Reserves	Nick Martinelli	Did Not Play
-Los Angeles Clippers	Reserves	Jalen Pickett	Did Not Play
+Los Angeles Clippers	Starters	Darius Garland	36:34	9	19	4	10	4	5	0	0	0	6	1	0	9	2	26
+Los Angeles Clippers	Starters	Derrick Jones Jr.	34:37	6	13	3	8	1	2	3	1	4	1	2	0	0	3	16
+Los Angeles Clippers	Starters	Kris Dunn	33:33	3	6	1	3	0	0	0	5	5	5	2	0	2	4	7
+Los Angeles Clippers	Starters	Rui Hachimura	33:16	5	14	3	6	3	4	1	5	6	1	2	0	2	1	16
+Los Angeles Clippers	Starters	Isaiah Jackson	27:50	3	5	0	0	0	0	3	3	6	3	3	1	3	4	6
+Los Angeles Clippers	Reserves	Keaton Wagler	23:37	2	8	2	5	7	9	0	3	3	3	1	0	4	3	13
+Los Angeles Clippers	Reserves	Brook Lopez	19:50	8	9	2	2	4	5	3	1	4	0	0	3	2	2	22
+Los Angeles Clippers	Reserves	Kobe Sanders	19:06	2	4	1	3	0	0	0	3	3	5	1	0	2	1	5
+Los Angeles Clippers	Reserves	Gradey Dick	11:37	3	5	0	0	0	0	1	3	4	0	1	0	1	1	6
+Los Angeles Clippers	Reserves	Bradley Beal	Did Not Dress
 Los Angeles Clippers	Reserves	Cam Christie	Did Not Play
-Los Angeles Clippers	Totals	Team Totals	240	41	83	16	37	19	25	11	23	34	24	13	4	26	21	117
-Los Angeles Lakers	Starters	Austin Reaves	38:00	10	13	3	5	5	6	0	2	2	9	2	0	6	4	28
-Los Angeles Lakers	Starters	Luka Dončić	37:00	8	21	2	8	5	7	0	6	6	7	0	1	11	2	23
-Los Angeles Lakers	Starters	Walker Kessler	35:00	10	14	0	0	2	5	4	4	8	3	3	6	1	2	22
-Los Angeles Lakers	Starters	Ziaire Williams	31:00	5	7	1	3	3	3	2	3	5	0	2	1	0	3	14
-Los Angeles Lakers	Starters	Matisse Thybulle	24:00	5	8	3	6	0	0	0	1	1	2	2	1	0	2	13
-Los Angeles Lakers	Reserves	Quentin Grimes	31:00	3	6	3	5	4	4	1	7	8	4	1	0	2	2	13
-Los Angeles Lakers	Reserves	Sandro Mamukelashvili	24:00	3	4	1	2	0	0	0	5	5	2	0	0	0	4	7
-Los Angeles Lakers	Reserves	Collin Sexton	16:00	2	6	1	3	0	0	0	1	1	2	3	0	1	2	5
-Los Angeles Lakers	Reserves	Kevon Looney	5:00	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0
-Los Angeles Lakers	Reserves	Jarred Vanderbilt	Did Not Play
-Los Angeles Lakers	Reserves	Arthur Kaluma	Did Not Play
-Los Angeles Lakers	Reserves	Dalton Knecht	Did Not Play
-Los Angeles Lakers	Reserves	AK Okereke	Did Not Play
-Los Angeles Lakers	Reserves	Bronny James	Did Not Play
+Los Angeles Clippers	Reserves	Brandon Ingram	Did Not Dress
+Los Angeles Clippers	Reserves	Nick Martinelli	Did Not Play
+Los Angeles Clippers	Reserves	Baba Miller	Did Not Play
+Los Angeles Clippers	Reserves	Jordan Miller	Did Not Dress
+Los Angeles Clippers	Reserves	Yanic Konan Niederhäuser	Did Not Dress
+Los Angeles Clippers	Reserves	Jalen Pickett	Did Not Play
+Los Angeles Clippers	Reserves	Max Strus	Did Not Dress
+Los Angeles Clippers	Totals	Team Totals	240	41	83	16	37	19	25	11	24	35	24	13	4	25	21	117
+Los Angeles Lakers	Starters	Austin Reaves	38:28	10	13	3	5	5	6	0	2	2	9	2	0	6	4	28
+Los Angeles Lakers	Starters	Luka Dončić	37:05	8	21	2	8	5	7	0	6	6	7	0	1	11	2	23
+Los Angeles Lakers	Starters	Walker Kessler	34:54	10	14	0	0	2	5	4	4	8	3	3	6	1	2	22
+Los Angeles Lakers	Starters	Ziaire Williams	30:42	5	7	1	3	3	3	2	3	5	0	2	1	0	3	14
+Los Angeles Lakers	Starters	Matisse Thybulle	23:55	5	8	3	6	0	0	0	1	1	2	2	1	0	2	13
+Los Angeles Lakers	Reserves	Quentin Grimes	30:34	3	6	3	5	4	4	1	7	8	4	1	0	2	2	13
+Los Angeles Lakers	Reserves	Sandro Mamukelashvili	23:41	3	4	1	2	0	0	0	5	5	2	0	0	0	4	7
+Los Angeles Lakers	Reserves	Collin Sexton	16:09	2	6	1	3	0	0	0	1	1	2	3	0	1	2	5
+Los Angeles Lakers	Reserves	Kevon Looney	4:33	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0
+Los Angeles Lakers	Reserves	Cameron Carr	Did Not Dress
 Los Angeles Lakers	Reserves	Jaden Hardy	Did Not Play
+Los Angeles Lakers	Reserves	Bronny James	Did Not Play
+Los Angeles Lakers	Reserves	Arthur Kaluma	Did Not Play
+Los Angeles Lakers	Reserves	Jake LaRavia	Did Not Dress
+Los Angeles Lakers	Reserves	Chris Mañon	Did Not Dress
+Los Angeles Lakers	Reserves	AK Okereke	Did Not Play
+Los Angeles Lakers	Reserves	Adou Thiero	Did Not Dress
+Los Angeles Lakers	Reserves	Jarred Vanderbilt	Did Not Play
 Los Angeles Lakers	Totals	Team Totals	240	46	79	14	32	19	25	8	29	37	29	13	9	21	22	125
 ```

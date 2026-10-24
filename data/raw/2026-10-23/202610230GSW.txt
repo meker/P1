@@ -2,37 +2,42 @@ Final: Memphis Grizzlies 111, Golden State Warriors 108
 
 ```
 team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
-Memphis Grizzlies	Starters	Cameron Boozer	37:00	6	13	4	7	9	9	2	11	13	6	2	0	6	1	25
-Memphis Grizzlies	Starters	Ty Jerome	32:00	11	22	3	5	3	5	2	0	2	5	1	0	4	1	28
-Memphis Grizzlies	Starters	Jaylen Wells	25:00	5	9	4	7	3	5	2	2	4	3	0	0	1	5	17
-Memphis Grizzlies	Starters	Zach Edey	22:00	4	6	0	0	0	1	4	6	10	3	1	2	0	2	8
-Memphis Grizzlies	Starters	GG Jackson	15:00	1	6	0	3	0	1	1	3	4	1	0	0	1	4	2
-Memphis Grizzlies	Reserves	Jerami Grant	26:00	2	9	1	7	1	1	0	0	0	3	2	1	2	3	6
-Memphis Grizzlies	Reserves	Quinten Post	20:00	1	3	0	1	0	0	1	0	1	1	0	2	2	3	2
-Memphis Grizzlies	Reserves	Scotty Pippen Jr.	17:00	4	6	0	1	0	0	3	3	6	3	0	1	5	4	8
-Memphis Grizzlies	Reserves	Cam Spencer	17:00	4	7	3	5	0	0	1	1	2	1	0	0	2	1	11
-Memphis Grizzlies	Reserves	Isaiah Stewart	16:00	2	3	0	1	0	0	0	2	2	0	1	0	2	4	4
-Memphis Grizzlies	Reserves	Kris Murray	13:00	0	2	0	2	0	0	2	1	3	1	0	1	0	2	0
-Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	Did Not Play
+Memphis Grizzlies	Starters	Cameron Boozer	37:23	6	13	4	7	9	9	2	11	13	6	2	0	6	1	25
+Memphis Grizzlies	Starters	Ty Jerome	31:30	11	22	3	5	3	5	2	0	2	5	1	0	4	1	28
+Memphis Grizzlies	Starters	Jaylen Wells	24:56	5	9	4	7	3	5	2	2	4	3	0	0	1	5	17
+Memphis Grizzlies	Starters	Zach Edey	22:26	4	6	0	0	0	1	4	6	10	3	1	2	0	2	8
+Memphis Grizzlies	Starters	GG Jackson	15:17	1	6	0	3	0	1	1	3	4	1	0	0	1	4	2
+Memphis Grizzlies	Reserves	Jerami Grant	26:26	2	9	1	7	1	1	0	0	0	3	2	1	2	3	6
+Memphis Grizzlies	Reserves	Quinten Post	19:48	1	3	0	1	0	0	1	0	1	1	0	2	2	3	2
+Memphis Grizzlies	Reserves	Cam Spencer	16:43	4	7	3	5	0	0	1	1	2	1	0	0	2	1	11
+Memphis Grizzlies	Reserves	Scotty Pippen Jr.	16:37	4	6	0	1	0	0	3	3	6	3	0	1	5	4	8
+Memphis Grizzlies	Reserves	Isaiah Stewart	16:23	2	3	0	1	0	0	0	2	2	0	1	0	2	4	4
+Memphis Grizzlies	Reserves	Kris Murray	12:31	0	2	0	2	0	0	2	1	3	1	0	1	0	2	0
+Memphis Grizzlies	Reserves	Carson Cooper	Did Not Dress
+Memphis Grizzlies	Reserves	Cedric Coward	Did Not Dress
 Memphis Grizzlies	Reserves	Taylor Hendricks	Did Not Play
-Memphis Grizzlies	Reserves	Karim Lopez	Did Not Play
-Memphis Grizzlies	Reserves	Micah Peavy	Did Not Play
+Memphis Grizzlies	Reserves	Karim López	Did Not Play
 Memphis Grizzlies	Reserves	Jahmai Mashack	Did Not Play
-Memphis Grizzlies	Reserves	Walter Clayton Jr.	Did Not Play
-Memphis Grizzlies	Totals	Team Totals	240	40	86	15	39	16	22	18	29	47	27	7	7	27	30	111
-Golden State Warriors	Starters	Yaxel Lendeborg	37:00	4	11	1	3	9	12	7	6	13	6	3	0	6	3	18
-Golden State Warriors	Starters	Brandin Podziemski	33:00	7	17	2	8	2	2	1	1	2	3	3	1	4	3	18
-Golden State Warriors	Starters	Draymond Green	31:00	2	4	1	2	0	0	1	4	5	6	0	1	5	5	5
-Golden State Warriors	Starters	Stephen Curry	30:00	5	15	3	10	11	11	0	2	2	4	0	0	0	4	24
-Golden State Warriors	Starters	Graham Ike	12:00	4	7	2	2	0	0	2	0	2	1	1	0	0	3	10
-Golden State Warriors	Reserves	Gui Santos	20:00	1	3	1	1	2	2	3	1	4	2	1	1	0	2	5
-Golden State Warriors	Reserves	De'Anthony Melton	20:00	4	6	2	3	0	0	0	1	1	0	1	1	0	2	10
-Golden State Warriors	Reserves	Al Horford	19:00	1	3	1	3	0	0	0	5	5	0	0	2	0	0	3
-Golden State Warriors	Reserves	Georges Niang	13:00	2	5	0	3	0	0	3	0	3	0	1	0	1	1	4
-Golden State Warriors	Reserves	Gary Payton II	11:00	3	6	1	3	0	0	0	2	2	0	0	0	1	3	7
-Golden State Warriors	Reserves	Brandon Williams	9:00	1	5	0	3	2	2	1	1	2	1	1	0	2	1	4
-Golden State Warriors	Reserves	Will Richard	3:00	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
-Golden State Warriors	Reserves	Malevy Leons	Did Not Play
+Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	Did Not Play
+Memphis Grizzlies	Reserves	Javon Small	Did Not Dress
+Memphis Grizzlies	Totals	Team Totals	240	40	86	15	39	16	22	18	29	47	27	7	7	25	30	111
+Golden State Warriors	Starters	Yaxel Lendeborg	37:29	4	11	1	3	9	12	7	6	13	6	3	0	6	3	18
+Golden State Warriors	Starters	Brandin Podziemski	32:53	7	17	2	8	2	2	1	1	2	3	3	1	4	3	18
+Golden State Warriors	Starters	Draymond Green	31:06	2	4	1	2	0	0	1	4	5	6	0	1	5	5	5
+Golden State Warriors	Starters	Stephen Curry	29:47	5	15	3	10	11	11	0	2	2	4	0	0	0	4	24
+Golden State Warriors	Starters	Graham Ike	12:20	4	7	2	2	0	0	2	0	2	1	1	0	0	3	10
+Golden State Warriors	Reserves	De'Anthony Melton	20:29	4	6	2	3	0	0	0	1	1	0	1	1	0	2	10
+Golden State Warriors	Reserves	Gui Santos	19:51	1	3	1	1	2	2	3	1	4	2	1	1	0	2	5
+Golden State Warriors	Reserves	Al Horford	19:14	1	3	1	3	0	0	0	5	5	0	0	2	0	0	3
+Golden State Warriors	Reserves	Georges Niang	13:24	2	5	0	3	0	0	3	0	3	0	1	0	1	1	4
+Golden State Warriors	Reserves	Gary Payton II	10:44	3	6	1	3	0	0	0	2	2	0	0	0	1	3	7
+Golden State Warriors	Reserves	Brandon Williams	9:23	1	5	0	3	2	2	1	1	2	1	1	0	2	1	4
+Golden State Warriors	Reserves	Will Richard	3:21	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+Golden State Warriors	Reserves	Charles Bassey	Did Not Dress
+Golden State Warriors	Reserves	Jimmy Butler III	Did Not Dress
 Golden State Warriors	Reserves	LJ Cryer	Did Not Play
+Golden State Warriors	Reserves	Malevy Leons	Did Not Play
+Golden State Warriors	Reserves	Moses Moody	Did Not Dress
+Golden State Warriors	Reserves	Kristaps Porziņģis	Not With Team
 Golden State Warriors	Totals	Team Totals	240	34	83	14	41	26	29	18	23	41	23	12	6	19	27	108
 ```

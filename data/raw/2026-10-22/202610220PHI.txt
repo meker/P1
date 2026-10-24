@@ -2,34 +2,40 @@ Final: Cleveland Cavaliers 106, Philadelphia 76ers 114
 
 ```
 team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
-Cleveland Cavaliers	Starters	Donovan Mitchell	35:00	11	19	2	4	8	11	0	10	10	3	2	1	5	3	32
+Cleveland Cavaliers	Starters	Donovan Mitchell	35:11	11	19	2	4	8	11	0	10	10	3	2	1	5	3	32
 Cleveland Cavaliers	Starters	Evan Mobley	34:00	7	13	1	4	3	3	1	7	8	2	0	0	1	4	18
-Cleveland Cavaliers	Starters	James Harden	33:00	5	12	3	6	3	4	0	3	3	5	1	0	6	2	16
-Cleveland Cavaliers	Starters	Peyton Watson	30:00	2	7	0	3	4	4	0	1	1	2	2	1	5	2	8
-Cleveland Cavaliers	Starters	Jarrett Allen	28:00	6	10	0	0	2	4	3	4	7	0	0	2	1	1	14
-Cleveland Cavaliers	Reserves	Sam Merrill	24:00	2	5	1	3	0	0	1	4	5	2	1	0	0	3	5
-Cleveland Cavaliers	Reserves	Jaylon Tyson	24:00	1	6	0	4	1	2	2	4	6	2	1	2	2	4	3
-Cleveland Cavaliers	Reserves	Mario Hezonja	19:00	5	13	0	5	0	0	2	1	3	2	2	1	0	2	10
-Cleveland Cavaliers	Reserves	Craig Porter Jr.	8:00	0	1	0	0	0	0	1	2	3	0	1	0	1	0	0
-Cleveland Cavaliers	Reserves	Tyrese Proctor	5:00	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0
+Cleveland Cavaliers	Starters	James Harden	32:55	5	12	3	6	3	4	0	3	3	5	1	0	6	2	16
+Cleveland Cavaliers	Starters	Peyton Watson	30:27	2	7	0	3	4	4	0	1	1	2	2	1	5	2	8
+Cleveland Cavaliers	Starters	Jarrett Allen	28:13	6	10	0	0	2	4	3	4	7	0	0	2	1	1	14
+Cleveland Cavaliers	Reserves	Sam Merrill	24:16	2	5	1	3	0	0	1	4	5	2	1	0	0	3	5
+Cleveland Cavaliers	Reserves	Jaylon Tyson	23:59	1	6	0	4	1	2	2	4	6	2	1	2	2	4	3
+Cleveland Cavaliers	Reserves	Mario Hezonja	18:38	5	13	0	5	0	0	2	1	3	2	2	1	0	2	10
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	7:30	0	1	0	0	0	0	1	2	3	0	1	0	1	0	0
+Cleveland Cavaliers	Reserves	Tyrese Proctor	4:51	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0
+Cleveland Cavaliers	Reserves	Thomas Bryant	Did Not Play
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Dress
 Cleveland Cavaliers	Reserves	Tristan Enaruna	Did Not Play
 Cleveland Cavaliers	Reserves	Riley Minix	Did Not Play
-Cleveland Cavaliers	Reserves	Thomas Bryant	Did Not Play
 Cleveland Cavaliers	Reserves	Meleek Thomas	Did Not Play
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Ernest Udeh, Jr.	Did Not Dress
 Cleveland Cavaliers	Totals	Team Totals	240	39	87	7	29	21	28	10	36	46	18	10	7	21	23	106
-Philadelphia 76ers	Starters	Tyrese Maxey	42:00	12	23	2	7	6	8	1	2	3	6	2	0	2	4	32
-Philadelphia 76ers	Starters	Jaylen Brown	38:00	10	20	1	3	0	0	1	7	8	4	1	0	4	4	21
-Philadelphia 76ers	Starters	Joel Embiid	34:00	8	16	1	4	7	9	0	7	7	1	0	0	1	3	24
-Philadelphia 76ers	Starters	LeBron James	33:00	5	14	1	4	6	7	1	9	10	5	3	1	5	3	17
-Philadelphia 76ers	Starters	VJ Edgecombe	33:00	4	11	1	4	2	3	3	4	7	6	3	0	1	2	11
-Philadelphia 76ers	Reserves	Kentavious Caldwell-Pope	25:00	1	1	1	1	0	0	0	3	3	2	1	0	1	2	3
-Philadelphia 76ers	Reserves	Anfernee Simons	17:00	0	4	0	4	2	3	1	2	3	0	0	0	1	1	2
-Philadelphia 76ers	Reserves	Adem Bona	14:00	1	2	0	1	0	0	1	1	2	0	0	1	1	3	2
-Philadelphia 76ers	Reserves	Jabari Walker	4:00	1	1	0	0	0	0	1	0	1	0	0	0	0	1	2
-Philadelphia 76ers	Reserves	Dean Wade	Did Not Play
+Philadelphia 76ers	Starters	Tyrese Maxey	41:39	12	23	2	7	6	8	1	2	3	6	2	0	2	4	32
+Philadelphia 76ers	Starters	Jaylen Brown	37:43	10	20	1	3	0	0	1	7	8	4	1	0	4	4	21
+Philadelphia 76ers	Starters	Joel Embiid	34:23	8	16	1	4	7	9	0	7	7	1	0	0	1	3	24
+Philadelphia 76ers	Starters	LeBron James	33:22	5	14	1	4	6	7	1	9	10	5	3	1	5	3	17
+Philadelphia 76ers	Starters	VJ Edgecombe	33:13	4	11	1	4	2	3	3	4	7	6	3	0	1	2	11
+Philadelphia 76ers	Reserves	Kentavious Caldwell-Pope	24:55	1	1	1	1	0	0	0	3	3	2	1	0	1	2	3
+Philadelphia 76ers	Reserves	Anfernee Simons	16:42	0	4	0	4	2	3	1	2	3	0	0	0	1	1	2
+Philadelphia 76ers	Reserves	Adem Bona	13:37	1	2	0	1	0	0	1	1	2	0	0	1	1	3	2
+Philadelphia 76ers	Reserves	Jabari Walker	4:26	1	1	0	0	0	0	1	0	1	0	0	0	0	1	2
+Philadelphia 76ers	Reserves	Dominick Barlow	Did Not Dress
 Philadelphia 76ers	Reserves	Justin Edwards	Did Not Play
+Philadelphia 76ers	Reserves	Tacko Fall	Did Not Dress
+Philadelphia 76ers	Reserves	Ariel Hukporti	Did Not Dress
 Philadelphia 76ers	Reserves	Caleb Love	Did Not Play
 Philadelphia 76ers	Reserves	Labaron Philon Jr.	Did Not Play
 Philadelphia 76ers	Reserves	Rayan Rupert	Did Not Play
-Philadelphia 76ers	Totals	Team Totals	240	42	92	7	28	23	30	9	35	44	24	10	2	17	23	114
+Philadelphia 76ers	Reserves	Dean Wade	Did Not Play
+Philadelphia 76ers	Totals	Team Totals	240	42	92	7	28	23	30	9	35	44	24	10	2	16	23	114
 ```

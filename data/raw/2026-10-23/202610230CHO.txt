@@ -2,33 +2,42 @@ Final: Atlanta Hawks 128, Charlotte Hornets 81
 
 ```
 team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
-Atlanta Hawks	Starters	Jalen Johnson	29:00	9	16	0	3	1	1	1	6	7	8	3	1	3	2	19
-Atlanta Hawks	Starters	Nickeil Alexander-Walker	27:00	5	12	2	7	2	2	0	3	3	5	2	0	2	1	14
-Atlanta Hawks	Starters	Dyson Daniels	23:00	5	10	0	1	1	3	5	4	9	4	7	1	0	2	11
-Atlanta Hawks	Starters	Onyeka Okongwu	22:00	4	8	2	4	0	0	1	3	4	1	0	0	0	2	10
-Atlanta Hawks	Starters	CJ McCollum	22:00	4	10	2	7	3	3	0	1	1	2	0	1	0	2	13
-Atlanta Hawks	Reserves	Kingston Flemings	25:00	2	5	1	1	0	0	4	2	6	8	1	0	3	4	5
-Atlanta Hawks	Reserves	Aaron Wiggins	22:00	7	9	3	5	2	4	0	1	1	1	2	0	1	1	19
-Atlanta Hawks	Reserves	Luguentz Dort	19:00	2	5	1	3	4	5	0	5	5	2	1	0	1	2	9
-Atlanta Hawks	Reserves	Jock Landale	18:00	3	8	1	4	1	2	1	5	6	4	1	1	0	1	8
-Atlanta Hawks	Reserves	Corey Kispert	10:00	4	5	3	4	0	0	0	1	1	1	0	0	0	1	11
-Atlanta Hawks	Reserves	Dorian Finney-Smith	8:00	1	2	1	2	0	0	0	2	2	1	0	0	1	0	3
-Atlanta Hawks	Reserves	Asa Newell	8:00	1	2	1	2	0	2	0	1	1	0	0	0	0	0	3
-Atlanta Hawks	Reserves	Zuby Ejiofor	8:00	1	3	1	2	0	0	0	2	2	0	0	0	1	3	3
-Atlanta Hawks	Totals	Team Totals	240	48	95	18	45	14	22	12	36	48	37	17	4	13	21	128
-Charlotte Hornets	Starters	Naz Reid	25:00	7	16	3	8	0	0	1	5	6	2	1	0	7	1	17
-Charlotte Hornets	Starters	Sion James	24:00	1	7	1	6	0	0	2	0	2	5	0	0	1	4	3
-Charlotte Hornets	Starters	Brandon Miller	23:00	2	14	1	11	1	1	1	1	2	0	2	1	2	2	6
-Charlotte Hornets	Starters	Moussa Diabaté	21:00	2	2	0	0	1	2	4	4	8	1	1	1	1	0	5
-Charlotte Hornets	Starters	Dennis Schröder	20:00	1	5	0	2	2	2	0	4	4	3	0	1	4	2	4
-Charlotte Hornets	Reserves	Tidjane Salaün	23:00	5	9	1	5	0	0	3	2	5	1	2	0	1	1	11
-Charlotte Hornets	Reserves	Grayson Allen	20:00	3	8	3	6	2	2	1	1	2	3	0	0	2	1	11
-Charlotte Hornets	Reserves	Ryan Kalkbrenner	19:00	3	4	0	0	0	0	4	3	7	1	0	2	1	1	6
-Charlotte Hornets	Reserves	Royce O'Neale	17:00	2	6	2	6	0	0	0	2	2	0	1	0	0	3	6
-Charlotte Hornets	Reserves	Christian Anderson	16:00	1	5	0	3	0	0	0	0	0	2	0	1	3	0	2
-Charlotte Hornets	Reserves	Hannes Steinbach	12:00	3	5	0	0	0	1	2	3	5	0	0	0	0	0	6
+Atlanta Hawks	Starters	Jalen Johnson	28:33	9	16	0	3	1	1	1	6	7	8	3	1	3	2	19
+Atlanta Hawks	Starters	Nickeil Alexander-Walker	27:21	5	12	2	7	2	2	0	3	3	5	2	0	2	1	14
+Atlanta Hawks	Starters	Dyson Daniels	23:29	5	10	0	1	1	3	5	4	9	4	7	1	0	2	11
+Atlanta Hawks	Starters	Onyeka Okongwu	21:40	4	8	2	4	0	0	1	3	4	1	0	0	0	2	10
+Atlanta Hawks	Starters	CJ McCollum	21:40	4	10	2	7	3	3	0	1	1	2	0	1	0	2	13
+Atlanta Hawks	Reserves	Kingston Flemings	24:48	2	5	1	1	0	0	4	2	6	8	1	0	3	4	5
+Atlanta Hawks	Reserves	Aaron Wiggins	21:30	7	9	3	5	2	4	0	1	1	1	2	0	1	1	19
+Atlanta Hawks	Reserves	Luguentz Dort	18:43	2	5	1	3	4	5	0	5	5	2	1	0	1	2	9
+Atlanta Hawks	Reserves	Jock Landale	18:12	3	8	1	4	1	2	1	5	6	4	1	1	0	1	8
+Atlanta Hawks	Reserves	Corey Kispert	9:40	4	5	3	4	0	0	0	1	1	1	0	0	0	1	11
+Atlanta Hawks	Reserves	Zuby Ejiofor	8:08	1	3	1	2	0	0	0	2	2	0	0	0	1	3	3
+Atlanta Hawks	Reserves	Dorian Finney-Smith	8:08	1	2	1	2	0	0	0	2	2	1	0	0	1	0	3
+Atlanta Hawks	Reserves	Asa Newell	8:08	1	2	1	2	0	2	0	1	1	0	0	0	0	0	3
+Atlanta Hawks	Reserves	RayJ Dennis	Did Not Dress
+Atlanta Hawks	Reserves	Keshon Gilbert	Did Not Dress
+Atlanta Hawks	Reserves	Mouhamed Gueye	Did Not Dress
+Atlanta Hawks	Reserves	Henri Veesaar	Did Not Dress
+Atlanta Hawks	Reserves	Jalen Wilson	Did Not Dress
+Atlanta Hawks	Totals	Team Totals	240	48	95	18	45	14	22	12	36	48	37	17	4	12	21	128
+Charlotte Hornets	Starters	Naz Reid	24:51	7	16	3	8	0	0	1	5	6	2	1	0	7	1	17
+Charlotte Hornets	Starters	Sion James	23:41	1	7	1	6	0	0	2	0	2	5	0	0	1	4	3
+Charlotte Hornets	Starters	Brandon Miller	22:31	2	14	1	11	1	1	1	1	2	0	2	1	2	2	6
+Charlotte Hornets	Starters	Moussa Diabaté	20:53	2	2	0	0	1	2	4	4	8	1	1	1	1	0	5
+Charlotte Hornets	Starters	Dennis Schröder	20:09	1	5	0	2	2	2	0	4	4	3	0	1	4	2	4
+Charlotte Hornets	Reserves	Tidjane Salaün	23:09	5	9	1	5	0	0	3	2	5	1	2	0	1	1	11
+Charlotte Hornets	Reserves	Grayson Allen	19:35	3	8	3	6	2	2	1	1	2	3	0	0	2	1	11
+Charlotte Hornets	Reserves	Ryan Kalkbrenner	19:09	3	4	0	0	0	0	4	3	7	1	0	2	1	1	6
+Charlotte Hornets	Reserves	Royce O'Neale	16:37	2	6	2	6	0	0	0	2	2	0	1	0	0	3	6
+Charlotte Hornets	Reserves	Christian Anderson	15:45	1	5	0	3	0	0	0	0	0	2	0	1	3	0	2
 Charlotte Hornets	Reserves	Liam McNeeley	12:00	0	4	0	2	4	4	1	3	4	0	0	0	3	2	4
-Charlotte Hornets	Reserves	PJ Hall	10:00	0	2	0	2	0	0	0	1	1	3	0	1	0	1	0
+Charlotte Hornets	Reserves	Hannes Steinbach	12:00	3	5	0	0	0	1	2	3	5	0	0	0	0	0	6
+Charlotte Hornets	Reserves	PJ Hall	9:40	0	2	0	2	0	0	0	1	1	3	0	1	0	1	0
 Charlotte Hornets	Reserves	Michael Ajayi	Did Not Play
-Charlotte Hornets	Totals	Team Totals	240	30	87	11	51	10	12	19	29	48	21	7	7	27	18	81
+Charlotte Hornets	Reserves	Kylan Boswell	Did Not Dress
+Charlotte Hornets	Reserves	Kon Knueppel	Did Not Dress
+Charlotte Hornets	Reserves	Coby White	Did Not Dress
+Charlotte Hornets	Reserves	Grant Williams	Did Not Dress
+Charlotte Hornets	Totals	Team Totals	240	30	87	11	51	10	12	19	29	48	21	7	7	25	18	81
 ```
