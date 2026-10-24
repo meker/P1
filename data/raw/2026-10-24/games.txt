@@ -1,0 +1,8 @@
+Miami Heat||Charlotte Hornets|||not final
+Milwaukee Bucks||Philadelphia 76ers|||not final
+Brooklyn Nets||Cleveland Cavaliers|||not final
+San Antonio Spurs||Dallas Mavericks|||not final
+Washington Wizards||Chicago Bulls|||not final
+Houston Rockets||Atlanta Hawks|||not final
+New Orleans Pelicans||Denver Nuggets|||not final
+Golden State Warriors||Phoenix Suns|||not final
