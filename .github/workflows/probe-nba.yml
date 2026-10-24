@@ -1,0 +1,31 @@
+name: Probe NBA.com endpoints (temporary)
+
+on:
+  workflow_dispatch:
+    inputs:
+      game:
+        description: "NBA game id"
+        required: true
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Show raw player entries
+        shell: python3 {0}
+        env:
+          GAME: ${{ inputs.game }}
+        run: |
+          import json, os, re, urllib.request
+          UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          req = urllib.request.Request(f"https://www.nba.com/game/{os.environ['GAME']}/box-score", headers={"User-Agent": UA, "Accept": "text/html"})
+          html = urllib.request.urlopen(req, timeout=30).read().decode()
+          g = json.loads(re.search(r'<script id="__NEXT_DATA__" type="application/json"[^>]*>(.*?)</script>', html, re.S).group(1))["props"]["pageProps"]["game"]
+          print("status", g.get("gameStatus"), g.get("gameStatusText"))
+          for side in ("awayTeam", "homeTeam"):
+              t = g[side]
+              print(side, t["teamTricode"], "player keys:", sorted(t["players"][0].keys()))
+              for p in t["players"]:
+                  print("  ", json.dumps({k: v for k, v in p.items() if k != "statistics"}), "| min", repr((p.get("statistics") or {}).get("minutes")), "| pts", (p.get("statistics") or {}).get("points"))
+              print("  inactives:", json.dumps(t.get("inactives"))[:500])
