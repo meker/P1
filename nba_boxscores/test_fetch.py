@@ -331,6 +331,17 @@ class FetchTest(unittest.TestCase):
             fetch.main(["--out", self.tmp.name, "--dates", "2026-10-22"])
         self.assertEqual(http.calls, [])
 
+    def test_games_with_check_problems_stay_unsettled(self):
+        box = json.loads(json.dumps(BOX_OKC))
+        box["game"]["awayTeam"]["players"].pop(6)  # a player missing from NBA.com's first version
+        fetch.write_day(self.tmp.name, "2026-10-22", self.run_day(
+            "2026-10-22", FakeHTTP(routes(**{fetch.NBA_BOX_URL.format("0022600011"): box}))))
+        http = FakeHTTP(routes())
+        games = self.run_day("2026-10-22", http, now=NOW + dt.timedelta(hours=2))
+        self.assertIn(fetch.NBA_BOX_URL.format("0022600011"), http.calls)  # read again, now complete
+        self.assertNotIn(fetch.NBA_BOX_URL.format("0022600010"), http.calls)  # the clean game stays settled
+        self.assertEqual(games[0]["problems"], [])
+
     def test_unfinished_and_unknown_teams(self):
         http = FakeHTTP(routes())
         games = self.run_day("2026-10-23", http)

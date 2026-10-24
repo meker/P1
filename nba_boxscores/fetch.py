@@ -436,9 +436,11 @@ def iso(t):
 
 
 def settled(entry, folder, now):
-    """True for a game saved as final from NBA.com more than REFRESH ago, file still on disk."""
+    """True for a game saved as final from NBA.com more than REFRESH ago that passed the
+    self-check, its file still on disk. A game with check problems is read again every run."""
     if (not entry or entry.get("source") != "nba" or entry.get("status") != "final" or not entry.get("final_at")
-            or entry.get("away_score") is None or not os.path.exists(os.path.join(folder, entry["boxid"] + ".txt"))):
+            or entry.get("problems") or entry.get("away_score") is None
+            or not os.path.exists(os.path.join(folder, entry["boxid"] + ".txt"))):
         return False
     final_at = dt.datetime.strptime(entry["final_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=dt.timezone.utc)
     return now - final_at > REFRESH
