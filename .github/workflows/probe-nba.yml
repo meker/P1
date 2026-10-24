@@ -1,0 +1,30 @@
+name: Probe NBA.com endpoints (temporary)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Probe
+        run: |
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36'
+          probe() {
+            echo "=== $1 ($2)"
+            curl -sS -m 20 -o body.bin -D headers.txt -w "status=%{http_code} size=%{size_download} type=%{content_type}\n" "${@:3}" "$1" || echo "curl failed"
+            grep -iE '^(server|x-cache|x-amz|akamai|content-encoding|cache-control|x-reference)' headers.txt || true
+            head -c 300 body.bin | tr -d '\000' | tr '\n' ' '; echo
+          }
+          probe https://cdn.nba.com/static/json/staticData/scheduleLeagueV2_1.json browser -A "$UA" -H 'Referer: https://www.nba.com/' -H 'Origin: https://www.nba.com'
+          probe https://cdn.nba.com/static/json/staticData/scheduleLeagueV2_1.json plain
+          probe https://cdn.nba.com/static/json/staticData/scheduleLeagueV2.json browser -A "$UA" -H 'Referer: https://www.nba.com/'
+          probe https://cdn.nba.com/static/json/liveData/scoreboard/todaysScoreboard_00.json browser -A "$UA" -H 'Referer: https://www.nba.com/'
+          probe https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022600001.json browser -A "$UA" -H 'Referer: https://www.nba.com/'
+          probe https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022500628.json browser -A "$UA" -H 'Referer: https://www.nba.com/'
+          probe https://nba-prod-us-east-1-mediaops-stats.s3.amazonaws.com/NBA/liveData/scoreboard/todaysScoreboard_00.json s3
+          probe https://nba-prod-us-east-1-mediaops-stats.s3.amazonaws.com/NBA/liveData/boxscore/boxscore_0022600001.json s3
+          probe "https://stats.nba.com/stats/scoreboardv3?GameDate=2026-10-23&LeagueID=00" stats -A "$UA" -H 'Referer: https://www.nba.com/' -H 'Origin: https://www.nba.com' -H 'Accept: application/json' -H 'x-nba-stats-origin: stats' -H 'x-nba-stats-token: true'
+          probe "https://www.nba.com/games?date=2026-10-23" page -A "$UA"
+          probe "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261023" espn
