@@ -1,0 +1,36 @@
+Final: Utah Jazz 103, Memphis Grizzlies 123
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Utah Jazz	Starters	Lauri Markkanen	36:00	4	13	1	7	9	10	0	9	9	3	0	1	3	1	18
+Utah Jazz	Starters	Darryn Peterson	31:00	3	7	0	1	3	4	0	4	4	3	0	0	1	2	9
+Utah Jazz	Starters	Keyonte George	29:00	7	12	4	6	4	7	1	2	3	5	1	0	2	4	22
+Utah Jazz	Starters	Jaren Jackson Jr.	28:00	6	10	2	4	1	2	0	5	5	2	1	2	5	6	15
+Utah Jazz	Starters	Jaxson Hayes	26:00	2	3	0	1	1	4	1	4	5	3	2	6	1	4	5
+Utah Jazz	Reserves	Ace Bailey	24:00	5	11	2	5	0	0	2	3	5	3	0	3	1	3	12
+Utah Jazz	Reserves	Svi Mykhailiuk	19:00	4	5	2	3	0	0	0	1	1	2	3	0	0	1	10
+Utah Jazz	Reserves	Isaiah Collier	16:00	2	7	0	1	3	5	1	2	3	3	1	0	3	0	7
+Utah Jazz	Reserves	Brice Sensabaugh	14:00	1	4	0	2	0	0	0	2	2	1	0	0	2	1	2
+Utah Jazz	Reserves	Kyle Filipowski	9:00	1	2	0	1	1	1	0	0	0	0	1	0	0	0	3
+Utah Jazz	Reserves	Josh Okogie	8:00	0	1	0	1	0	0	0	1	1	0	0	0	0	1	0
+Utah Jazz	Reserves	Harrison Ingram	Did Not Play
+Utah Jazz	Reserves	Mo Bamba	Did Not Play
+Utah Jazz	Reserves	Josh Green	Did Not Play
+Utah Jazz	Totals	Team Totals	240	35	75	11	32	22	33	5	33	38	25	9	12	18	23	103
+Memphis Grizzlies	Starters	Cameron Boozer	33:00	2	15	0	6	3	4	1	10	11	5	0	0	1	1	7
+Memphis Grizzlies	Starters	Ty Jerome	32:00	17	25	5	10	6	7	1	6	7	6	0	1	1	4	45
+Memphis Grizzlies	Starters	Cedric Coward	28:00	3	6	1	2	0	0	0	7	7	2	0	1	0	5	7
+Memphis Grizzlies	Starters	Jaylen Wells	28:00	5	10	1	4	1	3	3	2	5	0	4	0	0	3	12
+Memphis Grizzlies	Starters	Zach Edey	21:00	3	5	0	0	0	0	3	6	9	0	0	2	0	3	6
+Memphis Grizzlies	Reserves	Jerami Grant	24:00	4	9	2	4	5	6	2	0	2	3	0	1	3	2	15
+Memphis Grizzlies	Reserves	Scotty Pippen Jr.	20:00	2	7	0	3	5	6	2	0	2	5	3	0	2	1	9
+Memphis Grizzlies	Reserves	GG Jackson	19:00	4	8	2	2	2	2	2	6	8	0	0	2	4	2	12
+Memphis Grizzlies	Reserves	Quinten Post	19:00	3	4	1	2	0	0	0	1	1	0	0	0	1	4	7
+Memphis Grizzlies	Reserves	Cam Spencer	16:00	1	4	1	1	0	0	1	2	3	2	1	0	1	1	3
+Memphis Grizzlies	Reserves	Kris Murray	Did Not Play
+Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	Did Not Play
+Memphis Grizzlies	Reserves	Taylor Hendricks	Did Not Play
+Memphis Grizzlies	Reserves	Karim Lopez	Did Not Play
+Memphis Grizzlies	Reserves	Jahmai Mashack	Did Not Play
+Memphis Grizzlies	Totals	Team Totals	240	44	93	13	34	22	28	15	40	55	23	8	7	13	26	123
+```

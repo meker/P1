@@ -1,0 +1,35 @@
+Final: Charlotte Hornets 110, Brooklyn Nets 103
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Charlotte Hornets	Starters	Brandon Miller	36:00	7	21	3	14	1	2	1	2	3	1	0	1	3	3	18
+Charlotte Hornets	Starters	Dennis Schröder	35:00	7	13	0	3	5	5	0	4	4	6	0	0	3	1	19
+Charlotte Hornets	Starters	Moussa Diabaté	34:00	7	11	0	0	3	3	5	3	8	3	5	0	4	4	17
+Charlotte Hornets	Starters	Naz Reid	33:00	8	19	4	10	0	1	2	9	11	7	0	0	1	4	20
+Charlotte Hornets	Starters	Sion James	27:00	1	7	1	6	0	0	1	2	3	0	1	0	1	4	3
+Charlotte Hornets	Reserves	Grayson Allen	29:00	6	9	5	8	4	4	0	3	3	4	0	0	4	0	21
+Charlotte Hornets	Reserves	Royce O'Neale	17:00	3	6	2	5	0	0	2	2	4	0	1	1	1	1	8
+Charlotte Hornets	Reserves	Ryan Kalkbrenner	14:00	2	3	0	0	0	0	3	2	5	3	0	2	1	4	4
+Charlotte Hornets	Reserves	Christian Anderson	13:00	0	3	0	1	0	0	1	1	2	2	2	0	2	1	0
+Charlotte Hornets	Reserves	Liam McNeeley	3:00	0	1	0	1	0	0	0	1	1	0	0	0	0	1	0
+Charlotte Hornets	Reserves	Tidjane Salaün	Did Not Play
+Charlotte Hornets	Reserves	Hannes Steinbach	Did Not Play
+Charlotte Hornets	Reserves	PJ Hall	Did Not Play
+Charlotte Hornets	Totals	Team Totals	240	41	93	15	48	13	15	15	29	44	26	9	4	20	23	110
+Brooklyn Nets	Starters	Julius Randle	38:00	11	18	3	5	8	11	0	8	8	7	0	1	4	4	33
+Brooklyn Nets	Starters	Michael Porter Jr.	34:00	10	21	5	11	1	2	1	6	7	1	3	0	4	2	26
+Brooklyn Nets	Starters	Keon Ellis	34:00	3	7	1	3	0	0	1	1	2	4	2	1	1	2	7
+Brooklyn Nets	Starters	Day'Ron Sharpe	30:00	4	5	0	0	0	1	3	5	8	3	0	3	2	4	8
+Brooklyn Nets	Starters	Egor Dëmin	27:00	2	10	0	5	0	0	2	2	4	2	1	0	3	1	4
+Brooklyn Nets	Reserves	Noah Clowney	22:00	3	3	1	1	2	2	0	3	3	1	1	0	0	6	9
+Brooklyn Nets	Reserves	Mikel Brown Jr.	20:00	2	8	1	3	1	1	1	2	3	3	0	0	1	2	6
+Brooklyn Nets	Reserves	Moritz Wagner	16:00	1	3	1	2	4	4	0	0	0	1	0	0	2	3	7
+Brooklyn Nets	Reserves	Nolan Traoré	16:00	0	4	0	0	3	4	2	0	2	0	0	0	2	1	3
+Brooklyn Nets	Reserves	Chaney Johnson	5:00	0	1	0	1	0	0	1	0	1	0	0	0	3	0	0
+Brooklyn Nets	Reserves	Josh Minott	Did Not Play
+Brooklyn Nets	Reserves	Danny Wolf	Did Not Play
+Brooklyn Nets	Reserves	Terance Mann	Did Not Play
+Brooklyn Nets	Reserves	Drake Powell	Did Not Play
+Brooklyn Nets	Reserves	Ben Saraf	Did Not Play
+Brooklyn Nets	Totals	Team Totals	240	36	80	12	31	19	25	11	27	38	22	7	5	22	25	103
+```

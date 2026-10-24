@@ -1,0 +1,52 @@
+{
+ "date": "2026-10-20",
+ "updated_at": "2026-10-24T07:46:39Z",
+ "games": 3,
+ "final": 3,
+ "pending": 0,
+ "problems": 0,
+ "sources": [
+  "espn"
+ ],
+ "list": [
+  {
+   "boxid": "202610200DET",
+   "away": "BOS",
+   "home": "DET",
+   "status": "final",
+   "status_text": "Final",
+   "source": "espn",
+   "score": "113-121",
+   "nba_game_id": null,
+   "espn_event_id": "401909088",
+   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909088",
+   "problems": []
+  },
+  {
+   "boxid": "202610200NYK",
+   "away": "PHI",
+   "home": "NYK",
+   "status": "final",
+   "status_text": "Final",
+   "source": "espn",
+   "score": "106-100",
+   "nba_game_id": null,
+   "espn_event_id": "401909089",
+   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909089",
+   "problems": []
+  },
+  {
+   "boxid": "202610200SAS",
+   "away": "OKC",
+   "home": "SAS",
+   "status": "final",
+   "status_text": "Final",
+   "source": "espn",
+   "score": "116-104",
+   "nba_game_id": null,
+   "espn_event_id": "401909090",
+   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909090",
+   "problems": []
+  }
+ ]
+}

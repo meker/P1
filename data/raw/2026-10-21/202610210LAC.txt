@@ -1,0 +1,32 @@
+Final: Sacramento Kings 96, Los Angeles Clippers 121
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Sacramento Kings	Starters	Darius Acuff Jr.	35:00	5	24	0	7	2	5	1	2	3	3	3	0	4	2	12
+Sacramento Kings	Starters	Domantas Sabonis	34:00	5	5	0	0	4	4	1	17	18	8	1	0	3	3	14
+Sacramento Kings	Starters	Zach LaVine	34:00	10	19	3	8	5	8	1	3	4	4	0	0	4	2	28
+Sacramento Kings	Starters	Keegan Murray	28:00	1	8	0	4	0	0	2	2	4	0	1	0	0	2	2
+Sacramento Kings	Starters	De'Andre Hunter	20:00	2	5	2	2	0	4	1	2	3	1	0	0	0	4	6
+Sacramento Kings	Reserves	Precious Achiuwa	29:00	5	8	1	1	4	5	3	2	5	2	2	0	1	1	15
+Sacramento Kings	Reserves	Nique Clifford	17:00	3	7	0	2	0	0	1	0	1	3	1	0	3	2	6
+Sacramento Kings	Reserves	Emanuel Sharp	17:00	3	6	2	4	0	0	0	1	1	0	1	0	1	5	8
+Sacramento Kings	Reserves	Daeqwon Plowden	13:00	2	3	0	0	0	0	0	2	2	1	1	0	0	1	4
+Sacramento Kings	Reserves	Jonathan Mogbo	8:00	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+Sacramento Kings	Reserves	Alex Karaban	5:00	0	0	0	0	1	2	1	0	1	0	0	0	0	0	1
+Sacramento Kings	Reserves	Leaky Black	Did Not Play
+Sacramento Kings	Totals	Team Totals	240	36	85	8	28	16	28	11	31	42	22	10	0	17	23	96
+Los Angeles Clippers	Starters	Rui Hachimura	32:00	3	13	2	7	2	5	2	6	8	2	1	1	3	2	10
+Los Angeles Clippers	Starters	Darius Garland	32:00	11	19	3	8	5	8	0	1	1	4	1	0	3	1	30
+Los Angeles Clippers	Starters	Kris Dunn	27:00	2	5	2	5	1	2	2	3	5	7	3	2	2	3	7
+Los Angeles Clippers	Starters	Derrick Jones Jr.	26:00	3	4	1	2	1	2	2	4	6	5	1	0	1	2	8
+Los Angeles Clippers	Starters	Isaiah Jackson	15:00	6	8	0	0	1	2	1	4	5	0	1	0	1	4	13
+Los Angeles Clippers	Reserves	Keaton Wagler	29:00	4	8	3	6	4	4	1	4	5	5	2	0	1	3	15
+Los Angeles Clippers	Reserves	Brook Lopez	27:00	7	12	1	3	2	2	1	10	11	1	1	1	2	2	17
+Los Angeles Clippers	Reserves	Kobe Sanders	19:00	1	5	0	1	0	0	0	0	0	3	3	0	1	3	2
+Los Angeles Clippers	Reserves	Gradey Dick	19:00	3	4	1	2	5	6	0	4	4	0	0	1	2	4	12
+Los Angeles Clippers	Reserves	Baba Miller	9:00	2	2	0	0	0	0	1	2	3	1	0	0	1	0	4
+Los Angeles Clippers	Reserves	Nick Martinelli	2:00	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0
+Los Angeles Clippers	Reserves	Jalen Pickett	2:00	1	1	1	1	0	0	0	0	0	0	1	0	0	0	3
+Los Angeles Clippers	Reserves	Cam Christie	2:00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Los Angeles Clippers	Totals	Team Totals	240	43	82	14	35	21	31	11	38	49	29	14	5	17	24	121
+```

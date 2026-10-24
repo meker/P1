@@ -1,0 +1,3 @@
+Boston Celtics|113|Detroit Pistons|121|https://www.basketball-reference.com/boxscores/202610200DET.html|final
+Philadelphia 76ers|106|New York Knicks|100|https://www.basketball-reference.com/boxscores/202610200NYK.html|final
+Oklahoma City Thunder|116|San Antonio Spurs|104|https://www.basketball-reference.com/boxscores/202610200SAS.html|final

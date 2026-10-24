@@ -1,0 +1,35 @@
+Final: Philadelphia 76ers 106, New York Knicks 100
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Philadelphia 76ers	Starters	Tyrese Maxey	40:00	9	19	2	9	8	9	1	3	4	5	3	3	2	3	28
+Philadelphia 76ers	Starters	Jaylen Brown	35:00	7	14	2	4	3	4	1	7	8	6	1	1	2	1	19
+Philadelphia 76ers	Starters	VJ Edgecombe	35:00	4	10	0	3	1	2	0	4	4	1	1	0	1	4	9
+Philadelphia 76ers	Starters	LeBron James	34:00	5	13	0	3	4	6	1	8	9	7	1	1	1	4	14
+Philadelphia 76ers	Starters	Joel Embiid	33:00	4	15	2	7	3	4	2	9	11	6	2	3	4	3	13
+Philadelphia 76ers	Reserves	Kentavious Caldwell-Pope	26:00	3	8	2	6	2	2	1	3	4	1	0	1	0	3	10
+Philadelphia 76ers	Reserves	Anfernee Simons	25:00	5	10	3	8	0	0	0	2	2	0	0	0	0	2	13
+Philadelphia 76ers	Reserves	Adem Bona	10:00	0	0	0	0	0	0	0	3	3	1	0	1	0	2	0
+Philadelphia 76ers	Reserves	Jabari Walker	3:00	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+Philadelphia 76ers	Reserves	Justin Edwards	Did Not Play
+Philadelphia 76ers	Reserves	Caleb Love	Did Not Play
+Philadelphia 76ers	Reserves	Labaron Philon Jr.	Did Not Play
+Philadelphia 76ers	Reserves	Rayan Rupert	Did Not Play
+Philadelphia 76ers	Totals	Team Totals	240	37	89	11	40	21	27	6	39	45	28	8	10	10	23	106
+New York Knicks	Starters	Jalen Brunson	34:00	6	19	1	3	8	8	0	5	5	3	0	0	2	1	21
+New York Knicks	Starters	Mikal Bridges	33:00	2	8	0	2	0	0	1	2	3	1	0	1	0	1	4
+New York Knicks	Starters	OG Anunoby	32:00	3	12	1	9	3	3	1	4	5	0	1	1	2	5	10
+New York Knicks	Starters	Josh Hart	30:00	5	10	2	5	2	3	0	7	7	3	1	1	2	3	14
+New York Knicks	Starters	Karl-Anthony Towns	24:00	6	9	3	4	4	7	3	9	12	1	1	2	4	4	19
+New York Knicks	Reserves	Landry Shamet	25:00	2	7	1	4	0	2	1	1	2	4	0	0	2	1	5
+New York Knicks	Reserves	Andre Drummond	24:00	5	13	0	0	2	4	7	7	14	4	1	2	0	3	12
+New York Knicks	Reserves	Jose Alvarado	16:00	3	7	2	3	0	0	0	3	3	3	2	0	1	2	8
+New York Knicks	Reserves	Miles McBride	14:00	1	5	1	3	0	0	0	1	1	1	0	1	1	0	3
+New York Knicks	Reserves	Jordan Clarkson	8:00	2	4	0	0	0	0	1	0	1	1	0	0	0	2	4
+New York Knicks	Reserves	Pacôme Dadiet	Did Not Play
+New York Knicks	Reserves	Mohamed Diawara	Did Not Play
+New York Knicks	Reserves	James Wiseman	Did Not Play
+New York Knicks	Reserves	Kevin McCullar Jr.	Did Not Play
+New York Knicks	Reserves	Tyler Kolek	Did Not Play
+New York Knicks	Totals	Team Totals	240	35	94	11	33	19	27	14	39	53	21	6	8	14	22	100
+```
