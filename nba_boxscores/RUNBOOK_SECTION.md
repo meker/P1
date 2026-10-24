@@ -12,6 +12,8 @@ job in Mert's public repo meker/P1 reads NBA.com's official box scores (ESPN whe
    no games that night: no Basketball-Reference check needed.
 3. `cd /mnt/project-files/daily-report && mkdir -p raw/D && cp /home/claude/p1/data/raw/D/*.txt raw/D/`
    (overwrites older Basketball-Reference files of the same games), then the usual --check and build.
+   Games with source "espn" in source.json have whole-minute MP (Mert is fine with that, 2026-10-24): a
+   --check minutes mismatch of up to 3 on them is rounding, not a missing player; don't retry or report it.
 Pending games ("not final" lines) refresh in the repo every 20 minutes until 09:47 UTC: the follow-up run
 repeats steps 1-3.
 Fallbacks, each named in one clause of the reply:
