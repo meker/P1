@@ -1,0 +1,23 @@
+# NBA box scores for the daily fantasy report
+
+Data source for the "NBA Sabah Raporu" morning report (Yahoo NBA Fantasy Draft Helper project).
+Basketball-Reference posts box scores up to a day late, so a GitHub Actions job reads them from
+NBA.com instead, minutes after each game ends, and commits them here.
+
+- `nba_boxscores/fetch.py` reads NBA.com's season schedule and live box score JSON
+  (`cdn.nba.com`); ESPN's API is the fallback for a game NBA.com cannot serve. Standard library only.
+- `.github/workflows/nba-boxscores.yml` runs it every 20 minutes from 01:07 to 09:47 UTC (US evening
+  to early morning) for last night and the night before, and commits only when data changed.
+  Run it by hand from the Actions tab ("Run workflow", optional dates such as `2026-10-22,2026-10-23`).
+- `data/raw/<YYYY-MM-DD>/` holds one US game night in the report pipeline's raw format:
+  - `games.txt`: `visitor|pts|home|pts|box URL|final`, scores empty and `not final` while a game
+    is unfinished, or the single line `NO_GAMES`;
+  - `<boxid>.txt`: Basketball-Reference style TSV box score (starters, reserves, DNP rows, Team Totals).
+    Ids and URLs keep Basketball-Reference's form (`202610230MIL`) so `build_day.py` reads them unchanged;
+  - `source.json`: per game status, source (nba/espn), NBA.com game id and link, self-check problems.
+- `nba_boxscores/RUNBOOK_SECTION.md`: the fetch steps the morning job follows.
+
+Tests: `python3 -m unittest nba_boxscores/test_fetch.py`
+
+GitHub pauses scheduled workflows of a public repo after 60 days without commits (for example over the
+summer). Re-enable it from the Actions tab before the next season.

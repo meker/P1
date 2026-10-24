@@ -1,0 +1,53 @@
+name: NBA box scores
+
+# Reads last night's box scores from NBA.com (ESPN where NBA.com fails) every 20 minutes
+# while US evening games finish, and commits them under data/raw/<date>/ in the daily
+# report's raw format. The morning report job clones this repo instead of fetching
+# Basketball-Reference, which posts box scores up to a day late.
+on:
+  schedule:
+    - cron: "7,27,47 1-9 * * *"  # 01:07-09:47 UTC = evening to early morning US Eastern
+  workflow_dispatch:
+    inputs:
+      dates:
+        description: "US game dates, comma separated YYYY-MM-DD (empty = last night and the night before)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nba-boxscores
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Fetch box scores
+        env:
+          DATES: ${{ inputs.dates }}
+        run: python3 nba_boxscores/fetch.py --out data/raw --summary "$RUNNER_TEMP/summary.txt" --debug ${DATES:+--dates "$DATES"}
+
+      - name: Commit new data
+        run: |
+          touch "$RUNNER_TEMP/summary.txt"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No new data."
+            exit 0
+          fi
+          cat "$RUNNER_TEMP/summary.txt" >> "$GITHUB_STEP_SUMMARY"
+          { echo "data: $(head -n1 "$RUNNER_TEMP/summary.txt")"; echo; cat "$RUNNER_TEMP/summary.txt"; } > "$RUNNER_TEMP/msg.txt"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -F "$RUNNER_TEMP/msg.txt"
+          for attempt in 1 2 3; do
+            git push -q && exit 0
+            git pull -q --rebase
+          done
+          exit 1
