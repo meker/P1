@@ -31,9 +31,12 @@ jobs:
                   walk(o[0], path + "[0]", depth + 1, out)
               return out
           d = page("https://www.nba.com/games?date=2026-10-23")
-          ids = sorted(set(re.findall(r'"gameId":"(\d{10})"', json.dumps(d)))) if d else []
+          ids = sorted(set(re.findall(r'"gameId":\s*"(\d{10})"', json.dumps(d)))) if d else []
+          md = d["props"]["pageProps"]["gameCardFeed"]["modules"][0]["moduleData"]
+          print("moduleData keys:", list(md.keys()))
+          cards = md.get("cards") or []
+          print("cards:", len(cards), "card0:", json.dumps(cards[0])[:1500] if cards else None)
           print("games page gameIds:", ids)
-          print("\n".join(walk(d["props"]["pageProps"])[:60]) if d else "no __NEXT_DATA__")
           if ids:
               b = page(f"https://www.nba.com/game/{ids[0]}/box-score")
               if b:
