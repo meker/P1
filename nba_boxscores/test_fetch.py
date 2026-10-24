@@ -128,7 +128,10 @@ def espn_summary():
                 "status": {"period": 4, "type": {"completed": True, "state": "post"}},
                 "competitors": [{"homeAway": "away", "team": {"abbreviation": "DEN"}, "score": "84"},
                                 {"homeAway": "home", "team": {"abbreviation": "OKC"}, "score": "96"}]}]},
-            "boxscore": {"players": [den, okc]}}
+            "boxscore": {"players": [den, okc], "teams": [
+                {"team": {"abbreviation": "DEN"}, "statistics": [{"name": "turnovers", "displayValue": "20"},
+                                                                 {"name": "totalTurnovers", "displayValue": "22"}]},
+                {"team": {"abbreviation": "OKC"}, "statistics": [{"name": "totalTurnovers", "displayValue": "13"}]}]}}
 
 
 ESPN_SCOREBOARD = {"events": [{"id": "401810011", "competitions": [{
@@ -265,7 +268,8 @@ class FetchTest(unittest.TestCase):
         nnaji = next(r for r in rows if r["player"] == "Zeke Nnaji")
         self.assertEqual(nnaji["MP"], "Did Not Play")
         den_total = next(r for r in rows if r["team"] == "Denver Nuggets" and r["section"] == "Totals")
-        self.assertEqual((den_total["TRB"], den_total["TOV"], den_total["PTS"]), ("53", "21", "84"))
+        # rebounds = players' sum, turnovers include team turnovers (Basketball-Reference totals)
+        self.assertEqual((den_total["TRB"], den_total["TOV"], den_total["PTS"]), ("53", "22", "84"))
 
     def test_espn_overtime_minutes_from_linescores(self):
         summary = espn_summary()
@@ -302,8 +306,8 @@ class FetchTest(unittest.TestCase):
         self.assertEqual(fetch.mp_text(2205), "36:45")
         self.assertEqual(fetch.mp_text(64), "1:04")
         self.assertEqual(fetch.bref_name("Alperen Sengun"), "Alperen Şengün")
-        self.assertEqual(fetch.bref_name("Alex Sarr"), "Alexandre Sarr")
-        self.assertEqual(fetch.bref_name("Nikola Djurisic"), "Nikola Đurišić")
+        self.assertEqual(fetch.bref_name("Alex Sarr"), "Alex Sarr")  # Basketball-Reference uses the short name
+        self.assertEqual(fetch.bref_name("Cam Johnson"), "Cameron Johnson")
         self.assertEqual(fetch.bref_name("Shai Gilgeous-Alexander"), "Shai Gilgeous-Alexander")
         self.assertEqual(fetch.boxid("2026-10-23", "PHX"), "202610230PHO")
         self.assertEqual(fetch.boxid("2026-10-23", "UTAH"), "202610230UTA")

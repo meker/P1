@@ -8,23 +8,41 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Probe
+      - name: Probe www.nba.com page data
+        shell: python3 {0}
         run: |
-          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36'
-          probe() {
-            echo "=== $1 ($2)"
-            curl -sS -m 20 -o body.bin -D headers.txt -w "status=%{http_code} size=%{size_download} type=%{content_type}\n" "${@:3}" "$1" || echo "curl failed"
-            grep -iE '^(server|x-cache|x-amz|akamai|content-encoding|cache-control|x-reference)' headers.txt || true
-            head -c 300 body.bin | tr -d '\000' | tr '\n' ' '; echo
-          }
-          probe https://cdn.nba.com/static/json/staticData/scheduleLeagueV2_1.json browser -A "$UA" -H 'Referer: https://www.nba.com/' -H 'Origin: https://www.nba.com'
-          probe https://cdn.nba.com/static/json/staticData/scheduleLeagueV2_1.json plain
-          probe https://cdn.nba.com/static/json/staticData/scheduleLeagueV2.json browser -A "$UA" -H 'Referer: https://www.nba.com/'
-          probe https://cdn.nba.com/static/json/liveData/scoreboard/todaysScoreboard_00.json browser -A "$UA" -H 'Referer: https://www.nba.com/'
-          probe https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022600001.json browser -A "$UA" -H 'Referer: https://www.nba.com/'
-          probe https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022500628.json browser -A "$UA" -H 'Referer: https://www.nba.com/'
-          probe https://nba-prod-us-east-1-mediaops-stats.s3.amazonaws.com/NBA/liveData/scoreboard/todaysScoreboard_00.json s3
-          probe https://nba-prod-us-east-1-mediaops-stats.s3.amazonaws.com/NBA/liveData/boxscore/boxscore_0022600001.json s3
-          probe "https://stats.nba.com/stats/scoreboardv3?GameDate=2026-10-23&LeagueID=00" stats -A "$UA" -H 'Referer: https://www.nba.com/' -H 'Origin: https://www.nba.com' -H 'Accept: application/json' -H 'x-nba-stats-origin: stats' -H 'x-nba-stats-token: true'
-          probe "https://www.nba.com/games?date=2026-10-23" page -A "$UA"
-          probe "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261023" espn
+          import json, re, urllib.request
+          UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          def page(url):
+              req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html", "Accept-Language": "en-US,en;q=0.9"})
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  html = r.read().decode("utf-8", "replace")
+                  print("GET", url, "->", r.status, r.geturl(), len(html))
+              m = re.search(r'<script id="__NEXT_DATA__" type="application/json"[^>]*>(.*?)</script>', html, re.S)
+              return json.loads(m.group(1)) if m else None
+          def walk(o, path="", depth=0, out=None):
+              out = [] if out is None else out
+              if depth > 6: return out
+              if isinstance(o, dict):
+                  for k, v in o.items():
+                      p = f"{path}.{k}"
+                      if isinstance(v, (dict, list)): out.append(f"{p} {type(v).__name__}({len(v)})"); walk(v, p, depth + 1, out)
+              elif isinstance(o, list) and o:
+                  walk(o[0], path + "[0]", depth + 1, out)
+              return out
+          d = page("https://www.nba.com/games?date=2026-10-23")
+          ids = sorted(set(re.findall(r'"gameId":"(\d{10})"', json.dumps(d)))) if d else []
+          print("games page gameIds:", ids)
+          print("\n".join(walk(d["props"]["pageProps"])[:60]) if d else "no __NEXT_DATA__")
+          if ids:
+              b = page(f"https://www.nba.com/game/{ids[0]}/box-score")
+              if b:
+                  pp = b["props"]["pageProps"]
+                  print("box pageProps keys:", list(pp.keys()))
+                  g = pp.get("game") or {}
+                  print("game keys:", list(g.keys())[:40])
+                  for side in ("awayTeam", "homeTeam"):
+                      t = g.get(side) or {}
+                      print(side, t.get("teamTricode"), "players", len(t.get("players", [])), "stat keys", sorted((t.get("statistics") or {}).keys())[:70])
+                      if t.get("players"):
+                          print("  player0", json.dumps(t["players"][0])[:900])

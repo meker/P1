@@ -79,18 +79,13 @@ for _codes, _bref, _name in (
     for _c in _codes + (_bref,):
         TEAMS[_c] = (_bref, _name)
 
-# NBA.com / ESPN spelling -> Basketball-Reference spelling, for names that differ by more
-# than accents (the history and prior files are keyed by Basketball-Reference names).
+# NBA.com / ESPN spelling -> Basketball-Reference spelling. build_day.py keys players by a
+# lowercase name without accents, suffixes (Jr., II, III), periods, apostrophes and hyphens,
+# so only first-name differences matter here; add one when the report shows a split player.
 NAME_ALIASES = {
-    "Alex Sarr": "Alexandre Sarr",
     "Cam Johnson": "Cameron Johnson",
     "DaRon Holmes II": "DaRon Holmes",
-    "Herb Jones": "Herbert Jones",
-    "Jakob Poeltl": "Jakob Pöltl",
-    "Jimmy Butler III": "Jimmy Butler",
     "Moe Wagner": "Moritz Wagner",
-    "Nic Claxton": "Nicolas Claxton",
-    "Nikola Djurisic": "Nikola Đurišić",
 }
 # Basketball-Reference keeps these accents; ESPN (and sometimes NBA.com) drops them.
 ACCENTED_NAMES = (
@@ -332,6 +327,12 @@ def espn_box(event_id):
     periods = max([int(st.get("period") or 0), 4] + [len(c.get("linescores") or []) for c in comp.get("competitors", [])])
     scores = {c["team"]["abbreviation"]: int(c.get("score") or 0) for c in comp.get("competitors", [])}
     sides = {c["homeAway"]: c["team"]["abbreviation"] for c in comp.get("competitors", [])}
+    # team turnovers are only in the team stats block ("totalTurnovers" = players' + team's)
+    total_tov = {}
+    for t in data.get("boxscore", {}).get("teams", []):
+        for s in t.get("statistics", []):
+            if s.get("name") == "totalTurnovers" and str(s.get("displayValue", "")).isdigit():
+                total_tov[t["team"]["abbreviation"]] = int(s["displayValue"])
     teams = {}
     for t in data.get("boxscore", {}).get("players", []):
         abbr = t["team"]["abbreviation"]
@@ -352,7 +353,7 @@ def espn_box(event_id):
         tot.pop("secs", None)
         for k in ("orb", "drb", "trb"):
             tot[k] = sum(p[k] for p in played)
-        tot["tov"] = max(tot["tov"], sum(p["tov"] for p in played))
+        tot["tov"] = max(total_tov.get(abbr, tot["tov"]), sum(p["tov"] for p in played))
         tot["mp"] = 240 + 25 * max(0, periods - 4)
         code, name = TEAMS[abbr]
         teams[abbr] = {"code": code, "name": name, "score": scores.get(abbr, tot["pts"]),
