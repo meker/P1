@@ -17,6 +17,10 @@ on:
         description: "US game dates, comma separated YYYY-MM-DD (empty = last night and the night before)"
         required: false
         default: ""
+      refetch:
+        description: "Read final games again even if already saved"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -35,7 +39,8 @@ jobs:
       - name: Fetch box scores
         env:
           DATES: ${{ inputs.dates }}
-        run: python3 nba_boxscores/fetch.py --out data/raw --summary "$RUNNER_TEMP/summary.txt" --debug ${DATES:+--dates "$DATES"}
+          REFETCH: ${{ inputs.refetch && '--refetch' || '' }}
+        run: python3 nba_boxscores/fetch.py --out data/raw --summary "$RUNNER_TEMP/summary.txt" --debug $REFETCH ${DATES:+--dates "$DATES"}
 
       - name: Commit new data
         run: |

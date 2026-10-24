@@ -85,6 +85,7 @@ for _codes, _bref, _name in (
 NAME_ALIASES = {
     "Cam Johnson": "Cameron Johnson",
     "DaRon Holmes II": "DaRon Holmes",
+    "Hansen Yang": "Yang Hansen",
     "Moe Wagner": "Moritz Wagner",
 }
 # Basketball-Reference keeps these accents; ESPN (and sometimes NBA.com) drops them.
@@ -194,7 +195,7 @@ def nba_dnp(reason):
     """NBA.com not-playing reason ("DNP_COACH", "INACTIVE_INJURY", "DND - Injury/Illness",
     ...) -> Basketball-Reference MP text; None = leave the player out."""
     r = (reason or "").upper()
-    if "GLEAGUE" in r:  # two-way / assignment players: not part of the game's roster
+    if "GLEAGUE" in r or "G LEAGUE" in r:  # two-way / assignment players: not part of the game's roster
         return None
     if "SUSPEN" in r:
         return "Player Suspended"
@@ -245,8 +246,9 @@ def nba_team(t):
             row["starter"] = str(p.get("starter")) == "1"
             played, reason = str(p["played"]) == "1", p.get("notPlayingReason")
         else:
+            # the comment can say "DNP - Coach's Decision" for a player who did get minutes
             row["starter"] = bool(p.get("position"))
-            played, reason = not p.get("comment") and secs(st.get("minutes")) > 0, p.get("comment")
+            played, reason = secs(st.get("minutes")) > 0, p.get("comment")
         if played:
             row["secs"] = secs(st.get("minutes"))
             row.update({k: int(st.get(f) or 0) for k, f in NBA_FIELDS.items()})

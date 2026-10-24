@@ -132,9 +132,12 @@ BOX_OKC = {"game": {
 BOX_PHI = {"game": {
     "gameId": "0022600010", "gameCode": "20261022/CLEPHI", "gameStatus": 3, "gameStatusText": "Final", "period": 4,
     "awayTeam": historical_team("CLE", CLE, [("Thomas Bryant", "DNP - Coach's Decision")]),
-    "homeTeam": historical_team("PHI", PHI, [("Kelly Oubre Jr.", "DND - Injury/Illness"),
-                                             ("Dean Wade", "NWT - Personal")]),
+    "homeTeam": historical_team("PHI", PHI, [("Kelly Oubre Jr.", "Inactive - Injury/Illness"),
+                                             ("Dean Wade", "NWT - Personal"),
+                                             ("Two Way Guy", "Inactive - G League - Two-Way")]),
 }}
+# seen on nba.com (HOU@SAS 2026-10-23): a stale DNP comment on a player who played
+BOX_PHI["game"]["awayTeam"]["players"][4]["comment"] = "DNP - Coach's Decision"
 
 
 def card(gid, code, status, away, a, home, h, text="Final"):
@@ -285,6 +288,9 @@ class FetchTest(unittest.TestCase):
         self.assertEqual((phi["Tyrese Maxey"]["section"], phi["Tyrese Maxey"]["MP"], phi["Tyrese Maxey"]["PTS"]),
                          ("Starters", "48:00", "32"))
         self.assertEqual((phi["Kelly Oubre Jr."]["MP"], phi["Dean Wade"]["MP"]), ("Did Not Dress", "Not With Team"))
+        self.assertNotIn("Two Way Guy", phi)
+        cle = {r["player"]: r for r in rows if r["team"] == "Cleveland Cavaliers"}
+        self.assertEqual((cle["Jarrett Allen"]["MP"], cle["Jarrett Allen"]["PTS"]), ("48:00", "14"))
         self.assertEqual(phi["Team Totals"]["MP"], "240")
         # every column's player sum equals the Team Totals row (what build_day.py --check verifies)
         for f in ("202610220OKC.txt", "202610220PHI.txt"):
@@ -393,6 +399,7 @@ class FetchTest(unittest.TestCase):
         self.assertEqual(fetch.bref_name("Alperen Sengun"), "Alperen Şengün")
         self.assertEqual(fetch.bref_name("Alex Sarr"), "Alex Sarr")  # Basketball-Reference uses the short name
         self.assertEqual(fetch.bref_name("Cam Johnson"), "Cameron Johnson")
+        self.assertEqual(fetch.bref_name("Hansen Yang"), "Yang Hansen")
         self.assertEqual(fetch.bref_name("Shai Gilgeous-Alexander"), "Shai Gilgeous-Alexander")
         self.assertEqual(fetch.boxid("2026-10-23", "PHX"), "202610230PHO")
         self.assertEqual(fetch.boxid("2026-10-23", "UTAH"), "202610230UTA")
@@ -400,7 +407,8 @@ class FetchTest(unittest.TestCase):
                               ("DND_INJURY", "Did Not Dress"), ("NWT_PERSONAL", "Not With Team"),
                               ("INACTIVE_SUSPENSION", "Player Suspended"), ("INACTIVE_GLEAGUE_TWOWAY", None),
                               ("DNP - Coach's Decision", "Did Not Play"), ("DND - Injury/Illness", "Did Not Dress"),
-                              ("NWT - Personal", "Not With Team"), (None, "Did Not Play")):
+                              ("NWT - Personal", "Not With Team"), ("Inactive - G League - Two-Way", None),
+                              ("Inactive - Injury/Illness", "Did Not Dress"), (None, "Did Not Play")):
             self.assertEqual(fetch.nba_dnp(reason), label, reason)
         # 08:45 Istanbul = 05:45 UTC: last night is the previous US date
         self.assertEqual(fetch.default_dates(dt.datetime(2026, 10, 24, 5, 45, tzinfo=UTC)), ["2026-10-23", "2026-10-22"])
