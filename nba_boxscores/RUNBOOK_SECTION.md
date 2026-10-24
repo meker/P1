@@ -8,7 +8,8 @@ job in Mert's public repo meker/P1 reads NBA.com's box score JSON (ESPN where NB
    If git cannot reach GitHub, call add_repo (owner meker, repo P1, access read) and run the clone
    command it returns into /home/claude/p1.
 2. `head -c 2000 /home/claude/p1/data/raw/D/source.json` shows final/pending games, sources and
-   self-check problems. games.txt = NO_GAMES means there were no games.
+   self-check problems. games.txt = NO_GAMES comes from NBA.com's season schedule: no games that night,
+   no Basketball-Reference check needed.
 3. `cd /mnt/project-files/daily-report && mkdir -p raw/D && cp /home/claude/p1/data/raw/D/*.txt raw/D/`
    (overwrites older Basketball-Reference files of the same games), then the usual --check and build.
 Pending games ("not final" lines) refresh in the repo every 20 minutes until 09:47 UTC: the follow-up run
