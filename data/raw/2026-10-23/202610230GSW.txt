@@ -13,13 +13,11 @@ Memphis Grizzlies	Reserves	Cam Spencer	16:43	4	7	3	5	0	0	1	1	2	1	0	0	2	1	11
 Memphis Grizzlies	Reserves	Scotty Pippen Jr.	16:37	4	6	0	1	0	0	3	3	6	3	0	1	5	4	8
 Memphis Grizzlies	Reserves	Isaiah Stewart	16:23	2	3	0	1	0	0	0	2	2	0	1	0	2	4	4
 Memphis Grizzlies	Reserves	Kris Murray	12:31	0	2	0	2	0	0	2	1	3	1	0	1	0	2	0
-Memphis Grizzlies	Reserves	Carson Cooper	Did Not Dress
 Memphis Grizzlies	Reserves	Cedric Coward	Did Not Dress
 Memphis Grizzlies	Reserves	Taylor Hendricks	Did Not Play
 Memphis Grizzlies	Reserves	Karim López	Did Not Play
 Memphis Grizzlies	Reserves	Jahmai Mashack	Did Not Play
 Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	Did Not Play
-Memphis Grizzlies	Reserves	Javon Small	Did Not Dress
 Memphis Grizzlies	Totals	Team Totals	240	40	86	15	39	16	22	18	29	47	27	7	7	25	30	111
 Golden State Warriors	Starters	Yaxel Lendeborg	37:29	4	11	1	3	9	12	7	6	13	6	3	0	6	3	18
 Golden State Warriors	Starters	Brandin Podziemski	32:53	7	17	2	8	2	2	1	1	2	3	3	1	4	3	18

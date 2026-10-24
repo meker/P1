@@ -1,10 +1,10 @@
 {
  "date": "2026-10-23",
- "updated_at": "2026-10-24T07:59:59Z",
+ "updated_at": "2026-10-24T08:03:24Z",
  "games": 12,
  "final": 12,
  "pending": 0,
- "problems": 1,
+ "problems": 0,
  "sources": [
   "nba"
  ],
@@ -127,18 +127,7 @@
    "nba_game_id": "0022600009",
    "espn_event_id": "401909096",
    "url": "https://www.nba.com/game/0022600009/box-score",
-   "problems": [
-    "HOU fgm: players 37 != team 38",
-    "HOU fga: players 76 != team 78",
-    "HOU tpm: players 9 != team 10",
-    "HOU tpa: players 24 != team 25",
-    "HOU pts: players 111 != team 114",
-    "HOU minutes: players 231.1 != team 240",
-    "SAS fga: players 85 != team 87",
-    "SAS tpa: players 35 != team 37",
-    "SAS pf: players 25 != team 26",
-    "SAS minutes: players 234.9 != team 240"
-   ]
+   "problems": []
   },
   {
    "boxid": "202610230UTA",

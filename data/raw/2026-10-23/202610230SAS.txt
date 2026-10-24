@@ -10,16 +10,13 @@ Houston Rockets	Starters	Fred VanVleet	31:31	4	10	3	8	3	4	0	3	3	5	3	0	0	2	14
 Houston Rockets	Reserves	Tari Eason	26:33	4	8	0	2	4	4	2	4	6	0	3	0	1	3	12
 Houston Rockets	Reserves	Marcus Smart	21:24	1	6	0	4	3	4	0	3	3	1	1	0	3	2	5
 Houston Rockets	Reserves	Steven Adams	8:53	2	2	0	0	0	0	1	1	2	1	1	0	0	4	4
-Houston Rockets	Reserves	Bogdan Bogdanović	Did Not Play
+Houston Rockets	Reserves	Bogdan Bogdanović	8:53	1	2	1	1	0	0	0	1	1	0	0	0	1	0	3
 Houston Rockets	Reserves	Clint Capela	Did Not Play
-Houston Rockets	Reserves	Quadir Copeland	Did Not Dress
 Houston Rockets	Reserves	Isaiah Crawford	Did Not Play
-Houston Rockets	Reserves	Julian Phillips	Did Not Dress
 Houston Rockets	Reserves	Reed Sheppard	Did Not Dress
 Houston Rockets	Reserves	Jae'Sean Tate	Did Not Play
 Houston Rockets	Reserves	Bruce Thornton	Did Not Play
-Houston Rockets	Reserves	Oscar Tshiebwe	Did Not Dress
-Houston Rockets	Totals	Team Totals	240	38	78	10	25	28	31	8	35	43	25	11	5	15	22	114
+Houston Rockets	Totals	Team Totals	240	38	78	10	25	28	31	8	36	44	25	11	5	15	22	114
 San Antonio Spurs	Starters	Dylan Harper	35:52	8	15	1	4	3	4	0	3	3	2	0	0	0	2	20
 San Antonio Spurs	Starters	Devin Vassell	35:31	3	8	2	5	2	2	1	3	4	2	3	0	5	4	10
 San Antonio Spurs	Starters	De'Aaron Fox	33:42	6	11	2	5	5	5	0	4	4	9	2	0	5	1	19
@@ -28,12 +25,9 @@ San Antonio Spurs	Starters	Victor Wembanyama	31:59	9	21	2	6	5	8	4	9	13	2	0	2	2	4
 San Antonio Spurs	Reserves	Julian Champagnie	25:13	2	5	2	5	0	0	0	0	0	0	3	0	1	1	6
 San Antonio Spurs	Reserves	Keldon Johnson	19:21	4	7	0	1	0	0	3	3	6	1	1	0	1	4	8
 San Antonio Spurs	Reserves	Luke Kornet	16:01	2	3	0	0	3	5	0	3	3	0	0	1	0	3	7
+San Antonio Spurs	Reserves	Harrison Barnes	5:06	0	2	0	2	0	0	0	0	0	0	0	0	0	1	0
 San Antonio Spurs	Reserves	Carter Bryant	4:18	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-San Antonio Spurs	Reserves	Harrison Barnes	Did Not Play
-San Antonio Spurs	Reserves	Maliq Brown	Did Not Dress
-San Antonio Spurs	Reserves	Ja'Kobi Gillespie	Did Not Dress
 San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
-San Antonio Spurs	Reserves	David Jones Garcia	Did Not Dress
 San Antonio Spurs	Reserves	Jordan McLaughlin	Did Not Play
 San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
 San Antonio Spurs	Reserves	Tarris Reed Jr.	Did Not Play

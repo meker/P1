@@ -37,6 +37,5 @@ Indiana Pacers	Reserves	Kobe Brown	1:18	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
 Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
 Indiana Pacers	Reserves	T.J. McConnell	Did Not Dress
 Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
-Indiana Pacers	Reserves	Braden Smith	Did Not Dress
 Indiana Pacers	Totals	Team Totals	240	39	88	7	32	20	28	13	29	42	27	6	6	19	20	105
 ```

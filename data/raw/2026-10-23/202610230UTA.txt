@@ -13,12 +13,9 @@ New Orleans Pelicans	Reserves	Jordan Poole	19:10	1	8	1	5	9	10	0	2	2	2	3	1	0	5	12
 New Orleans Pelicans	Reserves	Herbert Jones	17:47	1	2	1	2	0	0	0	1	1	0	0	0	0	3	3
 New Orleans Pelicans	Reserves	Bennedict Mathurin	15:06	2	5	0	1	0	0	1	1	2	0	0	0	2	3	4
 New Orleans Pelicans	Reserves	Karlo Matković	9:07	3	3	0	0	1	2	2	2	4	1	2	0	0	1	7
-New Orleans Pelicans	Reserves	Malik Dia	Did Not Dress
 New Orleans Pelicans	Reserves	AJ Johnson	Did Not Play
 New Orleans Pelicans	Reserves	DeAndre Jordan	Did Not Play
 New Orleans Pelicans	Reserves	Bryce McGowens	Did Not Play
-New Orleans Pelicans	Reserves	Jaron Pierre Jr.	Did Not Dress
-New Orleans Pelicans	Reserves	Julian Reese	Did Not Dress
 New Orleans Pelicans	Reserves	Trendon Watford	Did Not Play
 New Orleans Pelicans	Totals	Team Totals	240	44	87	8	26	23	27	9	28	37	18	15	5	15	29	119
 Utah Jazz	Starters	Lauri Markkanen	34:08	6	13	4	9	0	0	2	4	6	3	1	0	1	0	16
@@ -31,12 +28,10 @@ Utah Jazz	Reserves	Svi Mykhailiuk	21:24	1	4	0	2	1	2	1	3	4	1	1	0	1	2	3
 Utah Jazz	Reserves	Isaiah Collier	18:02	3	5	0	1	4	6	0	2	2	7	0	0	2	3	10
 Utah Jazz	Reserves	Brice Sensabaugh	15:35	3	6	2	4	2	2	1	2	3	2	0	1	1	2	10
 Utah Jazz	Reserves	Kyle Filipowski	7:35	0	1	0	0	0	0	0	1	1	0	1	0	3	0	0
-Utah Jazz	Reserves	Trey Alexander	Did Not Dress
 Utah Jazz	Reserves	Mo Bamba	Did Not Play
 Utah Jazz	Reserves	Tony Bradley	Did Not Play
 Utah Jazz	Reserves	Josh Green	Did Not Play
 Utah Jazz	Reserves	Blake Hinson	Did Not Play
-Utah Jazz	Reserves	Harrison Ingram	Did Not Dress
 Utah Jazz	Reserves	Jusuf Nurkić	Did Not Dress
 Utah Jazz	Reserves	Josh Okogie	Did Not Play
 Utah Jazz	Totals	Team Totals	240	41	84	13	35	25	33	14	28	42	31	4	5	18	21	120

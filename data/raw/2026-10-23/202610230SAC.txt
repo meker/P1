@@ -13,7 +13,7 @@ Portland Trail Blazers	Reserves	Scoot Henderson	20:33	1	7	0	3	2	2	0	1	1	2	0	0	0	
 Portland Trail Blazers	Reserves	Robert Williams III	18:01	6	6	0	0	1	2	2	4	6	0	0	1	2	0	13
 Portland Trail Blazers	Reserves	Vít Krejčí	3:28	0	1	0	1	0	0	0	2	2	0	0	0	0	0	0
 Portland Trail Blazers	Reserves	Branden Carlson	Did Not Dress
-Portland Trail Blazers	Reserves	Hansen Yang	Did Not Play
+Portland Trail Blazers	Reserves	Yang Hansen	Did Not Play
 Portland Trail Blazers	Reserves	Jayson Kent	Did Not Dress
 Portland Trail Blazers	Reserves	Micah Potter	Did Not Play
 Portland Trail Blazers	Reserves	Shaedon Sharpe	Did Not Dress
