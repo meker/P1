@@ -1,0 +1,39 @@
+{
+ "date": "2026-10-22",
+ "updated_at": "2026-10-24T07:46:26Z",
+ "games": 2,
+ "final": 2,
+ "pending": 0,
+ "problems": 0,
+ "sources": [
+  "espn"
+ ],
+ "list": [
+  {
+   "boxid": "202610220PHI",
+   "away": "CLE",
+   "home": "PHI",
+   "status": "final",
+   "status_text": "Final",
+   "source": "espn",
+   "score": "106-114",
+   "nba_game_id": null,
+   "espn_event_id": "401909093",
+   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909093",
+   "problems": []
+  },
+  {
+   "boxid": "202610220OKC",
+   "away": "DEN",
+   "home": "OKC",
+   "status": "final",
+   "status_text": "Final",
+   "source": "espn",
+   "score": "84-96",
+   "nba_game_id": null,
+   "espn_event_id": "401909094",
+   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909094",
+   "problems": []
+  }
+ ]
+}

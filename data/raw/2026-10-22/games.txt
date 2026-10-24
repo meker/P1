@@ -1,0 +1,2 @@
+Cleveland Cavaliers|106|Philadelphia 76ers|114|https://www.basketball-reference.com/boxscores/202610220PHI.html|final
+Denver Nuggets|84|Oklahoma City Thunder|96|https://www.basketball-reference.com/boxscores/202610220OKC.html|final

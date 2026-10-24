@@ -1,0 +1,12 @@
+Chicago Bulls|132|Milwaukee Bucks|125|https://www.basketball-reference.com/boxscores/202610230MIL.html|final
+New York Knicks|103|Boston Celtics|107|https://www.basketball-reference.com/boxscores/202610230BOS.html|final
+Atlanta Hawks|128|Charlotte Hornets|81|https://www.basketball-reference.com/boxscores/202610230CHO.html|final
+Dallas Mavericks|121|Indiana Pacers|105|https://www.basketball-reference.com/boxscores/202610230IND.html|final
+Minnesota Timberwolves|115|Orlando Magic|93|https://www.basketball-reference.com/boxscores/202610230ORL.html|final
+Toronto Raptors|112|Washington Wizards|102|https://www.basketball-reference.com/boxscores/202610230WAS.html|final
+Detroit Pistons|128|Miami Heat|111|https://www.basketball-reference.com/boxscores/202610230MIA.html|final
+Houston Rockets|114|San Antonio Spurs|110|https://www.basketball-reference.com/boxscores/202610230SAS.html|final
+New Orleans Pelicans|119|Utah Jazz|120|https://www.basketball-reference.com/boxscores/202610230UTA.html|final
+Memphis Grizzlies|111|Golden State Warriors|108|https://www.basketball-reference.com/boxscores/202610230GSW.html|final
+Los Angeles Clippers|117|Los Angeles Lakers|125|https://www.basketball-reference.com/boxscores/202610230LAL.html|final
+Portland Trail Blazers|128|Sacramento Kings|120|https://www.basketball-reference.com/boxscores/202610230SAC.html|final

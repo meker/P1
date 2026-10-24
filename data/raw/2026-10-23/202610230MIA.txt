@@ -1,0 +1,36 @@
+Final: Detroit Pistons 128, Miami Heat 111
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Detroit Pistons	Starters	Cade Cunningham	30:00	5	8	2	3	4	6	1	1	2	8	1	3	7	5	16
+Detroit Pistons	Starters	John Collins	29:00	9	15	5	6	0	0	2	5	7	1	0	0	1	3	23
+Detroit Pistons	Starters	Duncan Robinson	28:00	5	12	5	10	2	2	0	1	1	2	2	0	1	3	17
+Detroit Pistons	Starters	Ausar Thompson	19:00	2	5	0	1	0	0	0	3	3	4	1	1	3	2	4
+Detroit Pistons	Starters	Jalen Duren	10:00	2	4	0	0	0	0	1	5	6	3	1	1	1	0	4
+Detroit Pistons	Reserves	Paul Reed	26:00	8	11	2	2	1	1	2	9	11	4	0	0	0	2	19
+Detroit Pistons	Reserves	Ronald Holland II	22:00	3	6	0	0	2	2	2	3	5	4	1	0	0	0	8
+Detroit Pistons	Reserves	Daniss Jenkins	22:00	5	8	1	2	4	5	1	4	5	5	1	0	3	2	15
+Detroit Pistons	Reserves	Kevin Huerter	20:00	2	7	1	5	0	0	0	6	6	2	1	1	2	6	5
+Detroit Pistons	Reserves	Isaiah Joe	18:00	4	9	1	6	3	4	1	2	3	1	0	0	1	1	12
+Detroit Pistons	Reserves	Javonte Green	13:00	2	4	1	3	0	0	2	1	3	0	0	1	0	0	5
+Detroit Pistons	Reserves	Tolu Smith	2:00	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+Detroit Pistons	Reserves	Taurean Prince	Did Not Play
+Detroit Pistons	Reserves	Chaz Lanier	Did Not Play
+Detroit Pistons	Reserves	Ebuka Okorie	Did Not Play
+Detroit Pistons	Totals	Team Totals	240	47	89	18	38	16	20	12	41	53	34	8	7	19	24	128
+Miami Heat	Starters	Giannis Antetokounmpo	33:00	15	26	1	3	5	8	6	6	12	5	2	1	3	3	36
+Miami Heat	Starters	Davion Mitchell	33:00	6	14	3	9	3	5	0	2	2	5	0	2	1	4	18
+Miami Heat	Starters	Andrew Wiggins	26:00	3	12	1	6	1	1	4	4	8	2	1	0	1	1	8
+Miami Heat	Starters	Klay Thompson	24:00	2	11	2	11	0	0	0	2	2	2	0	0	0	2	6
+Miami Heat	Starters	Bam Adebayo	23:00	2	6	0	2	0	2	3	3	6	3	2	0	1	6	4
+Miami Heat	Reserves	Pelle Larsson	29:00	1	7	1	4	4	4	1	1	2	1	1	0	1	2	7
+Miami Heat	Reserves	Bobby Portis	21:00	4	10	3	6	0	0	1	7	8	2	1	0	0	0	11
+Miami Heat	Reserves	Tim Hardaway Jr.	21:00	2	7	2	5	2	4	1	3	4	1	0	0	3	1	8
+Miami Heat	Reserves	Nikola Jović	13:00	1	1	0	0	3	4	2	2	4	1	1	1	0	1	5
+Miami Heat	Reserves	Dru Smith	6:00	1	2	1	1	0	0	0	0	0	1	0	0	1	2	3
+Miami Heat	Reserves	Simone Fontecchio	3:00	0	3	0	2	0	0	0	1	1	0	0	0	0	1	0
+Miami Heat	Reserves	Myron Gardner	3:00	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+Miami Heat	Reserves	Nick Richards	3:00	1	1	1	1	0	0	0	0	0	1	0	0	0	0	3
+Miami Heat	Reserves	Ryan Conwell	3:00	1	2	0	1	0	0	0	0	0	0	0	0	0	0	2
+Miami Heat	Totals	Team Totals	240	39	102	15	51	18	28	18	31	49	24	8	5	12	23	111
+```
