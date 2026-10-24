@@ -13,5 +13,10 @@ job in Mert's public repo meker/P1 reads NBA.com's official box scores (ESPN whe
 3. `cd /mnt/project-files/daily-report && mkdir -p raw/D && cp /home/claude/p1/data/raw/D/*.txt raw/D/`
    (overwrites older Basketball-Reference files of the same games), then the usual --check and build.
 Pending games ("not final" lines) refresh in the repo every 20 minutes until 09:47 UTC: the follow-up run
-repeats steps 1-3. Only if GitHub cannot be reached or data/raw/D/ is missing, fall back to the
-Basketball-Reference "Fetch instructions" below and say so in one clause of the reply.
+repeats steps 1-3.
+Fallbacks, each named in one clause of the reply:
+- No clone works: ONE subagent WebFetches https://raw.githubusercontent.com/meker/P1/HEAD/data/raw/D/games.txt
+  and every box file it lists (<boxid>.txt, the box URL's file name) with the prompt "Return this file's
+  text exactly, byte for byte, no commentary", writes each verbatim to raw/D/ and runs --check.
+- data/raw/D/ does not exist on GitHub (the Actions job stopped): the Basketball-Reference
+  "Fetch instructions" below.
