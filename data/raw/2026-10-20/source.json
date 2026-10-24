@@ -1,12 +1,12 @@
 {
  "date": "2026-10-20",
- "updated_at": "2026-10-24T07:46:39Z",
+ "updated_at": "2026-10-24T08:00:18Z",
  "games": 3,
  "final": 3,
  "pending": 0,
  "problems": 0,
  "sources": [
-  "espn"
+  "nba"
  ],
  "list": [
   {
@@ -15,11 +15,13 @@
    "home": "DET",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "113-121",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 113,
+   "home_score": 121,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600001",
    "espn_event_id": "401909088",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909088",
+   "url": "https://www.nba.com/game/0022600001/box-score",
    "problems": []
   },
   {
@@ -28,11 +30,13 @@
    "home": "NYK",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "106-100",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 106,
+   "home_score": 100,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600002",
    "espn_event_id": "401909089",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909089",
+   "url": "https://www.nba.com/game/0022600002/box-score",
    "problems": []
   },
   {
@@ -41,11 +45,13 @@
    "home": "SAS",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "116-104",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 116,
+   "home_score": 104,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600003",
    "espn_event_id": "401909090",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909090",
+   "url": "https://www.nba.com/game/0022600003/box-score",
    "problems": []
   }
  ]

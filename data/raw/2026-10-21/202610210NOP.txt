@@ -2,34 +2,41 @@ Final: Indiana Pacers 123, New Orleans Pelicans 120
 
 ```
 team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
-Indiana Pacers	Starters	Pascal Siakam	35:00	13	23	1	3	3	8	2	6	8	1	1	0	2	3	30
-Indiana Pacers	Starters	Ivica Zubac	34:00	7	12	0	0	2	4	4	11	15	0	0	2	1	5	16
-Indiana Pacers	Starters	Andrew Nembhard	34:00	6	10	0	3	6	7	0	2	2	9	1	0	2	4	18
-Indiana Pacers	Starters	Tyrese Haliburton	34:00	8	15	2	6	5	5	0	2	2	12	1	0	3	0	23
-Indiana Pacers	Starters	Kelly Oubre Jr.	28:00	2	5	0	3	0	0	0	2	2	3	1	1	1	3	4
-Indiana Pacers	Reserves	Obi Toppin	25:00	7	12	4	9	2	3	1	2	3	1	2	0	0	3	20
-Indiana Pacers	Reserves	Jarace Walker	19:00	1	6	1	3	0	0	0	6	6	2	0	1	4	2	3
-Indiana Pacers	Reserves	Quenton Jackson	16:00	2	3	0	0	2	2	1	3	4	1	3	0	0	0	6
-Indiana Pacers	Reserves	Ben Sheppard	12:00	1	3	1	2	0	0	1	0	1	0	0	0	0	4	3
-Indiana Pacers	Reserves	Larry Nance Jr.	5:00	0	1	0	1	0	0	0	0	0	0	0	0	0	2	0
-Indiana Pacers	Reserves	Jalen Slawson	Did Not Play
-Indiana Pacers	Reserves	Jay Huff	Did Not Play
+Indiana Pacers	Starters	Pascal Siakam	35:17	13	23	1	3	3	8	2	6	8	1	1	0	2	3	30
+Indiana Pacers	Starters	Andrew Nembhard	33:40	6	10	0	3	6	7	0	2	2	9	1	0	2	4	18
+Indiana Pacers	Starters	Ivica Zubac	33:38	7	12	0	0	2	4	4	11	15	0	0	2	1	5	16
+Indiana Pacers	Starters	Tyrese Haliburton	33:32	8	15	2	6	5	5	0	2	2	12	1	0	3	0	23
+Indiana Pacers	Starters	Kelly Oubre Jr.	27:44	2	5	0	3	0	0	0	2	2	3	1	1	1	3	4
+Indiana Pacers	Reserves	Obi Toppin	24:42	7	12	4	9	2	3	1	2	3	1	2	0	0	3	20
+Indiana Pacers	Reserves	Jarace Walker	18:31	1	6	1	3	0	0	0	6	6	2	0	1	4	2	3
+Indiana Pacers	Reserves	Quenton Jackson	15:32	2	3	0	0	2	2	1	3	4	1	3	0	0	0	6
+Indiana Pacers	Reserves	Ben Sheppard	12:10	1	3	1	2	0	0	1	0	1	0	0	0	0	4	3
 Indiana Pacers	Reserves	Kobe Brown	Did Not Play
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Reserves	Jay Huff	Did Not Play
+Indiana Pacers	Reserves	T.J. McConnell	Did Not Dress
+Indiana Pacers	Reserves	Larry Nance Jr.	Did Not Play
+Indiana Pacers	Reserves	Aaron Nesmith	Did Not Dress
+Indiana Pacers	Reserves	Jalen Slawson	Did Not Play
+Indiana Pacers	Reserves	Braden Smith	Did Not Dress
 Indiana Pacers	Totals	Team Totals	240	47	90	9	30	20	29	9	34	43	29	9	4	13	26	123
-New Orleans Pelicans	Starters	Dejounte Murray	34:00	9	18	2	5	3	3	2	1	3	7	2	3	4	2	23
-New Orleans Pelicans	Starters	Zion Williamson	32:00	7	16	2	4	6	6	1	2	3	3	3	0	3	3	22
-New Orleans Pelicans	Starters	Trey Murphy III	32:00	4	11	2	5	1	1	0	4	4	1	0	0	0	2	11
-New Orleans Pelicans	Starters	Yves Missi	30:00	5	6	0	0	3	4	7	7	14	5	2	3	1	3	13
-New Orleans Pelicans	Starters	Jeremiah Fears	21:00	2	10	1	5	3	4	1	2	3	1	0	0	1	3	8
-New Orleans Pelicans	Reserves	Saddiq Bey	24:00	4	9	2	4	3	3	0	5	5	0	0	0	2	1	13
-New Orleans Pelicans	Reserves	Derik Queen	18:00	2	4	0	0	6	6	1	9	10	1	2	0	1	3	10
-New Orleans Pelicans	Reserves	Bennedict Mathurin	18:00	3	7	0	3	5	6	1	2	3	2	1	0	0	3	11
-New Orleans Pelicans	Reserves	Herbert Jones	17:00	2	4	1	1	0	0	1	1	2	0	1	0	1	3	5
-New Orleans Pelicans	Reserves	Jordan Poole	15:00	0	4	0	3	4	4	0	2	2	3	0	0	1	1	4
-New Orleans Pelicans	Reserves	Trendon Watford	Did Not Play
-New Orleans Pelicans	Reserves	Karlo Matković	Did Not Play
-New Orleans Pelicans	Reserves	DeAndre Jordan	Did Not Play
-New Orleans Pelicans	Reserves	Bryce McGowens	Did Not Play
+New Orleans Pelicans	Starters	Dejounte Murray	34:21	9	18	2	5	3	3	2	1	3	7	2	3	4	2	23
+New Orleans Pelicans	Starters	Zion Williamson	32:08	7	16	2	4	6	6	1	2	3	3	3	0	3	3	22
+New Orleans Pelicans	Starters	Trey Murphy III	31:33	4	11	2	5	1	1	0	4	4	1	0	0	0	2	11
+New Orleans Pelicans	Starters	Yves Missi	29:55	5	6	0	0	3	4	7	7	14	5	2	3	1	3	13
+New Orleans Pelicans	Starters	Jeremiah Fears	20:56	2	10	1	5	3	4	1	2	3	1	0	0	1	3	8
+New Orleans Pelicans	Reserves	Saddiq Bey	23:37	4	9	2	4	3	3	0	5	5	0	0	0	2	1	13
+New Orleans Pelicans	Reserves	Derik Queen	18:05	2	4	0	0	6	6	1	9	10	1	2	0	1	3	10
+New Orleans Pelicans	Reserves	Bennedict Mathurin	17:52	3	7	0	3	5	6	1	2	3	2	1	0	0	3	11
+New Orleans Pelicans	Reserves	Herbert Jones	16:54	2	4	1	1	0	0	1	1	2	0	1	0	1	3	5
+New Orleans Pelicans	Reserves	Jordan Poole	14:39	0	4	0	3	4	4	0	2	2	3	0	0	1	1	4
+New Orleans Pelicans	Reserves	Malik Dia	Did Not Dress
 New Orleans Pelicans	Reserves	AJ Johnson	Did Not Play
+New Orleans Pelicans	Reserves	DeAndre Jordan	Did Not Play
+New Orleans Pelicans	Reserves	Karlo Matković	Did Not Play
+New Orleans Pelicans	Reserves	Bryce McGowens	Did Not Play
+New Orleans Pelicans	Reserves	Jaron Pierre Jr.	Did Not Dress
+New Orleans Pelicans	Reserves	Julian Reese	Did Not Dress
+New Orleans Pelicans	Reserves	Trendon Watford	Did Not Play
 New Orleans Pelicans	Totals	Team Totals	240	38	89	10	30	34	37	14	35	49	23	11	6	14	24	120
 ```

@@ -1,12 +1,12 @@
 {
  "date": "2026-10-21",
- "updated_at": "2026-10-24T07:46:42Z",
+ "updated_at": "2026-10-24T08:00:30Z",
  "games": 11,
  "final": 11,
  "pending": 0,
- "problems": 0,
+ "problems": 2,
  "sources": [
-  "espn"
+  "nba"
  ],
  "list": [
   {
@@ -15,11 +15,13 @@
    "home": "ORL",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "132-125",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 132,
+   "home_score": 125,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600085",
    "espn_event_id": "401909834",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909834",
+   "url": "https://www.nba.com/game/0022600085/box-score",
    "problems": []
   },
   {
@@ -28,11 +30,13 @@
    "home": "WAS",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "116-128",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 116,
+   "home_score": 128,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600086",
    "espn_event_id": "401909835",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909835",
+   "url": "https://www.nba.com/game/0022600086/box-score",
    "problems": []
   },
   {
@@ -41,11 +45,13 @@
    "home": "MIA",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "131-106",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 131,
+   "home_score": 106,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600004",
    "espn_event_id": "401909091",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909091",
+   "url": "https://www.nba.com/game/0022600004/box-score",
    "problems": []
   },
   {
@@ -54,12 +60,19 @@
    "home": "BRK",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "110-103",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 110,
+   "home_score": 103,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600087",
    "espn_event_id": "401909836",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909836",
-   "problems": []
+   "url": "https://www.nba.com/game/0022600087/box-score",
+   "problems": [
+    "CHO fga: players 92 != team 93",
+    "CHO tpa: players 47 != team 48",
+    "CHO pf: players 22 != team 23",
+    "CHO minutes: players 236.7 != team 240"
+   ]
   },
   {
    "boxid": "202610210TOR",
@@ -67,24 +80,13 @@
    "home": "TOR",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "92-135",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 92,
+   "home_score": 135,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600088",
    "espn_event_id": "401909837",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909837",
-   "problems": []
-  },
-  {
-   "boxid": "202610210MEM",
-   "away": "UTA",
-   "home": "MEM",
-   "status": "final",
-   "status_text": "Final",
-   "source": "espn",
-   "score": "103-123",
-   "nba_game_id": null,
-   "espn_event_id": "401909838",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909838",
+   "url": "https://www.nba.com/game/0022600088/box-score",
    "problems": []
   },
   {
@@ -93,11 +95,33 @@
    "home": "NOP",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "123-120",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 123,
+   "home_score": 120,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600090",
    "espn_event_id": "401909839",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909839",
+   "url": "https://www.nba.com/game/0022600090/box-score",
+   "problems": [
+    "IND fga: players 89 != team 90",
+    "IND tpa: players 29 != team 30",
+    "IND pf: players 24 != team 26",
+    "IND minutes: players 234.8 != team 240"
+   ]
+  },
+  {
+   "boxid": "202610210MEM",
+   "away": "UTA",
+   "home": "MEM",
+   "status": "final",
+   "status_text": "Final",
+   "source": "nba",
+   "away_score": 103,
+   "home_score": 123,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600089",
+   "espn_event_id": "401909838",
+   "url": "https://www.nba.com/game/0022600089/box-score",
    "problems": []
   },
   {
@@ -106,11 +130,13 @@
    "home": "HOU",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "110-128",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 110,
+   "home_score": 128,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600091",
    "espn_event_id": "401909840",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909840",
+   "url": "https://www.nba.com/game/0022600091/box-score",
    "problems": []
   },
   {
@@ -119,11 +145,13 @@
    "home": "LAL",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "105-127",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 105,
+   "home_score": 127,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600005",
    "espn_event_id": "401909092",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909092",
+   "url": "https://www.nba.com/game/0022600005/box-score",
    "problems": []
   },
   {
@@ -132,11 +160,13 @@
    "home": "POR",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "83-124",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 83,
+   "home_score": 124,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600092",
    "espn_event_id": "401909841",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909841",
+   "url": "https://www.nba.com/game/0022600092/box-score",
    "problems": []
   },
   {
@@ -145,11 +175,13 @@
    "home": "LAC",
    "status": "final",
    "status_text": "Final",
-   "source": "espn",
-   "score": "96-121",
-   "nba_game_id": null,
+   "source": "nba",
+   "away_score": 96,
+   "home_score": 121,
+   "final_at": "2026-10-24T08:00:14Z",
+   "nba_game_id": "0022600093",
    "espn_event_id": "401909842",
-   "url": "https://www.espn.com/nba/boxscore/_/gameId/401909842",
+   "url": "https://www.nba.com/game/0022600093/box-score",
    "problems": []
   }
  ]
