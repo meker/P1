@@ -15,7 +15,7 @@ Dallas Mavericks	Reserves	Tobi Lawal	1:00	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
 Dallas Mavericks	Reserves	Sergio de Larrea	1:00	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
 Dallas Mavericks	Reserves	Moussa Cisse	1:00	1	1	0	0	1	2	1	0	1	0	0	0	0	0	3
 Dallas Mavericks	Reserves	Walter Clayton Jr.	1:00	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
-Dallas Mavericks	Totals	Team Totals	240	44	88	14	34	19	23	11	35	46	28	10	11	14	27	121
+Dallas Mavericks	Totals	Team Totals	240	44	88	14	34	19	23	11	35	46	28	10	11	15	27	121
 Indiana Pacers	Starters	Andrew Nembhard	32:00	5	11	1	2	5	5	0	2	2	5	1	0	1	1	16
 Indiana Pacers	Starters	Tyrese Haliburton	32:00	8	17	0	4	2	2	2	4	6	7	1	2	3	0	18
 Indiana Pacers	Starters	Pascal Siakam	29:00	8	13	3	5	4	7	0	3	3	3	0	0	5	3	23
@@ -29,5 +29,5 @@ Indiana Pacers	Reserves	Jalen Slawson	16:00	2	2	0	0	0	2	2	3	5	2	2	2	1	2	4
 Indiana Pacers	Reserves	Jay Huff	5:00	0	1	0	1	0	0	0	2	2	0	0	0	0	0	0
 Indiana Pacers	Reserves	Larry Nance Jr.	1:00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 Indiana Pacers	Reserves	Kobe Brown	1:00	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-Indiana Pacers	Totals	Team Totals	240	39	88	7	32	20	28	13	29	42	27	6	6	19	20	105
+Indiana Pacers	Totals	Team Totals	240	39	88	7	32	20	28	13	29	42	27	6	6	21	20	105
 ```

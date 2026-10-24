@@ -16,7 +16,7 @@ New York Knicks	Reserves	James Wiseman	2:00	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
 New York Knicks	Reserves	Pacôme Dadiet	0:00	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 New York Knicks	Reserves	Mohamed Diawara	Did Not Play
 New York Knicks	Reserves	Tyler Kolek	Did Not Play
-New York Knicks	Totals	Team Totals	240	36	80	16	40	15	21	12	32	44	27	6	2	16	23	103
+New York Knicks	Totals	Team Totals	240	36	80	16	40	15	21	12	32	44	27	6	2	18	23	103
 Boston Celtics	Starters	Jayson Tatum	37:00	14	26	3	10	5	5	1	8	9	7	3	0	2	2	36
 Boston Celtics	Starters	Paul George	34:00	6	15	3	7	0	0	0	7	7	2	2	0	1	4	15
 Boston Celtics	Starters	Derrick White	33:00	5	11	2	6	0	0	1	3	4	6	1	0	1	2	12
@@ -31,5 +31,5 @@ Boston Celtics	Reserves	Hugo González	4:00	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0
 Boston Celtics	Reserves	Chris Cenac Jr.	Did Not Play
 Boston Celtics	Reserves	Mike Conley	Did Not Play
 Boston Celtics	Reserves	Ron Harper Jr.	Did Not Play
-Boston Celtics	Totals	Team Totals	240	40	87	15	39	12	16	10	27	37	25	7	4	10	22	107
+Boston Celtics	Totals	Team Totals	240	40	87	15	39	12	16	10	27	37	25	7	4	11	22	107
 ```
