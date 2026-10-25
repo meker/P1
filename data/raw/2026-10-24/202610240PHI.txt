@@ -1,0 +1,42 @@
+Final: Milwaukee Bucks 116, Philadelphia 76ers 127
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Milwaukee Bucks	Starters	Kyle Kuzma	35:01	6	11	0	3	2	2	2	10	12	3	0	0	3	2	14
+Milwaukee Bucks	Starters	Tyler Herro	31:19	6	14	1	3	0	0	3	3	6	3	0	0	3	0	13
+Milwaukee Bucks	Starters	Jaime Jaquez Jr.	27:29	7	13	2	3	5	7	2	6	8	4	0	0	2	0	21
+Milwaukee Bucks	Starters	Ryan Rollins	25:27	6	14	2	5	1	2	1	3	4	4	1	1	2	3	15
+Milwaukee Bucks	Starters	Myles Turner	19:56	0	4	0	2	0	0	0	5	5	1	0	1	3	4	0
+Milwaukee Bucks	Reserves	Kel'el Ware	29:00	6	11	2	5	5	5	5	8	13	1	1	2	3	4	19
+Milwaukee Bucks	Reserves	Kasparas Jakučionis	24:44	4	8	0	3	4	4	0	3	3	2	2	0	3	4	12
+Milwaukee Bucks	Reserves	AJ Green	19:07	4	7	3	6	0	0	1	2	3	0	0	0	2	1	11
+Milwaukee Bucks	Reserves	Brayden Burries	17:08	3	7	1	4	3	4	2	3	5	2	0	0	0	1	10
+Milwaukee Bucks	Reserves	Nate Ament	10:49	0	1	0	0	1	4	1	2	3	0	1	0	1	5	1
+Milwaukee Bucks	Reserves	Ousmane Dieng	Did Not Play
+Milwaukee Bucks	Reserves	Kam Jones	Did Not Dress
+Milwaukee Bucks	Reserves	Caris LeVert	Did Not Play
+Milwaukee Bucks	Reserves	Bogoljub Marković	Did Not Play
+Milwaukee Bucks	Reserves	Pete Nance	Did Not Dress
+Milwaukee Bucks	Reserves	Cormac Ryan	Did Not Dress
+Milwaukee Bucks	Reserves	Jericho Sims	Did Not Play
+Milwaukee Bucks	Reserves	Gary Trent Jr.	Did Not Play
+Milwaukee Bucks	Totals	Team Totals	240	42	90	11	34	21	28	17	45	62	20	5	4	22	24	116
+Philadelphia 76ers	Starters	Joel Embiid	36:12	8	20	0	3	12	14	4	7	11	10	1	0	4	5	28
+Philadelphia 76ers	Starters	Tyrese Maxey	36:06	9	22	4	9	4	4	1	3	4	4	0	0	3	2	26
+Philadelphia 76ers	Starters	Jaylen Brown	34:40	9	19	3	6	6	6	1	2	3	5	3	0	3	3	27
+Philadelphia 76ers	Starters	VJ Edgecombe	29:56	5	13	5	10	2	2	2	11	13	2	1	2	0	5	17
+Philadelphia 76ers	Starters	Dean Wade	28:04	2	3	2	3	1	3	1	1	2	0	3	1	0	2	7
+Philadelphia 76ers	Reserves	Kentavious Caldwell-Pope	28:17	4	8	4	6	0	0	0	2	2	1	3	0	0	2	12
+Philadelphia 76ers	Reserves	Anfernee Simons	20:21	1	7	1	5	1	2	1	0	1	2	1	0	1	0	4
+Philadelphia 76ers	Reserves	Jabari Walker	12:02	2	3	0	0	2	3	1	2	3	1	1	0	0	2	6
+Philadelphia 76ers	Reserves	Adem Bona	9:41	0	2	0	1	0	0	0	1	1	1	1	0	0	2	0
+Philadelphia 76ers	Reserves	Labaron Philon Jr.	3:41	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+Philadelphia 76ers	Reserves	Justin Edwards	0:30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Philadelphia 76ers	Reserves	Caleb Love	0:30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Philadelphia 76ers	Reserves	Dominick Barlow	Did Not Dress
+Philadelphia 76ers	Reserves	Tacko Fall	Did Not Dress
+Philadelphia 76ers	Reserves	Ariel Hukporti	Did Not Dress
+Philadelphia 76ers	Reserves	LeBron James	Did Not Dress
+Philadelphia 76ers	Reserves	Rayan Rupert	Did Not Play
+Philadelphia 76ers	Totals	Team Totals	240	40	98	19	44	28	34	11	29	40	26	14	3	11	23	127
+```

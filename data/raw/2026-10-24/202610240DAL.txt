@@ -1,0 +1,40 @@
+Final: San Antonio Spurs 122, Dallas Mavericks 106
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+San Antonio Spurs	Starters	Devin Vassell	31:44	5	10	1	4	0	0	0	4	4	6	2	0	0	1	11
+San Antonio Spurs	Starters	Victor Wembanyama	28:55	9	18	2	6	3	5	1	6	7	2	1	4	2	0	23
+San Antonio Spurs	Starters	Dylan Harper	28:23	9	18	3	8	1	1	2	3	5	2	2	0	2	2	22
+San Antonio Spurs	Starters	Stephon Castle	28:14	8	18	3	8	0	0	1	3	4	8	3	0	3	3	19
+San Antonio Spurs	Starters	De'Aaron Fox	27:40	6	11	2	4	5	7	1	2	3	9	3	1	2	1	19
+San Antonio Spurs	Reserves	Julian Champagnie	28:14	4	8	3	7	1	1	0	5	5	3	1	3	0	1	12
+San Antonio Spurs	Reserves	Keldon Johnson	26:05	3	5	0	0	1	2	4	2	6	3	0	0	0	3	7
+San Antonio Spurs	Reserves	Luke Kornet	14:00	0	2	0	0	0	0	2	2	4	1	0	0	2	2	0
+San Antonio Spurs	Reserves	Carter Bryant	10:07	2	4	0	2	0	0	1	0	1	0	0	0	0	0	4
+San Antonio Spurs	Reserves	Tarris Reed Jr.	6:39	1	2	0	0	0	0	2	1	3	0	0	0	1	2	2
+San Antonio Spurs	Reserves	Harrison Barnes	3:57	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+San Antonio Spurs	Reserves	Jordan McLaughlin	3:01	0	2	0	0	0	0	1	0	1	0	0	0	0	0	0
+San Antonio Spurs	Reserves	Ja'Kobi Gillespie	3:01	1	2	1	2	0	0	0	0	0	0	0	0	0	0	3
+San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
+San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
+San Antonio Spurs	Totals	Team Totals	240	48	101	15	42	11	16	15	28	43	34	12	8	12	15	122
+Dallas Mavericks	Starters	P.J. Washington	36:09	6	12	0	3	0	1	1	3	4	2	0	0	0	4	12
+Dallas Mavericks	Starters	Zaccharie Risacher	31:38	4	8	1	3	2	2	0	4	4	2	1	2	1	2	11
+Dallas Mavericks	Starters	Max Christie	25:44	2	9	1	5	0	0	0	5	5	1	1	2	1	1	5
+Dallas Mavericks	Starters	Daniel Gafford	23:20	6	9	0	0	0	0	3	6	9	2	3	2	3	3	12
+Dallas Mavericks	Starters	Naji Marshall	20:55	4	8	1	1	1	3	0	4	4	5	1	0	2	0	10
+Dallas Mavericks	Reserves	Sergio de Larrea	33:02	9	15	3	4	0	0	1	4	5	4	0	0	4	3	21
+Dallas Mavericks	Reserves	Marcus Sasser	26:41	5	9	2	5	0	0	1	2	3	5	0	0	2	1	12
+Dallas Mavericks	Reserves	Walter Clayton Jr.	14:31	1	3	1	1	0	0	0	2	2	5	1	0	0	3	3
+Dallas Mavericks	Reserves	Morez Johnson Jr.	12:03	2	6	0	2	2	2	0	1	1	2	1	0	4	4	6
+Dallas Mavericks	Reserves	Moussa Cissé	7:20	2	2	0	0	0	0	1	3	4	0	0	0	0	0	4
+Dallas Mavericks	Reserves	Tobi Lawal	4:29	2	4	1	2	0	0	1	0	1	1	0	0	0	0	5
+Dallas Mavericks	Reserves	Jett Howard	4:08	2	3	1	2	0	0	0	0	0	0	0	0	1	0	5
+Dallas Mavericks	Reserves	Santi Aldama	Did Not Dress
+Dallas Mavericks	Reserves	Tarik Biberović	Did Not Dress
+Dallas Mavericks	Reserves	Cooper Flagg	Did Not Dress
+Dallas Mavericks	Reserves	Kyrie Irving	Did Not Dress
+Dallas Mavericks	Reserves	Dereck Lively II	Did Not Dress
+Dallas Mavericks	Reserves	Caleb Martin	Did Not Dress
+Dallas Mavericks	Totals	Team Totals	240	45	88	11	28	5	8	8	34	42	29	8	6	18	21	106
+```

@@ -1,0 +1,40 @@
+Final: New Orleans Pelicans 135, Denver Nuggets 141
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+New Orleans Pelicans	Starters	Trey Murphy III	36:56	10	17	4	8	2	2	3	3	6	4	1	0	4	2	26
+New Orleans Pelicans	Starters	Dejounte Murray	34:32	9	18	1	6	3	4	1	5	6	6	2	1	2	2	22
+New Orleans Pelicans	Starters	Zion Williamson	32:32	7	11	0	1	3	5	1	0	1	2	2	2	3	5	17
+New Orleans Pelicans	Starters	Jeremiah Fears	23:29	4	12	0	2	2	2	2	4	6	2	1	0	3	3	10
+New Orleans Pelicans	Starters	DeAndre Jordan	20:16	3	3	0	0	3	4	1	8	9	2	0	1	0	0	9
+New Orleans Pelicans	Reserves	Saddiq Bey	25:29	3	9	2	7	6	8	0	4	4	3	1	0	1	1	14
+New Orleans Pelicans	Reserves	Derik Queen	24:32	6	10	0	1	5	5	2	6	8	2	0	0	0	3	17
+New Orleans Pelicans	Reserves	Jordan Poole	22:30	2	6	2	5	0	0	1	2	3	7	1	1	2	3	6
+New Orleans Pelicans	Reserves	Bennedict Mathurin	20:28	4	9	1	5	0	0	2	2	4	4	0	0	0	2	9
+New Orleans Pelicans	Reserves	Herbert Jones	16:29	1	3	0	2	0	0	1	2	3	1	1	0	2	5	2
+New Orleans Pelicans	Reserves	Karlo Matković	7:47	1	1	1	1	0	0	0	0	0	0	0	0	1	3	3
+New Orleans Pelicans	Reserves	AJ Johnson	Did Not Play
+New Orleans Pelicans	Reserves	Bryce McGowens	Did Not Play
+New Orleans Pelicans	Reserves	Yves Missi	Did Not Dress
+New Orleans Pelicans	Reserves	Julian Reese	Did Not Play
+New Orleans Pelicans	Reserves	Trendon Watford	Did Not Play
+New Orleans Pelicans	Totals	Team Totals	265	50	99	11	38	24	30	14	36	50	33	9	5	18	29	135
+Denver Nuggets	Starters	Nikola Jokić	43:38	12	23	3	10	8	8	4	11	15	10	2	3	6	5	35
+Denver Nuggets	Starters	Jamal Murray	42:55	12	25	8	16	10	13	0	3	3	6	1	1	0	3	42
+Denver Nuggets	Starters	Christian Braun	40:25	7	11	0	3	1	2	2	6	8	2	2	0	1	3	15
+Denver Nuggets	Starters	Aaron Gordon	36:47	2	9	1	6	2	4	2	3	5	4	2	0	1	3	7
+Denver Nuggets	Starters	Bryce Hopkins	18:59	1	2	0	1	0	0	0	2	2	1	0	0	0	3	2
+Denver Nuggets	Reserves	Trevon Brazile	28:06	6	11	3	7	2	4	3	6	9	0	1	2	2	4	17
+Denver Nuggets	Reserves	DeMar DeRozan	23:34	4	10	0	2	4	4	1	2	3	3	0	0	1	4	12
+Denver Nuggets	Reserves	Cam Whitmore	11:18	2	5	0	2	0	0	1	1	2	0	1	0	0	1	4
+Denver Nuggets	Reserves	Tyus Jones	9:56	0	1	0	0	2	2	0	0	0	0	0	0	0	0	2
+Denver Nuggets	Reserves	Marvin Bagley III	9:22	2	2	0	0	1	2	1	3	4	0	0	0	0	2	5
+Denver Nuggets	Reserves	Alpha Diallo	Did Not Dress
+Denver Nuggets	Reserves	DaRon Holmes	Did Not Play
+Denver Nuggets	Reserves	Cameron Johnson	Did Not Dress
+Denver Nuggets	Reserves	Spencer Jones	Did Not Dress
+Denver Nuggets	Reserves	Ryan Nembhard	Did Not Play
+Denver Nuggets	Reserves	Zeke Nnaji	Did Not Play
+Denver Nuggets	Reserves	Julian Strawther	Did Not Dress
+Denver Nuggets	Totals	Team Totals	265	48	99	15	47	30	39	14	37	51	26	9	6	11	28	141
+```

@@ -1,8 +1,8 @@
-Miami Heat||Charlotte Hornets|||not final
-Milwaukee Bucks||Philadelphia 76ers|||not final
-Brooklyn Nets||Cleveland Cavaliers|||not final
-San Antonio Spurs||Dallas Mavericks|||not final
-Washington Wizards||Chicago Bulls|||not final
-Houston Rockets||Atlanta Hawks|||not final
-New Orleans Pelicans||Denver Nuggets|||not final
-Golden State Warriors||Phoenix Suns|||not final
+Miami Heat|110|Charlotte Hornets|115|https://www.basketball-reference.com/boxscores/202610240CHO.html|final
+Milwaukee Bucks|116|Philadelphia 76ers|127|https://www.basketball-reference.com/boxscores/202610240PHI.html|final
+Brooklyn Nets|121|Cleveland Cavaliers|125|https://www.basketball-reference.com/boxscores/202610240CLE.html|final
+San Antonio Spurs|122|Dallas Mavericks|106|https://www.basketball-reference.com/boxscores/202610240DAL.html|final
+Washington Wizards|124|Chicago Bulls|120|https://www.basketball-reference.com/boxscores/202610240CHI.html|final
+Houston Rockets|121|Atlanta Hawks|114|https://www.basketball-reference.com/boxscores/202610240ATL.html|final
+New Orleans Pelicans|135|Denver Nuggets|141|https://www.basketball-reference.com/boxscores/202610240DEN.html|final
+Golden State Warriors|122|Phoenix Suns|131|https://www.basketball-reference.com/boxscores/202610240PHO.html|final

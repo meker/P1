@@ -1,0 +1,37 @@
+Final: Houston Rockets 121, Atlanta Hawks 114
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Houston Rockets	Starters	Amen Thompson	39:02	4	12	0	0	9	9	4	7	11	6	1	0	2	1	17
+Houston Rockets	Starters	Kevin Durant	36:33	8	15	3	7	3	3	0	4	4	2	0	1	2	3	22
+Houston Rockets	Starters	Jabari Smith Jr.	33:17	5	12	2	6	2	2	4	1	5	3	0	1	0	4	14
+Houston Rockets	Starters	Alperen Şengün	32:54	6	12	1	2	4	6	0	10	10	7	1	0	3	2	17
+Houston Rockets	Starters	Reed Sheppard	30:17	7	13	5	11	0	0	2	4	6	7	2	0	3	4	19
+Houston Rockets	Reserves	Tari Eason	30:33	8	15	0	3	3	3	1	2	3	0	1	1	1	2	19
+Houston Rockets	Reserves	Bogdan Bogdanović	20:23	4	8	3	5	0	0	0	1	1	1	0	0	1	1	11
+Houston Rockets	Reserves	Clint Capela	11:02	1	1	0	0	0	0	2	1	3	1	0	0	1	0	2
+Houston Rockets	Reserves	Bruce Thornton	4:20	0	1	0	1	0	0	0	0	0	0	1	0	1	3	0
+Houston Rockets	Reserves	Isaiah Crawford	0:49	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Houston Rockets	Reserves	Jae'Sean Tate	0:49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Houston Rockets	Reserves	Steven Adams	Did Not Dress
+Houston Rockets	Reserves	Marcus Smart	Did Not Play
+Houston Rockets	Reserves	Oscar Tshiebwe	Did Not Play
+Houston Rockets	Reserves	Fred VanVleet	Did Not Dress
+Houston Rockets	Totals	Team Totals	240	43	89	14	35	21	23	13	30	43	27	6	4	14	20	121
+Atlanta Hawks	Starters	Jalen Johnson	38:15	8	19	2	7	8	10	4	5	9	16	2	0	2	2	26
+Atlanta Hawks	Starters	Nickeil Alexander-Walker	32:24	7	16	4	12	0	1	2	3	5	4	3	0	1	1	18
+Atlanta Hawks	Starters	CJ McCollum	29:57	7	14	1	5	2	3	1	1	2	1	0	0	1	1	17
+Atlanta Hawks	Starters	Dyson Daniels	28:46	8	11	1	1	1	2	4	4	8	3	1	0	1	6	18
+Atlanta Hawks	Starters	Onyeka Okongwu	26:01	2	8	0	5	4	5	3	3	6	2	1	1	1	2	8
+Atlanta Hawks	Reserves	Aaron Wiggins	28:30	6	13	4	9	0	0	2	3	5	2	1	1	0	2	16
+Atlanta Hawks	Reserves	Luguentz Dort	22:57	3	6	1	4	0	0	0	2	2	3	1	0	0	3	7
+Atlanta Hawks	Reserves	Jock Landale	18:38	1	5	0	4	0	0	1	3	4	2	0	0	5	3	2
+Atlanta Hawks	Reserves	Kingston Flemings	14:32	1	4	0	2	0	0	0	1	1	2	0	0	2	2	2
+Atlanta Hawks	Reserves	Zuby Ejiofor	Did Not Play
+Atlanta Hawks	Reserves	Dorian Finney-Smith	Did Not Play
+Atlanta Hawks	Reserves	Mouhamed Gueye	Did Not Dress
+Atlanta Hawks	Reserves	Corey Kispert	Did Not Play
+Atlanta Hawks	Reserves	Asa Newell	Did Not Play
+Atlanta Hawks	Reserves	Henri Veesaar	Did Not Dress
+Atlanta Hawks	Totals	Team Totals	240	43	96	13	49	15	21	17	25	42	35	9	2	13	22	114
+```
