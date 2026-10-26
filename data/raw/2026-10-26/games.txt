@@ -1,0 +1,9 @@
+Washington Wizards||Charlotte Hornets|||not final
+Minnesota Timberwolves||Cleveland Cavaliers|||not final
+Dallas Mavericks||Miami Heat|||not final
+Chicago Bulls||Boston Celtics|||not final
+Indiana Pacers||Milwaukee Bucks|||not final
+Phoenix Suns||Oklahoma City Thunder|||not final
+Atlanta Hawks||Houston Rockets|||not final
+Memphis Grizzlies||Utah Jazz|||not final
+Golden State Warriors||Denver Nuggets|||not final
