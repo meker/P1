@@ -1,0 +1,40 @@
+Final: Indiana Pacers 136, Brooklyn Nets 109
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Indiana Pacers	Starters	Tyrese Haliburton	31:26	8	13	4	7	4	5	0	4	4	10	2	0	2	0	24
+Indiana Pacers	Starters	Andrew Nembhard	29:37	5	8	4	6	0	0	0	1	1	3	1	0	3	2	14
+Indiana Pacers	Starters	Pascal Siakam	25:38	7	15	3	6	4	6	0	7	7	6	1	0	1	3	21
+Indiana Pacers	Starters	Aaron Nesmith	19:25	5	10	2	5	1	1	1	0	1	2	0	0	2	0	13
+Indiana Pacers	Starters	Ivica Zubac	7:03	1	1	0	0	0	0	0	1	1	2	0	0	1	1	2
+Indiana Pacers	Reserves	Larry Nance Jr.	21:47	2	3	1	1	1	1	0	6	6	1	1	0	1	2	6
+Indiana Pacers	Reserves	Jay Huff	20:41	5	6	2	3	2	2	0	2	2	3	0	3	0	4	14
+Indiana Pacers	Reserves	Obi Toppin	19:42	6	9	4	7	0	0	2	4	6	2	0	0	1	2	16
+Indiana Pacers	Reserves	Kelly Oubre Jr.	19:42	6	9	1	4	1	1	0	2	2	2	0	0	1	4	14
+Indiana Pacers	Reserves	Jarace Walker	19:11	3	7	0	2	0	0	1	6	7	1	1	0	1	3	6
+Indiana Pacers	Reserves	Quenton Jackson	17:56	1	4	0	2	3	4	0	1	1	2	1	1	1	3	5
+Indiana Pacers	Reserves	Jalen Slawson	7:52	0	0	0	0	1	2	0	2	2	0	0	0	0	0	1
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Reserves	T.J. McConnell	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	49	85	21	43	17	22	4	36	40	34	7	4	14	24	136
+Brooklyn Nets	Starters	Julius Randle	23:58	2	8	0	2	6	8	2	5	7	7	1	0	3	0	10
+Brooklyn Nets	Starters	Keon Ellis	22:53	4	4	1	1	0	0	0	1	1	3	4	1	0	1	9
+Brooklyn Nets	Starters	Michael Porter Jr.	20:48	4	13	0	5	2	3	0	0	0	0	2	0	1	2	10
+Brooklyn Nets	Starters	Egor Dëmin	19:19	1	6	1	4	0	0	0	0	0	1	2	0	3	2	3
+Brooklyn Nets	Starters	Day'Ron Sharpe	16:12	3	4	1	1	4	7	1	3	4	1	0	0	2	1	11
+Brooklyn Nets	Reserves	Nolan Traoré	24:42	6	11	2	3	3	3	1	1	2	5	1	2	2	4	17
+Brooklyn Nets	Reserves	Josh Minott	21:14	4	12	3	10	4	4	1	7	8	2	2	0	0	2	15
+Brooklyn Nets	Reserves	Chaney Johnson	21:14	2	5	0	1	0	0	3	2	5	0	0	0	0	1	4
+Brooklyn Nets	Reserves	Noah Clowney	20:14	1	6	1	4	6	8	1	4	5	1	0	0	1	3	9
+Brooklyn Nets	Reserves	Danny Wolf	15:19	2	4	2	4	0	0	0	2	2	1	0	0	1	3	6
+Brooklyn Nets	Reserves	Moritz Wagner	14:30	5	8	2	2	1	2	1	2	3	1	1	0	2	3	13
+Brooklyn Nets	Reserves	Drake Powell	12:21	0	0	0	0	0	2	0	2	2	3	0	0	0	2	0
+Brooklyn Nets	Reserves	Ben Saraf	3:38	1	1	0	0	0	0	0	1	1	0	0	0	0	1	2
+Brooklyn Nets	Reserves	Joshua Jefferson	3:38	0	4	0	2	0	0	0	0	0	0	0	0	0	0	0
+Brooklyn Nets	Reserves	Tyler Bilodeau	Did Not Dress
+Brooklyn Nets	Reserves	Mikel Brown Jr.	Did Not Dress
+Brooklyn Nets	Reserves	Terance Mann	Did Not Play
+Brooklyn Nets	Reserves	Grant Nelson	Did Not Dress
+Brooklyn Nets	Totals	Team Totals	240	35	86	13	39	26	37	10	30	40	25	13	3	15	25	109
+```

@@ -1,0 +1,7 @@
+Los Angeles Lakers|132|Utah Jazz|123|https://www.basketball-reference.com/boxscores/202610250UTA.html|final
+Indiana Pacers|136|Brooklyn Nets|109|https://www.basketball-reference.com/boxscores/202610250BRK.html|final
+Los Angeles Clippers|101|Oklahoma City Thunder|108|https://www.basketball-reference.com/boxscores/202610250OKC.html|final
+Orlando Magic|111|New York Knicks|102|https://www.basketball-reference.com/boxscores/202610250NYK.html|final
+Toronto Raptors|94|Minnesota Timberwolves|117|https://www.basketball-reference.com/boxscores/202610250MIN.html|final
+Detroit Pistons|106|Philadelphia 76ers|93|https://www.basketball-reference.com/boxscores/202610250PHI.html|final
+Memphis Grizzlies|123|Sacramento Kings|112|https://www.basketball-reference.com/boxscores/202610250SAC.html|final

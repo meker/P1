@@ -1,0 +1,41 @@
+Final: Detroit Pistons 106, Philadelphia 76ers 93
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Detroit Pistons	Starters	Daniss Jenkins	38:23	6	11	3	4	3	4	3	5	8	6	0	1	2	0	18
+Detroit Pistons	Starters	John Collins	33:39	7	15	2	5	0	1	3	8	11	0	0	2	2	1	16
+Detroit Pistons	Starters	Cade Cunningham	33:17	9	19	3	8	5	8	0	8	8	8	2	2	4	3	26
+Detroit Pistons	Starters	Duncan Robinson	31:49	6	12	5	9	4	5	0	3	3	3	0	0	1	4	21
+Detroit Pistons	Starters	Paul Reed	23:14	4	9	0	0	0	2	4	4	8	2	0	3	3	4	8
+Detroit Pistons	Reserves	Kevin Huerter	25:55	4	9	1	3	0	0	1	2	3	2	1	0	2	1	9
+Detroit Pistons	Reserves	Ronald Holland II	23:30	1	8	0	3	0	0	2	7	9	4	1	2	0	3	2
+Detroit Pistons	Reserves	Javonte Green	21:43	0	2	0	2	2	2	1	2	3	0	0	1	0	3	2
+Detroit Pistons	Reserves	Isaiah Joe	3:59	1	1	0	0	0	1	0	0	0	0	0	0	0	0	2
+Detroit Pistons	Reserves	Tolu Smith	2:53	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0
+Detroit Pistons	Reserves	Ebuka Okorie	1:39	0	0	0	0	2	2	0	0	0	0	0	0	0	0	2
+Detroit Pistons	Reserves	Jalen Duren	Did Not Dress
+Detroit Pistons	Reserves	Elijah Harkless	Did Not Play
+Detroit Pistons	Reserves	Isaac Jones	Did Not Play
+Detroit Pistons	Reserves	Chaz Lanier	Did Not Play
+Detroit Pistons	Reserves	Taurean Prince	Did Not Play
+Detroit Pistons	Reserves	Ausar Thompson	Did Not Dress
+Detroit Pistons	Totals	Team Totals	240	38	87	14	34	16	25	15	39	54	25	4	11	15	19	106
+Philadelphia 76ers	Starters	Jaylen Brown	40:03	5	20	2	6	4	8	1	3	4	4	0	1	1	5	16
+Philadelphia 76ers	Starters	Dean Wade	37:09	2	4	1	3	2	2	1	4	5	1	2	1	0	1	7
+Philadelphia 76ers	Starters	Tyrese Maxey	33:43	11	24	1	5	6	7	0	5	5	4	3	1	1	4	29
+Philadelphia 76ers	Starters	LeBron James	33:11	8	15	0	3	2	6	0	2	2	5	2	0	3	1	18
+Philadelphia 76ers	Starters	Kentavious Caldwell-Pope	31:00	3	8	1	4	0	0	2	1	3	3	1	0	1	3	7
+Philadelphia 76ers	Reserves	Anfernee Simons	26:48	2	10	1	4	0	0	0	3	3	3	1	2	1	5	5
+Philadelphia 76ers	Reserves	Adem Bona	25:05	3	5	0	0	0	0	5	8	13	1	1	3	3	2	6
+Philadelphia 76ers	Reserves	Labaron Philon Jr.	13:01	2	4	1	2	0	0	0	2	2	1	0	0	0	2	5
+Philadelphia 76ers	Reserves	Dominick Barlow	Did Not Dress
+Philadelphia 76ers	Reserves	VJ Edgecombe	Did Not Play
+Philadelphia 76ers	Reserves	Justin Edwards	Did Not Play
+Philadelphia 76ers	Reserves	Joel Embiid	Did Not Dress
+Philadelphia 76ers	Reserves	Tacko Fall	Did Not Dress
+Philadelphia 76ers	Reserves	Ariel Hukporti	Did Not Dress
+Philadelphia 76ers	Reserves	Caleb Love	Did Not Play
+Philadelphia 76ers	Reserves	Rayan Rupert	Did Not Play
+Philadelphia 76ers	Reserves	Jabari Walker	Did Not Dress
+Philadelphia 76ers	Totals	Team Totals	240	36	90	7	27	14	23	9	28	37	22	10	8	10	23	93
+```

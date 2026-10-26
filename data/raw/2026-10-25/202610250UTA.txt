@@ -1,0 +1,40 @@
+Final: Los Angeles Lakers 132, Utah Jazz 123
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Los Angeles Lakers	Starters	Luka Dončić	38:26	17	30	8	18	10	11	1	7	8	10	2	0	4	4	52
+Los Angeles Lakers	Starters	Austin Reaves	35:43	7	12	4	5	11	13	0	1	1	4	1	2	3	5	29
+Los Angeles Lakers	Starters	Ziaire Williams	30:08	3	9	3	7	2	2	1	1	2	1	1	0	0	2	11
+Los Angeles Lakers	Starters	Walker Kessler	28:27	1	2	0	0	0	0	1	6	7	0	0	1	1	4	2
+Los Angeles Lakers	Starters	Matisse Thybulle	25:59	4	8	3	7	0	0	0	1	1	1	3	1	0	1	11
+Los Angeles Lakers	Reserves	Sandro Mamukelashvili	20:57	2	4	1	2	4	6	0	3	3	0	0	1	0	0	9
+Los Angeles Lakers	Reserves	Quentin Grimes	20:17	1	2	0	1	1	2	0	1	1	1	0	0	0	2	3
+Los Angeles Lakers	Reserves	Collin Sexton	20:07	5	11	1	5	2	2	0	2	2	1	0	0	2	2	13
+Los Angeles Lakers	Reserves	Jake LaRavia	15:21	0	3	0	2	0	0	1	3	4	1	2	1	0	2	0
+Los Angeles Lakers	Reserves	Kevon Looney	4:35	0	1	0	0	2	2	1	1	2	0	0	0	0	2	2
+Los Angeles Lakers	Reserves	Cameron Carr	Did Not Dress
+Los Angeles Lakers	Reserves	Jaden Hardy	Did Not Play
+Los Angeles Lakers	Reserves	Bronny James	Did Not Play
+Los Angeles Lakers	Reserves	Arthur Kaluma	Did Not Play
+Los Angeles Lakers	Reserves	Chris Mañon	Did Not Play
+Los Angeles Lakers	Reserves	AK Okereke	Did Not Dress
+Los Angeles Lakers	Reserves	Adou Thiero	Did Not Dress
+Los Angeles Lakers	Reserves	Jarred Vanderbilt	Did Not Play
+Los Angeles Lakers	Totals	Team Totals	240	40	82	20	47	32	38	5	26	31	19	9	6	10	24	132
+Utah Jazz	Starters	Lauri Markkanen	37:47	9	20	5	11	5	6	4	3	7	1	0	0	1	2	28
+Utah Jazz	Starters	Keyonte George	33:18	7	13	2	6	8	10	0	9	9	10	1	0	6	4	24
+Utah Jazz	Starters	Jaren Jackson Jr.	33:15	7	14	1	4	5	6	0	2	2	1	0	0	4	5	20
+Utah Jazz	Starters	Darryn Peterson	30:23	4	13	0	4	0	0	2	1	3	2	3	1	1	5	8
+Utah Jazz	Starters	Ace Bailey	29:09	8	11	1	2	0	0	6	6	12	4	0	1	2	1	17
+Utah Jazz	Reserves	Jaxson Hayes	19:02	4	5	0	0	1	2	2	3	5	1	1	0	0	2	9
+Utah Jazz	Reserves	Brice Sensabaugh	17:18	3	7	1	4	0	0	3	3	6	1	0	0	0	2	7
+Utah Jazz	Reserves	Svi Mykhailiuk	13:51	1	4	0	2	0	0	1	2	3	0	0	0	0	3	2
+Utah Jazz	Reserves	Isaiah Collier	12:46	2	6	0	2	2	3	1	2	3	6	0	0	1	4	6
+Utah Jazz	Reserves	Josh Okogie	9:43	1	2	0	0	0	0	1	1	2	2	1	0	2	5	2
+Utah Jazz	Reserves	Josh Green	3:28	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Utah Jazz	Reserves	Mo Bamba	Did Not Play
+Utah Jazz	Reserves	Tony Bradley	Did Not Play
+Utah Jazz	Reserves	Kyle Filipowski	Did Not Play
+Utah Jazz	Reserves	Jusuf Nurkić	Did Not Dress
+Utah Jazz	Totals	Team Totals	240	46	95	10	35	21	27	20	32	52	29	6	2	17	33	123
+```

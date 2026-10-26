@@ -1,0 +1,40 @@
+Final: Orlando Magic 111, New York Knicks 102
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Orlando Magic	Starters	Franz Wagner	37:29	9	23	0	3	5	5	3	10	13	9	0	0	3	2	23
+Orlando Magic	Starters	Desmond Bane	35:05	6	13	4	9	6	8	2	4	6	2	0	2	3	2	22
+Orlando Magic	Starters	Jalen Suggs	33:55	2	8	0	3	0	0	1	5	6	6	3	0	4	3	4
+Orlando Magic	Starters	Wendell Carter Jr.	32:50	3	6	0	1	3	4	1	9	10	2	1	1	2	4	9
+Orlando Magic	Starters	Jase Richardson	17:18	2	7	2	5	0	0	0	1	1	0	0	0	1	1	6
+Orlando Magic	Reserves	Tristan da Silva	26:47	7	13	5	9	0	0	2	0	2	2	0	1	0	2	19
+Orlando Magic	Reserves	Anthony Black	25:58	6	11	5	7	1	2	0	3	3	5	2	0	0	6	18
+Orlando Magic	Reserves	Jamal Cain	15:28	1	1	1	1	2	2	0	5	5	0	0	0	1	3	5
+Orlando Magic	Reserves	Nikola Vučević	15:10	2	6	1	4	0	0	1	2	3	3	0	2	1	1	5
+Orlando Magic	Reserves	Paolo Banchero	Did Not Dress
+Orlando Magic	Reserves	Goga Bitadze	Did Not Play
+Orlando Magic	Reserves	Jevon Carter	Did Not Play
+Orlando Magic	Reserves	Colin Castleton	Did Not Play
+Orlando Magic	Reserves	Jonathan Isaac	Did Not Dress
+Orlando Magic	Reserves	Alex Morales	Did Not Play
+Orlando Magic	Reserves	Izaiyah Nelson	Did Not Dress
+Orlando Magic	Reserves	Noah Penda	Did Not Dress
+Orlando Magic	Totals	Team Totals	240	38	88	18	42	17	21	10	39	49	29	6	6	15	24	111
+New York Knicks	Starters	OG Anunoby	35:03	6	11	3	6	7	9	1	2	3	2	0	0	2	4	22
+New York Knicks	Starters	Mikal Bridges	35:02	3	7	0	3	0	0	1	4	5	1	0	1	0	3	6
+New York Knicks	Starters	Josh Hart	34:30	5	12	3	9	0	0	0	8	8	2	2	0	3	4	13
+New York Knicks	Starters	Karl-Anthony Towns	33:17	8	15	0	4	6	7	5	9	14	4	1	1	4	2	22
+New York Knicks	Starters	Jalen Brunson	32:29	12	28	1	7	3	6	0	3	3	4	2	1	3	1	28
+New York Knicks	Reserves	Landry Shamet	21:49	2	6	2	5	0	0	1	1	2	1	1	0	1	2	6
+New York Knicks	Reserves	Tyler Kolek	15:06	0	4	0	2	0	0	1	2	3	9	1	0	0	2	0
+New York Knicks	Reserves	Miles McBride	12:42	0	1	0	1	1	2	0	1	1	1	1	0	0	2	1
+New York Knicks	Reserves	Andre Drummond	7:09	2	3	0	0	0	0	1	2	3	2	0	0	0	0	4
+New York Knicks	Reserves	James Wiseman	7:09	0	5	0	0	0	0	2	0	2	0	0	1	1	2	0
+New York Knicks	Reserves	Jordan Clarkson	5:19	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0
+New York Knicks	Reserves	Jaden Akins	0:25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+New York Knicks	Reserves	Jose Alvarado	Did Not Dress
+New York Knicks	Reserves	Pacôme Dadiet	Did Not Play
+New York Knicks	Reserves	Mohamed Diawara	Did Not Play
+New York Knicks	Reserves	Kevin McCullar Jr.	Did Not Play
+New York Knicks	Totals	Team Totals	240	38	93	9	38	17	24	12	33	45	26	8	4	14	22	102
+```
