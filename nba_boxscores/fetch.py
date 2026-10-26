@@ -671,7 +671,7 @@ def main(argv=None):
             continue
         games, err = collect(d, args.source, prev, folder, now, args.debug)
         if games is None:
-            # A warning, not a failed run: scheduled runs every 20 minutes would mail a failure
+            # A warning, not a failed run: scheduled runs every 30 minutes would mail a failure
             # each time, and the morning job falls back to Basketball-Reference anyway.
             print(f"::warning::{d}: no source answered ({err})", flush=True)
             continue

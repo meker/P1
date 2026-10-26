@@ -2,7 +2,7 @@
 Mert asked on 2026-10-24 to read box scores from NBA.com instead of Basketball-Reference, which posts
 them up to a day late. curl to NBA.com/ESPN is blocked here and WebFetch drops rows, so a GitHub Actions
 job in Mert's public repo meker/P1 reads NBA.com's official box scores (ESPN where NBA.com fails) every
-20 minutes from 01:07 to 09:47 UTC and commits them in this pipeline's raw format under data/raw/D/
+30 minutes from 01:00 to 09:30 UTC and commits them in this pipeline's raw format under data/raw/D/
 (same games.txt and <boxid>.txt files, Basketball-Reference style ids). No subagent, no WebFetch:
 1. `rm -rf /home/claude/p1 && git clone -q --depth 1 https://github.com/meker/P1 /home/claude/p1`
    If git cannot reach GitHub, call add_repo (owner meker, repo P1, access read) and run the clone
@@ -14,7 +14,7 @@ job in Mert's public repo meker/P1 reads NBA.com's official box scores (ESPN whe
    (overwrites older Basketball-Reference files of the same games), then the usual --check and build.
    Games with source "espn" in source.json have whole-minute MP (Mert is fine with that, 2026-10-24): a
    --check minutes mismatch of up to 3 on them is rounding, not a missing player; don't retry or report it.
-Pending games ("not final" lines) refresh in the repo every 20 minutes until 09:47 UTC: the follow-up run
+Pending games ("not final" lines) refresh in the repo every 30 minutes until 09:30 UTC: the follow-up run
 repeats steps 1-3.
 Fallbacks, each named in one clause of the reply:
 - No clone works: ONE subagent WebFetches https://raw.githubusercontent.com/meker/P1/HEAD/data/raw/D/games.txt

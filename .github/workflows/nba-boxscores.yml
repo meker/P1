@@ -1,12 +1,12 @@
 name: NBA box scores
 
-# Reads last night's box scores from NBA.com (ESPN where NBA.com fails) every 20 minutes
+# Reads last night's box scores from NBA.com (ESPN where NBA.com fails) every 30 minutes
 # while US evening games finish, and commits them under data/raw/<date>/ in the daily
 # report's raw format. The morning report job clones this repo instead of fetching
 # Basketball-Reference, which posts box scores up to a day late.
 on:
   schedule:
-    - cron: "7,27,47 1-9 * * *"  # 01:07-09:47 UTC = evening to early morning US Eastern
+    - cron: "0,30 1-9 * * *"  # 01:00-09:30 UTC = 04:00-12:30 Turkey time (UTC+3)
   push:  # a change to the fetcher runs it once right away (data commits don't match these paths)
     paths:
       - "nba_boxscores/**"

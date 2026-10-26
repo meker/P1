@@ -8,8 +8,8 @@ NBA.com instead, minutes after each game ends, and commits them here.
   (the night's games page and each game's box score page carry them as page data; `cdn.nba.com`'s JSON
   answers "Access Denied" to cloud runners). ESPN's API is the fallback for a game NBA.com cannot serve.
   A final game is re-read for an hour (stat corrections), then left alone. Standard library only.
-- `.github/workflows/nba-boxscores.yml` runs it every 20 minutes from 01:07 to 09:47 UTC (US evening
-  to early morning) for last night and the night before, and commits only when data changed.
+- `.github/workflows/nba-boxscores.yml` runs it every 30 minutes from 01:00 to 09:30 UTC (04:00-12:30
+  Turkey time) for last night and the night before, and commits only when data changed.
   Run it by hand from the Actions tab ("Run workflow", optional dates such as `2026-10-22,2026-10-23`).
 - `data/raw/<YYYY-MM-DD>/` holds one US game night in the report pipeline's raw format:
   - `games.txt`: `visitor|pts|home|pts|box URL|final`, scores empty and `not final` while a game
