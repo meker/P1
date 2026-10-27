@@ -1,0 +1,31 @@
+Final: Phoenix Suns 114, Oklahoma City Thunder 125
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Phoenix Suns	Starters	Devin Booker	33:47	1	7	0	2	1	1	1	1	2	7	0	0	0	3	3
+Phoenix Suns	Starters	Dillon Brooks	32:36	4	14	3	10	8	12	1	4	5	5	3	1	0	3	19
+Phoenix Suns	Starters	Miles Bridges	31:48	7	17	2	10	1	2	4	4	8	4	1	0	3	2	17
+Phoenix Suns	Starters	Jalen Green	30:32	8	13	1	3	3	4	1	3	4	4	0	1	1	1	20
+Phoenix Suns	Starters	Khaman Maluach	25:37	5	10	0	1	2	2	2	5	7	1	1	1	4	4	12
+Phoenix Suns	Reserves	Collin Gillespie	23:27	3	9	3	8	0	0	0	1	1	2	2	0	2	3	9
+Phoenix Suns	Reserves	Jordan Goodwin	17:28	4	9	4	8	0	0	4	0	4	2	0	0	0	3	12
+Phoenix Suns	Reserves	Luke Kennard	16:08	3	5	3	5	0	0	0	1	1	2	0	0	0	3	9
+Phoenix Suns	Reserves	Ryan Dunn	13:31	2	4	1	2	1	2	0	2	2	1	0	1	1	1	6
+Phoenix Suns	Reserves	Duop Reath	6:55	1	1	1	1	2	2	1	2	3	0	0	1	1	1	5
+Phoenix Suns	Reserves	Jamaree Bouyea	2:43	1	1	0	0	0	0	0	0	0	1	0	0	0	0	2
+Phoenix Suns	Reserves	Rasheer Fleming	2:43	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0
+Phoenix Suns	Reserves	Koa Peat	2:43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Phoenix Suns	Totals	Team Totals	240	39	91	18	50	18	25	14	24	38	29	7	5	13	24	114
+Oklahoma City Thunder	Starters	Shai Gilgeous-Alexander	30:28	11	18	1	5	3	4	0	3	3	3	0	2	4	5	26
+Oklahoma City Thunder	Starters	Jared McCain	29:55	6	14	4	7	2	3	1	2	3	4	1	1	2	1	18
+Oklahoma City Thunder	Starters	Isaiah Hartenstein	25:48	6	7	0	0	3	3	6	7	13	3	0	0	1	2	15
+Oklahoma City Thunder	Starters	Ajay Mitchell	25:28	10	16	1	3	9	10	0	2	2	5	0	1	1	4	30
+Oklahoma City Thunder	Starters	Kenrich Williams	23:54	1	6	0	2	1	1	2	5	7	0	1	1	0	1	3
+Oklahoma City Thunder	Reserves	Jaylin Williams	25:58	2	5	2	4	0	0	0	6	6	3	1	0	1	0	6
+Oklahoma City Thunder	Reserves	Bennett Stirtz	24:41	1	6	1	4	4	4	0	1	1	1	0	0	2	1	7
+Oklahoma City Thunder	Reserves	Josh Dix	22:11	0	3	0	2	0	0	0	1	1	0	0	0	1	1	0
+Oklahoma City Thunder	Reserves	Aday Mara	19:49	4	6	0	0	3	4	3	7	10	2	0	2	4	5	11
+Oklahoma City Thunder	Reserves	Alex Caruso	9:04	3	5	3	5	0	0	0	2	2	3	0	0	0	0	9
+Oklahoma City Thunder	Reserves	Brooks Barnhizer	2:43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oklahoma City Thunder	Totals	Team Totals	240	44	86	12	32	25	29	12	36	48	24	3	7	17	20	125
+```

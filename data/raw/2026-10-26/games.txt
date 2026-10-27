@@ -1,9 +1,9 @@
-Washington Wizards||Charlotte Hornets|||not final
-Minnesota Timberwolves||Cleveland Cavaliers|||not final
-Dallas Mavericks||Miami Heat|||not final
-Chicago Bulls||Boston Celtics|||not final
-Indiana Pacers||Milwaukee Bucks|||not final
-Phoenix Suns||Oklahoma City Thunder|||not final
-Atlanta Hawks||Houston Rockets|||not final
-Memphis Grizzlies||Utah Jazz|||not final
-Golden State Warriors||Denver Nuggets|||not final
+Washington Wizards|103|Charlotte Hornets|110|https://www.basketball-reference.com/boxscores/202610260CHO.html|final
+Minnesota Timberwolves|125|Cleveland Cavaliers|127|https://www.basketball-reference.com/boxscores/202610260CLE.html|final
+Dallas Mavericks|113|Miami Heat|109|https://www.basketball-reference.com/boxscores/202610260MIA.html|final
+Chicago Bulls|99|Boston Celtics|134|https://www.basketball-reference.com/boxscores/202610260BOS.html|final
+Indiana Pacers|102|Milwaukee Bucks|110|https://www.basketball-reference.com/boxscores/202610260MIL.html|final
+Phoenix Suns|114|Oklahoma City Thunder|125|https://www.basketball-reference.com/boxscores/202610260OKC.html|final
+Atlanta Hawks|110|Houston Rockets|120|https://www.basketball-reference.com/boxscores/202610260HOU.html|final
+Memphis Grizzlies|110|Utah Jazz|105|https://www.basketball-reference.com/boxscores/202610260UTA.html|final
+Golden State Warriors|134|Denver Nuggets|114|https://www.basketball-reference.com/boxscores/202610260DEN.html|final

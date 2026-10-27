@@ -1,0 +1,39 @@
+Final: Indiana Pacers 102, Milwaukee Bucks 110
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Indiana Pacers	Starters	Pascal Siakam	36:32	8	17	1	4	3	4	4	9	13	6	0	0	4	1	20
+Indiana Pacers	Starters	Tyrese Haliburton	34:59	8	17	4	10	2	3	0	6	6	9	1	1	1	1	22
+Indiana Pacers	Starters	Kelly Oubre Jr.	23:12	3	7	1	3	2	5	2	1	3	1	0	2	1	3	9
+Indiana Pacers	Starters	Jay Huff	22:33	3	8	0	3	0	0	1	5	6	1	0	0	2	3	6
+Indiana Pacers	Starters	Aaron Nesmith	20:50	5	11	3	7	0	0	0	0	0	1	1	1	1	2	13
+Indiana Pacers	Reserves	Jarace Walker	28:45	3	12	2	7	2	4	4	4	8	2	2	2	1	2	10
+Indiana Pacers	Reserves	Quenton Jackson	27:01	1	3	0	1	2	2	1	1	2	4	0	0	1	4	4
+Indiana Pacers	Reserves	Obi Toppin	23:14	6	13	2	7	0	0	1	5	6	2	0	1	0	1	14
+Indiana Pacers	Reserves	Larry Nance Jr.	18:55	1	6	0	5	0	0	0	3	3	1	1	1	1	1	2
+Indiana Pacers	Reserves	Jalen Slawson	3:23	1	1	0	0	0	0	1	0	1	0	0	0	1	1	2
+Indiana Pacers	Reserves	Kobe Brown	0:18	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+Indiana Pacers	Reserves	Braden Smith	0:18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Reserves	T.J. McConnell	Did Not Dress
+Indiana Pacers	Reserves	Andrew Nembhard	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Ivica Zubac	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	39	96	13	48	11	18	14	34	48	27	5	8	13	19	102
+Milwaukee Bucks	Starters	Tyler Herro	32:28	7	14	3	6	6	10	1	9	10	7	1	1	2	3	23
+Milwaukee Bucks	Starters	Ryan Rollins	31:41	7	14	3	7	2	4	1	1	2	4	0	0	1	4	19
+Milwaukee Bucks	Starters	Kyle Kuzma	29:29	6	10	4	6	1	1	0	7	7	3	0	0	2	3	17
+Milwaukee Bucks	Starters	Myles Turner	28:18	2	7	0	3	2	2	3	6	9	4	1	4	3	2	6
+Milwaukee Bucks	Starters	Jaime Jaquez Jr.	24:39	4	13	0	4	0	0	2	4	6	0	1	0	0	0	8
+Milwaukee Bucks	Reserves	Kasparas Jakučionis	21:04	2	4	1	3	2	2	1	3	4	5	0	0	2	3	7
+Milwaukee Bucks	Reserves	AJ Green	20:18	1	6	1	6	0	0	1	3	4	3	1	0	0	2	3
+Milwaukee Bucks	Reserves	Kel'el Ware	19:09	7	13	0	4	2	2	5	9	14	0	1	0	0	3	16
+Milwaukee Bucks	Reserves	Brayden Burries	16:17	2	5	0	2	0	0	1	1	2	1	1	0	1	1	4
+Milwaukee Bucks	Reserves	Nate Ament	13:47	3	8	1	2	0	0	1	2	3	0	0	0	0	1	7
+Milwaukee Bucks	Reserves	Ousmane Dieng	2:50	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+Milwaukee Bucks	Reserves	Caris LeVert	Did Not Play
+Milwaukee Bucks	Reserves	Bogoljub Marković	Did Not Play
+Milwaukee Bucks	Reserves	Jericho Sims	Did Not Play
+Milwaukee Bucks	Reserves	Gary Trent Jr.	Did Not Play
+Milwaukee Bucks	Totals	Team Totals	240	41	95	13	44	15	21	16	45	61	27	6	5	11	22	110
+```

@@ -1,0 +1,39 @@
+Final: Minnesota Timberwolves 125, Cleveland Cavaliers 127
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Minnesota Timberwolves	Starters	Anthony Edwards	41:09	19	34	5	15	4	6	1	3	4	4	2	2	4	3	47
+Minnesota Timberwolves	Starters	Jaden McDaniels	36:38	6	9	2	3	0	0	0	6	6	4	0	0	0	6	14
+Minnesota Timberwolves	Starters	Jonathan Kuminga	35:50	4	10	0	4	2	4	3	7	10	1	1	1	0	2	10
+Minnesota Timberwolves	Starters	Rudy Gobert	35:38	0	9	0	2	5	8	8	12	20	2	1	1	2	1	5
+Minnesota Timberwolves	Starters	LaMelo Ball	30:57	5	11	1	6	0	2	0	0	0	6	1	0	7	4	11
+Minnesota Timberwolves	Reserves	Ayo Dosunmu	25:54	4	10	1	2	0	0	1	0	1	0	1	1	3	2	9
+Minnesota Timberwolves	Reserves	Terrence Shannon Jr	23:46	4	11	3	6	3	3	1	3	4	5	1	0	1	3	14
+Minnesota Timberwolves	Reserves	Joan Beringer	17:14	6	6	0	0	0	0	3	4	7	0	0	2	0	1	12
+Minnesota Timberwolves	Reserves	Trey Lyles	13:08	1	1	1	1	0	0	0	1	1	1	0	0	0	0	3
+Minnesota Timberwolves	Reserves	Bones Hyland	4:46	0	1	0	1	0	0	0	1	1	2	0	0	0	0	0
+Minnesota Timberwolves	Reserves	Jaylen Clark	Did Not Play
+Minnesota Timberwolves	Reserves	Donte DiVincenzo	Did Not Dress
+Minnesota Timberwolves	Reserves	Isaiah Evans	Did Not Play
+Minnesota Timberwolves	Reserves	Zyon Pullin	Did Not Play
+Minnesota Timberwolves	Reserves	Cody Williams	Did Not Play
+Minnesota Timberwolves	Reserves	Rocco Zikarsky	Did Not Dress
+Minnesota Timberwolves	Totals	Team Totals	265	49	102	13	40	14	23	17	37	54	25	7	7	17	22	125
+Cleveland Cavaliers	Starters	James Harden	39:29	7	17	3	9	2	2	1	4	5	9	2	0	3	5	19
+Cleveland Cavaliers	Starters	Donovan Mitchell	38:10	10	21	5	9	1	1	1	4	5	7	2	1	3	2	26
+Cleveland Cavaliers	Starters	Evan Mobley	38:06	6	12	4	5	2	6	4	6	10	3	0	2	1	3	18
+Cleveland Cavaliers	Starters	Peyton Watson	37:20	5	13	0	5	5	6	1	7	8	1	3	4	2	1	15
+Cleveland Cavaliers	Starters	Jarrett Allen	27:03	3	7	0	0	4	4	2	7	9	2	1	2	0	2	10
+Cleveland Cavaliers	Reserves	Sam Merrill	30:38	3	8	1	6	2	2	1	3	4	2	1	0	0	5	9
+Cleveland Cavaliers	Reserves	Jaylon Tyson	20:15	5	9	0	4	1	2	2	2	4	5	0	0	1	4	11
+Cleveland Cavaliers	Reserves	Meleek Thomas	19:08	6	10	4	5	0	0	1	1	2	0	1	0	2	2	16
+Cleveland Cavaliers	Reserves	Mario Hezonja	14:51	1	5	1	2	0	0	0	3	3	1	0	0	0	0	3
+Cleveland Cavaliers	Reserves	Thomas Bryant	Did Not Play
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Dress
+Cleveland Cavaliers	Reserves	Tristan Enaruna	Did Not Play
+Cleveland Cavaliers	Reserves	Riley Minix	Did Not Play
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	Did Not Play
+Cleveland Cavaliers	Reserves	Tyrese Proctor	Did Not Play
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	265	46	102	18	45	17	23	13	37	50	30	10	9	12	24	127
+```
