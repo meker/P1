@@ -1,0 +1,12 @@
+Philadelphia 76ers||Indiana Pacers|||not final
+Charlotte Hornets||Detroit Pistons|||not final
+Miami Heat||Atlanta Hawks|||not final
+Washington Wizards||Cleveland Cavaliers|||not final
+Orlando Magic||Toronto Raptors|||not final
+Houston Rockets||Milwaukee Bucks|||not final
+Golden State Warriors||Minnesota Timberwolves|||not final
+Denver Nuggets||New Orleans Pelicans|||not final
+New York Knicks||Chicago Bulls|||not final
+San Antonio Spurs||Utah Jazz|||not final
+Oklahoma City Thunder||Dallas Mavericks|||not final
+Los Angeles Lakers||Los Angeles Clippers|||not final
