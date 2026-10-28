@@ -1,0 +1,41 @@
+Final: Sacramento Kings 103, San Antonio Spurs 130
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Sacramento Kings	Starters	Domantas Sabonis	37:19	10	16	0	0	0	0	6	8	14	8	0	0	2	1	20
+Sacramento Kings	Starters	Darius Acuff Jr.	33:26	8	20	3	7	0	0	0	3	3	5	0	0	3	2	19
+Sacramento Kings	Starters	De'Andre Hunter	32:42	8	13	5	9	3	4	1	5	6	2	1	1	2	2	24
+Sacramento Kings	Starters	Zach LaVine	30:57	7	10	3	4	5	7	0	3	3	3	0	0	2	3	22
+Sacramento Kings	Starters	Precious Achiuwa	13:30	2	6	0	1	0	0	0	1	1	0	0	0	0	2	4
+Sacramento Kings	Reserves	Emanuel Sharp	19:54	1	4	1	3	2	2	0	0	0	2	0	0	1	5	5
+Sacramento Kings	Reserves	Jonathan Mogbo	18:22	1	9	0	5	0	0	3	2	5	0	1	1	1	2	2
+Sacramento Kings	Reserves	Daeqwon Plowden	17:05	0	1	0	1	0	0	2	0	2	0	1	0	1	0	0
+Sacramento Kings	Reserves	Malik Monk	13:12	1	7	1	4	0	0	0	2	2	6	0	0	0	2	3
+Sacramento Kings	Reserves	Alex Karaban	10:45	0	1	0	0	0	0	1	0	1	1	0	0	1	1	0
+Sacramento Kings	Reserves	Leaky Black	8:10	1	3	0	2	0	0	0	1	1	1	1	1	0	1	2
+Sacramento Kings	Reserves	Nique Clifford	4:39	1	3	0	1	0	0	0	0	0	0	0	0	0	1	2
+Sacramento Kings	Reserves	Maxime Raynaud	Did Not Dress
+Sacramento Kings	Reserves	Dylan Cardwell	Did Not Dress
+Sacramento Kings	Reserves	Sean Pedulla	Did Not Dress
+Sacramento Kings	Reserves	Ben Simmons	Did Not Dress
+Sacramento Kings	Reserves	Keegan Murray	Did Not Dress
+Sacramento Kings	Totals	Team Totals	240	40	93	13	37	10	13	13	25	38	28	4	3	13	22	103
+San Antonio Spurs	Starters	Dylan Harper	30:14	6	7	0	0	1	1	2	4	6	6	2	0	1	3	13
+San Antonio Spurs	Starters	Stephon Castle	27:15	4	11	3	8	4	4	0	5	5	5	1	0	3	2	15
+San Antonio Spurs	Starters	Victor Wembanyama	26:46	14	21	0	3	1	1	3	7	10	2	2	5	0	0	29
+San Antonio Spurs	Starters	De'Aaron Fox	25:59	3	6	2	2	3	4	0	4	4	6	0	0	3	3	11
+San Antonio Spurs	Starters	Devin Vassell	24:17	5	11	4	7	0	0	0	4	4	8	1	0	1	2	14
+San Antonio Spurs	Reserves	Julian Champagnie	24:50	9	14	8	13	0	0	0	3	3	3	0	0	1	1	26
+San Antonio Spurs	Reserves	Keldon Johnson	21:57	5	11	0	0	4	5	1	3	4	0	0	0	0	1	14
+San Antonio Spurs	Reserves	Carter Bryant	16:58	0	2	0	2	1	2	0	1	1	2	0	1	0	2	1
+San Antonio Spurs	Reserves	Luke Kornet	16:35	0	2	0	0	0	0	1	3	4	1	0	0	2	2	0
+San Antonio Spurs	Reserves	Harrison Barnes	13:30	1	2	0	1	1	2	0	0	0	0	0	0	0	0	3
+San Antonio Spurs	Reserves	Jordan McLaughlin	7:01	0	1	0	1	0	0	0	0	0	2	1	0	0	0	0
+San Antonio Spurs	Reserves	Tarris Reed Jr.	4:39	2	2	0	0	0	0	2	3	5	0	0	0	2	2	4
+San Antonio Spurs	Reserves	David Jones Garcia	Did Not Dress
+San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
+San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
+San Antonio Spurs	Reserves	Ja'Kobi Gillespie	Did Not Dress
+San Antonio Spurs	Reserves	Maliq Brown	Did Not Dress
+San Antonio Spurs	Totals	Team Totals	240	49	90	17	37	15	19	9	37	46	35	7	6	13	18	130
+```

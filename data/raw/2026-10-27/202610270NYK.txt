@@ -1,0 +1,42 @@
+Final: Detroit Pistons 97, New York Knicks 111
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Detroit Pistons	Starters	Cade Cunningham	35:40	7	18	2	7	3	5	1	8	9	8	0	1	3	0	19
+Detroit Pistons	Starters	Duncan Robinson	32:34	4	14	2	10	2	2	0	0	0	2	1	1	1	2	12
+Detroit Pistons	Starters	John Collins	27:24	1	4	0	0	0	0	3	6	9	1	0	3	1	3	2
+Detroit Pistons	Starters	Paul Reed	25:40	9	12	1	1	3	4	5	4	9	3	2	1	2	5	22
+Detroit Pistons	Starters	Ausar Thompson	25:09	5	9	0	1	1	3	1	5	6	2	2	1	4	6	11
+Detroit Pistons	Reserves	Daniss Jenkins	23:42	3	10	1	6	4	4	0	3	3	2	0	0	1	0	11
+Detroit Pistons	Reserves	Javonte Green	16:41	1	6	1	6	0	0	0	1	1	0	0	1	0	3	3
+Detroit Pistons	Reserves	Kevin Huerter	16:22	3	5	1	2	0	2	1	0	1	0	1	1	0	1	7
+Detroit Pistons	Reserves	Ronald Holland II	12:05	2	4	0	1	0	0	2	1	3	2	0	2	0	3	4
+Detroit Pistons	Reserves	Taurean Prince	7:29	1	3	1	3	0	0	0	0	0	0	2	0	0	1	3
+Detroit Pistons	Reserves	Tolu Smith	6:01	0	1	0	0	1	4	2	2	4	0	0	0	1	4	1
+Detroit Pistons	Reserves	Ebuka Okorie	3:48	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0
+Detroit Pistons	Reserves	Isaac Jones	3:07	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Detroit Pistons	Reserves	Elijah Harkless	2:35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Detroit Pistons	Reserves	Chaz Lanier	1:43	1	1	0	0	0	0	0	0	0	0	0	0	0	0	2
+Detroit Pistons	Reserves	Isaiah Joe	Did Not Dress
+Detroit Pistons	Reserves	Ugonna Onyenso	Did Not Dress
+Detroit Pistons	Reserves	Jalen Duren	Did Not Dress
+Detroit Pistons	Totals	Team Totals	240	37	87	9	37	14	24	15	30	45	23	8	11	14	28	97
+New York Knicks	Starters	Jalen Brunson	36:26	5	18	0	5	13	16	1	0	1	7	0	0	1	1	23
+New York Knicks	Starters	OG Anunoby	35:50	5	15	1	6	2	2	4	3	7	2	2	2	2	5	13
+New York Knicks	Starters	Karl-Anthony Towns	32:33	12	21	1	5	2	2	8	12	20	3	0	0	7	5	27
+New York Knicks	Starters	Mikal Bridges	31:42	4	10	4	8	0	0	1	2	3	4	1	0	2	0	12
+New York Knicks	Starters	Josh Hart	27:16	2	2	2	2	0	0	0	4	4	4	5	0	3	3	6
+New York Knicks	Reserves	Landry Shamet	28:27	3	8	3	5	4	4	2	0	2	3	0	0	1	2	13
+New York Knicks	Reserves	Miles McBride	17:12	2	4	1	3	0	0	0	1	1	1	0	0	0	3	5
+New York Knicks	Reserves	Andre Drummond	14:14	5	7	0	1	0	2	2	6	8	1	0	0	1	2	10
+New York Knicks	Reserves	Tyler Kolek	11:11	0	3	0	1	2	2	0	1	1	3	2	0	0	2	2
+New York Knicks	Reserves	Jaden Akins	1:32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+New York Knicks	Reserves	Pacôme Dadiet	1:13	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+New York Knicks	Reserves	James Wiseman	1:13	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0
+New York Knicks	Reserves	Mohamed Diawara	1:13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+New York Knicks	Reserves	Jordan Clarkson	Did Not Play
+New York Knicks	Reserves	Jose Alvarado	Did Not Dress
+New York Knicks	Reserves	Dalton Knecht	Did Not Dress
+New York Knicks	Reserves	Tyler Nickel	Did Not Dress
+New York Knicks	Totals	Team Totals	240	38	88	12	36	23	28	19	30	49	28	10	2	18	23	111
+```

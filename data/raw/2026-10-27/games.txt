@@ -1,4 +1,4 @@
-Brooklyn Nets||Boston Celtics|||not final
-Detroit Pistons||New York Knicks|||not final
-Sacramento Kings||San Antonio Spurs|||not final
 Portland Trail Blazers||Los Angeles Lakers|||not final
+Brooklyn Nets|124|Boston Celtics|125|https://www.basketball-reference.com/boxscores/202610270BOS.html|final
+Detroit Pistons|97|New York Knicks|111|https://www.basketball-reference.com/boxscores/202610270NYK.html|final
+Sacramento Kings|103|San Antonio Spurs|130|https://www.basketball-reference.com/boxscores/202610270SAS.html|final
