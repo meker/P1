@@ -1,0 +1,56 @@
+{
+ "date": "2026-10-29",
+ "updated_at": "2026-10-29T13:56:16Z",
+ "games": 3,
+ "final": 0,
+ "pending": 3,
+ "problems": 0,
+ "sources": [],
+ "list": [
+  {
+   "boxid": "202610290NOP",
+   "away": "SAC",
+   "home": "NOP",
+   "status": "not started",
+   "status_text": "8:00 pm ET",
+   "source": null,
+   "away_score": null,
+   "home_score": null,
+   "final_at": null,
+   "nba_game_id": "0022600145",
+   "espn_event_id": null,
+   "url": null,
+   "problems": []
+  },
+  {
+   "boxid": "202610290ATL",
+   "away": "CLE",
+   "home": "ATL",
+   "status": "not started",
+   "status_text": "8:00 pm ET",
+   "source": null,
+   "away_score": null,
+   "home_score": null,
+   "final_at": null,
+   "nba_game_id": "0022600144",
+   "espn_event_id": null,
+   "url": null,
+   "problems": []
+  },
+  {
+   "boxid": "202610290POR",
+   "away": "MEM",
+   "home": "POR",
+   "status": "not started",
+   "status_text": "10:00 pm ET",
+   "source": null,
+   "away_score": null,
+   "home_score": null,
+   "final_at": null,
+   "nba_game_id": "0022600146",
+   "espn_event_id": null,
+   "url": null,
+   "problems": []
+  }
+ ]
+}
