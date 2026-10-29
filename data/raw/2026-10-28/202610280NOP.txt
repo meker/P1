@@ -1,0 +1,42 @@
+Final: Denver Nuggets 104, New Orleans Pelicans 91
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Denver Nuggets	Starters	Jamal Murray	38:18	9	19	5	11	0	0	0	1	1	6	0	2	1	3	23
+Denver Nuggets	Starters	Christian Braun	35:57	6	13	3	8	0	0	0	0	0	4	3	1	2	4	15
+Denver Nuggets	Starters	Nikola Jokić	34:17	8	13	0	0	5	5	2	11	13	10	1	0	7	4	21
+Denver Nuggets	Starters	Trevon Brazile	31:37	5	9	1	3	0	0	2	6	8	0	1	1	1	1	11
+Denver Nuggets	Starters	Aaron Gordon	30:57	3	10	2	6	7	8	0	11	11	3	1	0	0	1	15
+Denver Nuggets	Reserves	DeMar DeRozan	25:39	1	6	0	0	4	4	0	2	2	5	2	0	1	3	6
+Denver Nuggets	Reserves	Marvin Bagley III	18:39	3	6	0	1	2	2	0	5	5	1	1	1	1	2	8
+Denver Nuggets	Reserves	Bryce Hopkins	13:50	0	0	0	0	0	0	1	1	2	0	0	0	3	1	0
+Denver Nuggets	Reserves	Tyus Jones	10:46	2	4	1	2	0	0	0	0	0	1	2	0	1	0	5
+Denver Nuggets	Reserves	DaRon Holmes	Did Not Play
+Denver Nuggets	Reserves	Ryan Nembhard	Did Not Play
+Denver Nuggets	Reserves	Zeke Nnaji	Did Not Play
+Denver Nuggets	Reserves	Cam Whitmore	Did Not Play
+Denver Nuggets	Reserves	Cameron Johnson	Did Not Dress
+Denver Nuggets	Reserves	Julian Strawther	Did Not Dress
+Denver Nuggets	Reserves	Spencer Jones	Did Not Dress
+Denver Nuggets	Reserves	Alpha Diallo	Did Not Dress
+Denver Nuggets	Totals	Team Totals	240	37	80	12	31	18	19	5	37	42	30	11	5	17	19	104
+New Orleans Pelicans	Starters	Zion Williamson	31:39	10	14	1	1	4	6	2	3	5	2	3	0	1	3	25
+New Orleans Pelicans	Starters	Trey Murphy III	30:27	2	7	2	7	0	1	0	1	1	3	2	0	2	3	6
+New Orleans Pelicans	Starters	Dejounte Murray	30:12	4	11	0	2	2	2	1	7	8	5	1	0	2	1	10
+New Orleans Pelicans	Starters	Jeremiah Fears	23:33	5	14	1	5	0	0	2	2	4	3	1	0	3	3	11
+New Orleans Pelicans	Starters	DeAndre Jordan	13:06	1	1	0	0	1	2	1	3	4	0	0	1	1	2	3
+New Orleans Pelicans	Reserves	Saddiq Bey	25:56	3	10	1	6	2	2	0	0	0	3	2	0	0	0	9
+New Orleans Pelicans	Reserves	Derik Queen	24:54	3	6	0	0	5	7	1	11	12	1	0	1	5	3	11
+New Orleans Pelicans	Reserves	Herbert Jones	18:32	1	5	0	1	2	2	0	2	2	0	2	1	1	1	4
+New Orleans Pelicans	Reserves	Karlo Matković	17:42	2	6	1	4	0	0	0	3	3	1	0	0	1	2	5
+New Orleans Pelicans	Reserves	Bennedict Mathurin	13:59	2	5	1	3	0	0	0	1	1	2	1	0	3	2	5
+New Orleans Pelicans	Reserves	Jordan Poole	7:14	1	3	0	1	0	0	1	0	1	0	1	0	0	1	2
+New Orleans Pelicans	Reserves	Bryce McGowens	2:46	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+New Orleans Pelicans	Reserves	AJ Johnson	Did Not Play
+New Orleans Pelicans	Reserves	Julian Reese	Did Not Play
+New Orleans Pelicans	Reserves	Trendon Watford	Did Not Play
+New Orleans Pelicans	Reserves	Jaron Pierre Jr.	Did Not Dress
+New Orleans Pelicans	Reserves	Malik Dia	Did Not Dress
+New Orleans Pelicans	Reserves	Yves Missi	Did Not Dress
+New Orleans Pelicans	Totals	Team Totals	240	34	82	7	30	16	22	8	33	41	20	14	3	19	21	91
+```

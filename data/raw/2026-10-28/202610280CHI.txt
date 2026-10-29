@@ -1,0 +1,42 @@
+Final: New York Knicks 133, Chicago Bulls 127
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+New York Knicks	Starters	Josh Hart	35:44	1	6	0	3	0	0	3	5	8	3	0	1	2	1	2
+New York Knicks	Starters	Jalen Brunson	35:20	13	25	6	10	6	8	1	0	1	7	2	0	2	3	38
+New York Knicks	Starters	OG Anunoby	30:47	7	16	2	6	7	8	0	6	6	1	0	0	1	3	23
+New York Knicks	Starters	Karl-Anthony Towns	28:27	7	14	3	6	2	2	3	10	13	5	1	0	4	5	19
+New York Knicks	Starters	Mikal Bridges	13:02	1	4	1	2	0	0	0	0	0	0	0	0	1	2	3
+New York Knicks	Reserves	Landry Shamet	32:22	5	10	4	7	0	0	0	1	1	5	0	2	0	2	14
+New York Knicks	Reserves	Tyler Kolek	18:23	3	4	3	4	0	0	1	1	2	9	0	0	0	0	9
+New York Knicks	Reserves	Jordan Clarkson	16:46	7	11	2	3	2	2	2	1	3	1	2	0	0	2	18
+New York Knicks	Reserves	Andre Drummond	15:08	2	6	0	0	0	0	4	7	11	1	0	1	1	2	4
+New York Knicks	Reserves	Miles McBride	14:03	1	9	1	7	0	0	2	3	5	0	1	2	1	3	3
+New York Knicks	Reserves	Jaden Akins	Did Not Play
+New York Knicks	Reserves	Pacôme Dadiet	Did Not Play
+New York Knicks	Reserves	Mohamed Diawara	Did Not Play
+New York Knicks	Reserves	Kevin McCullar Jr.	Did Not Play
+New York Knicks	Reserves	James Wiseman	Did Not Play
+New York Knicks	Reserves	Jose Alvarado	Did Not Dress
+New York Knicks	Reserves	Dalton Knecht	Did Not Dress
+New York Knicks	Reserves	Tyler Nickel	Did Not Dress
+New York Knicks	Totals	Team Totals	240	47	105	22	48	17	20	16	34	50	32	6	6	12	23	133
+Chicago Bulls	Starters	Caleb Wilson	37:35	7	18	3	8	3	4	2	4	6	4	2	1	1	3	20
+Chicago Bulls	Starters	Norman Powell	36:40	10	15	4	9	6	9	0	2	2	2	1	0	4	1	30
+Chicago Bulls	Starters	Matas Buzelis	32:45	5	13	3	6	4	6	2	3	5	3	1	1	4	1	17
+Chicago Bulls	Starters	Josh Giddey	31:26	4	9	1	1	1	1	0	8	8	11	1	0	2	1	10
+Chicago Bulls	Starters	Jalen Smith	29:42	7	12	3	7	0	0	1	10	11	5	0	3	0	4	17
+Chicago Bulls	Reserves	Tre Jones	18:05	4	8	1	1	2	3	3	1	4	3	1	0	1	2	11
+Chicago Bulls	Reserves	Isaac Okoro	17:58	1	4	1	2	4	6	0	0	0	1	1	0	0	0	7
+Chicago Bulls	Reserves	Leonard Miller	16:47	4	8	1	5	1	1	0	0	0	1	0	2	0	4	10
+Chicago Bulls	Reserves	Noa Essengue	10:23	1	1	1	1	0	0	0	0	0	1	0	0	0	4	3
+Chicago Bulls	Reserves	Buddy Hield	8:39	1	3	0	2	0	0	0	3	3	1	0	0	0	1	2
+Chicago Bulls	Reserves	Zach Collins	Did Not Play
+Chicago Bulls	Reserves	Jordan Hawkins	Did Not Play
+Chicago Bulls	Reserves	Jaylin Sellers	Did Not Play
+Chicago Bulls	Reserves	Dailyn Swain	Did Not Play
+Chicago Bulls	Reserves	Nic Claxton	Did Not Dress
+Chicago Bulls	Reserves	Patrick Williams	Did Not Dress
+Chicago Bulls	Reserves	Tobe Awaka	Did Not Dress
+Chicago Bulls	Totals	Team Totals	240	44	91	18	42	21	30	8	31	39	32	7	7	12	21	127
+```

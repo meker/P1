@@ -1,0 +1,40 @@
+Final: Orlando Magic 99, Toronto Raptors 129
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Orlando Magic	Starters	Franz Wagner	34:06	4	11	0	3	7	8	0	4	4	5	2	0	7	3	15
+Orlando Magic	Starters	Desmond Bane	33:33	3	14	2	8	5	5	1	4	5	4	1	2	0	2	13
+Orlando Magic	Starters	Wendell Carter Jr.	26:13	1	4	0	2	1	2	4	6	10	3	1	0	2	2	3
+Orlando Magic	Starters	Anthony Black	21:48	4	9	0	3	0	0	0	2	2	1	1	1	4	4	8
+Orlando Magic	Starters	Jase Richardson	14:22	4	8	2	3	0	0	0	1	1	1	0	0	0	5	10
+Orlando Magic	Reserves	Tristan da Silva	30:59	8	10	4	5	0	3	0	3	3	1	0	0	0	2	20
+Orlando Magic	Reserves	Jevon Carter	21:43	2	6	2	6	0	0	0	0	0	3	0	0	1	2	6
+Orlando Magic	Reserves	Nikola Vučević	16:02	2	5	0	2	1	2	1	3	4	2	0	1	1	1	5
+Orlando Magic	Reserves	Jamal Cain	15:47	2	7	0	2	5	5	1	0	1	0	2	0	1	1	9
+Orlando Magic	Reserves	Goga Bitadze	11:11	1	1	0	0	4	4	0	0	0	1	1	0	1	2	6
+Orlando Magic	Reserves	Colin Castleton	7:08	1	3	0	0	0	0	2	0	2	0	0	1	1	0	2
+Orlando Magic	Reserves	Alex Morales	7:08	1	2	0	1	0	0	0	2	2	1	0	0	2	2	2
+Orlando Magic	Reserves	Jonathan Isaac	Did Not Dress
+Orlando Magic	Reserves	Jalen Suggs	Did Not Dress
+Orlando Magic	Reserves	Paolo Banchero	Did Not Dress
+Orlando Magic	Reserves	Noah Penda	Did Not Dress
+Orlando Magic	Reserves	Izaiyah Nelson	Did Not Dress
+Orlando Magic	Totals	Team Totals	240	33	80	10	35	23	29	9	25	34	22	8	5	20	26	99
+Toronto Raptors	Starters	RJ Barrett	32:10	9	18	3	7	4	5	2	7	9	6	1	0	0	3	25
+Toronto Raptors	Starters	Scottie Barnes	31:17	11	17	0	2	6	6	1	5	6	4	3	2	2	3	28
+Toronto Raptors	Starters	Immanuel Quickley	28:37	5	15	4	8	2	2	0	3	3	7	2	0	1	0	16
+Toronto Raptors	Starters	Ja'Kobe Walter	27:38	5	9	3	7	1	1	1	4	5	2	1	0	0	4	14
+Toronto Raptors	Starters	Jakob Poeltl	10:13	1	1	0	0	0	2	0	2	2	0	0	0	1	5	2
+Toronto Raptors	Reserves	Jamal Shead	23:12	4	7	1	2	4	4	1	3	4	7	2	0	4	2	13
+Toronto Raptors	Reserves	Jamison Battle	20:00	1	4	1	3	4	5	0	0	0	1	2	0	1	2	7
+Toronto Raptors	Reserves	Trayce Jackson-Davis	20:00	3	5	0	0	0	0	2	9	11	2	0	2	0	0	6
+Toronto Raptors	Reserves	Allen Graves	18:10	0	3	0	1	3	4	1	0	1	0	1	0	1	2	3
+Toronto Raptors	Reserves	Collin Murray-Boyles	14:32	3	5	2	3	2	2	0	2	2	1	0	0	3	5	10
+Toronto Raptors	Reserves	Jaden Bradley	5:01	0	1	0	0	0	0	0	1	1	1	2	0	1	0	0
+Toronto Raptors	Reserves	Alijah Martin	4:37	2	3	1	2	0	0	0	1	1	1	0	0	0	1	5
+Toronto Raptors	Reserves	Kyle Anderson	4:33	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+Toronto Raptors	Reserves	Kawhi Leonard	Did Not Dress
+Toronto Raptors	Reserves	Nate Bittle	Did Not Dress
+Toronto Raptors	Reserves	Malachi Smith	Did Not Dress
+Toronto Raptors	Totals	Team Totals	240	44	88	15	35	26	31	8	37	45	33	15	4	14	27	129
+```

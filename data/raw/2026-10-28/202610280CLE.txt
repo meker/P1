@@ -1,0 +1,42 @@
+Final: Washington Wizards 111, Cleveland Cavaliers 121
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Washington Wizards	Starters	Kyshawn George	38:06	4	10	0	4	0	0	0	2	2	11	0	1	0	2	8
+Washington Wizards	Starters	Anthony Davis	33:32	8	18	2	5	0	0	1	4	5	3	1	2	0	2	18
+Washington Wizards	Starters	Trae Young	33:30	3	12	1	7	7	7	0	5	5	8	0	0	4	1	14
+Washington Wizards	Starters	AJ Dybantsa	26:57	8	12	1	3	2	2	1	1	2	2	0	0	2	4	19
+Washington Wizards	Starters	Alex Sarr	25:52	7	11	2	5	2	3	0	4	4	2	4	1	1	3	18
+Washington Wizards	Reserves	Bilal Coulibaly	26:53	8	9	1	2	0	0	1	1	2	0	2	2	0	2	17
+Washington Wizards	Reserves	Khris Middleton	23:17	1	2	1	2	1	2	0	3	3	2	0	0	3	2	4
+Washington Wizards	Reserves	Bub Carrington	20:16	0	4	0	4	3	3	0	1	1	3	0	0	0	2	3
+Washington Wizards	Reserves	Deandre Ayton	11:38	5	5	0	0	0	0	2	1	3	0	0	0	0	1	10
+Washington Wizards	Reserves	Anthony Gill	Did Not Play
+Washington Wizards	Reserves	Tre Johnson	Did Not Play
+Washington Wizards	Reserves	Tre Mann	Did Not Play
+Washington Wizards	Reserves	Will Riley	Did Not Play
+Washington Wizards	Reserves	Justin Champagnie	Did Not Dress
+Washington Wizards	Reserves	Reece Beekman	Did Not Dress
+Washington Wizards	Reserves	Tristan Vukčević	Did Not Dress
+Washington Wizards	Reserves	Jamir Watkins	Did Not Dress
+Washington Wizards	Reserves	Felix Okpara	Did Not Dress
+Washington Wizards	Totals	Team Totals	240	44	83	8	32	15	17	5	22	27	31	7	6	10	19	111
+Cleveland Cavaliers	Starters	James Harden	33:42	5	18	2	10	4	4	0	2	2	6	1	0	2	2	16
+Cleveland Cavaliers	Starters	Evan Mobley	31:49	8	12	5	6	3	4	3	9	12	2	0	0	3	1	24
+Cleveland Cavaliers	Starters	Donovan Mitchell	31:17	6	13	2	5	5	5	1	4	5	7	2	0	5	2	19
+Cleveland Cavaliers	Starters	Jarrett Allen	30:28	3	6	0	0	2	2	2	10	12	2	1	3	0	1	8
+Cleveland Cavaliers	Starters	Peyton Watson	28:10	9	17	1	4	3	3	5	1	6	2	0	1	2	3	22
+Cleveland Cavaliers	Reserves	Jaylon Tyson	20:42	3	5	1	2	0	0	0	1	1	2	1	0	1	1	7
+Cleveland Cavaliers	Reserves	Meleek Thomas	20:27	4	7	0	1	2	2	1	3	4	1	1	0	0	3	10
+Cleveland Cavaliers	Reserves	Sam Merrill	20:22	2	7	2	6	2	2	0	1	1	1	1	0	0	3	8
+Cleveland Cavaliers	Reserves	Mario Hezonja	17:03	2	5	1	4	0	0	2	1	3	2	0	0	0	0	5
+Cleveland Cavaliers	Reserves	Tyrese Proctor	6:00	1	1	0	0	0	0	1	0	1	1	0	0	0	0	2
+Cleveland Cavaliers	Reserves	Thomas Bryant	Did Not Play
+Cleveland Cavaliers	Reserves	Tristan Enaruna	Did Not Play
+Cleveland Cavaliers	Reserves	Riley Minix	Did Not Play
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	Did Not Play
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Dress
+Cleveland Cavaliers	Reserves	Ernest Udeh, Jr.	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	240	43	91	14	38	21	22	15	32	47	26	7	4	13	16	121
+```

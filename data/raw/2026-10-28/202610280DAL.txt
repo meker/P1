@@ -1,0 +1,42 @@
+Final: Oklahoma City Thunder 96, Dallas Mavericks 120
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Oklahoma City Thunder	Starters	Jared McCain	29:24	3	13	0	6	4	5	1	3	4	4	0	0	3	2	10
+Oklahoma City Thunder	Starters	Shai Gilgeous-Alexander	28:15	7	19	1	6	6	6	2	4	6	2	1	0	1	3	21
+Oklahoma City Thunder	Starters	Ajay Mitchell	27:44	12	20	2	5	3	3	0	4	4	3	2	1	2	1	29
+Oklahoma City Thunder	Starters	Isaiah Hartenstein	25:43	4	6	0	0	2	2	4	10	14	3	0	0	2	1	10
+Oklahoma City Thunder	Starters	Kenrich Williams	16:37	3	7	1	3	0	0	2	1	3	0	0	0	1	3	7
+Oklahoma City Thunder	Reserves	Bennett Stirtz	28:21	3	5	1	3	1	2	0	0	0	3	0	0	0	2	8
+Oklahoma City Thunder	Reserves	Josh Dix	24:02	1	8	0	6	0	0	1	1	2	0	1	0	1	0	2
+Oklahoma City Thunder	Reserves	Aday Mara	20:54	2	4	0	0	2	2	1	2	3	1	0	2	3	4	6
+Oklahoma City Thunder	Reserves	Jaylin Williams	20:12	0	2	0	2	0	0	0	5	5	1	0	0	0	1	0
+Oklahoma City Thunder	Reserves	Brooks Barnhizer	14:04	1	3	0	1	1	3	1	1	2	0	0	0	0	2	3
+Oklahoma City Thunder	Reserves	Micah Peavy	4:41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oklahoma City Thunder	Reserves	Alex Caruso	Did Not Dress
+Oklahoma City Thunder	Reserves	Nikola Topić	Did Not Dress
+Oklahoma City Thunder	Reserves	Thomas Sorber	Did Not Dress
+Oklahoma City Thunder	Reserves	Chet Holmgren	Did Not Dress
+Oklahoma City Thunder	Reserves	Jalen Williams	Did Not Dress
+Oklahoma City Thunder	Reserves	Cason Wallace	Did Not Dress
+Oklahoma City Thunder	Totals	Team Totals	240	36	87	5	32	19	23	12	31	43	17	4	3	14	19	96
+Dallas Mavericks	Starters	Cooper Flagg	32:56	10	23	2	8	4	4	0	5	5	8	0	0	0	1	26
+Dallas Mavericks	Starters	Kyrie Irving	26:58	6	14	3	8	0	0	0	2	2	4	2	2	1	4	15
+Dallas Mavericks	Starters	Daniel Gafford	26:40	3	4	1	1	0	0	6	5	11	2	0	2	2	3	7
+Dallas Mavericks	Starters	P.J. Washington	26:33	7	16	2	7	2	2	1	8	9	0	0	1	1	1	18
+Dallas Mavericks	Starters	Max Christie	21:47	3	8	3	7	2	2	0	5	5	2	0	0	1	2	11
+Dallas Mavericks	Reserves	Zaccharie Risacher	28:51	5	6	2	3	1	2	4	2	6	1	1	1	1	1	13
+Dallas Mavericks	Reserves	Marcus Sasser	21:57	4	9	1	3	1	1	0	1	1	4	0	0	1	1	10
+Dallas Mavericks	Reserves	Morez Johnson Jr.	17:46	4	6	0	0	2	2	2	4	6	3	0	0	1	3	10
+Dallas Mavericks	Reserves	Walter Clayton Jr.	14:41	0	4	0	4	0	2	1	1	2	5	0	0	0	3	0
+Dallas Mavericks	Reserves	Caleb Martin	13:48	4	6	2	4	0	0	1	1	2	0	1	0	1	1	10
+Dallas Mavericks	Reserves	Moussa Cissé	2:40	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dallas Mavericks	Reserves	Jett Howard	2:40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dallas Mavericks	Reserves	Tobi Lawal	2:40	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Dallas Mavericks	Reserves	Naji Marshall	Did Not Dress
+Dallas Mavericks	Reserves	Santi Aldama	Did Not Dress
+Dallas Mavericks	Reserves	Dereck Lively II	Did Not Dress
+Dallas Mavericks	Reserves	Tarik Biberovic	Did Not Dress
+Dallas Mavericks	Reserves	Sergio de Larrea	Did Not Dress
+Dallas Mavericks	Totals	Team Totals	240	46	97	16	45	12	15	15	34	49	30	4	6	11	20	120
+```

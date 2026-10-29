@@ -1,0 +1,42 @@
+Final: Golden State Warriors 119, Minnesota Timberwolves 114
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Golden State Warriors	Starters	Yaxel Lendeborg	34:36	11	20	2	5	2	4	2	7	9	1	1	1	7	3	26
+Golden State Warriors	Starters	Draymond Green	31:49	1	3	0	0	1	2	2	7	9	6	0	2	3	5	3
+Golden State Warriors	Starters	Brandin Podziemski	31:40	2	5	0	1	4	7	0	5	5	6	0	0	2	5	8
+Golden State Warriors	Starters	Stephen Curry	31:36	11	27	6	16	16	16	1	7	8	6	2	0	2	0	44
+Golden State Warriors	Starters	Georges Niang	22:32	3	6	1	3	0	0	1	2	3	2	2	0	1	2	7
+Golden State Warriors	Reserves	Will Richard	23:20	2	5	0	2	2	2	2	1	3	0	0	0	0	2	6
+Golden State Warriors	Reserves	De'Anthony Melton	20:24	2	7	2	4	2	2	2	4	6	0	1	1	1	2	8
+Golden State Warriors	Reserves	Al Horford	18:03	2	3	0	0	0	0	2	3	5	2	1	1	1	1	4
+Golden State Warriors	Reserves	Brandon Williams	13:56	4	11	0	4	3	4	0	3	3	1	0	0	0	2	11
+Golden State Warriors	Reserves	Gary Payton II	10:16	1	2	0	0	0	0	1	1	2	1	0	0	0	2	2
+Golden State Warriors	Reserves	Charles Bassey	1:49	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Golden State Warriors	Reserves	LJ Cryer	Did Not Play
+Golden State Warriors	Reserves	Graham Ike	Did Not Play
+Golden State Warriors	Reserves	Malevy Leons	Did Not Play
+Golden State Warriors	Reserves	Gui Santos	Did Not Dress
+Golden State Warriors	Reserves	Moses Moody	Did Not Dress
+Golden State Warriors	Reserves	Jimmy Butler III	Did Not Dress
+Golden State Warriors	Reserves	Kristaps Porziņģis	Did Not Dress
+Golden State Warriors	Totals	Team Totals	240	39	89	11	35	30	37	13	40	53	25	7	5	17	24	119
+Minnesota Timberwolves	Starters	Jaden McDaniels	35:01	8	18	1	8	2	3	2	5	7	4	0	0	2	5	19
+Minnesota Timberwolves	Starters	Jonathan Kuminga	32:27	7	15	3	6	3	5	1	2	3	5	2	0	0	2	20
+Minnesota Timberwolves	Starters	Ayo Dosunmu	31:54	6	12	3	7	2	2	0	3	3	4	4	0	0	5	17
+Minnesota Timberwolves	Starters	LaMelo Ball	28:10	3	11	2	8	0	0	0	3	3	8	1	0	6	5	8
+Minnesota Timberwolves	Starters	Rudy Gobert	20:19	0	4	0	0	1	2	0	4	4	1	1	0	0	3	1
+Minnesota Timberwolves	Reserves	Terrence Shannon Jr	27:24	5	13	1	5	8	10	0	6	6	2	1	0	3	2	19
+Minnesota Timberwolves	Reserves	Trey Lyles	21:36	3	5	1	3	0	0	0	3	3	1	1	1	0	1	7
+Minnesota Timberwolves	Reserves	Joan Beringer	19:31	3	3	0	0	1	3	2	8	10	2	0	1	1	2	7
+Minnesota Timberwolves	Reserves	Bones Hyland	16:22	4	7	3	6	2	2	1	0	1	3	0	0	2	2	13
+Minnesota Timberwolves	Reserves	Jaylen Clark	7:16	1	2	1	2	0	0	1	1	2	1	0	0	1	2	3
+Minnesota Timberwolves	Reserves	Isaiah Evans	Did Not Play
+Minnesota Timberwolves	Reserves	Cody Williams	Did Not Play
+Minnesota Timberwolves	Reserves	Donte DiVincenzo	Did Not Dress
+Minnesota Timberwolves	Reserves	Anthony Edwards	Did Not Dress
+Minnesota Timberwolves	Reserves	Zyon Pullin	Did Not Dress
+Minnesota Timberwolves	Reserves	Enrique Freeman	Did Not Dress
+Minnesota Timberwolves	Reserves	Rocco Zikarsky	Did Not Dress
+Minnesota Timberwolves	Totals	Team Totals	240	40	90	15	45	19	27	7	35	42	31	10	2	15	29	114
+```

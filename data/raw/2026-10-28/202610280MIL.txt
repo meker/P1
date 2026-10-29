@@ -1,0 +1,42 @@
+Final: Houston Rockets 132, Milwaukee Bucks 100
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Houston Rockets	Starters	Amen Thompson	33:19	10	16	0	2	3	4	1	3	4	3	1	0	1	3	23
+Houston Rockets	Starters	Tari Eason	30:48	2	6	1	3	0	0	1	8	9	1	1	3	3	4	5
+Houston Rockets	Starters	Kevin Durant	30:42	5	9	2	3	6	7	1	4	5	4	0	3	3	1	18
+Houston Rockets	Starters	Jabari Smith Jr.	29:36	4	12	3	6	3	3	0	2	2	2	1	1	0	1	14
+Houston Rockets	Starters	Fred VanVleet	29:22	7	14	4	9	6	6	0	6	6	5	2	0	3	0	24
+Houston Rockets	Reserves	Reed Sheppard	23:02	2	9	1	8	2	2	1	2	3	4	1	0	0	1	7
+Houston Rockets	Reserves	Clint Capela	21:55	5	6	0	0	0	0	3	5	8	2	3	2	2	5	10
+Houston Rockets	Reserves	Bogdan Bogdanović	15:21	5	6	4	5	2	2	0	2	2	4	2	0	1	0	16
+Houston Rockets	Reserves	Oscar Tshiebwe	13:44	3	3	0	0	1	2	1	4	5	2	1	1	1	0	7
+Houston Rockets	Reserves	Isaiah Crawford	4:39	1	1	1	1	0	0	0	0	0	0	0	0	0	1	3
+Houston Rockets	Reserves	Jae'Sean Tate	4:28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Houston Rockets	Reserves	Bruce Thornton	3:04	2	2	1	1	0	0	0	0	0	0	0	0	0	0	5
+Houston Rockets	Reserves	Alperen Şengün	Did Not Dress
+Houston Rockets	Reserves	Marcus Smart	Did Not Dress
+Houston Rockets	Reserves	Quadir Copeland	Did Not Dress
+Houston Rockets	Reserves	Julian Phillips	Did Not Dress
+Houston Rockets	Reserves	Steven Adams	Did Not Dress
+Houston Rockets	Totals	Team Totals	240	46	84	17	38	23	26	8	36	44	27	12	10	14	16	132
+Milwaukee Bucks	Starters	Jaime Jaquez Jr.	27:16	7	13	3	6	2	2	2	2	4	2	1	0	1	1	19
+Milwaukee Bucks	Starters	Tyler Herro	27:00	9	13	4	6	1	1	0	3	3	0	1	0	2	0	23
+Milwaukee Bucks	Starters	Myles Turner	22:29	2	7	0	5	0	0	0	2	2	2	1	2	2	4	4
+Milwaukee Bucks	Starters	Kyle Kuzma	17:58	2	6	0	2	0	0	2	4	6	1	1	0	1	1	4
+Milwaukee Bucks	Starters	Ryan Rollins	17:23	2	14	0	3	0	0	1	3	4	5	1	0	1	1	4
+Milwaukee Bucks	Reserves	AJ Green	24:00	3	5	3	5	0	0	0	1	1	2	0	0	1	1	9
+Milwaukee Bucks	Reserves	Nate Ament	19:46	2	8	1	4	3	4	1	3	4	0	1	1	2	4	8
+Milwaukee Bucks	Reserves	Kasparas Jakučionis	18:37	1	3	0	2	2	4	0	2	2	6	0	0	3	3	4
+Milwaukee Bucks	Reserves	Brayden Burries	17:17	3	6	0	2	4	5	3	3	6	1	1	0	2	1	10
+Milwaukee Bucks	Reserves	Kel'el Ware	16:31	2	9	0	3	2	2	5	3	8	0	0	0	1	0	6
+Milwaukee Bucks	Reserves	Ousmane Dieng	13:02	2	5	0	1	0	0	0	0	0	0	1	0	0	3	4
+Milwaukee Bucks	Reserves	Gary Trent Jr.	6:55	1	3	1	2	0	0	0	0	0	0	0	0	0	1	3
+Milwaukee Bucks	Reserves	Jericho Sims	6:30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milwaukee Bucks	Reserves	Bogoljub Marković	5:16	1	1	0	0	0	0	1	0	1	0	0	0	0	0	2
+Milwaukee Bucks	Reserves	Caris LeVert	Did Not Play
+Milwaukee Bucks	Reserves	Pete Nance	Did Not Dress
+Milwaukee Bucks	Reserves	Cormac Ryan	Did Not Dress
+Milwaukee Bucks	Reserves	Kam Jones	Did Not Dress
+Milwaukee Bucks	Totals	Team Totals	240	37	93	12	41	14	18	15	26	41	19	8	3	16	20	100
+```
