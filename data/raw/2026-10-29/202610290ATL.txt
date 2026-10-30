@@ -1,0 +1,42 @@
+Final: Cleveland Cavaliers 111, Atlanta Hawks 114
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Cleveland Cavaliers	Starters	James Harden	36:25	7	14	3	8	7	9	0	5	5	4	0	0	3	4	24
+Cleveland Cavaliers	Starters	Donovan Mitchell	33:02	7	19	1	9	7	8	1	2	3	3	1	0	0	2	22
+Cleveland Cavaliers	Starters	Evan Mobley	32:41	4	9	0	3	3	4	1	3	4	7	0	1	1	0	11
+Cleveland Cavaliers	Starters	Jarrett Allen	30:00	5	8	1	1	3	4	3	5	8	1	0	2	1	1	14
+Cleveland Cavaliers	Starters	Peyton Watson	22:22	1	8	0	3	2	4	1	3	4	3	0	2	2	5	4
+Cleveland Cavaliers	Reserves	Sam Merrill	26:48	6	11	4	8	0	0	1	1	2	3	1	0	2	4	16
+Cleveland Cavaliers	Reserves	Tyrese Proctor	19:33	3	5	1	2	0	0	1	5	6	2	0	0	0	1	7
+Cleveland Cavaliers	Reserves	Jaylon Tyson	18:00	1	7	1	5	0	0	0	6	6	1	0	0	0	1	3
+Cleveland Cavaliers	Reserves	Mario Hezonja	16:45	4	6	2	3	0	0	1	5	6	2	1	0	0	1	10
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	4:23	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+Cleveland Cavaliers	Reserves	Thomas Bryant	Did Not Play
+Cleveland Cavaliers	Reserves	Riley Minix	Did Not Play
+Cleveland Cavaliers	Reserves	Ernest Udeh, Jr.	Did Not Play
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Tristan Enaruna	Did Not Dress
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Dress
+Cleveland Cavaliers	Reserves	Meleek Thomas	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	240	38	87	13	42	22	29	9	36	45	26	3	5	9	19	111
+Atlanta Hawks	Starters	Jalen Johnson	34:05	7	16	2	5	1	1	1	7	8	7	0	0	4	3	17
+Atlanta Hawks	Starters	Onyeka Okongwu	32:38	11	17	4	6	3	4	5	7	12	2	1	1	1	4	29
+Atlanta Hawks	Starters	Dyson Daniels	32:25	2	8	0	1	0	0	2	4	6	5	1	0	0	2	4
+Atlanta Hawks	Starters	Nickeil Alexander-Walker	31:26	8	17	4	12	5	5	2	1	3	1	0	1	0	3	25
+Atlanta Hawks	Starters	CJ McCollum	31:23	1	8	0	4	3	4	0	3	3	8	2	0	4	2	5
+Atlanta Hawks	Reserves	Aaron Wiggins	23:55	8	14	4	7	0	0	1	6	7	3	0	1	1	0	20
+Atlanta Hawks	Reserves	Luguentz Dort	22:23	2	5	1	3	1	2	0	3	3	2	0	0	1	2	6
+Atlanta Hawks	Reserves	Kingston Flemings	16:20	1	4	0	1	0	0	0	1	1	5	0	0	0	3	2
+Atlanta Hawks	Reserves	Jock Landale	15:22	2	6	2	4	0	2	4	6	10	1	0	0	0	3	6
+Atlanta Hawks	Reserves	Zuby Ejiofor	Did Not Play
+Atlanta Hawks	Reserves	Dorian Finney-Smith	Did Not Play
+Atlanta Hawks	Reserves	Corey Kispert	Did Not Play
+Atlanta Hawks	Reserves	Asa Newell	Did Not Play
+Atlanta Hawks	Reserves	Henri Veesaar	Did Not Dress
+Atlanta Hawks	Reserves	Mouhamed Gueye	Did Not Dress
+Atlanta Hawks	Reserves	RayJ Dennis	Did Not Dress
+Atlanta Hawks	Reserves	Keshon Gilbert	Did Not Dress
+Atlanta Hawks	Reserves	Jalen Wilson	Did Not Dress
+Atlanta Hawks	Totals	Team Totals	240	42	95	17	43	13	18	15	38	53	34	4	3	11	22	114
+```

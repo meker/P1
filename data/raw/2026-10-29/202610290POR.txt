@@ -1,0 +1,42 @@
+Final: Memphis Grizzlies 124, Portland Trail Blazers 103
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Memphis Grizzlies	Starters	Cameron Boozer	28:09	6	10	4	5	2	2	2	10	12	12	0	0	2	1	18
+Memphis Grizzlies	Starters	Cedric Coward	26:50	7	14	3	5	0	0	1	6	7	4	3	0	2	5	17
+Memphis Grizzlies	Starters	Jaylen Wells	25:01	4	9	2	7	0	0	0	1	1	0	0	0	0	3	10
+Memphis Grizzlies	Starters	Ty Jerome	24:11	3	12	1	5	3	3	0	2	2	3	2	0	3	1	10
+Memphis Grizzlies	Starters	Zach Edey	18:30	6	8	1	1	0	0	2	5	7	0	0	0	0	4	13
+Memphis Grizzlies	Reserves	Jerami Grant	26:46	1	8	0	3	0	0	1	0	1	3	0	0	1	0	2
+Memphis Grizzlies	Reserves	Cam Spencer	22:47	3	6	1	2	1	1	2	4	6	8	2	0	1	4	8
+Memphis Grizzlies	Reserves	GG Jackson	20:31	4	12	2	4	2	2	2	5	7	2	0	0	0	0	12
+Memphis Grizzlies	Reserves	Isaiah Stewart	16:02	7	10	2	4	2	2	1	2	3	0	0	1	1	3	18
+Memphis Grizzlies	Reserves	Scotty Pippen Jr.	13:42	1	1	0	0	0	0	0	0	0	0	0	0	0	0	2
+Memphis Grizzlies	Reserves	Quinten Post	7:19	3	5	2	3	2	2	2	2	4	0	0	0	0	2	10
+Memphis Grizzlies	Reserves	Karim López	2:33	0	1	0	1	0	0	1	0	1	0	0	0	0	0	0
+Memphis Grizzlies	Reserves	Kris Murray	2:33	0	1	0	1	0	0	1	0	1	0	0	0	0	0	0
+Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	2:33	2	4	0	0	0	0	0	1	1	0	0	0	0	0	4
+Memphis Grizzlies	Reserves	Taylor Hendricks	2:33	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0
+Memphis Grizzlies	Reserves	Javon Small	Did Not Dress
+Memphis Grizzlies	Reserves	Jahmai Mashack	Did Not Dress
+Memphis Grizzlies	Reserves	Carson Cooper	Did Not Dress
+Memphis Grizzlies	Totals	Team Totals	240	47	102	18	42	12	12	15	39	54	32	7	1	10	23	124
+Portland Trail Blazers	Starters	Deni Avdija	32:05	8	16	0	4	8	12	1	8	9	7	0	1	0	1	24
+Portland Trail Blazers	Starters	Damian Lillard	30:13	3	13	1	9	2	4	0	2	2	2	0	0	1	0	9
+Portland Trail Blazers	Starters	Donovan Clingan	29:14	5	9	1	3	0	1	4	4	8	1	1	5	2	2	11
+Portland Trail Blazers	Starters	Toumani Camara	25:45	5	10	3	8	0	0	0	2	2	1	2	2	2	1	13
+Portland Trail Blazers	Starters	Ja Morant	23:14	6	14	2	5	0	0	1	1	2	3	0	0	1	1	14
+Portland Trail Blazers	Reserves	Jrue Holiday	24:17	2	7	2	5	0	0	1	5	6	4	1	0	2	0	6
+Portland Trail Blazers	Reserves	Sidy Cissoko	19:04	2	5	0	3	0	2	4	2	6	2	1	0	1	3	4
+Portland Trail Blazers	Reserves	Scoot Henderson	18:32	3	8	1	5	2	2	1	3	4	0	0	0	2	2	9
+Portland Trail Blazers	Reserves	Branden Carlson	12:07	1	2	0	1	0	0	1	1	2	1	0	2	3	2	2
+Portland Trail Blazers	Reserves	Micah Potter	8:38	0	2	0	1	1	1	0	2	2	0	0	0	2	1	1
+Portland Trail Blazers	Reserves	Vít Krejčí	7:49	0	2	0	2	2	2	0	0	0	1	0	0	0	0	2
+Portland Trail Blazers	Reserves	Yang Hansen	4:32	1	1	1	1	0	0	0	2	2	1	0	1	0	0	3
+Portland Trail Blazers	Reserves	John Tonje	4:32	1	2	1	2	2	2	0	0	0	0	0	0	0	1	5
+Portland Trail Blazers	Reserves	Robert Williams III	Did Not Dress
+Portland Trail Blazers	Reserves	Shaedon Sharpe	Did Not Dress
+Portland Trail Blazers	Reserves	Chris Youngblood	Did Not Dress
+Portland Trail Blazers	Reserves	Jayson Kent	Did Not Dress
+Portland Trail Blazers	Totals	Team Totals	240	37	91	12	49	17	26	13	32	45	23	5	11	16	14	103
+```
