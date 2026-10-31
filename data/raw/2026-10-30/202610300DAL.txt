@@ -1,0 +1,42 @@
+Final: Houston Rockets 111, Dallas Mavericks 116
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Houston Rockets	Starters	Amen Thompson	39:27	7	15	0	1	1	4	0	3	3	6	4	0	0	4	15
+Houston Rockets	Starters	Kevin Durant	37:00	9	20	1	6	9	13	1	4	5	1	0	0	3	2	28
+Houston Rockets	Starters	Jabari Smith Jr.	35:10	7	15	3	7	5	5	0	3	3	2	1	0	3	2	22
+Houston Rockets	Starters	Fred VanVleet	32:58	6	17	3	10	1	2	1	4	5	6	1	0	0	5	16
+Houston Rockets	Starters	Clint Capela	30:17	2	6	0	0	1	2	6	5	11	5	2	2	0	2	5
+Houston Rockets	Reserves	Tari Eason	25:45	4	12	0	2	3	3	8	5	13	2	1	0	0	3	11
+Houston Rockets	Reserves	Marcus Smart	17:23	4	6	0	1	0	0	1	1	2	4	3	0	3	3	8
+Houston Rockets	Reserves	Oscar Tshiebwe	11:21	0	1	0	0	0	0	3	2	5	0	0	1	2	2	0
+Houston Rockets	Reserves	Bogdan Bogdanović	10:40	1	4	0	2	4	4	0	1	1	0	0	0	1	0	6
+Houston Rockets	Reserves	Isaiah Crawford	Did Not Play
+Houston Rockets	Reserves	Alperen Şengün	Did Not Play
+Houston Rockets	Reserves	Reed Sheppard	Did Not Play
+Houston Rockets	Reserves	Jae'Sean Tate	Did Not Play
+Houston Rockets	Reserves	Bruce Thornton	Did Not Play
+Houston Rockets	Reserves	Quadir Copeland	Did Not Dress
+Houston Rockets	Reserves	Julian Phillips	Did Not Dress
+Houston Rockets	Reserves	Steven Adams	Did Not Dress
+Houston Rockets	Totals	Team Totals	240	40	96	7	29	24	33	20	28	48	26	12	3	12	23	111
+Dallas Mavericks	Starters	Cooper Flagg	38:53	13	19	0	4	7	10	1	8	9	6	2	1	3	3	33
+Dallas Mavericks	Starters	Kyrie Irving	34:53	12	19	5	8	6	6	1	3	4	9	0	0	2	3	35
+Dallas Mavericks	Starters	P.J. Washington	33:47	1	8	1	5	0	0	2	8	10	1	0	0	1	2	3
+Dallas Mavericks	Starters	Daniel Gafford	28:46	6	7	0	0	6	9	4	3	7	2	0	2	3	2	18
+Dallas Mavericks	Starters	Max Christie	18:22	1	4	0	2	0	0	0	1	1	0	2	0	1	2	2
+Dallas Mavericks	Reserves	Zaccharie Risacher	27:36	4	9	3	6	1	2	2	4	6	3	3	1	2	3	12
+Dallas Mavericks	Reserves	Caleb Martin	25:01	3	5	2	3	0	0	0	0	0	0	0	0	0	5	8
+Dallas Mavericks	Reserves	Morez Johnson Jr.	17:08	1	4	0	1	0	0	2	0	2	1	1	0	1	1	2
+Dallas Mavericks	Reserves	Walter Clayton Jr.	8:33	1	4	1	2	0	0	0	2	2	1	0	0	3	1	3
+Dallas Mavericks	Reserves	Marcus Sasser	7:00	0	2	0	2	0	0	0	0	0	1	0	0	1	2	0
+Dallas Mavericks	Reserves	Moussa Cissé	Did Not Play
+Dallas Mavericks	Reserves	Jett Howard	Did Not Play
+Dallas Mavericks	Reserves	Tobi Lawal	Did Not Play
+Dallas Mavericks	Reserves	Naji Marshall	Did Not Play
+Dallas Mavericks	Reserves	Santi Aldama	Did Not Dress
+Dallas Mavericks	Reserves	Dereck Lively II	Did Not Dress
+Dallas Mavericks	Reserves	Tarik Biberovic	Did Not Dress
+Dallas Mavericks	Reserves	Sergio de Larrea	Did Not Dress
+Dallas Mavericks	Totals	Team Totals	240	42	81	12	33	20	27	12	29	41	24	8	4	17	24	116
+```

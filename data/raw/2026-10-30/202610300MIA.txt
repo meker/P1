@@ -1,0 +1,41 @@
+Final: Indiana Pacers 125, Miami Heat 145
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Indiana Pacers	Starters	Andrew Nembhard	30:14	8	16	5	8	1	1	0	2	2	9	0	0	2	2	22
+Indiana Pacers	Starters	Pascal Siakam	28:51	5	17	0	5	3	5	2	3	5	4	2	0	3	1	13
+Indiana Pacers	Starters	Kelly Oubre Jr.	22:17	4	7	1	2	1	2	4	0	4	1	0	0	1	3	10
+Indiana Pacers	Starters	Aaron Nesmith	20:59	2	4	1	3	4	4	1	2	3	2	0	0	1	4	9
+Indiana Pacers	Starters	Jay Huff	18:59	5	6	3	4	0	0	0	1	1	0	0	0	0	3	13
+Indiana Pacers	Reserves	Jarace Walker	27:37	5	11	3	5	1	2	3	3	6	4	1	0	2	1	14
+Indiana Pacers	Reserves	Quenton Jackson	23:51	9	13	2	4	4	4	1	3	4	1	2	0	1	2	24
+Indiana Pacers	Reserves	Kobe Brown	20:20	3	8	0	2	3	4	1	5	6	4	0	0	1	2	9
+Indiana Pacers	Reserves	Larry Nance Jr.	17:40	2	4	2	2	0	0	1	1	2	1	4	1	0	2	6
+Indiana Pacers	Reserves	Jalen Slawson	17:30	1	2	0	0	2	3	1	3	4	1	1	0	2	1	4
+Indiana Pacers	Reserves	Braden Smith	11:41	0	3	0	2	1	2	0	0	0	1	1	0	0	0	1
+Indiana Pacers	Reserves	Obi Toppin	Did Not Play
+Indiana Pacers	Reserves	Ivica Zubac	Did Not Play
+Indiana Pacers	Reserves	T.J. McConnell	Did Not Dress
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	44	91	17	37	20	27	14	23	37	28	11	1	13	21	125
+Miami Heat	Starters	Davion Mitchell	34:48	6	16	3	8	0	0	2	4	6	11	1	0	3	3	15
+Miami Heat	Starters	Bam Adebayo	33:09	11	14	0	2	5	5	4	5	9	3	3	0	2	4	27
+Miami Heat	Starters	Giannis Antetokounmpo	31:04	13	19	1	2	4	6	6	12	18	10	0	1	1	3	31
+Miami Heat	Starters	Andrew Wiggins	29:48	5	9	2	5	0	0	1	1	2	1	2	1	2	2	12
+Miami Heat	Starters	Klay Thompson	26:21	9	14	7	12	0	0	0	0	0	3	0	0	2	0	25
+Miami Heat	Reserves	Pelle Larsson	23:32	5	5	1	1	7	8	1	2	3	3	0	0	1	3	18
+Miami Heat	Reserves	Bobby Portis Jr.	17:07	3	7	2	4	0	0	0	3	3	1	0	1	1	1	8
+Miami Heat	Reserves	Nikola Jović	15:32	0	3	0	2	0	0	1	3	4	3	1	0	0	1	0
+Miami Heat	Reserves	Tim Hardaway Jr.	11:50	0	2	0	1	2	2	0	1	1	1	0	0	0	1	2
+Miami Heat	Reserves	Ryan Conwell	7:02	1	2	1	1	1	2	0	0	0	0	1	0	0	1	4
+Miami Heat	Reserves	Dru Smith	4:06	0	0	0	0	0	0	0	0	0	1	0	0	2	1	0
+Miami Heat	Reserves	Simone Fontecchio	1:54	1	2	1	2	0	0	0	1	1	0	0	0	0	0	3
+Miami Heat	Reserves	Nick Richards	1:54	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Miami Heat	Reserves	Myron Gardner	1:54	0	0	0	0	0	0	0	1	1	1	0	0	1	0	0
+Miami Heat	Reserves	Keshad Johnson	Did Not Dress
+Miami Heat	Reserves	Vladislav Goldin	Did Not Dress
+Miami Heat	Reserves	Tre Donaldson	Did Not Dress
+Miami Heat	Totals	Team Totals	240	54	93	18	40	19	23	15	33	48	38	8	3	16	20	145
+```

@@ -1,0 +1,43 @@
+Final: Detroit Pistons 110, Brooklyn Nets 94
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Detroit Pistons	Starters	Paul Reed	30:41	6	12	0	2	0	0	1	3	4	1	1	0	2	3	12
+Detroit Pistons	Starters	Cade Cunningham	28:01	6	15	1	6	7	7	1	4	5	4	0	1	4	4	20
+Detroit Pistons	Starters	Ausar Thompson	26:23	5	9	0	0	1	2	2	6	8	6	2	0	0	2	11
+Detroit Pistons	Starters	Duncan Robinson	26:18	5	11	2	7	5	5	1	3	4	2	3	0	0	1	17
+Detroit Pistons	Starters	John Collins	25:38	2	6	0	2	0	2	3	6	9	0	1	0	1	3	4
+Detroit Pistons	Reserves	Daniss Jenkins	24:02	2	8	2	5	0	0	0	3	3	5	0	0	0	0	6
+Detroit Pistons	Reserves	Kevin Huerter	23:55	2	7	2	4	2	2	0	1	1	3	1	0	2	1	8
+Detroit Pistons	Reserves	Javonte Green	21:57	1	6	1	6	3	3	0	3	3	1	2	1	0	1	6
+Detroit Pistons	Reserves	Ronald Holland II	21:37	6	10	2	5	4	7	0	3	3	2	4	1	2	3	18
+Detroit Pistons	Reserves	Tolu Smith	2:52	1	1	0	0	0	0	1	0	1	1	0	0	0	1	2
+Detroit Pistons	Reserves	Chaz Lanier	2:52	2	2	2	2	0	0	0	0	0	0	0	0	0	0	6
+Detroit Pistons	Reserves	Ebuka Okorie	2:52	0	2	0	1	0	0	0	0	0	0	0	0	1	0	0
+Detroit Pistons	Reserves	Isaac Jones	2:52	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+Detroit Pistons	Reserves	Elijah Harkless	Did Not Play
+Detroit Pistons	Reserves	Taurean Prince	Did Not Play
+Detroit Pistons	Reserves	Ugonna Onyenso	Did Not Dress
+Detroit Pistons	Reserves	Isaiah Joe	Did Not Dress
+Detroit Pistons	Reserves	Jalen Duren	Did Not Dress
+Detroit Pistons	Totals	Team Totals	240	38	90	12	41	22	28	9	32	41	25	14	3	12	19	110
+Brooklyn Nets	Starters	Michael Porter Jr.	26:06	4	9	2	5	3	3	0	7	7	1	0	1	1	2	13
+Brooklyn Nets	Starters	Nolan Traoré	25:30	3	11	0	5	3	4	0	2	2	2	1	2	3	3	9
+Brooklyn Nets	Starters	Julius Randle	24:53	4	13	3	6	4	4	2	6	8	3	0	0	5	3	15
+Brooklyn Nets	Starters	Day'Ron Sharpe	23:33	1	4	0	2	1	2	3	4	7	1	1	2	2	0	3
+Brooklyn Nets	Starters	Chaney Johnson	18:32	2	5	0	3	2	2	0	2	2	0	1	1	2	3	6
+Brooklyn Nets	Reserves	Mikel Brown Jr.	22:50	2	9	0	4	6	8	0	0	0	4	1	0	2	1	10
+Brooklyn Nets	Reserves	Moritz Wagner	22:38	7	10	1	2	1	1	2	6	8	1	1	0	1	2	16
+Brooklyn Nets	Reserves	Noah Clowney	21:35	1	3	0	0	1	2	2	7	9	1	2	1	3	2	3
+Brooklyn Nets	Reserves	Keon Ellis	21:13	2	5	2	5	0	0	0	1	1	1	0	2	1	3	6
+Brooklyn Nets	Reserves	Terance Mann	12:00	1	1	0	0	0	0	0	0	0	2	1	1	0	2	2
+Brooklyn Nets	Reserves	Danny Wolf	12:00	3	5	3	4	0	0	0	6	6	2	0	0	2	0	9
+Brooklyn Nets	Reserves	Drake Powell	5:56	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0
+Brooklyn Nets	Reserves	Josh Minott	3:14	1	2	0	1	0	0	0	0	0	0	0	0	0	2	2
+Brooklyn Nets	Reserves	Grant Nelson	Did Not Dress
+Brooklyn Nets	Reserves	Egor Dëmin	Did Not Dress
+Brooklyn Nets	Reserves	Ben Saraf	Did Not Dress
+Brooklyn Nets	Reserves	Joshua Jefferson	Did Not Dress
+Brooklyn Nets	Reserves	Tyler Bilodeau	Did Not Dress
+Brooklyn Nets	Totals	Team Totals	240	31	77	11	37	21	26	9	41	50	20	8	10	23	23	94
+```

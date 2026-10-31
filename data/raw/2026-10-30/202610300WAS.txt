@@ -1,0 +1,43 @@
+Final: Charlotte Hornets 79, Washington Wizards 95
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Charlotte Hornets	Starters	Brandon Miller	36:40	7	24	3	13	2	2	3	4	7	2	1	1	2	2	19
+Charlotte Hornets	Starters	Naz Reid	31:23	5	17	2	8	0	2	1	10	11	1	3	0	3	4	12
+Charlotte Hornets	Starters	Moussa Diabaté	30:57	5	11	0	0	0	0	7	5	12	1	2	0	1	3	10
+Charlotte Hornets	Starters	Dennis Schröder	29:29	2	7	1	5	3	4	0	2	2	8	3	0	2	6	8
+Charlotte Hornets	Starters	Sion James	28:39	2	10	1	8	1	2	2	3	5	4	2	0	1	3	6
+Charlotte Hornets	Reserves	Grayson Allen	21:03	2	10	1	6	0	0	0	3	3	2	0	0	1	2	5
+Charlotte Hornets	Reserves	Royce O'Neale	16:59	2	9	2	9	1	2	0	3	3	1	0	0	0	1	7
+Charlotte Hornets	Reserves	Ryan Kalkbrenner	15:16	1	1	0	0	0	0	3	1	4	0	1	0	0	1	2
+Charlotte Hornets	Reserves	Christian Anderson	13:45	2	8	0	4	0	0	1	2	3	3	0	0	0	2	4
+Charlotte Hornets	Reserves	Tidjane Salaün	8:52	2	2	2	2	0	0	0	2	2	0	0	0	0	1	6
+Charlotte Hornets	Reserves	Liam McNeeley	3:23	0	0	0	0	0	0	1	1	2	0	0	0	0	1	0
+Charlotte Hornets	Reserves	Hannes Steinbach	1:47	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Charlotte Hornets	Reserves	PJ Hall	1:47	0	1	0	1	0	0	0	1	1	0	0	0	0	1	0
+Charlotte Hornets	Reserves	Coby White	Did Not Dress
+Charlotte Hornets	Reserves	Grant Williams	Did Not Dress
+Charlotte Hornets	Reserves	Michael Ajayi	Did Not Dress
+Charlotte Hornets	Reserves	Kon Knueppel	Did Not Dress
+Charlotte Hornets	Reserves	Kylan Boswell	Did Not Dress
+Charlotte Hornets	Totals	Team Totals	240	30	101	12	56	7	12	18	37	55	22	12	1	10	27	79
+Washington Wizards	Starters	Trae Young	38:22	4	9	1	5	12	14	1	5	6	9	3	1	4	1	21
+Washington Wizards	Starters	Anthony Davis	34:19	8	17	0	1	9	10	3	10	13	1	1	1	1	1	25
+Washington Wizards	Starters	Kyshawn George	31:38	4	10	4	8	0	0	0	3	3	3	0	1	2	3	12
+Washington Wizards	Starters	AJ Dybantsa	29:35	5	11	1	4	6	7	0	7	7	1	1	0	1	2	17
+Washington Wizards	Starters	Alex Sarr	28:38	1	5	1	3	0	0	1	7	8	0	0	0	4	0	3
+Washington Wizards	Reserves	Bilal Coulibaly	22:01	0	2	0	1	1	2	0	5	5	1	0	1	0	5	1
+Washington Wizards	Reserves	Bub Carrington	19:40	3	4	3	3	0	0	1	3	4	2	1	0	1	2	9
+Washington Wizards	Reserves	Deandre Ayton	16:48	1	4	0	0	1	2	2	2	4	1	0	0	1	1	3
+Washington Wizards	Reserves	Tre Johnson	12:49	2	7	0	3	0	0	0	2	2	0	0	0	0	1	4
+Washington Wizards	Reserves	Khris Middleton	4:33	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0
+Washington Wizards	Reserves	Will Riley	0:49	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+Washington Wizards	Reserves	Tre Mann	0:49	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Washington Wizards	Reserves	Anthony Gill	Did Not Play
+Washington Wizards	Reserves	Felix Okpara	Did Not Dress
+Washington Wizards	Reserves	Justin Champagnie	Did Not Dress
+Washington Wizards	Reserves	Reece Beekman	Did Not Dress
+Washington Wizards	Reserves	Tristan Vukčević	Did Not Dress
+Washington Wizards	Reserves	Jamir Watkins	Did Not Dress
+Washington Wizards	Totals	Team Totals	240	28	72	10	30	29	35	8	44	52	18	6	4	14	17	95
+```

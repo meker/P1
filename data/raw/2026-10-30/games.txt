@@ -1,10 +1,10 @@
-Charlotte Hornets||Washington Wizards|||not final
-New York Knicks||Philadelphia 76ers|||not final
-Chicago Bulls||Boston Celtics|||not final
-Detroit Pistons||Brooklyn Nets|||not final
-Orlando Magic||Toronto Raptors|||not final
-Indiana Pacers||Miami Heat|||not final
-Houston Rockets||Dallas Mavericks|||not final
-Los Angeles Clippers||Minnesota Timberwolves|||not final
-Los Angeles Lakers||Golden State Warriors|||not final
-Denver Nuggets||Phoenix Suns|||not final
+Charlotte Hornets|79|Washington Wizards|95|https://www.basketball-reference.com/boxscores/202610300WAS.html|final
+New York Knicks|93|Philadelphia 76ers|98|https://www.basketball-reference.com/boxscores/202610300PHI.html|final
+Chicago Bulls|111|Boston Celtics|125|https://www.basketball-reference.com/boxscores/202610300BOS.html|final
+Detroit Pistons|110|Brooklyn Nets|94|https://www.basketball-reference.com/boxscores/202610300BRK.html|final
+Orlando Magic|121|Toronto Raptors|114|https://www.basketball-reference.com/boxscores/202610300TOR.html|final
+Indiana Pacers|125|Miami Heat|145|https://www.basketball-reference.com/boxscores/202610300MIA.html|final
+Houston Rockets|111|Dallas Mavericks|116|https://www.basketball-reference.com/boxscores/202610300DAL.html|final
+Los Angeles Clippers|101|Minnesota Timberwolves|127|https://www.basketball-reference.com/boxscores/202610300MIN.html|final
+Los Angeles Lakers|95|Golden State Warriors|112|https://www.basketball-reference.com/boxscores/202610300GSW.html|final
+Denver Nuggets|127|Phoenix Suns|120|https://www.basketball-reference.com/boxscores/202610300PHO.html|final
