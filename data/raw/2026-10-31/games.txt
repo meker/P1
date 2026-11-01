@@ -1,7 +1,7 @@
-Portland Trail Blazers||Utah Jazz|||not final
-Philadelphia 76ers||Charlotte Hornets|||not final
-Atlanta Hawks||New Orleans Pelicans|||not final
-Cleveland Cavaliers||Milwaukee Bucks|||not final
-Minnesota Timberwolves||San Antonio Spurs|||not final
-Sacramento Kings||Memphis Grizzlies|||not final
-Oklahoma City Thunder||Houston Rockets|||not final
+Portland Trail Blazers|112|Utah Jazz|90|https://www.basketball-reference.com/boxscores/202610310UTA.html|final
+Philadelphia 76ers|109|Charlotte Hornets|104|https://www.basketball-reference.com/boxscores/202610310CHO.html|final
+Atlanta Hawks|99|New Orleans Pelicans|121|https://www.basketball-reference.com/boxscores/202610310NOP.html|final
+Cleveland Cavaliers|136|Milwaukee Bucks|111|https://www.basketball-reference.com/boxscores/202610310MIL.html|final
+Minnesota Timberwolves|111|San Antonio Spurs|121|https://www.basketball-reference.com/boxscores/202610310SAS.html|final
+Sacramento Kings|105|Memphis Grizzlies|136|https://www.basketball-reference.com/boxscores/202610310MEM.html|final
+Oklahoma City Thunder|98|Houston Rockets|119|https://www.basketball-reference.com/boxscores/202610310HOU.html|final

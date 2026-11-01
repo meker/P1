@@ -1,0 +1,41 @@
+Final: Minnesota Timberwolves 111, San Antonio Spurs 121
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Minnesota Timberwolves	Starters	Jonathan Kuminga	39:44	8	19	2	6	1	1	2	4	6	3	0	1	0	2	19
+Minnesota Timberwolves	Starters	Jaden McDaniels	38:38	7	17	2	5	3	4	1	2	3	3	2	0	2	3	19
+Minnesota Timberwolves	Starters	Ayo Dosunmu	37:49	11	17	2	5	3	3	2	7	9	3	3	0	3	3	27
+Minnesota Timberwolves	Starters	Joan Beringer	34:28	4	8	0	0	4	5	5	1	6	2	1	0	0	5	12
+Minnesota Timberwolves	Starters	LaMelo Ball	20:03	2	10	0	4	6	6	3	5	8	4	3	0	5	6	10
+Minnesota Timberwolves	Reserves	Jaylen Clark	20:20	3	6	2	4	2	2	0	2	2	1	0	1	0	1	10
+Minnesota Timberwolves	Reserves	Terrence Shannon Jr	18:25	1	8	0	4	0	1	0	3	3	4	0	0	0	1	2
+Minnesota Timberwolves	Reserves	Trey Lyles	16:46	1	3	1	3	3	4	0	0	0	0	0	0	3	0	6
+Minnesota Timberwolves	Reserves	Bones Hyland	13:47	3	5	0	2	0	0	0	1	1	3	2	0	1	1	6
+Minnesota Timberwolves	Reserves	Isaiah Evans	Did Not Play
+Minnesota Timberwolves	Reserves	Zyon Pullin	Did Not Play
+Minnesota Timberwolves	Reserves	Cody Williams	Did Not Play
+Minnesota Timberwolves	Reserves	Rudy Gobert	Did Not Dress
+Minnesota Timberwolves	Reserves	Donte DiVincenzo	Did Not Dress
+Minnesota Timberwolves	Reserves	Anthony Edwards	Did Not Dress
+Minnesota Timberwolves	Reserves	Enrique Freeman	Did Not Dress
+Minnesota Timberwolves	Reserves	Rocco Zikarsky	Did Not Dress
+Minnesota Timberwolves	Totals	Team Totals	240	40	93	9	33	22	26	13	25	38	23	11	2	14	22	111
+San Antonio Spurs	Starters	Dylan Harper	38:45	9	17	2	5	5	6	1	6	7	6	1	0	2	3	25
+San Antonio Spurs	Starters	De'Aaron Fox	34:57	8	10	0	1	6	7	2	6	8	7	0	1	4	3	22
+San Antonio Spurs	Starters	Victor Wembanyama	33:45	17	34	3	8	6	9	3	4	7	4	1	6	3	2	43
+San Antonio Spurs	Starters	Devin Vassell	33:41	2	6	0	1	5	6	0	5	5	2	2	1	2	1	9
+San Antonio Spurs	Starters	Stephon Castle	22:10	0	4	0	2	0	0	1	4	5	4	1	0	3	4	0
+San Antonio Spurs	Reserves	Julian Champagnie	26:58	3	7	3	7	3	3	2	1	3	1	1	0	0	5	12
+San Antonio Spurs	Reserves	Keldon Johnson	24:26	1	3	0	0	0	0	3	3	6	0	0	0	0	2	2
+San Antonio Spurs	Reserves	Luke Kornet	14:15	1	2	0	0	0	0	4	4	8	0	0	1	0	0	2
+San Antonio Spurs	Reserves	Carter Bryant	11:03	2	4	2	3	0	0	0	0	0	0	0	0	1	0	6
+San Antonio Spurs	Reserves	Harrison Barnes	Did Not Play
+San Antonio Spurs	Reserves	David Jones Garcia	Did Not Play
+San Antonio Spurs	Reserves	Jordan McLaughlin	Did Not Play
+San Antonio Spurs	Reserves	Tarris Reed Jr.	Did Not Play
+San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
+San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
+San Antonio Spurs	Reserves	Ja'Kobi Gillespie	Did Not Dress
+San Antonio Spurs	Reserves	Maliq Brown	Did Not Dress
+San Antonio Spurs	Totals	Team Totals	240	43	87	10	27	25	31	16	33	49	24	6	9	15	20	121
+```

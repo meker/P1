@@ -1,0 +1,43 @@
+Final: Atlanta Hawks 99, New Orleans Pelicans 121
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Atlanta Hawks	Starters	Nickeil Alexander-Walker	28:46	3	12	0	7	6	6	2	0	2	1	1	0	3	1	12
+Atlanta Hawks	Starters	Jalen Johnson	27:56	5	11	1	3	2	2	0	7	7	4	0	1	4	3	13
+Atlanta Hawks	Starters	Onyeka Okongwu	27:54	3	12	0	5	0	0	5	5	10	1	0	1	1	5	6
+Atlanta Hawks	Starters	Dyson Daniels	27:13	3	6	0	2	2	3	2	2	4	3	3	0	2	1	8
+Atlanta Hawks	Starters	CJ McCollum	24:23	5	9	2	5	2	2	2	0	2	2	1	0	3	3	14
+Atlanta Hawks	Reserves	Luguentz Dort	28:34	3	9	1	7	4	5	0	3	3	0	1	1	0	3	11
+Atlanta Hawks	Reserves	Kingston Flemings	24:39	4	8	1	2	3	3	1	1	2	6	4	0	3	3	12
+Atlanta Hawks	Reserves	Aaron Wiggins	22:51	4	11	2	7	0	0	0	2	2	1	1	1	2	2	10
+Atlanta Hawks	Reserves	Asa Newell	18:44	5	11	1	6	2	2	2	2	4	1	0	0	1	0	13
+Atlanta Hawks	Reserves	Corey Kispert	4:34	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0
+Atlanta Hawks	Reserves	Dorian Finney-Smith	3:04	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+Atlanta Hawks	Reserves	Jock Landale	1:22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Atlanta Hawks	Reserves	Jalen Wilson	Did Not Dress
+Atlanta Hawks	Reserves	Mouhamed Gueye	Did Not Dress
+Atlanta Hawks	Reserves	RayJ Dennis	Did Not Dress
+Atlanta Hawks	Reserves	Keshon Gilbert	Did Not Dress
+Atlanta Hawks	Reserves	Henri Veesaar	Did Not Dress
+Atlanta Hawks	Reserves	Zuby Ejiofor	Did Not Dress
+Atlanta Hawks	Totals	Team Totals	240	35	91	8	46	21	23	14	22	36	20	11	4	19	21	99
+New Orleans Pelicans	Starters	Jeremiah Fears	30:41	9	12	1	2	1	2	0	5	5	7	1	0	3	3	20
+New Orleans Pelicans	Starters	Zion Williamson	30:06	5	8	0	0	5	8	3	3	6	4	3	0	3	2	15
+New Orleans Pelicans	Starters	Trey Murphy III	28:58	4	10	1	3	6	6	0	5	5	5	1	1	2	2	15
+New Orleans Pelicans	Starters	Herbert Jones	24:48	5	10	1	3	0	0	2	1	3	2	1	0	1	4	11
+New Orleans Pelicans	Starters	Karlo Matković	18:10	3	4	2	2	0	0	1	9	10	1	1	1	2	3	8
+New Orleans Pelicans	Reserves	Saddiq Bey	25:54	9	13	1	2	6	7	1	5	6	1	4	0	3	1	25
+New Orleans Pelicans	Reserves	Derik Queen	22:55	3	6	0	0	2	2	2	6	8	4	1	0	3	1	8
+New Orleans Pelicans	Reserves	Bennedict Mathurin	19:02	2	5	1	3	2	2	0	1	1	2	0	0	2	1	7
+New Orleans Pelicans	Reserves	Trendon Watford	17:54	2	4	0	1	3	4	0	4	4	0	1	0	2	1	7
+New Orleans Pelicans	Reserves	Bryce McGowens	15:24	0	2	0	1	3	4	0	0	0	1	2	1	0	1	3
+New Orleans Pelicans	Reserves	AJ Johnson	3:04	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0
+New Orleans Pelicans	Reserves	Julian Reese	3:04	1	1	0	0	0	0	1	0	1	0	0	0	1	2	2
+New Orleans Pelicans	Reserves	DeAndre Jordan	Did Not Play
+New Orleans Pelicans	Reserves	Jaron Pierre Jr.	Did Not Dress
+New Orleans Pelicans	Reserves	Malik Dia	Did Not Dress
+New Orleans Pelicans	Reserves	Yves Missi	Did Not Dress
+New Orleans Pelicans	Reserves	Dejounte Murray	Did Not Dress
+New Orleans Pelicans	Reserves	Jordan Poole	Did Not Dress
+New Orleans Pelicans	Totals	Team Totals	240	43	76	7	17	28	35	10	39	49	27	15	4	23	21	121
+```
