@@ -1,0 +1,42 @@
+Final: Brooklyn Nets 98, Indiana Pacers 90
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Brooklyn Nets	Starters	Julius Randle	37:17	5	15	4	9	6	6	1	4	5	6	2	0	4	5	20
+Brooklyn Nets	Starters	Michael Porter Jr.	35:41	7	16	3	10	6	9	1	8	9	3	1	0	4	4	23
+Brooklyn Nets	Starters	Chaney Johnson	31:01	0	2	0	1	2	2	0	2	2	0	0	1	1	3	2
+Brooklyn Nets	Starters	Nolan Traoré	30:28	6	14	4	8	0	0	0	2	2	6	1	0	1	2	16
+Brooklyn Nets	Starters	Day'Ron Sharpe	25:53	5	7	1	1	4	5	4	9	13	4	0	0	2	2	15
+Brooklyn Nets	Reserves	Noah Clowney	23:45	3	7	0	4	2	3	0	3	3	0	0	0	0	3	8
+Brooklyn Nets	Reserves	Moritz Wagner	21:00	4	6	1	2	5	6	1	5	6	0	0	1	2	1	14
+Brooklyn Nets	Reserves	Keon Ellis	20:02	0	5	0	3	0	0	0	2	2	1	1	0	1	3	0
+Brooklyn Nets	Reserves	Terance Mann	14:54	0	1	0	1	0	0	0	1	1	1	1	0	0	3	0
+Brooklyn Nets	Reserves	Josh Minott	Did Not Play
+Brooklyn Nets	Reserves	Drake Powell	Did Not Play
+Brooklyn Nets	Reserves	Danny Wolf	Did Not Play
+Brooklyn Nets	Reserves	Grant Nelson	Did Not Dress
+Brooklyn Nets	Reserves	Egor Dëmin	Did Not Dress
+Brooklyn Nets	Reserves	Ben Saraf	Did Not Dress
+Brooklyn Nets	Reserves	Mikel Brown Jr.	Did Not Dress
+Brooklyn Nets	Reserves	Joshua Jefferson	Did Not Dress
+Brooklyn Nets	Reserves	Tyler Bilodeau	Did Not Dress
+Brooklyn Nets	Totals	Team Totals	240	30	73	13	39	25	31	7	36	43	21	6	2	15	26	98
+Indiana Pacers	Starters	Pascal Siakam	35:30	6	14	0	2	5	6	2	3	5	5	1	0	3	3	17
+Indiana Pacers	Starters	Andrew Nembhard	34:50	7	19	4	10	5	6	0	3	3	4	1	0	3	4	23
+Indiana Pacers	Starters	Aaron Nesmith	30:19	3	8	0	4	5	6	1	2	3	4	1	0	3	2	11
+Indiana Pacers	Starters	Kelly Oubre Jr.	20:06	3	8	2	5	3	4	0	2	2	1	0	1	0	2	11
+Indiana Pacers	Starters	Jay Huff	16:40	0	2	0	2	0	0	0	3	3	0	0	1	0	6	0
+Indiana Pacers	Reserves	Larry Nance Jr.	25:46	1	5	1	4	1	4	4	2	6	1	1	0	2	3	4
+Indiana Pacers	Reserves	Quenton Jackson	23:36	4	8	3	4	1	2	0	3	3	2	0	0	0	0	12
+Indiana Pacers	Reserves	Jarace Walker	19:35	2	4	2	3	0	0	1	5	6	3	1	0	1	1	6
+Indiana Pacers	Reserves	Jalen Slawson	18:20	1	1	0	0	1	2	1	4	5	0	0	0	1	2	3
+Indiana Pacers	Reserves	Kobe Brown	14:39	1	1	1	1	0	0	0	1	1	1	0	0	1	2	3
+Indiana Pacers	Reserves	Braden Smith	0:39	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Indiana Pacers	Reserves	Obi Toppin	Did Not Dress
+Indiana Pacers	Reserves	Ivica Zubac	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Reserves	T.J. McConnell	Did Not Dress
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	28	70	13	35	21	30	9	28	37	21	5	2	14	25	90
+```

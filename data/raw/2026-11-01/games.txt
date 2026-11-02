@@ -1,4 +1,4 @@
-Boston Celtics||Orlando Magic|||not final
-Brooklyn Nets||Indiana Pacers|||not final
-Los Angeles Clippers||Golden State Warriors|||not final
-Toronto Raptors||Los Angeles Lakers|||not final
+Boston Celtics|108|Orlando Magic|97|https://www.basketball-reference.com/boxscores/202611010ORL.html|final
+Brooklyn Nets|98|Indiana Pacers|90|https://www.basketball-reference.com/boxscores/202611010IND.html|final
+Los Angeles Clippers|112|Golden State Warriors|124|https://www.basketball-reference.com/boxscores/202611010GSW.html|final
+Toronto Raptors|125|Los Angeles Lakers|131|https://www.basketball-reference.com/boxscores/202611010LAL.html|final

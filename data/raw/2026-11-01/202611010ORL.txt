@@ -1,0 +1,41 @@
+Final: Boston Celtics 108, Orlando Magic 97
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Boston Celtics	Starters	Jayson Tatum	34:24	8	19	1	5	15	17	1	3	4	7	0	2	4	0	32
+Boston Celtics	Starters	Derrick White	33:44	4	8	2	5	2	2	1	1	2	2	2	0	1	1	12
+Boston Celtics	Starters	Paul George	33:21	6	14	3	10	2	2	2	4	6	8	2	2	4	2	17
+Boston Celtics	Starters	Neemias Queta	27:21	4	9	0	1	0	0	2	6	8	1	0	2	1	4	8
+Boston Celtics	Starters	Hugo González	13:55	3	5	1	3	0	1	1	0	1	1	2	0	0	2	7
+Boston Celtics	Reserves	Payton Pritchard	26:57	3	11	0	7	1	1	4	3	7	3	1	1	1	3	7
+Boston Celtics	Reserves	Luka Garza	20:33	4	7	2	4	2	3	2	4	6	4	1	0	0	3	12
+Boston Celtics	Reserves	Baylor Scheierman	20:17	4	5	2	3	0	0	0	2	2	1	0	0	0	2	10
+Boston Celtics	Reserves	Sam Hauser	16:40	1	3	1	3	0	0	0	2	2	0	1	0	0	3	3
+Boston Celtics	Reserves	Jordan Walsh	12:49	0	3	0	3	0	0	1	2	3	2	0	0	1	2	0
+Boston Celtics	Reserves	Chris Cenac Jr.	Did Not Play
+Boston Celtics	Reserves	Mike Conley	Did Not Play
+Boston Celtics	Reserves	Ron Harper Jr.	Did Not Play
+Boston Celtics	Reserves	Amari Williams	Did Not Play
+Boston Celtics	Reserves	Dillon Mitchell	Did Not Dress
+Boston Celtics	Reserves	Devin Carter	Did Not Dress
+Boston Celtics	Reserves	Mitchell Robinson	Did Not Dress
+Boston Celtics	Totals	Team Totals	240	37	84	12	44	22	26	14	27	41	29	9	7	12	22	108
+Orlando Magic	Starters	Franz Wagner	39:48	5	20	1	4	3	4	3	3	6	12	0	0	3	4	14
+Orlando Magic	Starters	Desmond Bane	39:34	7	13	5	9	0	0	1	1	2	1	2	1	3	4	19
+Orlando Magic	Starters	Wendell Carter Jr.	35:12	2	6	1	5	2	4	2	8	10	0	2	0	3	3	7
+Orlando Magic	Starters	Anthony Black	32:49	6	12	1	5	10	11	0	8	8	3	2	0	4	2	23
+Orlando Magic	Starters	Jase Richardson	26:23	2	8	0	4	0	0	0	1	1	3	0	0	0	2	4
+Orlando Magic	Reserves	Tristan da Silva	35:01	9	14	5	8	0	0	3	7	10	2	0	0	2	2	23
+Orlando Magic	Reserves	Jamal Cain	18:25	2	5	1	4	0	0	1	0	1	1	0	0	0	4	5
+Orlando Magic	Reserves	Nikola Vučević	7:29	1	2	0	0	0	0	2	2	4	2	0	1	1	1	2
+Orlando Magic	Reserves	Goga Bitadze	5:19	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0
+Orlando Magic	Reserves	Jevon Carter	Did Not Play
+Orlando Magic	Reserves	Colin Castleton	Did Not Play
+Orlando Magic	Reserves	Alex Morales	Did Not Play
+Orlando Magic	Reserves	Jalen Suggs	Did Not Dress
+Orlando Magic	Reserves	Paolo Banchero	Did Not Dress
+Orlando Magic	Reserves	Jonathan Isaac	Did Not Dress
+Orlando Magic	Reserves	Noah Penda	Did Not Dress
+Orlando Magic	Reserves	Izaiyah Nelson	Did Not Dress
+Orlando Magic	Totals	Team Totals	240	34	81	14	39	15	19	13	30	43	24	6	2	16	22	97
+```
