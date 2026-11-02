@@ -1,0 +1,15 @@
+Oklahoma City Thunder||Cleveland Cavaliers|||not final
+Chicago Bulls||Philadelphia 76ers|||not final
+Atlanta Hawks||Indiana Pacers|||not final
+Brooklyn Nets||New York Knicks|||not final
+Washington Wizards||Orlando Magic|||not final
+Detroit Pistons||Charlotte Hornets|||not final
+Sacramento Kings||Dallas Mavericks|||not final
+Milwaukee Bucks||Minnesota Timberwolves|||not final
+New Orleans Pelicans||Memphis Grizzlies|||not final
+Boston Celtics||Houston Rockets|||not final
+Utah Jazz||San Antonio Spurs|||not final
+Portland Trail Blazers||Denver Nuggets|||not final
+Toronto Raptors||Los Angeles Clippers|||not final
+Phoenix Suns||Golden State Warriors|||not final
+Miami Heat||Los Angeles Lakers|||not final
