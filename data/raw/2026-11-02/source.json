@@ -1,29 +1,14 @@
 {
  "date": "2026-11-02",
- "updated_at": "2026-11-03T05:55:43Z",
+ "updated_at": "2026-11-03T05:58:49Z",
  "games": 15,
- "final": 14,
- "pending": 1,
+ "final": 15,
+ "pending": 0,
  "problems": 0,
  "sources": [
   "nba"
  ],
  "list": [
-  {
-   "boxid": "202611020LAC",
-   "away": "TOR",
-   "home": "LAC",
-   "status": "in progress",
-   "status_text": "Q4 :09.3",
-   "source": null,
-   "away_score": null,
-   "home_score": null,
-   "final_at": null,
-   "nba_game_id": "0022600171",
-   "espn_event_id": null,
-   "url": null,
-   "problems": []
-  },
   {
    "boxid": "202611020CLE",
    "away": "OKC",
@@ -202,6 +187,21 @@
    "nba_game_id": "0022600169",
    "espn_event_id": null,
    "url": "https://www.nba.com/game/0022600169/box-score",
+   "problems": []
+  },
+  {
+   "boxid": "202611020LAC",
+   "away": "TOR",
+   "home": "LAC",
+   "status": "final",
+   "status_text": "Final",
+   "source": "nba",
+   "away_score": 125,
+   "home_score": 118,
+   "final_at": "2026-11-03T05:58:39Z",
+   "nba_game_id": "0022600171",
+   "espn_event_id": null,
+   "url": "https://www.nba.com/game/0022600171/box-score",
    "problems": []
   },
   {

@@ -1,0 +1,42 @@
+Final: Toronto Raptors 125, Los Angeles Clippers 118
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Toronto Raptors	Starters	Immanuel Quickley	37:59	8	13	1	4	10	11	0	4	4	2	1	0	2	2	27
+Toronto Raptors	Starters	Scottie Barnes	37:48	7	15	0	3	8	15	5	10	15	8	2	0	3	2	22
+Toronto Raptors	Starters	RJ Barrett	37:09	10	19	2	6	4	8	3	3	6	3	0	2	2	4	26
+Toronto Raptors	Starters	Ja'Kobe Walter	34:50	2	6	0	3	6	10	4	2	6	5	1	0	1	5	10
+Toronto Raptors	Starters	Collin Murray-Boyles	28:08	7	14	1	3	3	4	0	7	7	0	0	2	2	3	18
+Toronto Raptors	Reserves	Jamison Battle	20:42	4	7	4	6	0	0	0	0	0	0	0	0	1	3	12
+Toronto Raptors	Reserves	Jamal Shead	20:06	3	7	0	4	0	0	0	1	1	6	1	0	1	3	6
+Toronto Raptors	Reserves	Kyle Anderson	8:01	1	1	0	0	0	0	0	0	0	0	1	1	1	2	2
+Toronto Raptors	Reserves	Allen Graves	7:26	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0
+Toronto Raptors	Reserves	Alijah Martin	5:47	1	1	0	0	0	0	1	1	2	0	0	0	0	1	2
+Toronto Raptors	Reserves	Trayce Jackson-Davis	2:04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Toronto Raptors	Reserves	Jaden Bradley	Did Not Play
+Toronto Raptors	Reserves	Kawhi Leonard	Did Not Dress
+Toronto Raptors	Reserves	Jakob Poeltl	Did Not Dress
+Toronto Raptors	Reserves	Malachi Smith	Did Not Dress
+Toronto Raptors	Reserves	Nate Bittle	Did Not Dress
+Toronto Raptors	Totals	Team Totals	240	43	83	8	29	31	48	13	28	41	26	6	5	13	26	125
+Los Angeles Clippers	Starters	Kobe Sanders	37:39	8	17	5	11	5	5	1	3	4	3	0	1	0	1	26
+Los Angeles Clippers	Starters	Darius Garland	36:07	5	14	1	5	5	6	0	4	4	8	0	0	7	5	16
+Los Angeles Clippers	Starters	Kris Dunn	29:30	4	11	1	2	3	3	1	3	4	1	2	0	1	6	12
+Los Angeles Clippers	Starters	Gradey Dick	28:46	5	11	0	1	2	2	2	2	4	3	2	0	1	5	12
+Los Angeles Clippers	Starters	Brook Lopez	22:10	5	10	1	3	1	2	1	5	6	1	1	1	0	6	12
+Los Angeles Clippers	Reserves	Isaiah Jackson	25:50	9	11	1	1	0	0	4	4	8	2	0	0	2	4	19
+Los Angeles Clippers	Reserves	Keaton Wagler	24:13	2	5	0	1	2	4	0	4	4	4	0	1	1	1	6
+Los Angeles Clippers	Reserves	Max Strus	23:22	3	10	3	9	2	3	1	3	4	6	1	0	1	5	11
+Los Angeles Clippers	Reserves	Baba Miller	12:23	1	2	1	2	1	2	0	0	0	1	0	1	1	1	4
+Los Angeles Clippers	Reserves	Cam Christie	Did Not Play
+Los Angeles Clippers	Reserves	Nick Martinelli	Did Not Play
+Los Angeles Clippers	Reserves	Jalen Pickett	Did Not Play
+Los Angeles Clippers	Reserves	Blake Wesley	Did Not Play
+Los Angeles Clippers	Reserves	Derrick Jones Jr.	Did Not Dress
+Los Angeles Clippers	Reserves	Rui Hachimura	Did Not Dress
+Los Angeles Clippers	Reserves	Jordan Miller	Did Not Dress
+Los Angeles Clippers	Reserves	Bradley Beal	Did Not Dress
+Los Angeles Clippers	Reserves	Brandon Ingram	Did Not Dress
+Los Angeles Clippers	Reserves	Yanic Konan Niederhauser	Did Not Dress
+Los Angeles Clippers	Totals	Team Totals	240	42	91	13	35	21	27	10	28	38	29	6	4	15	34	118
+```
