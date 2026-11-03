@@ -1,5 +1,4 @@
 Toronto Raptors||Los Angeles Clippers|||not final
-Phoenix Suns||Golden State Warriors|||not final
 Oklahoma City Thunder|117|Cleveland Cavaliers|112|https://www.basketball-reference.com/boxscores/202611020CLE.html|final
 Chicago Bulls|107|Philadelphia 76ers|126|https://www.basketball-reference.com/boxscores/202611020PHI.html|final
 Atlanta Hawks|108|Indiana Pacers|104|https://www.basketball-reference.com/boxscores/202611020IND.html|final
@@ -12,4 +11,5 @@ New Orleans Pelicans|135|Memphis Grizzlies|134|https://www.basketball-reference.
 Boston Celtics|93|Houston Rockets|109|https://www.basketball-reference.com/boxscores/202611020HOU.html|final
 Utah Jazz|97|San Antonio Spurs|119|https://www.basketball-reference.com/boxscores/202611020SAS.html|final
 Portland Trail Blazers|118|Denver Nuggets|110|https://www.basketball-reference.com/boxscores/202611020DEN.html|final
+Phoenix Suns|113|Golden State Warriors|116|https://www.basketball-reference.com/boxscores/202611020GSW.html|final
 Miami Heat|117|Los Angeles Lakers|138|https://www.basketball-reference.com/boxscores/202611020LAL.html|final
