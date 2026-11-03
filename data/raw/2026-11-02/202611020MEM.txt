@@ -1,0 +1,43 @@
+Final: New Orleans Pelicans 135, Memphis Grizzlies 134
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+New Orleans Pelicans	Starters	Trey Murphy III	39:47	5	11	3	5	5	5	1	4	5	5	0	0	0	1	18
+New Orleans Pelicans	Starters	Jeremiah Fears	38:27	5	17	0	6	2	2	2	2	4	7	0	0	4	5	12
+New Orleans Pelicans	Starters	Zion Williamson	35:21	9	15	0	0	7	9	4	7	11	4	0	0	0	4	25
+New Orleans Pelicans	Starters	Karlo Matković	28:48	9	13	5	8	2	4	2	4	6	1	2	1	1	2	25
+New Orleans Pelicans	Starters	Herbert Jones	27:44	3	8	3	7	0	0	1	3	4	3	1	0	2	1	9
+New Orleans Pelicans	Reserves	Saddiq Bey	36:11	7	16	2	8	2	2	1	4	5	1	1	0	0	1	18
+New Orleans Pelicans	Reserves	Derik Queen	24:05	7	13	1	2	5	6	1	6	7	5	2	1	1	3	20
+New Orleans Pelicans	Reserves	Trendon Watford	15:37	1	3	0	1	2	2	1	3	4	1	0	1	0	1	4
+New Orleans Pelicans	Reserves	Bennedict Mathurin	13:13	2	4	0	0	0	0	0	0	0	0	1	0	0	1	4
+New Orleans Pelicans	Reserves	Bryce McGowens	5:47	0	1	0	0	0	0	1	0	1	0	1	0	0	2	0
+New Orleans Pelicans	Reserves	AJ Johnson	Did Not Play
+New Orleans Pelicans	Reserves	DeAndre Jordan	Did Not Play
+New Orleans Pelicans	Reserves	Julian Reese	Did Not Play
+New Orleans Pelicans	Reserves	Jaron Pierre Jr.	Did Not Dress
+New Orleans Pelicans	Reserves	Malik Dia	Did Not Dress
+New Orleans Pelicans	Reserves	Yves Missi	Did Not Dress
+New Orleans Pelicans	Reserves	Dejounte Murray	Did Not Dress
+New Orleans Pelicans	Reserves	Jordan Poole	Did Not Dress
+New Orleans Pelicans	Totals	Team Totals	265	48	101	14	37	25	30	14	33	47	27	8	3	8	21	135
+Memphis Grizzlies	Starters	Cameron Boozer	37:51	5	11	2	5	6	7	1	8	9	5	0	2	3	5	18
+Memphis Grizzlies	Starters	Ty Jerome	36:34	14	22	5	6	7	8	0	5	5	5	2	0	4	0	40
+Memphis Grizzlies	Starters	Jaylen Wells	33:51	6	11	3	8	1	1	0	3	3	3	1	0	0	3	16
+Memphis Grizzlies	Starters	Cedric Coward	30:38	3	6	2	5	2	4	0	9	9	3	0	0	0	4	10
+Memphis Grizzlies	Starters	Zach Edey	19:24	2	6	0	0	2	2	6	3	9	1	0	2	1	6	6
+Memphis Grizzlies	Reserves	Isaiah Stewart	27:34	6	10	2	3	0	0	3	2	5	2	0	2	2	5	14
+Memphis Grizzlies	Reserves	Jerami Grant	24:05	4	8	2	4	1	2	1	3	4	2	0	1	1	1	11
+Memphis Grizzlies	Reserves	Kris Murray	19:29	0	2	0	1	0	0	0	4	4	1	1	2	0	1	0
+Memphis Grizzlies	Reserves	Cam Spencer	19:10	4	7	2	4	3	3	0	1	1	7	0	0	3	0	13
+Memphis Grizzlies	Reserves	GG Jackson	16:13	3	8	0	4	0	0	0	0	0	1	0	0	2	0	6
+Memphis Grizzlies	Reserves	Jahmai Mashack	0:11	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Memphis Grizzlies	Reserves	Carson Cooper	Did Not Play
+Memphis Grizzlies	Reserves	Taylor Hendricks	Did Not Play
+Memphis Grizzlies	Reserves	Karim López	Did Not Play
+Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	Did Not Play
+Memphis Grizzlies	Reserves	Scotty Pippen Jr.	Did Not Dress
+Memphis Grizzlies	Reserves	Quinten Post	Did Not Dress
+Memphis Grizzlies	Reserves	Javon Small	Did Not Dress
+Memphis Grizzlies	Totals	Team Totals	265	47	91	18	40	22	27	11	38	49	30	5	9	16	25	134
+```

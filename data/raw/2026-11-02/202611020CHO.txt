@@ -1,0 +1,43 @@
+Final: Detroit Pistons 124, Charlotte Hornets 91
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Detroit Pistons	Starters	Duncan Robinson	32:04	8	11	6	9	2	2	0	2	2	3	3	0	1	0	24
+Detroit Pistons	Starters	Paul Reed	27:33	5	6	0	0	1	2	1	4	5	4	2	2	1	3	11
+Detroit Pistons	Starters	Cade Cunningham	26:39	13	20	4	7	3	4	0	5	5	7	5	0	3	1	33
+Detroit Pistons	Starters	Ausar Thompson	25:47	5	7	0	0	4	5	1	5	6	4	0	1	2	3	14
+Detroit Pistons	Starters	John Collins	18:58	1	4	0	1	2	2	1	2	3	1	1	1	2	4	4
+Detroit Pistons	Reserves	Daniss Jenkins	22:51	1	4	0	2	0	0	0	1	1	7	0	0	2	3	2
+Detroit Pistons	Reserves	Javonte Green	20:27	2	3	1	2	0	0	0	2	2	0	1	0	0	1	5
+Detroit Pistons	Reserves	Ronald Holland II	19:57	4	8	3	6	0	0	0	2	2	0	0	1	2	2	11
+Detroit Pistons	Reserves	Kevin Huerter	19:45	3	6	3	5	0	0	0	2	2	3	1	0	0	1	9
+Detroit Pistons	Reserves	Tolu Smith	8:05	0	1	0	0	0	0	1	1	2	0	1	0	0	0	0
+Detroit Pistons	Reserves	Chaz Lanier	6:54	2	4	1	3	0	0	0	0	0	0	0	0	0	1	5
+Detroit Pistons	Reserves	Isaac Jones	5:30	1	1	0	0	0	0	2	3	5	0	0	2	1	0	2
+Detroit Pistons	Reserves	Ebuka Okorie	5:30	2	7	0	2	0	0	0	2	2	1	1	0	0	0	4
+Detroit Pistons	Reserves	Taurean Prince	Did Not Play
+Detroit Pistons	Reserves	Ugonna Onyenso	Did Not Dress
+Detroit Pistons	Reserves	Elijah Harkless	Did Not Dress
+Detroit Pistons	Reserves	Isaiah Joe	Did Not Dress
+Detroit Pistons	Reserves	Jalen Duren	Did Not Dress
+Detroit Pistons	Totals	Team Totals	240	47	82	18	37	12	15	6	31	37	30	15	7	14	19	124
+Charlotte Hornets	Starters	Brandon Miller	31:03	7	18	3	11	0	0	0	1	1	4	0	0	1	1	17
+Charlotte Hornets	Starters	Naz Reid	26:36	4	11	2	6	3	6	1	5	6	2	0	0	1	2	13
+Charlotte Hornets	Starters	Moussa Diabaté	23:56	3	6	0	0	1	1	6	3	9	2	3	1	0	1	7
+Charlotte Hornets	Starters	Sion James	21:29	4	6	3	4	0	0	1	3	4	3	0	0	3	3	11
+Charlotte Hornets	Starters	Coby White	15:55	3	9	1	5	0	0	0	0	0	3	0	0	3	2	7
+Charlotte Hornets	Reserves	Dennis Schröder	22:33	2	4	0	2	1	2	1	1	2	1	2	0	5	1	5
+Charlotte Hornets	Reserves	Grayson Allen	19:13	3	7	3	7	2	2	1	0	1	0	0	0	2	2	11
+Charlotte Hornets	Reserves	Tidjane Salaün	18:54	0	5	0	4	1	2	1	6	7	0	2	2	1	2	1
+Charlotte Hornets	Reserves	Royce O'Neale	18:07	0	3	0	3	2	2	1	3	4	0	1	0	2	1	2
+Charlotte Hornets	Reserves	Ryan Kalkbrenner	15:44	1	3	0	0	2	2	5	1	6	0	0	2	2	1	4
+Charlotte Hornets	Reserves	Hannes Steinbach	8:50	1	2	0	0	0	0	0	2	2	1	0	0	2	0	2
+Charlotte Hornets	Reserves	Christian Anderson	8:50	3	5	1	1	1	1	1	1	2	2	0	1	2	1	8
+Charlotte Hornets	Reserves	Liam McNeeley	8:50	1	5	0	1	1	1	0	0	0	1	0	0	1	0	3
+Charlotte Hornets	Reserves	Grant Williams	Did Not Dress
+Charlotte Hornets	Reserves	PJ Hall	Did Not Dress
+Charlotte Hornets	Reserves	Michael Ajayi	Did Not Dress
+Charlotte Hornets	Reserves	Kon Knueppel	Did Not Dress
+Charlotte Hornets	Reserves	Kylan Boswell	Did Not Dress
+Charlotte Hornets	Totals	Team Totals	240	32	84	13	44	14	19	18	26	44	19	8	6	25	17	91
+```

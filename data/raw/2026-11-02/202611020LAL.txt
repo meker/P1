@@ -1,0 +1,42 @@
+Final: Miami Heat 117, Los Angeles Lakers 138
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Miami Heat	Starters	Giannis Antetokounmpo	34:11	10	17	0	3	10	15	1	11	12	7	1	2	7	3	30
+Miami Heat	Starters	Bam Adebayo	30:54	5	10	1	2	5	7	4	5	9	4	2	2	3	1	16
+Miami Heat	Starters	Davion Mitchell	29:14	5	5	4	4	1	2	0	0	0	7	0	1	1	2	15
+Miami Heat	Starters	Klay Thompson	26:34	7	11	4	7	1	1	0	1	1	1	0	0	1	4	19
+Miami Heat	Starters	Andrew Wiggins	23:54	2	7	2	6	1	2	0	0	0	2	0	0	0	2	7
+Miami Heat	Reserves	Pelle Larsson	29:44	2	6	1	3	4	4	0	3	3	2	1	0	4	5	9
+Miami Heat	Reserves	Tim Hardaway Jr.	19:09	3	7	3	7	0	0	0	0	0	0	0	0	2	0	9
+Miami Heat	Reserves	Bobby Portis Jr.	18:08	1	3	0	2	0	0	0	3	3	2	0	0	0	3	2
+Miami Heat	Reserves	Dru Smith	10:40	0	2	0	2	3	4	1	2	3	2	2	0	0	0	3
+Miami Heat	Reserves	Ryan Conwell	8:16	2	4	1	3	0	0	1	0	1	1	1	0	0	2	5
+Miami Heat	Reserves	Nikola Jović	6:32	1	3	0	2	0	0	0	1	1	0	0	0	1	1	2
+Miami Heat	Reserves	Myron Gardner	1:22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Miami Heat	Reserves	Nick Richards	1:22	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+Miami Heat	Reserves	Simone Fontecchio	Did Not Play
+Miami Heat	Reserves	Keshad Johnson	Did Not Dress
+Miami Heat	Reserves	Vladislav Goldin	Did Not Dress
+Miami Heat	Reserves	Tre Donaldson	Did Not Dress
+Miami Heat	Totals	Team Totals	240	38	75	16	41	25	35	7	27	34	28	7	5	19	23	117
+Los Angeles Lakers	Starters	Luka Dončić	35:38	14	24	6	15	8	10	0	7	7	13	2	0	2	2	42
+Los Angeles Lakers	Starters	Austin Reaves	34:10	10	15	4	5	3	4	0	2	2	5	0	0	5	3	27
+Los Angeles Lakers	Starters	Walker Kessler	32:08	7	13	0	0	1	3	4	11	15	2	2	0	1	3	15
+Los Angeles Lakers	Starters	Jake LaRavia	25:33	3	4	1	1	0	0	3	1	4	2	1	2	4	5	7
+Los Angeles Lakers	Starters	Matisse Thybulle	19:00	2	6	2	6	0	0	0	1	1	2	0	1	1	3	6
+Los Angeles Lakers	Reserves	Sandro Mamukelashvili	27:53	5	10	2	5	1	2	1	2	3	4	2	0	2	3	13
+Los Angeles Lakers	Reserves	Quentin Grimes	22:39	2	4	1	3	2	3	1	3	4	4	0	0	0	2	7
+Los Angeles Lakers	Reserves	Collin Sexton	15:52	3	4	0	1	0	0	0	1	1	5	0	0	0	1	6
+Los Angeles Lakers	Reserves	Ziaire Williams	15:13	3	6	3	6	0	0	0	2	2	2	1	0	0	3	9
+Los Angeles Lakers	Reserves	Jarred Vanderbilt	6:26	1	1	0	0	0	0	1	0	1	0	0	0	1	1	2
+Los Angeles Lakers	Reserves	Bronny James	1:22	1	1	0	0	0	0	0	0	0	0	0	1	0	2	2
+Los Angeles Lakers	Reserves	Cameron Carr	1:22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Los Angeles Lakers	Reserves	Jaden Hardy	1:22	0	1	0	1	2	2	0	0	0	0	0	0	0	0	2
+Los Angeles Lakers	Reserves	Lawson Lovering	1:22	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+Los Angeles Lakers	Reserves	Kevon Looney	Did Not Play
+Los Angeles Lakers	Reserves	Arthur Kaluma	Did Not Dress
+Los Angeles Lakers	Reserves	Chris Mañon	Did Not Dress
+Los Angeles Lakers	Reserves	Adou Thiero	Did Not Dress
+Los Angeles Lakers	Totals	Team Totals	240	51	89	19	43	17	24	10	31	41	39	8	4	16	28	138
+```

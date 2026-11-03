@@ -1,15 +1,15 @@
-Oklahoma City Thunder||Cleveland Cavaliers|||not final
-Chicago Bulls||Philadelphia 76ers|||not final
-Atlanta Hawks||Indiana Pacers|||not final
-Brooklyn Nets||New York Knicks|||not final
-Washington Wizards||Orlando Magic|||not final
-Detroit Pistons||Charlotte Hornets|||not final
-Sacramento Kings||Dallas Mavericks|||not final
-Milwaukee Bucks||Minnesota Timberwolves|||not final
-New Orleans Pelicans||Memphis Grizzlies|||not final
-Boston Celtics||Houston Rockets|||not final
-Utah Jazz||San Antonio Spurs|||not final
-Portland Trail Blazers||Denver Nuggets|||not final
 Toronto Raptors||Los Angeles Clippers|||not final
 Phoenix Suns||Golden State Warriors|||not final
-Miami Heat||Los Angeles Lakers|||not final
+Oklahoma City Thunder|117|Cleveland Cavaliers|112|https://www.basketball-reference.com/boxscores/202611020CLE.html|final
+Chicago Bulls|107|Philadelphia 76ers|126|https://www.basketball-reference.com/boxscores/202611020PHI.html|final
+Atlanta Hawks|108|Indiana Pacers|104|https://www.basketball-reference.com/boxscores/202611020IND.html|final
+Brooklyn Nets|90|New York Knicks|103|https://www.basketball-reference.com/boxscores/202611020NYK.html|final
+Washington Wizards|103|Orlando Magic|94|https://www.basketball-reference.com/boxscores/202611020ORL.html|final
+Detroit Pistons|124|Charlotte Hornets|91|https://www.basketball-reference.com/boxscores/202611020CHO.html|final
+Sacramento Kings|115|Dallas Mavericks|100|https://www.basketball-reference.com/boxscores/202611020DAL.html|final
+Milwaukee Bucks|100|Minnesota Timberwolves|112|https://www.basketball-reference.com/boxscores/202611020MIN.html|final
+New Orleans Pelicans|135|Memphis Grizzlies|134|https://www.basketball-reference.com/boxscores/202611020MEM.html|final
+Boston Celtics|93|Houston Rockets|109|https://www.basketball-reference.com/boxscores/202611020HOU.html|final
+Utah Jazz|97|San Antonio Spurs|119|https://www.basketball-reference.com/boxscores/202611020SAS.html|final
+Portland Trail Blazers|118|Denver Nuggets|110|https://www.basketball-reference.com/boxscores/202611020DEN.html|final
+Miami Heat|117|Los Angeles Lakers|138|https://www.basketball-reference.com/boxscores/202611020LAL.html|final

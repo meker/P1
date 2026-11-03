@@ -1,0 +1,42 @@
+Final: Utah Jazz 97, San Antonio Spurs 119
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Utah Jazz	Starters	Darryn Peterson	32:47	5	13	2	4	2	2	0	4	4	6	3	3	1	4	14
+Utah Jazz	Starters	Lauri Markkanen	30:54	8	16	4	7	2	2	3	5	8	3	1	0	0	2	22
+Utah Jazz	Starters	Ace Bailey	24:24	2	11	1	5	0	0	1	5	6	2	1	0	0	1	5
+Utah Jazz	Starters	Jaxson Hayes	22:21	4	9	0	0	1	1	2	3	5	0	1	2	1	1	9
+Utah Jazz	Starters	Keyonte George	22:03	3	12	1	5	0	0	1	6	7	0	0	0	3	0	7
+Utah Jazz	Reserves	Josh Okogie	18:33	1	2	1	1	6	6	2	1	3	2	1	0	1	1	9
+Utah Jazz	Reserves	Mo Bamba	18:10	3	5	0	0	2	3	4	4	8	0	0	2	1	1	8
+Utah Jazz	Reserves	Josh Green	14:42	1	3	1	2	0	0	1	0	1	0	0	0	1	1	3
+Utah Jazz	Reserves	Svi Mykhailiuk	14:26	1	7	1	4	0	0	0	2	2	0	0	0	0	2	3
+Utah Jazz	Reserves	Brice Sensabaugh	14:15	2	10	1	6	2	2	1	1	2	1	1	0	2	3	7
+Utah Jazz	Reserves	Isaiah Collier	12:00	3	4	0	0	1	2	1	1	2	2	0	0	1	1	7
+Utah Jazz	Reserves	Kyle Filipowski	8:07	0	2	0	0	1	2	0	2	2	0	0	0	0	0	1
+Utah Jazz	Reserves	Tony Bradley	7:18	1	2	0	0	0	2	1	2	3	0	1	0	0	0	2
+Utah Jazz	Reserves	Kobe Bufkin	Did Not Play
+Utah Jazz	Reserves	Jusuf Nurkić	Did Not Dress
+Utah Jazz	Reserves	Jaren Jackson Jr.	Did Not Dress
+Utah Jazz	Reserves	Harrison Ingram	Did Not Dress
+Utah Jazz	Reserves	Trey Alexander	Did Not Dress
+Utah Jazz	Totals	Team Totals	240	34	96	12	34	17	22	17	36	53	16	9	7	11	17	97
+San Antonio Spurs	Starters	Dylan Harper	27:09	6	10	1	2	4	5	0	7	7	8	2	0	2	0	17
+San Antonio Spurs	Starters	Stephon Castle	25:40	7	16	2	7	0	0	1	4	5	4	0	1	0	1	16
+San Antonio Spurs	Starters	Devin Vassell	25:15	4	9	0	2	3	3	0	2	2	1	1	0	1	1	11
+San Antonio Spurs	Starters	Victor Wembanyama	24:09	5	15	0	5	2	3	1	10	11	5	1	3	5	2	12
+San Antonio Spurs	Starters	De'Aaron Fox	21:55	5	8	1	1	1	2	0	2	2	3	1	0	1	5	12
+San Antonio Spurs	Reserves	Keldon Johnson	26:30	5	12	1	2	4	6	1	6	7	1	0	0	0	2	15
+San Antonio Spurs	Reserves	Julian Champagnie	22:29	2	5	2	5	2	3	1	5	6	0	0	0	1	4	8
+San Antonio Spurs	Reserves	Harrison Barnes	20:32	3	4	3	4	4	4	0	0	0	0	0	0	0	1	13
+San Antonio Spurs	Reserves	Luke Kornet	16:33	3	3	0	0	2	2	2	3	5	2	0	1	0	0	8
+San Antonio Spurs	Reserves	Carter Bryant	14:23	1	4	1	3	0	0	0	0	0	0	1	1	1	4	3
+San Antonio Spurs	Reserves	Jordan McLaughlin	8:07	0	4	0	1	0	0	0	1	1	3	0	0	0	1	0
+San Antonio Spurs	Reserves	Tarris Reed Jr.	7:18	1	1	0	0	2	2	3	4	7	0	0	1	1	2	4
+San Antonio Spurs	Reserves	David Jones Garcia	Did Not Dress
+San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
+San Antonio Spurs	Reserves	Ja'Kobi Gillespie	Did Not Dress
+San Antonio Spurs	Reserves	Maliq Brown	Did Not Dress
+San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
+San Antonio Spurs	Totals	Team Totals	240	42	91	11	32	24	30	9	44	53	27	6	7	12	23	119
+```

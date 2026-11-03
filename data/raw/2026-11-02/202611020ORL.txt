@@ -1,0 +1,42 @@
+Final: Washington Wizards 103, Orlando Magic 94
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Washington Wizards	Starters	Kyshawn George	36:32	9	15	4	8	0	1	0	4	4	5	1	1	1	3	22
+Washington Wizards	Starters	Trae Young	34:00	5	12	2	6	3	5	0	3	3	9	1	0	3	0	15
+Washington Wizards	Starters	Anthony Davis	33:50	12	17	1	1	2	2	1	8	9	1	4	0	5	2	27
+Washington Wizards	Starters	AJ Dybantsa	33:24	7	17	1	4	6	6	2	3	5	2	3	0	2	2	21
+Washington Wizards	Starters	Deandre Ayton	24:29	2	4	0	0	0	0	3	3	6	2	0	0	0	2	4
+Washington Wizards	Reserves	Bilal Coulibaly	33:11	3	5	0	2	1	2	0	1	1	2	1	3	0	3	7
+Washington Wizards	Reserves	Tre Johnson	21:49	1	4	0	2	2	2	0	3	3	0	0	0	2	1	4
+Washington Wizards	Reserves	Bub Carrington	18:39	1	1	1	1	0	0	0	4	4	4	0	1	1	3	3
+Washington Wizards	Reserves	Will Riley	4:05	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+Washington Wizards	Reserves	Tre Mann	Did Not Play
+Washington Wizards	Reserves	Khris Middleton	Did Not Play
+Washington Wizards	Reserves	Felix Okpara	Did Not Play
+Washington Wizards	Reserves	Anthony Gill	Did Not Dress
+Washington Wizards	Reserves	Justin Champagnie	Did Not Dress
+Washington Wizards	Reserves	Reece Beekman	Did Not Dress
+Washington Wizards	Reserves	Tristan Vukčević	Did Not Dress
+Washington Wizards	Reserves	Alex Sarr	Did Not Dress
+Washington Wizards	Reserves	Jamir Watkins	Did Not Dress
+Washington Wizards	Totals	Team Totals	240	40	75	9	24	14	18	6	29	35	26	10	5	14	17	103
+Orlando Magic	Starters	Franz Wagner	37:44	10	18	1	4	3	3	0	3	3	6	1	0	3	3	24
+Orlando Magic	Starters	Desmond Bane	36:19	8	17	4	10	0	0	2	1	3	3	1	0	4	4	20
+Orlando Magic	Starters	Wendell Carter Jr.	34:22	2	3	0	0	2	2	2	7	9	0	1	0	1	2	6
+Orlando Magic	Starters	Jase Richardson	28:54	3	8	0	4	3	3	0	1	1	5	1	0	0	3	9
+Orlando Magic	Starters	Jamal Cain	25:28	4	5	2	3	0	0	0	3	3	1	0	0	4	2	10
+Orlando Magic	Reserves	Tristan da Silva	32:27	4	14	2	10	0	0	1	3	4	3	0	0	4	3	10
+Orlando Magic	Reserves	Jevon Carter	17:40	2	7	1	4	0	0	0	1	1	4	0	0	0	0	5
+Orlando Magic	Reserves	Nikola Vučević	13:38	3	6	1	3	0	0	1	5	6	1	0	1	0	0	7
+Orlando Magic	Reserves	Alex Morales	13:30	1	2	0	1	1	2	1	1	2	0	2	0	1	2	3
+Orlando Magic	Reserves	Goga Bitadze	Did Not Play
+Orlando Magic	Reserves	Colin Castleton	Did Not Play
+Orlando Magic	Reserves	Jalen Suggs	Did Not Dress
+Orlando Magic	Reserves	Paolo Banchero	Did Not Dress
+Orlando Magic	Reserves	Anthony Black	Did Not Dress
+Orlando Magic	Reserves	Jonathan Isaac	Did Not Dress
+Orlando Magic	Reserves	Noah Penda	Did Not Dress
+Orlando Magic	Reserves	Izaiyah Nelson	Did Not Dress
+Orlando Magic	Totals	Team Totals	240	37	80	11	39	9	10	7	25	32	23	6	1	17	19	94
+```

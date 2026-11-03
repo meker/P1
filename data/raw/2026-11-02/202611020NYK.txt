@@ -1,0 +1,42 @@
+Final: Brooklyn Nets 90, New York Knicks 103
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Brooklyn Nets	Starters	Michael Porter Jr.	37:21	6	13	4	11	2	3	0	5	5	2	1	1	0	3	18
+Brooklyn Nets	Starters	Julius Randle	36:07	5	16	0	4	11	15	6	5	11	2	1	0	4	2	21
+Brooklyn Nets	Starters	Chaney Johnson	28:11	1	5	1	2	1	2	1	2	3	2	2	1	2	1	4
+Brooklyn Nets	Starters	Nolan Traoré	24:03	6	8	5	6	0	0	0	3	3	4	1	1	2	4	17
+Brooklyn Nets	Starters	Day'Ron Sharpe	21:51	1	5	0	0	2	2	3	3	6	3	0	1	3	5	4
+Brooklyn Nets	Reserves	Mikel Brown Jr.	26:56	5	13	1	8	2	2	0	2	2	3	0	0	2	1	13
+Brooklyn Nets	Reserves	Keon Ellis	25:17	2	6	1	4	0	2	0	1	1	0	1	3	0	3	5
+Brooklyn Nets	Reserves	Moritz Wagner	20:16	2	7	1	2	1	1	0	1	1	2	1	0	0	0	6
+Brooklyn Nets	Reserves	Noah Clowney	19:55	1	3	0	1	0	0	2	4	6	2	0	0	0	1	2
+Brooklyn Nets	Reserves	Josh Minott	0:05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Brooklyn Nets	Reserves	Terance Mann	Did Not Play
+Brooklyn Nets	Reserves	Drake Powell	Did Not Play
+Brooklyn Nets	Reserves	Danny Wolf	Did Not Play
+Brooklyn Nets	Reserves	Grant Nelson	Did Not Dress
+Brooklyn Nets	Reserves	Joshua Jefferson	Did Not Dress
+Brooklyn Nets	Reserves	Tyler Bilodeau	Did Not Dress
+Brooklyn Nets	Reserves	Egor Dëmin	Did Not Dress
+Brooklyn Nets	Reserves	Ben Saraf	Did Not Dress
+Brooklyn Nets	Totals	Team Totals	240	29	76	13	38	19	27	12	26	38	20	7	7	13	20	90
+New York Knicks	Starters	OG Anunoby	38:07	4	10	3	7	7	8	1	3	4	2	2	1	3	5	18
+New York Knicks	Starters	Karl-Anthony Towns	34:33	4	11	1	4	2	3	1	15	16	5	0	0	4	3	11
+New York Knicks	Starters	Jalen Brunson	33:30	6	16	4	11	3	6	1	1	2	6	0	0	1	0	19
+New York Knicks	Starters	Josh Hart	26:54	3	6	2	5	0	0	1	5	6	7	3	0	3	6	8
+New York Knicks	Starters	Mikal Bridges	16:06	1	7	0	2	4	4	2	0	2	0	1	1	1	0	6
+New York Knicks	Reserves	Landry Shamet	30:01	6	8	4	6	6	6	1	0	1	1	0	0	0	2	22
+New York Knicks	Reserves	Miles McBride	16:31	2	4	2	4	0	0	0	1	1	2	2	0	1	3	6
+New York Knicks	Reserves	Andre Drummond	13:09	1	3	0	0	2	2	3	6	9	0	0	1	2	1	4
+New York Knicks	Reserves	Jordan Clarkson	10:53	3	5	1	2	0	0	0	0	0	0	0	1	0	3	7
+New York Knicks	Reserves	Jose Alvarado	8:43	0	1	0	1	0	0	0	0	0	0	0	1	0	2	0
+New York Knicks	Reserves	Mohamed Diawara	6:04	0	1	0	1	0	0	1	0	1	0	0	0	0	1	0
+New York Knicks	Reserves	Tyler Kolek	5:29	1	3	0	1	0	0	0	1	1	1	0	0	0	0	2
+New York Knicks	Reserves	Pacôme Dadiet	Did Not Play
+New York Knicks	Reserves	James Wiseman	Did Not Play
+New York Knicks	Reserves	Dalton Knecht	Did Not Dress
+New York Knicks	Reserves	Jaden Akins	Did Not Dress
+New York Knicks	Reserves	Tyler Nickel	Did Not Dress
+New York Knicks	Totals	Team Totals	240	31	75	17	44	24	29	11	32	43	24	8	5	15	26	103
+```
