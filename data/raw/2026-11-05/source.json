@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-05",
+ "updated_at": "2026-11-05T16:10:02Z",
+ "games": 2,
+ "final": 0,
+ "pending": 2,
+ "problems": 0,
+ "sources": [],
+ "list": [
+  {
+   "boxid": "202611050PHO",
+   "away": "ORL",
+   "home": "PHO",
+   "status": "not started",
+   "status_text": "9:00 pm ET",
+   "source": null,
+   "away_score": null,
+   "home_score": null,
+   "final_at": null,
+   "nba_game_id": "0022600187",
+   "espn_event_id": null,
+   "url": null,
+   "problems": []
+  },
+  {
+   "boxid": "202611050GSW",
+   "away": "MIA",
+   "home": "GSW",
+   "status": "not started",
+   "status_text": "10:00 pm ET",
+   "source": null,
+   "away_score": null,
+   "home_score": null,
+   "final_at": null,
+   "nba_game_id": "0022600188",
+   "espn_event_id": null,
+   "url": null,
+   "problems": []
+  }
+ ]
+}
