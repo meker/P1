@@ -2,12 +2,12 @@ Final: Utah Jazz 113, New Orleans Pelicans 120
 
 ```
 team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
-Utah Jazz	Starters	Keyonte George	43:35	14	26	2	9	9	13	0	2	2	9	4	1	3	3	39
+Utah Jazz	Starters	Keyonte George	43:35	14	27	2	9	9	13	0	2	2	9	4	1	3	3	39
 Utah Jazz	Starters	Lauri Markkanen	38:38	6	15	5	12	4	6	2	8	10	4	1	2	3	4	21
 Utah Jazz	Starters	Ace Bailey	35:24	6	14	1	9	2	3	1	4	5	1	0	1	3	6	15
 Utah Jazz	Starters	Darryn Peterson	30:02	2	8	0	5	3	4	1	1	2	7	0	0	2	1	7
 Utah Jazz	Starters	Jaxson Hayes	21:16	1	2	0	0	0	0	2	5	7	1	0	1	4	6	2
-Utah Jazz	Reserves	Josh Okogie	25:55	1	4	1	2	0	0	1	5	6	1	0	1	2	5	3
+Utah Jazz	Reserves	Josh Okogie	25:55	1	3	1	2	0	0	1	5	6	1	0	1	2	5	3
 Utah Jazz	Reserves	Josh Green	23:16	3	7	1	5	0	0	1	0	1	0	0	0	0	2	7
 Utah Jazz	Reserves	Svi Mykhailiuk	17:03	3	8	0	3	0	0	2	1	3	0	1	0	1	2	6
 Utah Jazz	Reserves	Mo Bamba	14:45	3	5	0	0	1	2	5	5	10	1	0	1	0	3	7

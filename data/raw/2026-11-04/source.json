@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated_at": "2026-11-05T05:59:04Z",
+ "updated_at": "2026-11-05T06:02:34Z",
  "games": 14,
  "final": 13,
  "pending": 1,
@@ -14,7 +14,7 @@
    "away": "MIA",
    "home": "LAC",
    "status": "in progress",
-   "status_text": "Q4 :01.7",
+   "status_text": "Q4 :02.7",
    "source": null,
    "away_score": null,
    "home_score": null,
