@@ -1,0 +1,42 @@
+Final: Indiana Pacers 107, Memphis Grizzlies 103
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Indiana Pacers	Starters	Andrew Nembhard	37:40	8	15	2	7	4	4	0	2	2	4	1	1	2	2	22
+Indiana Pacers	Starters	Aaron Nesmith	30:18	7	16	2	6	0	1	0	1	1	2	3	1	1	3	16
+Indiana Pacers	Starters	Pascal Siakam	30:00	8	13	2	5	2	2	0	5	5	2	2	1	0	3	20
+Indiana Pacers	Starters	Braden Smith	23:35	5	9	0	1	0	0	0	1	1	5	2	2	3	4	10
+Indiana Pacers	Starters	Ivica Zubac	18:47	0	5	0	0	1	2	2	2	4	2	0	0	2	1	1
+Indiana Pacers	Reserves	Quenton Jackson	22:27	4	9	3	5	2	2	1	6	7	2	2	0	2	1	13
+Indiana Pacers	Reserves	Obi Toppin	19:01	3	6	1	2	4	4	0	5	5	1	0	0	3	0	11
+Indiana Pacers	Reserves	Jarace Walker	17:01	1	4	0	2	0	0	1	7	8	1	0	0	1	0	2
+Indiana Pacers	Reserves	Larry Nance Jr.	14:25	2	3	0	1	0	0	2	2	4	1	0	0	0	0	4
+Indiana Pacers	Reserves	Jay Huff	13:40	2	4	2	4	0	0	0	3	3	1	0	1	0	1	6
+Indiana Pacers	Reserves	Kobe Brown	7:04	0	2	0	2	0	0	0	1	1	0	0	0	0	0	0
+Indiana Pacers	Reserves	Jalen Slawson	6:00	0	2	0	2	2	2	2	0	2	1	0	1	1	1	2
+Indiana Pacers	Reserves	Kelly Oubre Jr.	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Reserves	T.J. McConnell	Did Not Dress
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	40	88	12	37	15	17	8	35	43	22	10	7	15	16	107
+Memphis Grizzlies	Starters	Cedric Coward	33:17	8	19	4	12	3	4	4	5	9	4	4	0	3	0	23
+Memphis Grizzlies	Starters	Cameron Boozer	33:10	4	14	2	5	0	0	2	4	6	4	1	0	5	0	10
+Memphis Grizzlies	Starters	Ty Jerome	29:07	10	20	2	10	1	2	0	4	4	3	0	1	3	2	23
+Memphis Grizzlies	Starters	Zach Edey	24:36	4	6	0	0	3	5	3	10	13	1	0	2	2	3	11
+Memphis Grizzlies	Starters	Jaylen Wells	21:27	0	3	0	3	0	0	0	2	2	3	0	1	1	5	0
+Memphis Grizzlies	Reserves	Jerami Grant	24:20	4	10	2	5	1	2	0	1	1	2	1	0	0	2	11
+Memphis Grizzlies	Reserves	Cam Spencer	23:42	3	4	1	2	0	0	2	4	6	9	1	0	2	1	7
+Memphis Grizzlies	Reserves	Kris Murray	15:23	2	4	1	3	0	0	1	0	1	1	0	1	1	0	5
+Memphis Grizzlies	Reserves	Quinten Post	11:03	1	3	0	2	0	0	0	1	1	0	1	0	1	2	2
+Memphis Grizzlies	Reserves	Isaiah Stewart	9:43	3	4	0	0	0	0	0	1	1	0	0	0	0	2	6
+Memphis Grizzlies	Reserves	GG Jackson	7:09	0	1	0	1	1	2	0	2	2	0	0	0	1	1	1
+Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	7:03	2	3	0	1	0	0	1	1	2	1	0	0	0	0	4
+Memphis Grizzlies	Reserves	Taylor Hendricks	Did Not Play
+Memphis Grizzlies	Reserves	Karim López	Did Not Play
+Memphis Grizzlies	Reserves	Jahmai Mashack	Did Not Play
+Memphis Grizzlies	Reserves	Scotty Pippen Jr.	Did Not Dress
+Memphis Grizzlies	Reserves	Javon Small	Did Not Dress
+Memphis Grizzlies	Reserves	Carson Cooper	Did Not Dress
+Memphis Grizzlies	Totals	Team Totals	240	41	91	12	44	9	15	13	35	48	28	8	5	19	18	103
+```

@@ -1,0 +1,42 @@
+Final: Milwaukee Bucks 102, Boston Celtics 109
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Milwaukee Bucks	Starters	Myles Turner	35:40	4	6	4	6	0	0	0	9	9	6	2	2	1	3	12
+Milwaukee Bucks	Starters	Tyler Herro	32:40	8	17	4	10	5	5	0	5	5	3	0	0	1	0	25
+Milwaukee Bucks	Starters	Jaime Jaquez Jr.	30:43	7	16	4	6	0	2	1	1	2	2	1	0	1	2	18
+Milwaukee Bucks	Starters	Kyle Kuzma	27:00	2	5	1	3	1	2	2	3	5	4	1	0	3	1	6
+Milwaukee Bucks	Starters	Brayden Burries	21:51	3	7	0	3	3	4	3	2	5	3	1	0	3	2	9
+Milwaukee Bucks	Reserves	Ryan Rollins	23:38	5	10	2	3	1	2	2	7	9	5	1	1	4	4	13
+Milwaukee Bucks	Reserves	AJ Green	20:11	1	5	1	4	2	2	0	2	2	3	0	0	0	3	5
+Milwaukee Bucks	Reserves	Nate Ament	18:14	3	9	2	6	1	2	1	1	2	0	0	0	0	3	9
+Milwaukee Bucks	Reserves	Kel'el Ware	15:38	1	6	0	2	0	0	2	3	5	1	0	1	1	2	2
+Milwaukee Bucks	Reserves	Kasparas Jakučionis	11:40	1	2	1	2	0	0	0	1	1	1	0	0	0	2	3
+Milwaukee Bucks	Reserves	Ousmane Dieng	1:38	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0
+Milwaukee Bucks	Reserves	Jericho Sims	1:07	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Milwaukee Bucks	Reserves	Caris LeVert	Did Not Play
+Milwaukee Bucks	Reserves	Bogoljub Marković	Did Not Play
+Milwaukee Bucks	Reserves	Gary Trent Jr.	Did Not Play
+Milwaukee Bucks	Reserves	Pete Nance	Did Not Dress
+Milwaukee Bucks	Reserves	Cormac Ryan	Did Not Dress
+Milwaukee Bucks	Reserves	Kam Jones	Did Not Dress
+Milwaukee Bucks	Totals	Team Totals	240	35	85	19	47	13	19	11	34	45	28	6	4	14	22	102
+Boston Celtics	Starters	Derrick White	35:30	7	18	1	7	9	9	1	3	4	7	1	2	2	4	24
+Boston Celtics	Starters	Paul George	35:05	8	18	5	9	4	7	0	3	3	5	4	0	6	3	25
+Boston Celtics	Starters	Sam Hauser	29:35	4	11	3	10	0	0	1	1	2	0	0	0	0	1	11
+Boston Celtics	Starters	Neemias Queta	29:23	4	8	0	0	1	3	4	8	12	3	0	2	0	3	9
+Boston Celtics	Starters	Hugo González	14:06	1	3	0	2	2	2	1	1	2	0	0	1	1	0	4
+Boston Celtics	Reserves	Baylor Scheierman	28:52	3	7	3	4	0	0	3	8	11	1	1	0	1	3	9
+Boston Celtics	Reserves	Mitchell Robinson	19:48	1	8	0	0	1	2	6	4	10	1	1	1	1	1	3
+Boston Celtics	Reserves	Payton Pritchard	18:05	4	7	0	0	2	2	0	1	1	5	0	0	0	1	10
+Boston Celtics	Reserves	Luka Garza	18:02	4	7	3	4	0	0	3	2	5	2	1	0	1	2	11
+Boston Celtics	Reserves	Jordan Walsh	11:35	1	4	1	3	0	0	0	4	4	0	0	0	0	1	3
+Boston Celtics	Reserves	Chris Cenac Jr.	Did Not Play
+Boston Celtics	Reserves	Mike Conley	Did Not Play
+Boston Celtics	Reserves	Ron Harper Jr.	Did Not Play
+Boston Celtics	Reserves	Dillon Mitchell	Did Not Play
+Boston Celtics	Reserves	Jayson Tatum	Did Not Dress
+Boston Celtics	Reserves	Amari Williams	Did Not Dress
+Boston Celtics	Reserves	Devin Carter	Did Not Dress
+Boston Celtics	Totals	Team Totals	240	37	91	16	39	19	25	19	35	54	24	8	6	12	19	109
+```

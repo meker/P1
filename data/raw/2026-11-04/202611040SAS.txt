@@ -1,0 +1,42 @@
+Final: Dallas Mavericks 111, San Antonio Spurs 112
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Dallas Mavericks	Starters	Cooper Flagg	40:02	7	19	0	3	5	7	5	5	10	5	0	0	1	3	19
+Dallas Mavericks	Starters	P.J. Washington	39:00	7	18	3	8	4	5	4	6	10	3	0	1	1	2	21
+Dallas Mavericks	Starters	Kyrie Irving	35:58	9	27	5	14	6	8	1	6	7	5	1	0	1	2	29
+Dallas Mavericks	Starters	Zaccharie Risacher	18:03	1	4	0	2	0	0	0	1	1	2	1	0	1	3	2
+Dallas Mavericks	Starters	Daniel Gafford	17:38	1	6	0	0	0	1	1	3	4	1	1	2	2	2	2
+Dallas Mavericks	Reserves	Naji Marshall	25:58	9	12	3	3	1	1	2	3	5	3	0	1	2	3	22
+Dallas Mavericks	Reserves	Walter Clayton Jr.	21:20	3	9	2	5	0	0	2	4	6	5	0	0	0	3	8
+Dallas Mavericks	Reserves	Caleb Martin	19:36	0	0	0	0	0	0	1	2	3	2	1	0	0	4	0
+Dallas Mavericks	Reserves	Morez Johnson Jr.	17:31	2	6	1	2	3	4	1	2	3	1	1	0	0	4	8
+Dallas Mavericks	Reserves	Marcus Sasser	4:54	0	1	0	0	0	0	1	0	1	2	0	0	0	1	0
+Dallas Mavericks	Reserves	Moussa Cissé	Did Not Play
+Dallas Mavericks	Reserves	Jett Howard	Did Not Play
+Dallas Mavericks	Reserves	Tobi Lawal	Did Not Play
+Dallas Mavericks	Reserves	Santi Aldama	Did Not Dress
+Dallas Mavericks	Reserves	Max Christie	Did Not Dress
+Dallas Mavericks	Reserves	Dereck Lively II	Did Not Dress
+Dallas Mavericks	Reserves	Tarik Biberovic	Did Not Dress
+Dallas Mavericks	Reserves	Sergio de Larrea	Did Not Dress
+Dallas Mavericks	Totals	Team Totals	240	39	102	14	37	19	26	18	32	50	29	5	4	8	27	111
+San Antonio Spurs	Starters	Dylan Harper	35:48	9	15	1	2	2	2	1	4	5	0	0	0	2	3	21
+San Antonio Spurs	Starters	Devin Vassell	35:31	0	8	0	5	2	2	2	5	7	4	2	1	0	1	2
+San Antonio Spurs	Starters	Stephon Castle	35:09	6	20	2	9	3	4	3	7	10	3	0	0	2	3	17
+San Antonio Spurs	Starters	Victor Wembanyama	34:04	16	28	1	8	19	23	9	15	24	2	2	8	1	2	52
+San Antonio Spurs	Starters	De'Aaron Fox	32:48	3	10	0	2	4	4	0	3	3	4	1	1	3	0	10
+San Antonio Spurs	Reserves	Julian Champagnie	20:44	0	6	0	5	0	0	1	3	4	3	1	0	0	5	0
+San Antonio Spurs	Reserves	Keldon Johnson	19:24	1	5	0	3	2	2	3	2	5	2	0	0	2	2	4
+San Antonio Spurs	Reserves	Luke Kornet	13:56	1	1	0	0	0	0	1	0	1	2	0	0	0	4	2
+San Antonio Spurs	Reserves	Harrison Barnes	12:36	1	2	1	2	1	2	2	0	2	0	0	0	0	0	4
+San Antonio Spurs	Reserves	Carter Bryant	Did Not Play
+San Antonio Spurs	Reserves	Jordan McLaughlin	Did Not Play
+San Antonio Spurs	Reserves	Tarris Reed Jr.	Did Not Play
+San Antonio Spurs	Reserves	Ja'Kobi Gillespie	Did Not Dress
+San Antonio Spurs	Reserves	Maliq Brown	Did Not Dress
+San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
+San Antonio Spurs	Reserves	David Jones Garcia	Did Not Dress
+San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
+San Antonio Spurs	Totals	Team Totals	240	37	95	5	36	33	39	22	39	61	20	6	10	10	20	112
+```

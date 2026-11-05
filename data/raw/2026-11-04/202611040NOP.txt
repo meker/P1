@@ -1,0 +1,43 @@
+Final: Utah Jazz 113, New Orleans Pelicans 120
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Utah Jazz	Starters	Keyonte George	43:35	14	26	2	9	9	13	0	2	2	9	4	1	3	3	39
+Utah Jazz	Starters	Lauri Markkanen	38:38	6	15	5	12	4	6	2	8	10	4	1	2	3	4	21
+Utah Jazz	Starters	Ace Bailey	35:24	6	14	1	9	2	3	1	4	5	1	0	1	3	6	15
+Utah Jazz	Starters	Darryn Peterson	30:02	2	8	0	5	3	4	1	1	2	7	0	0	2	1	7
+Utah Jazz	Starters	Jaxson Hayes	21:16	1	2	0	0	0	0	2	5	7	1	0	1	4	6	2
+Utah Jazz	Reserves	Josh Okogie	25:55	1	4	1	2	0	0	1	5	6	1	0	1	2	5	3
+Utah Jazz	Reserves	Josh Green	23:16	3	7	1	5	0	0	1	0	1	0	0	0	0	2	7
+Utah Jazz	Reserves	Svi Mykhailiuk	17:03	3	8	0	3	0	0	2	1	3	0	1	0	1	2	6
+Utah Jazz	Reserves	Mo Bamba	14:45	3	5	0	0	1	2	5	5	10	1	0	1	0	3	7
+Utah Jazz	Reserves	Brice Sensabaugh	11:57	2	4	1	2	1	2	0	2	2	0	2	0	2	0	6
+Utah Jazz	Reserves	Isaiah Collier	3:10	0	1	0	0	0	0	0	1	1	0	0	0	0	1	0
+Utah Jazz	Reserves	Tony Bradley	Did Not Play
+Utah Jazz	Reserves	Kobe Bufkin	Did Not Play
+Utah Jazz	Reserves	Kyle Filipowski	Did Not Play
+Utah Jazz	Reserves	Harrison Ingram	Did Not Dress
+Utah Jazz	Reserves	Trey Alexander	Did Not Dress
+Utah Jazz	Reserves	Jusuf Nurkić	Did Not Dress
+Utah Jazz	Reserves	Jaren Jackson Jr.	Did Not Dress
+Utah Jazz	Totals	Team Totals	265	41	94	11	47	20	30	15	34	49	24	8	7	20	33	113
+New Orleans Pelicans	Starters	Dejounte Murray	44:30	4	7	1	3	11	11	0	8	8	4	4	0	4	2	20
+New Orleans Pelicans	Starters	Zion Williamson	37:35	6	14	0	0	11	13	2	2	4	2	1	2	2	4	23
+New Orleans Pelicans	Starters	Herbert Jones	36:57	1	7	0	3	0	0	1	4	5	1	0	1	1	4	2
+New Orleans Pelicans	Starters	Jeremiah Fears	34:01	6	16	1	4	6	6	2	4	6	2	2	0	2	4	19
+New Orleans Pelicans	Starters	Karlo Matković	20:37	2	3	1	1	0	0	1	3	4	2	0	1	1	3	5
+New Orleans Pelicans	Reserves	Saddiq Bey	29:19	9	14	2	4	2	3	1	3	4	3	1	0	1	1	22
+New Orleans Pelicans	Reserves	Derik Queen	27:15	8	21	0	2	4	4	3	6	9	6	0	1	2	2	20
+New Orleans Pelicans	Reserves	Trendon Watford	19:35	1	1	0	0	5	6	0	3	3	2	1	1	3	4	7
+New Orleans Pelicans	Reserves	Bennedict Mathurin	15:11	1	6	0	3	0	0	3	2	5	1	0	0	1	2	2
+New Orleans Pelicans	Reserves	AJ Johnson	Did Not Play
+New Orleans Pelicans	Reserves	DeAndre Jordan	Did Not Play
+New Orleans Pelicans	Reserves	Bryce McGowens	Did Not Play
+New Orleans Pelicans	Reserves	Jordan Poole	Did Not Play
+New Orleans Pelicans	Reserves	Julian Reese	Did Not Play
+New Orleans Pelicans	Reserves	Trey Murphy III	Did Not Dress
+New Orleans Pelicans	Reserves	Yves Missi	Did Not Dress
+New Orleans Pelicans	Reserves	Jaron Pierre Jr.	Did Not Dress
+New Orleans Pelicans	Reserves	Malik Dia	Did Not Dress
+New Orleans Pelicans	Totals	Team Totals	265	38	89	5	20	39	43	13	35	48	23	9	6	17	26	120
+```

@@ -1,0 +1,42 @@
+Final: Cleveland Cavaliers 116, Oklahoma City Thunder 124
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Cleveland Cavaliers	Starters	James Harden	35:16	5	16	3	8	6	6	1	8	9	6	1	2	3	1	19
+Cleveland Cavaliers	Starters	Donovan Mitchell	33:07	10	17	5	10	2	2	0	3	3	6	1	0	2	5	27
+Cleveland Cavaliers	Starters	Evan Mobley	32:45	7	15	1	5	1	2	3	7	10	3	0	2	2	3	16
+Cleveland Cavaliers	Starters	Tyrese Proctor	21:46	4	7	2	3	1	1	0	1	1	0	0	0	0	3	11
+Cleveland Cavaliers	Starters	Jarrett Allen	7:08	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0
+Cleveland Cavaliers	Reserves	Sam Merrill	26:33	3	7	2	4	2	2	2	5	7	1	1	1	0	5	10
+Cleveland Cavaliers	Reserves	Mario Hezonja	22:51	5	10	2	6	0	0	2	6	8	1	0	0	2	2	12
+Cleveland Cavaliers	Reserves	Meleek Thomas	18:09	3	9	3	7	0	0	0	1	1	0	1	0	2	6	9
+Cleveland Cavaliers	Reserves	Tristan Enaruna	15:59	2	7	0	3	0	0	1	3	4	1	1	0	0	1	4
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	13:38	0	0	0	0	0	0	1	0	1	1	0	1	1	1	0
+Cleveland Cavaliers	Reserves	Thomas Bryant	12:49	1	4	1	3	5	6	0	0	0	0	0	0	0	2	8
+Cleveland Cavaliers	Reserves	Riley Minix	Did Not Play
+Cleveland Cavaliers	Reserves	Peyton Watson	Did Not Dress
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Dress
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Jaylon Tyson	Did Not Dress
+Cleveland Cavaliers	Reserves	Ernest Udeh, Jr.	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	240	40	93	19	49	17	19	10	35	45	19	5	6	12	29	116
+Oklahoma City Thunder	Starters	Shai Gilgeous-Alexander	35:04	11	26	5	11	15	19	1	3	4	8	0	1	4	2	42
+Oklahoma City Thunder	Starters	Ajay Mitchell	32:05	9	17	1	3	4	6	0	7	7	4	1	0	1	1	23
+Oklahoma City Thunder	Starters	Kenrich Williams	28:46	5	9	3	5	0	0	0	4	4	2	0	0	1	2	13
+Oklahoma City Thunder	Starters	Isaiah Hartenstein	25:34	1	2	0	0	1	2	1	11	12	4	2	0	0	2	3
+Oklahoma City Thunder	Starters	Aday Mara	24:58	4	6	0	0	1	2	1	4	5	2	0	3	0	2	9
+Oklahoma City Thunder	Reserves	Micah Peavy	26:29	1	6	0	2	0	0	4	5	9	1	1	0	0	5	2
+Oklahoma City Thunder	Reserves	Jared McCain	24:47	3	11	1	6	2	2	0	1	1	0	1	0	2	2	9
+Oklahoma City Thunder	Reserves	Bennett Stirtz	21:56	6	9	4	7	0	0	0	1	1	1	2	0	0	1	16
+Oklahoma City Thunder	Reserves	Alex Caruso	20:02	1	3	1	2	4	4	1	3	4	3	0	0	1	1	7
+Oklahoma City Thunder	Reserves	Josh Dix	0:19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Oklahoma City Thunder	Reserves	Brooks Barnhizer	Did Not Play
+Oklahoma City Thunder	Reserves	Dalen Terry	Did Not Play
+Oklahoma City Thunder	Reserves	Thomas Sorber	Did Not Dress
+Oklahoma City Thunder	Reserves	Nikola Topić	Did Not Dress
+Oklahoma City Thunder	Reserves	Cason Wallace	Did Not Dress
+Oklahoma City Thunder	Reserves	Chet Holmgren	Did Not Dress
+Oklahoma City Thunder	Reserves	Jalen Williams	Did Not Dress
+Oklahoma City Thunder	Reserves	Jaylin Williams	Did Not Dress
+Oklahoma City Thunder	Totals	Team Totals	240	41	89	15	36	27	35	8	39	47	25	7	4	9	18	124
+```

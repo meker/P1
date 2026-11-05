@@ -1,14 +1,14 @@
-Atlanta Hawks||Washington Wizards|||not final
-Philadelphia 76ers||Detroit Pistons|||not final
-Milwaukee Bucks||Boston Celtics|||not final
-Charlotte Hornets||Brooklyn Nets|||not final
-Chicago Bulls||New York Knicks|||not final
-Cleveland Cavaliers||Oklahoma City Thunder|||not final
-Utah Jazz||New Orleans Pelicans|||not final
-Indiana Pacers||Memphis Grizzlies|||not final
-Minnesota Timberwolves||Houston Rockets|||not final
-Toronto Raptors||Denver Nuggets|||not final
-Portland Trail Blazers||Phoenix Suns|||not final
-Dallas Mavericks||San Antonio Spurs|||not final
-Los Angeles Lakers||Sacramento Kings|||not final
 Miami Heat||Los Angeles Clippers|||not final
+Atlanta Hawks|120|Washington Wizards|105|https://www.basketball-reference.com/boxscores/202611040WAS.html|final
+Philadelphia 76ers|112|Detroit Pistons|106|https://www.basketball-reference.com/boxscores/202611040DET.html|final
+Milwaukee Bucks|102|Boston Celtics|109|https://www.basketball-reference.com/boxscores/202611040BOS.html|final
+Charlotte Hornets|104|Brooklyn Nets|114|https://www.basketball-reference.com/boxscores/202611040BRK.html|final
+Chicago Bulls|105|New York Knicks|135|https://www.basketball-reference.com/boxscores/202611040NYK.html|final
+Cleveland Cavaliers|116|Oklahoma City Thunder|124|https://www.basketball-reference.com/boxscores/202611040OKC.html|final
+Utah Jazz|113|New Orleans Pelicans|120|https://www.basketball-reference.com/boxscores/202611040NOP.html|final
+Indiana Pacers|107|Memphis Grizzlies|103|https://www.basketball-reference.com/boxscores/202611040MEM.html|final
+Minnesota Timberwolves|117|Houston Rockets|107|https://www.basketball-reference.com/boxscores/202611040HOU.html|final
+Toronto Raptors|109|Denver Nuggets|128|https://www.basketball-reference.com/boxscores/202611040DEN.html|final
+Portland Trail Blazers|132|Phoenix Suns|119|https://www.basketball-reference.com/boxscores/202611040PHO.html|final
+Dallas Mavericks|111|San Antonio Spurs|112|https://www.basketball-reference.com/boxscores/202611040SAS.html|final
+Los Angeles Lakers|116|Sacramento Kings|103|https://www.basketball-reference.com/boxscores/202611040SAC.html|final
