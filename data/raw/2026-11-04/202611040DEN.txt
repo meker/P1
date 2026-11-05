@@ -4,9 +4,9 @@ Final: Toronto Raptors 109, Denver Nuggets 128
 team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
 Toronto Raptors	Starters	RJ Barrett	33:21	7	17	3	7	5	8	2	3	5	3	0	0	0	4	22
 Toronto Raptors	Starters	Immanuel Quickley	32:13	5	12	2	8	1	1	0	1	1	7	2	0	1	2	13
-Toronto Raptors	Starters	Scottie Barnes	31:48	7	15	1	2	2	4	1	5	6	6	3	0	5	1	17
+Toronto Raptors	Starters	Scottie Barnes	31:48	7	15	1	2	2	4	1	5	6	6	3	0	6	1	17
 Toronto Raptors	Starters	Ja'Kobe Walter	27:25	3	8	1	6	1	2	1	0	1	2	0	0	2	1	8
-Toronto Raptors	Starters	Collin Murray-Boyles	22:44	6	10	1	2	0	0	2	1	3	2	0	0	2	3	13
+Toronto Raptors	Starters	Collin Murray-Boyles	22:44	6	10	1	2	0	0	2	1	3	2	0	0	1	3	13
 Toronto Raptors	Reserves	Jamal Shead	20:07	1	3	1	2	0	0	1	2	3	6	1	0	3	2	3
 Toronto Raptors	Reserves	Jamison Battle	19:25	3	5	2	4	1	1	0	1	1	0	0	0	0	2	9
 Toronto Raptors	Reserves	Jakob Poeltl	18:46	4	5	0	0	0	0	1	4	5	1	0	0	0	4	8

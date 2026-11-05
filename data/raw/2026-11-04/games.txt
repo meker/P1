@@ -1,4 +1,3 @@
-Miami Heat||Los Angeles Clippers|||not final
 Atlanta Hawks|120|Washington Wizards|105|https://www.basketball-reference.com/boxscores/202611040WAS.html|final
 Philadelphia 76ers|112|Detroit Pistons|106|https://www.basketball-reference.com/boxscores/202611040DET.html|final
 Milwaukee Bucks|102|Boston Celtics|109|https://www.basketball-reference.com/boxscores/202611040BOS.html|final
@@ -12,3 +11,4 @@ Toronto Raptors|109|Denver Nuggets|128|https://www.basketball-reference.com/boxs
 Portland Trail Blazers|132|Phoenix Suns|119|https://www.basketball-reference.com/boxscores/202611040PHO.html|final
 Dallas Mavericks|111|San Antonio Spurs|112|https://www.basketball-reference.com/boxscores/202611040SAS.html|final
 Los Angeles Lakers|116|Sacramento Kings|103|https://www.basketball-reference.com/boxscores/202611040SAC.html|final
+Miami Heat|117|Los Angeles Clippers|116|https://www.basketball-reference.com/boxscores/202611040LAC.html|final
