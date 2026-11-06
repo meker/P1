@@ -1,2 +1,2 @@
-Orlando Magic||Phoenix Suns|||not final
-Miami Heat||Golden State Warriors|||not final
+Orlando Magic|104|Phoenix Suns|117|https://www.basketball-reference.com/boxscores/202611050PHO.html|final
+Miami Heat|100|Golden State Warriors|120|https://www.basketball-reference.com/boxscores/202611050GSW.html|final
