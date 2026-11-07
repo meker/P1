@@ -1,0 +1,42 @@
+Final: Toronto Raptors 121, Milwaukee Bucks 107
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Toronto Raptors	Starters	RJ Barrett	36:50	9	21	0	4	9	11	2	5	7	4	0	0	4	2	27
+Toronto Raptors	Starters	Jamal Shead	34:07	4	10	1	5	1	2	0	3	3	16	2	0	1	4	10
+Toronto Raptors	Starters	Collin Murray-Boyles	33:53	7	12	0	2	5	5	3	4	7	2	4	1	3	4	19
+Toronto Raptors	Starters	Jakob Poeltl	30:40	9	14	0	0	1	1	6	5	11	2	3	1	2	3	19
+Toronto Raptors	Starters	Ja'Kobe Walter	28:32	2	12	1	7	2	3	1	5	6	2	1	1	1	3	7
+Toronto Raptors	Reserves	Alijah Martin	30:57	9	11	6	7	3	4	2	2	4	1	2	1	4	4	27
+Toronto Raptors	Reserves	Jamison Battle	20:57	2	6	1	4	1	2	0	2	2	0	0	0	0	1	6
+Toronto Raptors	Reserves	Allen Graves	15:41	1	5	0	3	1	1	1	1	2	0	0	0	0	1	3
+Toronto Raptors	Reserves	Jaden Bradley	8:23	1	2	0	0	1	2	0	0	0	1	0	0	1	1	3
+Toronto Raptors	Reserves	Kyle Anderson	Did Not Play
+Toronto Raptors	Reserves	Trayce Jackson-Davis	Did Not Play
+Toronto Raptors	Reserves	Immanuel Quickley	Did Not Dress
+Toronto Raptors	Reserves	Nate Bittle	Did Not Dress
+Toronto Raptors	Reserves	Kevin McCullar Jr.	Did Not Dress
+Toronto Raptors	Reserves	Malachi Smith	Did Not Dress
+Toronto Raptors	Reserves	Kawhi Leonard	Did Not Dress
+Toronto Raptors	Reserves	Scottie Barnes	Did Not Dress
+Toronto Raptors	Totals	Team Totals	240	44	93	9	32	24	31	15	27	42	28	12	4	16	23	121
+Milwaukee Bucks	Starters	Brayden Burries	38:03	8	14	1	5	4	6	5	6	11	6	0	1	1	4	21
+Milwaukee Bucks	Starters	Tyler Herro	35:19	7	16	1	5	8	10	0	5	5	10	1	0	3	3	23
+Milwaukee Bucks	Starters	Kyle Kuzma	31:54	6	9	1	4	0	0	2	2	4	3	2	0	3	4	13
+Milwaukee Bucks	Starters	Jaime Jaquez Jr.	27:47	4	10	2	7	4	4	2	1	3	3	0	1	1	1	14
+Milwaukee Bucks	Starters	Myles Turner	23:33	0	7	0	4	0	0	2	5	7	0	1	2	2	5	0
+Milwaukee Bucks	Reserves	AJ Green	23:50	4	9	4	8	0	0	0	1	1	0	0	1	2	4	12
+Milwaukee Bucks	Reserves	Nate Ament	15:01	3	5	0	1	1	1	0	1	1	0	0	1	1	1	7
+Milwaukee Bucks	Reserves	Ryan Rollins	14:23	3	3	1	1	3	3	0	1	1	1	2	0	5	1	10
+Milwaukee Bucks	Reserves	Kel'el Ware	12:53	2	7	0	4	0	0	2	1	3	0	0	1	1	2	4
+Milwaukee Bucks	Reserves	Kasparas Jakučionis	9:57	1	2	0	1	1	1	0	0	0	2	1	0	1	1	3
+Milwaukee Bucks	Reserves	Jericho Sims	7:20	0	0	0	0	0	0	1	0	1	0	0	0	0	2	0
+Milwaukee Bucks	Reserves	Ousmane Dieng	Did Not Play
+Milwaukee Bucks	Reserves	Caris LeVert	Did Not Play
+Milwaukee Bucks	Reserves	Gary Trent Jr.	Did Not Play
+Milwaukee Bucks	Reserves	Pete Nance	Did Not Dress
+Milwaukee Bucks	Reserves	Cormac Ryan	Did Not Dress
+Milwaukee Bucks	Reserves	Kam Jones	Did Not Dress
+Milwaukee Bucks	Reserves	Bogoljub Markovic	Did Not Dress
+Milwaukee Bucks	Totals	Team Totals	240	38	82	10	40	21	25	14	23	37	25	7	7	20	28	107
+```

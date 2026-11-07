@@ -1,0 +1,41 @@
+Final: Philadelphia 76ers 95, Cleveland Cavaliers 119
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Philadelphia 76ers	Starters	Jaylen Brown	34:00	9	19	2	9	0	0	1	4	5	5	1	0	2	2	20
+Philadelphia 76ers	Starters	VJ Edgecombe	32:14	8	13	3	5	0	0	1	2	3	2	4	0	0	3	19
+Philadelphia 76ers	Starters	Tyrese Maxey	32:04	5	15	2	9	5	6	0	3	3	4	1	0	0	1	17
+Philadelphia 76ers	Starters	LeBron James	31:43	3	12	0	4	2	2	1	6	7	3	2	1	6	2	8
+Philadelphia 76ers	Starters	Joel Embiid	25:04	0	9	0	2	6	6	0	7	7	1	0	2	2	2	6
+Philadelphia 76ers	Reserves	Dean Wade	20:36	0	4	0	3	0	0	2	3	5	1	0	0	1	4	0
+Philadelphia 76ers	Reserves	Anfernee Simons	19:29	1	3	1	3	3	3	0	2	2	2	0	0	1	3	6
+Philadelphia 76ers	Reserves	Kentavious Caldwell-Pope	16:45	1	1	1	1	2	2	1	1	2	0	0	1	0	3	5
+Philadelphia 76ers	Reserves	Jabari Walker	16:42	2	4	0	1	4	8	2	3	5	1	0	0	0	2	8
+Philadelphia 76ers	Reserves	Labaron Philon Jr.	4:08	1	3	0	1	1	2	1	0	1	1	0	0	2	0	3
+Philadelphia 76ers	Reserves	Justin Edwards	3:54	1	2	1	2	0	0	1	0	1	0	0	0	1	0	3
+Philadelphia 76ers	Reserves	Tacko Fall	3:21	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0
+Philadelphia 76ers	Reserves	Dominick Barlow	Did Not Dress
+Philadelphia 76ers	Reserves	Rayan Rupert	Did Not Dress
+Philadelphia 76ers	Reserves	Adem Bona	Did Not Dress
+Philadelphia 76ers	Reserves	Ariel Hukporti	Did Not Dress
+Philadelphia 76ers	Reserves	Caleb Love	Did Not Dress
+Philadelphia 76ers	Totals	Team Totals	240	31	85	10	40	23	29	10	32	42	20	8	4	15	23	95
+Cleveland Cavaliers	Starters	Donovan Mitchell	33:21	7	18	1	6	8	10	1	6	7	8	2	1	4	1	23
+Cleveland Cavaliers	Starters	Evan Mobley	32:01	8	13	3	4	3	4	2	4	6	4	1	1	0	1	22
+Cleveland Cavaliers	Starters	James Harden	29:42	4	11	3	7	6	7	0	6	6	3	0	0	3	1	17
+Cleveland Cavaliers	Starters	Peyton Watson	28:11	6	14	1	4	0	1	3	6	9	2	0	0	0	4	13
+Cleveland Cavaliers	Starters	Sam Merrill	13:08	0	3	0	2	0	0	0	3	3	0	2	0	1	1	0
+Cleveland Cavaliers	Reserves	Meleek Thomas	26:58	4	7	2	4	2	2	0	1	1	3	2	0	2	5	12
+Cleveland Cavaliers	Reserves	Mario Hezonja	26:30	6	13	2	8	1	2	1	9	10	1	1	0	3	5	15
+Cleveland Cavaliers	Reserves	Tyrese Proctor	19:28	1	4	0	1	1	1	4	2	6	3	2	0	1	2	3
+Cleveland Cavaliers	Reserves	Thomas Bryant	15:59	4	5	1	1	4	5	3	3	6	0	0	0	1	2	13
+Cleveland Cavaliers	Reserves	Tristan Enaruna	8:05	0	0	0	0	1	2	0	0	0	0	0	0	0	0	1
+Cleveland Cavaliers	Reserves	Norchad Omier	3:21	0	0	0	0	0	0	0	2	2	1	0	0	0	0	0
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	3:16	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Dress
+Cleveland Cavaliers	Reserves	Jarrett Allen	Did Not Dress
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Jaylon Tyson	Did Not Dress
+Cleveland Cavaliers	Reserves	Ernest Udeh, Jr.	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	240	40	88	13	37	26	34	14	42	56	25	11	2	15	22	119
+```

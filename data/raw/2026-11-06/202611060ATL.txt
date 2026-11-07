@@ -1,0 +1,43 @@
+Final: Washington Wizards 132, Atlanta Hawks 139
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Washington Wizards	Starters	Kyshawn George	39:15	10	19	5	7	8	10	1	3	4	8	1	2	2	3	33
+Washington Wizards	Starters	Trae Young	36:59	7	16	3	8	6	6	0	2	2	10	1	0	9	1	23
+Washington Wizards	Starters	AJ Dybantsa	35:59	3	13	1	1	4	4	2	7	9	3	4	0	2	0	11
+Washington Wizards	Starters	Alex Sarr	30:06	5	10	1	2	2	2	1	7	8	3	2	2	2	5	13
+Washington Wizards	Starters	Deandre Ayton	23:02	4	5	0	0	0	0	7	4	11	3	1	0	0	1	8
+Washington Wizards	Reserves	Tre Johnson	27:14	9	16	5	10	0	0	1	0	1	1	0	0	0	2	23
+Washington Wizards	Reserves	Bilal Coulibaly	23:40	3	5	1	3	2	2	2	3	5	0	0	0	1	2	9
+Washington Wizards	Reserves	Bub Carrington	14:50	2	3	1	2	0	0	0	1	1	0	1	0	0	2	5
+Washington Wizards	Reserves	Will Riley	8:55	3	4	1	1	0	0	0	0	0	0	0	0	0	0	7
+Washington Wizards	Reserves	Anthony Gill	Did Not Play
+Washington Wizards	Reserves	Tre Mann	Did Not Play
+Washington Wizards	Reserves	Khris Middleton	Did Not Play
+Washington Wizards	Reserves	Justin Champagnie	Did Not Dress
+Washington Wizards	Reserves	Anthony Davis	Did Not Dress
+Washington Wizards	Reserves	Felix Okpara	Did Not Dress
+Washington Wizards	Reserves	Reece Beekman	Did Not Dress
+Washington Wizards	Reserves	Tristan Vukčević	Did Not Dress
+Washington Wizards	Reserves	Jamir Watkins	Did Not Dress
+Washington Wizards	Totals	Team Totals	240	46	91	18	34	22	24	14	27	41	28	10	4	16	16	132
+Atlanta Hawks	Starters	Dyson Daniels	34:30	6	9	0	1	1	1	5	4	9	12	2	0	2	2	13
+Atlanta Hawks	Starters	Nickeil Alexander-Walker	33:28	7	20	4	12	10	10	1	1	2	2	2	0	3	0	28
+Atlanta Hawks	Starters	Onyeka Okongwu	33:22	8	12	2	3	4	4	1	9	10	1	4	0	1	2	22
+Atlanta Hawks	Starters	Luguentz Dort	32:22	9	15	5	7	2	3	4	3	7	4	2	0	1	5	25
+Atlanta Hawks	Starters	Kingston Flemings	24:35	5	9	1	2	0	0	1	0	1	6	0	0	2	3	11
+Atlanta Hawks	Reserves	Aaron Wiggins	28:31	8	12	3	7	0	0	1	3	4	3	0	0	2	1	19
+Atlanta Hawks	Reserves	CJ McCollum	22:56	1	10	0	1	2	2	0	3	3	4	0	1	3	3	4
+Atlanta Hawks	Reserves	Corey Kispert	15:38	3	5	1	3	0	0	0	2	2	1	0	0	1	0	7
+Atlanta Hawks	Reserves	Zuby Ejiofor	14:38	5	6	0	1	0	0	1	4	5	5	1	0	1	2	10
+Atlanta Hawks	Reserves	Dorian Finney-Smith	Did Not Play
+Atlanta Hawks	Reserves	Asa Newell	Did Not Dress
+Atlanta Hawks	Reserves	Jalen Wilson	Did Not Play
+Atlanta Hawks	Reserves	Jalen Johnson	Did Not Dress
+Atlanta Hawks	Reserves	Mouhamed Gueye	Did Not Dress
+Atlanta Hawks	Reserves	RayJ Dennis	Did Not Dress
+Atlanta Hawks	Reserves	Keshon Gilbert	Did Not Dress
+Atlanta Hawks	Reserves	Henri Veesaar	Did Not Dress
+Atlanta Hawks	Reserves	Jock Landale	Did Not Dress
+Atlanta Hawks	Totals	Team Totals	240	52	98	16	37	19	20	14	29	43	38	11	1	16	18	139
+```
