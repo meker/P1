@@ -1,5 +1,4 @@
 Portland Trail Blazers||Los Angeles Lakers|||not final
-San Antonio Spurs||Sacramento Kings|||not final
 Washington Wizards|132|Atlanta Hawks|139|https://www.basketball-reference.com/boxscores/202611060ATL.html|final
 Boston Celtics|119|Charlotte Hornets|80|https://www.basketball-reference.com/boxscores/202611060CHO.html|final
 Philadelphia 76ers|95|Cleveland Cavaliers|119|https://www.basketball-reference.com/boxscores/202611060CLE.html|final
@@ -7,3 +6,4 @@ Utah Jazz|100|Dallas Mavericks|112|https://www.basketball-reference.com/boxscore
 Oklahoma City Thunder|128|Memphis Grizzlies|97|https://www.basketball-reference.com/boxscores/202611060MEM.html|final
 Minnesota Timberwolves|115|New Orleans Pelicans|109|https://www.basketball-reference.com/boxscores/202611060NOP.html|final
 Toronto Raptors|121|Milwaukee Bucks|107|https://www.basketball-reference.com/boxscores/202611060MIL.html|final
+San Antonio Spurs|124|Sacramento Kings|109|https://www.basketball-reference.com/boxscores/202611060SAC.html|final
