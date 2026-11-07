@@ -13,13 +13,13 @@ San Antonio Spurs	Reserves	Harrison Barnes	19:02	4	7	2	5	3	4	1	0	1	0	1	0	0	1	13
 San Antonio Spurs	Reserves	Luke Kornet	18:23	0	2	0	0	2	2	4	2	6	1	0	0	0	2	2
 San Antonio Spurs	Reserves	Jordan McLaughlin	8:14	0	2	0	0	2	2	2	0	2	1	2	0	1	1	2
 San Antonio Spurs	Reserves	Carter Bryant	3:17	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
-San Antonio Spurs	Reserves	David Jones Garcia	3:17	0	2	0	1	0	0	0	0	0	0	0	0	0	1	0
 San Antonio Spurs	Reserves	Tarris Reed Jr.	3:17	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0
+San Antonio Spurs	Reserves	David Jones Garcia	3:17	0	2	0	1	0	0	0	0	0	0	0	0	0	1	0
 San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
 San Antonio Spurs	Reserves	Ja'Kobi Gillespie	Did Not Dress
 San Antonio Spurs	Reserves	Maliq Brown	Did Not Dress
 San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
-San Antonio Spurs	Totals	Team Totals	240	38	79	15	30	33	42	13	33	46	28	5	4	12	15	124
+San Antonio Spurs	Totals	Team Totals	240	38	79	15	30	33	42	13	33	46	28	5	4	11	15	124
 Sacramento Kings	Starters	Leaky Black	39:58	4	7	4	7	0	0	0	3	3	5	2	0	0	5	12
 Sacramento Kings	Starters	Zach LaVine	34:36	4	12	1	6	5	5	0	4	4	3	1	0	0	2	14
 Sacramento Kings	Starters	Darius Acuff Jr.	33:27	9	20	3	9	1	2	1	2	3	8	2	0	2	5	22
@@ -37,5 +37,5 @@ Sacramento Kings	Reserves	De'Andre Hunter	Did Not Dress
 Sacramento Kings	Reserves	Keegan Murray	Did Not Dress
 Sacramento Kings	Reserves	Maxime Raynaud	Did Not Dress
 Sacramento Kings	Reserves	Sean Pedulla	Did Not Dress
-Sacramento Kings	Totals	Team Totals	240	40	82	16	35	13	19	7	29	36	33	6	4	13	26	109
+Sacramento Kings	Totals	Team Totals	240	40	82	16	35	13	19	7	29	36	33	6	4	11	26	109
 ```
