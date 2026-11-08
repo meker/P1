@@ -1,0 +1,41 @@
+Final: Denver Nuggets 114, Indiana Pacers 102
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Denver Nuggets	Starters	Nikola Jokić	36:18	7	20	1	3	4	4	6	7	13	8	1	1	1	1	19
+Denver Nuggets	Starters	Jamal Murray	33:56	6	13	2	6	2	2	0	6	6	8	0	0	1	1	16
+Denver Nuggets	Starters	Cameron Johnson	28:50	8	12	2	5	0	0	0	4	4	1	1	0	1	2	18
+Denver Nuggets	Starters	Christian Braun	28:31	2	8	0	4	2	2	0	4	4	1	1	0	0	4	6
+Denver Nuggets	Starters	Aaron Gordon	27:02	5	13	0	6	2	4	0	5	5	0	0	0	0	1	12
+Denver Nuggets	Reserves	DeMar DeRozan	21:53	5	9	0	2	1	2	0	1	1	5	0	0	0	0	11
+Denver Nuggets	Reserves	Spencer Jones	21:10	5	6	3	3	0	0	0	6	6	0	0	1	0	1	13
+Denver Nuggets	Reserves	Trevon Brazile	14:26	1	3	1	2	0	0	1	3	4	2	0	0	0	2	3
+Denver Nuggets	Reserves	Tyus Jones	13:18	1	4	1	3	0	0	1	3	4	4	1	0	0	0	3
+Denver Nuggets	Reserves	Marvin Bagley III	11:42	3	6	0	1	4	4	1	2	3	0	0	0	0	0	10
+Denver Nuggets	Reserves	Bryce Hopkins	2:54	1	2	0	0	1	1	0	1	1	0	0	0	0	1	3
+Denver Nuggets	Reserves	Alpha Diallo	Did Not Play
+Denver Nuggets	Reserves	DaRon Holmes	Did Not Play
+Denver Nuggets	Reserves	Zeke Nnaji	Did Not Play
+Denver Nuggets	Reserves	Julian Strawther	Did Not Play
+Denver Nuggets	Reserves	Cam Whitmore	Did Not Dress
+Denver Nuggets	Reserves	Ryan Nembhard	Did Not Dress
+Denver Nuggets	Totals	Team Totals	240	44	96	10	35	16	19	9	42	51	29	4	2	3	13	114
+Indiana Pacers	Starters	Pascal Siakam	31:37	10	18	2	7	1	2	0	2	2	5	0	0	0	3	23
+Indiana Pacers	Starters	Andrew Nembhard	31:15	3	9	3	6	0	1	0	1	1	8	0	0	1	2	9
+Indiana Pacers	Starters	Aaron Nesmith	27:10	3	11	2	7	0	0	0	5	5	1	0	0	2	5	8
+Indiana Pacers	Starters	Ivica Zubac	19:00	4	5	0	0	2	2	4	8	12	5	0	0	2	4	10
+Indiana Pacers	Starters	Braden Smith	11:38	0	4	0	1	0	0	0	0	0	2	1	0	0	0	0
+Indiana Pacers	Reserves	Obi Toppin	22:14	4	11	2	8	0	0	1	6	7	2	0	0	1	1	10
+Indiana Pacers	Reserves	Jarace Walker	20:04	3	7	1	5	2	2	0	5	5	2	0	2	0	0	9
+Indiana Pacers	Reserves	Quenton Jackson	16:40	3	4	0	1	0	0	1	3	4	1	0	0	2	2	6
+Indiana Pacers	Reserves	Kelly Oubre Jr.	15:36	1	5	0	3	0	0	0	1	1	0	0	2	0	1	2
+Indiana Pacers	Reserves	Larry Nance Jr.	13:15	5	7	5	7	0	0	0	2	2	1	0	0	1	0	15
+Indiana Pacers	Reserves	Jalen Slawson	12:12	2	3	0	1	0	0	0	1	1	2	1	0	0	1	4
+Indiana Pacers	Reserves	Jay Huff	10:18	0	3	0	2	0	0	0	3	3	0	0	0	0	1	0
+Indiana Pacers	Reserves	T.J. McConnell	9:01	3	5	0	0	0	0	0	2	2	1	0	1	1	1	6
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Reserves	Kobe Brown	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	41	92	15	48	5	7	6	39	45	30	2	5	10	21	102
+```

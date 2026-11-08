@@ -1,0 +1,43 @@
+Final: Washington Wizards 75, Oklahoma City Thunder 114
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Washington Wizards	Starters	AJ Dybantsa	30:54	7	15	1	5	4	6	2	4	6	3	0	0	3	2	19
+Washington Wizards	Starters	Kyshawn George	29:42	5	16	2	8	2	2	2	5	7	6	0	3	1	4	14
+Washington Wizards	Starters	Trae Young	28:17	1	6	0	1	2	3	1	4	5	3	1	0	1	2	4
+Washington Wizards	Starters	Alex Sarr	27:30	7	17	1	9	0	0	5	9	14	1	0	0	0	1	15
+Washington Wizards	Starters	Bilal Coulibaly	19:44	0	8	0	4	0	0	1	4	5	0	0	0	2	1	0
+Washington Wizards	Reserves	Tre Johnson	28:04	2	15	0	7	0	0	0	0	0	3	1	0	1	2	4
+Washington Wizards	Reserves	Bub Carrington	21:15	3	5	3	3	0	0	2	4	6	1	2	1	1	0	9
+Washington Wizards	Reserves	Will Riley	20:27	2	5	0	3	1	2	1	1	2	1	0	0	0	2	5
+Washington Wizards	Reserves	Tre Mann	17:41	1	5	0	2	0	0	0	0	0	2	2	2	1	0	2
+Washington Wizards	Reserves	Anthony Gill	9:07	0	4	0	1	1	2	1	0	1	0	0	0	0	0	1
+Washington Wizards	Reserves	Deandre Ayton	7:19	1	2	0	0	0	0	0	1	1	0	0	0	1	2	2
+Washington Wizards	Reserves	Khris Middleton	Did Not Play
+Washington Wizards	Reserves	Felix Okpara	Did Not Dress
+Washington Wizards	Reserves	Jamir Watkins	Did Not Dress
+Washington Wizards	Reserves	Anthony Davis	Did Not Dress
+Washington Wizards	Reserves	Justin Champagnie	Did Not Dress
+Washington Wizards	Reserves	Reece Beekman	Did Not Dress
+Washington Wizards	Reserves	Tristan Vukčević	Did Not Dress
+Washington Wizards	Totals	Team Totals	240	29	98	7	43	10	15	15	32	47	20	6	6	11	16	75
+Oklahoma City Thunder	Starters	Shai Gilgeous-Alexander	28:45	11	20	3	5	5	6	0	2	2	9	0	1	2	1	30
+Oklahoma City Thunder	Starters	Aday Mara	27:00	8	10	1	1	1	2	2	6	8	3	0	3	1	2	18
+Oklahoma City Thunder	Starters	Kenrich Williams	22:30	3	7	1	2	2	3	1	3	4	2	0	0	0	0	9
+Oklahoma City Thunder	Starters	Ajay Mitchell	21:51	5	14	0	2	2	3	1	3	4	0	1	0	1	2	12
+Oklahoma City Thunder	Starters	Isaiah Hartenstein	18:21	1	5	0	0	0	0	3	11	14	6	2	0	0	1	2
+Oklahoma City Thunder	Reserves	Bennett Stirtz	28:44	3	12	2	8	3	3	1	4	5	2	0	1	0	1	11
+Oklahoma City Thunder	Reserves	Jared McCain	23:09	8	10	2	4	1	1	1	4	5	2	1	1	2	0	19
+Oklahoma City Thunder	Reserves	Micah Peavy	22:30	3	6	1	3	0	0	0	3	3	0	3	0	0	1	7
+Oklahoma City Thunder	Reserves	Josh Dix	20:43	1	3	0	1	0	0	0	1	1	1	0	0	0	1	2
+Oklahoma City Thunder	Reserves	Alex Caruso	13:07	0	2	0	2	0	0	0	3	3	3	1	0	0	1	0
+Oklahoma City Thunder	Reserves	Brooks Barnhizer	7:32	1	2	0	0	0	0	1	3	4	5	0	1	2	1	2
+Oklahoma City Thunder	Reserves	Dalen Terry	5:48	1	1	0	0	0	0	0	2	2	0	1	0	2	0	2
+Oklahoma City Thunder	Reserves	Chet Holmgren	Did Not Dress
+Oklahoma City Thunder	Reserves	Jalen Williams	Did Not Dress
+Oklahoma City Thunder	Reserves	Jaylin Williams	Did Not Dress
+Oklahoma City Thunder	Reserves	Cason Wallace	Did Not Dress
+Oklahoma City Thunder	Reserves	Nikola Topić	Did Not Dress
+Oklahoma City Thunder	Reserves	Thomas Sorber	Did Not Dress
+Oklahoma City Thunder	Totals	Team Totals	240	45	92	10	28	14	18	10	45	55	33	9	7	10	11	114
+```

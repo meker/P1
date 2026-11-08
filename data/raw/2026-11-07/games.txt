@@ -1,7 +1,7 @@
-Denver Nuggets||Indiana Pacers|||not final
-Brooklyn Nets||Atlanta Hawks|||not final
-New York Knicks||Cleveland Cavaliers|||not final
-Washington Wizards||Oklahoma City Thunder|||not final
-Orlando Magic||Golden State Warriors|||not final
-Houston Rockets||Phoenix Suns|||not final
-San Antonio Spurs||Portland Trail Blazers|||not final
+Denver Nuggets|114|Indiana Pacers|102|https://www.basketball-reference.com/boxscores/202611070IND.html|final
+Brooklyn Nets|121|Atlanta Hawks|124|https://www.basketball-reference.com/boxscores/202611070ATL.html|final
+New York Knicks|109|Cleveland Cavaliers|97|https://www.basketball-reference.com/boxscores/202611070CLE.html|final
+Washington Wizards|75|Oklahoma City Thunder|114|https://www.basketball-reference.com/boxscores/202611070OKC.html|final
+Orlando Magic|119|Golden State Warriors|126|https://www.basketball-reference.com/boxscores/202611070GSW.html|final
+Houston Rockets|99|Phoenix Suns|102|https://www.basketball-reference.com/boxscores/202611070PHO.html|final
+San Antonio Spurs|125|Portland Trail Blazers|103|https://www.basketball-reference.com/boxscores/202611070POR.html|final
