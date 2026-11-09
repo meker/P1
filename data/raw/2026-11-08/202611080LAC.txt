@@ -1,0 +1,43 @@
+Final: New Orleans Pelicans 123, Los Angeles Clippers 139
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+New Orleans Pelicans	Starters	Zion Williamson	31:20	9	9	0	0	7	9	1	3	4	2	0	0	2	3	25
+New Orleans Pelicans	Starters	Trey Murphy III	30:23	9	17	4	9	4	4	2	5	7	3	1	0	3	4	26
+New Orleans Pelicans	Starters	Jeremiah Fears	29:04	10	14	3	5	2	4	0	6	6	5	2	0	2	4	25
+New Orleans Pelicans	Starters	Dejounte Murray	28:12	1	6	0	1	4	4	2	1	3	3	0	0	1	3	6
+New Orleans Pelicans	Starters	Karlo Matković	18:55	1	2	1	2	0	0	0	3	3	2	0	1	1	5	3
+New Orleans Pelicans	Reserves	Saddiq Bey	26:04	3	12	1	6	6	6	2	2	4	3	1	0	1	2	13
+New Orleans Pelicans	Reserves	Derik Queen	20:35	1	5	0	0	6	6	2	3	5	3	1	1	4	2	8
+New Orleans Pelicans	Reserves	Herbert Jones	19:50	2	6	0	2	0	0	0	0	0	1	0	0	1	3	4
+New Orleans Pelicans	Reserves	Trendon Watford	16:40	2	4	1	2	0	0	1	2	3	0	0	0	0	1	5
+New Orleans Pelicans	Reserves	Bennedict Mathurin	8:45	2	5	0	2	2	2	0	0	0	1	1	0	0	1	6
+New Orleans Pelicans	Reserves	Julian Reese	3:24	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+New Orleans Pelicans	Reserves	Bryce McGowens	3:24	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+New Orleans Pelicans	Reserves	AJ Johnson	3:24	1	1	0	0	0	0	0	0	0	0	0	0	0	0	2
+New Orleans Pelicans	Reserves	DeAndre Jordan	Did Not Play
+New Orleans Pelicans	Reserves	Jordan Poole	Did Not Play
+New Orleans Pelicans	Reserves	Jaron Pierre Jr.	Did Not Dress
+New Orleans Pelicans	Reserves	Malik Dia	Did Not Dress
+New Orleans Pelicans	Reserves	Yves Missi	Did Not Dress
+New Orleans Pelicans	Totals	Team Totals	240	41	81	10	29	31	35	10	25	35	23	6	2	16	29	123
+Los Angeles Clippers	Starters	Darius Garland	31:39	6	11	3	7	9	12	0	0	0	10	1	0	2	1	24
+Los Angeles Clippers	Starters	Derrick Jones Jr.	28:42	2	5	0	1	4	6	3	1	4	3	0	0	1	1	8
+Los Angeles Clippers	Starters	Brook Lopez	26:25	8	11	1	2	3	4	3	4	7	1	0	0	0	5	20
+Los Angeles Clippers	Starters	Rui Hachimura	26:12	6	13	2	6	0	0	0	3	3	2	1	0	0	2	14
+Los Angeles Clippers	Starters	Kris Dunn	23:49	4	7	2	3	4	4	2	3	5	4	1	0	1	0	14
+Los Angeles Clippers	Reserves	Kobe Sanders	21:44	3	9	2	7	0	0	1	1	2	4	0	0	3	2	8
+Los Angeles Clippers	Reserves	Baba Miller	19:56	3	9	0	2	6	6	2	3	5	4	2	2	1	4	12
+Los Angeles Clippers	Reserves	Max Strus	19:14	3	6	1	4	0	0	1	3	4	2	0	0	0	1	7
+Los Angeles Clippers	Reserves	Keaton Wagler	18:13	4	5	3	4	4	4	0	2	2	4	1	0	2	5	15
+Los Angeles Clippers	Reserves	Gradey Dick	16:39	6	7	2	2	1	2	1	3	4	0	2	0	0	3	15
+Los Angeles Clippers	Reserves	Nick Martinelli	2:29	1	1	0	0	0	0	0	0	0	0	0	0	0	0	2
+Los Angeles Clippers	Reserves	Jalen Pickett	2:29	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Los Angeles Clippers	Reserves	Cam Christie	2:29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Los Angeles Clippers	Reserves	Bradley Beal	Did Not Dress
+Los Angeles Clippers	Reserves	Brandon Ingram	Did Not Dress
+Los Angeles Clippers	Reserves	Isaiah Jackson	Did Not Dress
+Los Angeles Clippers	Reserves	Jordan Miller	Did Not Dress
+Los Angeles Clippers	Reserves	Yanic Konan Niederhauser	Did Not Dress
+Los Angeles Clippers	Totals	Team Totals	240	46	84	16	38	31	38	13	23	36	34	8	2	11	24	139
+```

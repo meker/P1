@@ -1,0 +1,41 @@
+Final: Philadelphia 76ers 127, Chicago Bulls 121
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Philadelphia 76ers	Starters	Tyrese Maxey	35:49	9	16	3	7	6	6	0	4	4	7	0	0	1	3	27
+Philadelphia 76ers	Starters	Jaylen Brown	34:57	11	22	2	6	5	8	2	5	7	4	1	0	1	1	29
+Philadelphia 76ers	Starters	VJ Edgecombe	34:37	4	10	3	6	2	2	2	4	6	3	3	0	0	4	13
+Philadelphia 76ers	Starters	LeBron James	32:52	8	16	2	5	4	5	0	5	5	5	1	0	3	1	22
+Philadelphia 76ers	Starters	Joel Embiid	28:47	7	19	0	2	4	4	8	2	10	5	2	0	2	2	18
+Philadelphia 76ers	Reserves	Kentavious Caldwell-Pope	20:38	2	3	2	3	0	0	1	5	6	3	1	2	1	0	6
+Philadelphia 76ers	Reserves	Jabari Walker	19:13	4	8	1	2	0	0	5	6	11	0	0	0	0	1	9
+Philadelphia 76ers	Reserves	Dean Wade	17:32	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0
+Philadelphia 76ers	Reserves	Anfernee Simons	15:35	1	5	1	3	0	0	1	3	4	2	0	0	1	4	3
+Philadelphia 76ers	Reserves	Justin Edwards	Did Not Play
+Philadelphia 76ers	Reserves	Labaron Philon Jr.	Did Not Play
+Philadelphia 76ers	Reserves	Rayan Rupert	Did Not Play
+Philadelphia 76ers	Reserves	Tacko Fall	Did Not Dress
+Philadelphia 76ers	Reserves	Ariel Hukporti	Did Not Dress
+Philadelphia 76ers	Reserves	Caleb Love	Did Not Dress
+Philadelphia 76ers	Reserves	Dominick Barlow	Did Not Dress
+Philadelphia 76ers	Reserves	Adem Bona	Did Not Dress
+Philadelphia 76ers	Totals	Team Totals	240	46	99	14	34	21	25	20	34	54	30	8	2	9	16	127
+Chicago Bulls	Starters	Josh Giddey	33:32	7	12	1	4	4	5	3	4	7	15	1	0	5	2	19
+Chicago Bulls	Starters	Caleb Wilson	31:34	7	18	2	6	2	2	1	4	5	0	2	0	3	2	18
+Chicago Bulls	Starters	Matas Buzelis	30:56	6	10	3	7	4	4	0	5	5	2	0	1	0	0	19
+Chicago Bulls	Starters	Jalen Smith	30:19	7	11	2	5	1	2	0	8	8	2	0	4	0	4	17
+Chicago Bulls	Starters	Isaac Okoro	25:10	4	5	0	1	4	5	1	1	2	1	1	0	2	5	12
+Chicago Bulls	Reserves	Patrick Williams	24:30	3	7	1	5	0	0	0	3	3	3	1	0	1	1	7
+Chicago Bulls	Reserves	Nic Claxton	17:41	2	3	0	0	0	0	1	3	4	4	0	2	1	1	4
+Chicago Bulls	Reserves	Jordan Hawkins	17:17	4	7	1	4	0	0	0	0	0	1	0	1	0	0	9
+Chicago Bulls	Reserves	Noa Essengue	14:33	3	7	0	3	4	5	3	4	7	1	0	0	0	3	10
+Chicago Bulls	Reserves	Tre Jones	14:28	3	8	0	2	0	0	0	1	1	1	1	0	1	0	6
+Chicago Bulls	Reserves	Tobe Awaka	Did Not Play
+Chicago Bulls	Reserves	Buddy Hield	Did Not Play
+Chicago Bulls	Reserves	Leonard Miller	Did Not Play
+Chicago Bulls	Reserves	Dailyn Swain	Did Not Dress
+Chicago Bulls	Reserves	Jaylin Sellers	Did Not Dress
+Chicago Bulls	Reserves	Norman Powell	Did Not Dress
+Chicago Bulls	Reserves	Zach Collins	Did Not Dress
+Chicago Bulls	Totals	Team Totals	240	46	88	10	37	19	23	9	33	42	30	6	8	13	18	121
+```

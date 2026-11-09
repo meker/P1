@@ -1,0 +1,43 @@
+Final: Brooklyn Nets 93, Dallas Mavericks 130
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Brooklyn Nets	Starters	Danny Wolf	36:06	2	7	1	3	5	6	0	3	3	2	1	0	1	2	10
+Brooklyn Nets	Starters	Julius Randle	30:16	5	10	0	1	3	6	1	3	4	4	0	1	3	2	13
+Brooklyn Nets	Starters	Michael Porter Jr.	28:56	5	15	4	11	5	7	3	6	9	0	1	0	3	2	19
+Brooklyn Nets	Starters	Nolan Traoré	21:26	6	15	2	6	0	0	0	1	1	2	0	0	1	3	14
+Brooklyn Nets	Starters	Day'Ron Sharpe	20:07	2	5	0	1	2	2	3	1	4	6	2	2	1	1	6
+Brooklyn Nets	Reserves	Keon Ellis	22:16	1	4	1	3	0	0	1	0	1	4	1	0	1	1	3
+Brooklyn Nets	Reserves	Terance Mann	21:36	0	2	0	1	0	0	0	1	1	1	1	0	0	4	0
+Brooklyn Nets	Reserves	Moritz Wagner	15:35	4	5	1	1	3	5	1	2	3	1	0	0	1	1	12
+Brooklyn Nets	Reserves	Chaney Johnson	14:31	0	2	0	1	2	2	0	0	0	1	1	0	2	5	2
+Brooklyn Nets	Reserves	Josh Minott	12:00	4	10	2	8	0	0	0	2	2	1	2	1	0	0	10
+Brooklyn Nets	Reserves	Drake Powell	9:25	1	2	0	1	0	0	1	1	2	1	0	0	2	0	2
+Brooklyn Nets	Reserves	Noah Clowney	7:47	1	3	0	2	0	0	0	0	0	0	0	0	1	6	2
+Brooklyn Nets	Reserves	Tyler Bilodeau	Did Not Dress
+Brooklyn Nets	Reserves	Grant Nelson	Did Not Dress
+Brooklyn Nets	Reserves	Egor Dëmin	Did Not Dress
+Brooklyn Nets	Reserves	Ben Saraf	Did Not Dress
+Brooklyn Nets	Reserves	Mikel Brown Jr.	Did Not Dress
+Brooklyn Nets	Reserves	Joshua Jefferson	Did Not Dress
+Brooklyn Nets	Totals	Team Totals	240	31	80	11	39	20	28	10	20	30	23	9	4	16	27	93
+Dallas Mavericks	Starters	Kyrie Irving	28:45	9	15	2	7	1	1	1	2	3	4	1	0	3	1	21
+Dallas Mavericks	Starters	Cooper Flagg	28:25	8	13	3	5	6	6	0	5	5	12	1	0	3	2	25
+Dallas Mavericks	Starters	P.J. Washington	24:46	2	3	2	3	0	0	0	5	5	0	1	1	2	2	6
+Dallas Mavericks	Starters	Caleb Martin	19:13	1	3	0	0	0	0	1	1	2	2	0	0	1	3	2
+Dallas Mavericks	Starters	Daniel Gafford	19:08	7	8	0	0	4	6	3	2	5	2	0	3	1	4	18
+Dallas Mavericks	Reserves	Morez Johnson Jr.	19:09	1	7	0	1	2	2	2	7	9	1	0	0	0	2	4
+Dallas Mavericks	Reserves	Max Christie	16:41	2	6	1	4	0	0	0	2	2	0	0	0	1	0	5
+Dallas Mavericks	Reserves	Zaccharie Risacher	16:29	5	8	1	3	0	0	2	4	6	1	0	0	1	0	11
+Dallas Mavericks	Reserves	Walter Clayton Jr.	16:02	2	3	1	2	0	0	1	3	4	6	2	0	2	3	5
+Dallas Mavericks	Reserves	Naji Marshall	15:11	3	6	1	3	1	1	0	1	1	2	1	0	3	3	8
+Dallas Mavericks	Reserves	Santi Aldama	14:39	5	7	2	4	0	0	1	1	2	0	1	0	3	2	12
+Dallas Mavericks	Reserves	Marcus Sasser	9:25	1	2	0	1	2	2	0	0	0	0	0	0	0	1	4
+Dallas Mavericks	Reserves	Moussa Cissé	5:02	0	0	0	0	2	2	1	0	1	1	0	0	0	1	2
+Dallas Mavericks	Reserves	Tobi Lawal	4:32	1	1	0	0	0	0	0	0	0	0	0	0	0	1	2
+Dallas Mavericks	Reserves	Jett Howard	2:33	1	2	1	2	2	2	0	1	1	0	0	0	0	0	5
+Dallas Mavericks	Reserves	Tarik Biberovic	Did Not Dress
+Dallas Mavericks	Reserves	Dereck Lively II	Did Not Dress
+Dallas Mavericks	Reserves	Sergio de Larrea	Did Not Dress
+Dallas Mavericks	Totals	Team Totals	240	48	84	14	35	20	22	12	34	46	31	7	4	20	25	130
+```

@@ -1,7 +1,7 @@
-Philadelphia 76ers||Chicago Bulls|||not final
-Los Angeles Lakers||Detroit Pistons|||not final
-Utah Jazz||Minnesota Timberwolves|||not final
-Brooklyn Nets||Dallas Mavericks|||not final
-Boston Celtics||Milwaukee Bucks|||not final
-New Orleans Pelicans||Los Angeles Clippers|||not final
-Miami Heat||Sacramento Kings|||not final
+Philadelphia 76ers|127|Chicago Bulls|121|https://www.basketball-reference.com/boxscores/202611080CHI.html|final
+Los Angeles Lakers|121|Detroit Pistons|116|https://www.basketball-reference.com/boxscores/202611080DET.html|final
+Utah Jazz|100|Minnesota Timberwolves|115|https://www.basketball-reference.com/boxscores/202611080MIN.html|final
+Brooklyn Nets|93|Dallas Mavericks|130|https://www.basketball-reference.com/boxscores/202611080DAL.html|final
+Boston Celtics|117|Milwaukee Bucks|97|https://www.basketball-reference.com/boxscores/202611080MIL.html|final
+New Orleans Pelicans|123|Los Angeles Clippers|139|https://www.basketball-reference.com/boxscores/202611080LAC.html|final
+Miami Heat|114|Sacramento Kings|108|https://www.basketball-reference.com/boxscores/202611080SAC.html|final
