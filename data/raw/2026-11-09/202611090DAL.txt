@@ -1,0 +1,42 @@
+Final: Indiana Pacers 122, Dallas Mavericks 125
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Indiana Pacers	Starters	Pascal Siakam	35:00	9	16	5	8	6	8	0	9	9	8	2	0	0	3	29
+Indiana Pacers	Starters	Andrew Nembhard	34:21	5	10	1	2	1	1	0	3	3	12	0	1	3	4	12
+Indiana Pacers	Starters	Aaron Nesmith	34:07	5	14	4	10	4	6	0	2	2	2	1	1	2	4	18
+Indiana Pacers	Starters	Ivica Zubac	27:33	5	7	0	0	6	8	0	3	3	0	0	0	1	1	16
+Indiana Pacers	Starters	Braden Smith	10:24	0	0	0	0	0	0	0	0	0	0	1	0	0	3	0
+Indiana Pacers	Reserves	Quenton Jackson	24:47	4	6	2	3	0	0	1	4	5	4	2	0	1	4	10
+Indiana Pacers	Reserves	Kelly Oubre Jr.	22:37	6	9	1	3	1	1	0	2	2	2	0	0	2	3	14
+Indiana Pacers	Reserves	Obi Toppin	19:17	5	8	0	2	0	0	0	2	2	4	0	0	0	0	10
+Indiana Pacers	Reserves	Larry Nance Jr.	14:14	1	3	0	2	2	2	0	0	0	0	2	0	0	0	4
+Indiana Pacers	Reserves	Jarace Walker	9:35	2	7	2	5	1	2	0	1	1	0	0	0	0	3	7
+Indiana Pacers	Reserves	T.J. McConnell	8:05	1	2	0	0	0	0	0	0	0	3	1	0	4	0	2
+Indiana Pacers	Reserves	Jay Huff	Did Not Play
+Indiana Pacers	Reserves	Jalen Slawson	Did Not Play
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Reserves	Kobe Brown	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	43	82	15	35	21	28	1	26	27	35	9	2	13	25	122
+Dallas Mavericks	Starters	Cooper Flagg	38:52	16	25	3	6	8	8	2	8	10	6	3	1	5	4	43
+Dallas Mavericks	Starters	Kyrie Irving	38:20	11	18	7	10	6	7	0	0	0	4	0	0	2	1	35
+Dallas Mavericks	Starters	P.J. Washington	35:20	4	12	2	8	3	6	2	7	9	1	2	2	2	4	13
+Dallas Mavericks	Starters	Daniel Gafford	19:36	2	3	0	0	4	5	0	2	2	3	1	0	0	4	8
+Dallas Mavericks	Starters	Caleb Martin	18:59	0	2	0	0	0	0	0	3	3	5	1	0	0	1	0
+Dallas Mavericks	Reserves	Naji Marshall	25:03	2	4	0	0	2	5	3	2	5	2	1	0	1	3	6
+Dallas Mavericks	Reserves	Walter Clayton Jr.	24:41	2	6	1	4	1	2	0	6	6	4	1	1	2	1	6
+Dallas Mavericks	Reserves	Santi Aldama	19:07	4	9	1	5	1	1	1	3	4	1	0	0	2	1	10
+Dallas Mavericks	Reserves	Zaccharie Risacher	15:12	2	4	0	1	0	0	2	0	2	0	0	0	1	4	4
+Dallas Mavericks	Reserves	Max Christie	4:50	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0
+Dallas Mavericks	Reserves	Moussa Cissé	Did Not Play
+Dallas Mavericks	Reserves	Jett Howard	Did Not Play
+Dallas Mavericks	Reserves	Tobi Lawal	Did Not Play
+Dallas Mavericks	Reserves	Marcus Sasser	Did Not Play
+Dallas Mavericks	Reserves	Dereck Lively II	Did Not Dress
+Dallas Mavericks	Reserves	Tarik Biberovic	Did Not Dress
+Dallas Mavericks	Reserves	Morez Johnson Jr.	Did Not Dress
+Dallas Mavericks	Reserves	Sergio de Larrea	Did Not Dress
+Dallas Mavericks	Totals	Team Totals	240	43	83	14	34	25	34	10	33	43	26	9	4	15	23	125
+```

@@ -1,0 +1,43 @@
+Final: Washington Wizards 111, Detroit Pistons 122
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Washington Wizards	Starters	Trae Young	38:16	6	17	3	10	5	9	0	1	1	7	2	0	3	3	20
+Washington Wizards	Starters	AJ Dybantsa	37:23	8	17	1	4	4	6	2	6	8	1	0	2	5	1	21
+Washington Wizards	Starters	Kyshawn George	34:49	5	12	2	6	0	0	0	3	3	2	1	1	5	4	12
+Washington Wizards	Starters	Anthony Davis	34:27	16	21	2	4	10	11	5	8	13	1	1	0	3	4	44
+Washington Wizards	Starters	Alex Sarr	25:04	2	5	0	2	0	0	2	6	8	0	1	1	1	2	4
+Washington Wizards	Reserves	Tre Johnson	29:12	1	8	0	6	0	0	0	2	2	0	2	0	0	3	2
+Washington Wizards	Reserves	Bub Carrington	19:13	1	4	1	3	1	2	0	0	0	4	0	0	1	4	4
+Washington Wizards	Reserves	Deandre Ayton	12:50	1	3	0	0	0	0	3	5	8	0	0	0	0	1	2
+Washington Wizards	Reserves	Will Riley	4:04	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Washington Wizards	Reserves	Tre Mann	1:34	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+Washington Wizards	Reserves	Anthony Gill	1:34	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0
+Washington Wizards	Reserves	Felix Okpara	1:34	1	1	0	0	0	0	0	1	1	0	0	0	0	1	2
+Washington Wizards	Reserves	Khris Middleton	Did Not Play
+Washington Wizards	Reserves	Jamir Watkins	Did Not Dress
+Washington Wizards	Reserves	Justin Champagnie	Did Not Dress
+Washington Wizards	Reserves	Bilal Coulibaly	Did Not Dress
+Washington Wizards	Reserves	Reece Beekman	Did Not Dress
+Washington Wizards	Reserves	Tristan Vukčević	Did Not Dress
+Washington Wizards	Totals	Team Totals	240	41	89	9	36	20	28	14	32	46	16	7	4	18	23	111
+Detroit Pistons	Starters	Daniss Jenkins	35:35	7	16	2	6	6	6	1	5	6	8	4	0	2	4	22
+Detroit Pistons	Starters	Duncan Robinson	33:39	6	11	4	8	6	7	0	3	3	2	0	0	0	1	22
+Detroit Pistons	Starters	John Collins	28:24	9	13	2	3	4	4	3	7	10	3	2	1	0	3	24
+Detroit Pistons	Starters	Ausar Thompson	27:37	3	8	0	0	2	2	1	4	5	4	2	1	5	5	8
+Detroit Pistons	Starters	Cade Cunningham	26:31	7	16	0	4	3	3	0	3	3	7	1	0	0	5	17
+Detroit Pistons	Reserves	Kevin Huerter	32:51	5	12	0	5	2	3	0	2	2	3	1	1	1	0	12
+Detroit Pistons	Reserves	Paul Reed	20:39	1	3	0	0	2	2	5	5	10	2	1	3	2	3	4
+Detroit Pistons	Reserves	Ronald Holland II	14:51	0	4	0	3	1	2	1	4	5	2	0	0	0	3	1
+Detroit Pistons	Reserves	Javonte Green	10:48	3	5	0	2	1	1	0	1	1	0	0	0	0	1	7
+Detroit Pistons	Reserves	Ebuka Okorie	5:57	2	3	0	0	1	1	0	0	0	0	0	0	0	0	5
+Detroit Pistons	Reserves	Chaz Lanier	1:34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Detroit Pistons	Reserves	Isaac Jones	1:34	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Detroit Pistons	Reserves	Taurean Prince	Did Not Play
+Detroit Pistons	Reserves	Tolu Smith	Did Not Play
+Detroit Pistons	Reserves	Jalen Duren	Did Not Dress
+Detroit Pistons	Reserves	Isaiah Joe	Did Not Dress
+Detroit Pistons	Reserves	Elijah Harkless	Did Not Dress
+Detroit Pistons	Reserves	Ugonna Onyenso	Did Not Dress
+Detroit Pistons	Totals	Team Totals	240	43	91	8	31	28	31	11	34	45	31	11	6	10	25	122
+```

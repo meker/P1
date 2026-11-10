@@ -1,0 +1,43 @@
+Final: New Orleans Pelicans 87, Golden State Warriors 138
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+New Orleans Pelicans	Starters	Jeremiah Fears	28:47	4	12	1	5	2	2	0	3	3	8	0	1	6	2	11
+New Orleans Pelicans	Starters	Herbert Jones	24:00	4	9	2	3	0	0	3	3	6	1	0	1	2	1	10
+New Orleans Pelicans	Starters	Saddiq Bey	23:49	3	9	1	5	2	2	0	0	0	4	0	0	0	2	9
+New Orleans Pelicans	Starters	Dejounte Murray	17:33	5	10	2	3	0	0	0	3	3	1	0	0	1	5	12
+New Orleans Pelicans	Starters	Karlo Matković	17:26	2	4	0	2	0	0	1	5	6	2	0	0	1	0	4
+New Orleans Pelicans	Reserves	Jordan Poole	34:07	1	5	1	3	4	4	0	3	3	2	0	1	2	2	7
+New Orleans Pelicans	Reserves	Bryce McGowens	27:33	3	8	1	4	1	2	1	1	2	0	1	1	0	2	8
+New Orleans Pelicans	Reserves	Bennedict Mathurin	24:11	1	9	0	2	4	4	2	0	2	0	0	0	0	0	6
+New Orleans Pelicans	Reserves	Derik Queen	21:17	4	8	0	1	8	10	0	4	4	0	0	3	1	2	16
+New Orleans Pelicans	Reserves	AJ Johnson	12:00	1	3	0	0	0	0	1	1	2	3	1	0	0	1	2
+New Orleans Pelicans	Reserves	Julian Reese	9:17	1	3	0	0	0	0	0	0	0	0	0	1	0	0	2
+New Orleans Pelicans	Reserves	DeAndre Jordan	Did Not Play
+New Orleans Pelicans	Reserves	Zion Williamson	Did Not Dress
+New Orleans Pelicans	Reserves	Trey Murphy III	Did Not Dress
+New Orleans Pelicans	Reserves	Trendon Watford	Did Not Dress
+New Orleans Pelicans	Reserves	Yves Missi	Did Not Dress
+New Orleans Pelicans	Reserves	Jaron Pierre Jr.	Did Not Dress
+New Orleans Pelicans	Reserves	Malik Dia	Did Not Dress
+New Orleans Pelicans	Totals	Team Totals	240	29	80	8	28	21	24	8	23	31	21	2	8	13	17	87
+Golden State Warriors	Starters	Yaxel Lendeborg	27:27	8	10	4	4	3	4	1	6	7	4	1	0	2	3	23
+Golden State Warriors	Starters	Brandin Podziemski	26:17	10	19	5	11	0	0	0	2	2	4	1	1	0	0	25
+Golden State Warriors	Starters	Gui Santos	20:52	0	3	0	1	3	4	1	6	7	4	0	1	0	3	3
+Golden State Warriors	Starters	Draymond Green	20:49	1	1	0	0	0	0	1	2	3	6	1	0	2	1	2
+Golden State Warriors	Starters	Stephen Curry	20:49	6	10	4	7	9	9	0	5	5	2	0	0	1	0	25
+Golden State Warriors	Reserves	De'Anthony Melton	26:14	5	11	4	8	2	2	1	3	4	3	1	0	1	3	16
+Golden State Warriors	Reserves	LJ Cryer	20:11	4	9	2	6	0	0	0	0	0	3	0	0	1	1	10
+Golden State Warriors	Reserves	Georges Niang	18:38	4	7	1	3	0	0	0	2	2	2	0	1	1	0	9
+Golden State Warriors	Reserves	Charles Bassey	18:04	6	8	0	0	0	0	3	7	10	1	0	1	1	2	12
+Golden State Warriors	Reserves	Al Horford	15:00	2	5	1	3	0	0	0	2	2	6	2	3	0	2	5
+Golden State Warriors	Reserves	Graham Ike	12:00	2	4	0	1	0	0	4	1	5	2	0	1	1	2	4
+Golden State Warriors	Reserves	Malevy Leons	12:00	0	1	0	0	0	0	0	3	3	0	0	1	1	1	0
+Golden State Warriors	Reserves	Brandon Williams	1:39	2	3	0	0	0	0	0	0	0	0	0	0	0	0	4
+Golden State Warriors	Reserves	Gary Payton II	Did Not Dress
+Golden State Warriors	Reserves	Will Richard	Did Not Dress
+Golden State Warriors	Reserves	Moses Moody	Did Not Dress
+Golden State Warriors	Reserves	Jimmy Butler III	Did Not Dress
+Golden State Warriors	Reserves	Kristaps Porziņģis	Did Not Dress
+Golden State Warriors	Totals	Team Totals	240	50	91	21	44	17	19	11	39	50	37	6	9	11	18	138
+```

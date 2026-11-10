@@ -1,0 +1,43 @@
+Final: Los Angeles Lakers 124, Atlanta Hawks 114
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Los Angeles Lakers	Starters	Luka Dončić	39:23	11	22	3	11	7	7	0	8	8	10	5	2	6	2	32
+Los Angeles Lakers	Starters	Jake LaRavia	32:03	2	6	0	1	0	0	3	0	3	3	1	0	3	5	4
+Los Angeles Lakers	Starters	Walker Kessler	30:04	8	12	0	0	5	6	3	7	10	4	1	1	4	2	21
+Los Angeles Lakers	Starters	Ziaire Williams	28:15	5	10	2	5	0	0	0	2	2	2	2	0	0	1	12
+Los Angeles Lakers	Starters	Matisse Thybulle	23:28	2	5	2	5	0	0	0	0	0	1	3	1	1	0	6
+Los Angeles Lakers	Reserves	Sandro Mamukelashvili	32:16	7	13	5	8	4	4	1	7	8	3	1	1	0	1	23
+Los Angeles Lakers	Reserves	Collin Sexton	26:32	6	11	3	4	3	6	1	1	2	6	1	0	1	1	18
+Los Angeles Lakers	Reserves	Jarred Vanderbilt	13:27	2	2	0	0	0	0	0	2	2	0	1	1	0	2	4
+Los Angeles Lakers	Reserves	Cameron Carr	7:19	1	2	0	1	0	0	0	3	3	0	0	0	0	2	2
+Los Angeles Lakers	Reserves	Adou Thiero	7:13	1	2	0	0	0	0	0	2	2	1	1	0	0	0	2
+Los Angeles Lakers	Reserves	Jaden Hardy	Did Not Play
+Los Angeles Lakers	Reserves	Bronny James	Did Not Play
+Los Angeles Lakers	Reserves	Kevon Looney	Did Not Play
+Los Angeles Lakers	Reserves	Lawson Lovering	Did Not Play
+Los Angeles Lakers	Reserves	Chris Mañon	Did Not Dress
+Los Angeles Lakers	Reserves	Arthur Kaluma	Did Not Dress
+Los Angeles Lakers	Reserves	Quentin Grimes	Did Not Dress
+Los Angeles Lakers	Reserves	Austin Reaves	Did Not Dress
+Los Angeles Lakers	Totals	Team Totals	240	45	85	15	35	19	23	8	32	40	30	16	6	15	16	124
+Atlanta Hawks	Starters	Jalen Johnson	38:12	6	14	0	3	3	4	1	6	7	4	2	0	4	0	15
+Atlanta Hawks	Starters	Nickeil Alexander-Walker	34:08	6	19	4	14	4	4	0	4	4	4	2	2	0	3	20
+Atlanta Hawks	Starters	Dyson Daniels	30:54	4	4	1	1	1	2	4	2	6	8	4	0	1	3	10
+Atlanta Hawks	Starters	Onyeka Okongwu	29:57	6	11	2	5	2	4	1	8	9	3	1	0	1	1	16
+Atlanta Hawks	Starters	Kingston Flemings	23:44	2	5	1	2	3	4	1	2	3	4	2	0	4	3	8
+Atlanta Hawks	Reserves	CJ McCollum	24:16	8	15	3	5	2	2	0	0	0	4	0	1	3	4	21
+Atlanta Hawks	Reserves	Aaron Wiggins	22:43	5	11	4	7	1	1	1	2	3	3	0	0	3	1	15
+Atlanta Hawks	Reserves	Luguentz Dort	18:03	1	6	1	6	1	2	1	2	3	2	1	1	1	3	4
+Atlanta Hawks	Reserves	Jock Landale	14:11	2	3	1	1	0	0	3	2	5	1	0	1	2	0	5
+Atlanta Hawks	Reserves	Zuby Ejiofor	3:52	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Atlanta Hawks	Reserves	Dorian Finney-Smith	Did Not Play
+Atlanta Hawks	Reserves	Corey Kispert	Did Not Play
+Atlanta Hawks	Reserves	Jalen Wilson	Did Not Dress
+Atlanta Hawks	Reserves	Mouhamed Gueye	Did Not Dress
+Atlanta Hawks	Reserves	RayJ Dennis	Did Not Dress
+Atlanta Hawks	Reserves	Asa Newell	Did Not Dress
+Atlanta Hawks	Reserves	Keshon Gilbert	Did Not Dress
+Atlanta Hawks	Reserves	Henri Veesaar	Did Not Dress
+Atlanta Hawks	Totals	Team Totals	240	40	88	17	44	17	23	12	28	40	33	12	6	19	18	114
+```

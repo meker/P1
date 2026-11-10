@@ -1,0 +1,8 @@
+Los Angeles Lakers|124|Atlanta Hawks|114|https://www.basketball-reference.com/boxscores/202611090ATL.html|final
+Washington Wizards|111|Detroit Pistons|122|https://www.basketball-reference.com/boxscores/202611090DET.html|final
+Cleveland Cavaliers|112|Charlotte Hornets|124|https://www.basketball-reference.com/boxscores/202611090CHO.html|final
+Memphis Grizzlies|118|Toronto Raptors|102|https://www.basketball-reference.com/boxscores/202611090TOR.html|final
+Indiana Pacers|122|Dallas Mavericks|125|https://www.basketball-reference.com/boxscores/202611090DAL.html|final
+Denver Nuggets|100|Houston Rockets|110|https://www.basketball-reference.com/boxscores/202611090HOU.html|final
+San Antonio Spurs|122|Phoenix Suns|96|https://www.basketball-reference.com/boxscores/202611090PHO.html|final
+New Orleans Pelicans|87|Golden State Warriors|138|https://www.basketball-reference.com/boxscores/202611090GSW.html|final

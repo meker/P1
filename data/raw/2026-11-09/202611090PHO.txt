@@ -1,0 +1,41 @@
+Final: San Antonio Spurs 122, Phoenix Suns 96
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+San Antonio Spurs	Starters	Stephon Castle	29:47	2	10	0	1	0	2	4	4	8	7	1	0	2	2	4
+San Antonio Spurs	Starters	De'Aaron Fox	28:38	5	8	2	4	3	3	0	9	9	6	0	0	1	1	15
+San Antonio Spurs	Starters	Julian Champagnie	27:19	4	11	3	9	0	0	0	3	3	2	2	0	2	1	11
+San Antonio Spurs	Starters	Dylan Harper	25:57	7	10	0	2	3	5	0	5	5	4	0	0	0	1	17
+San Antonio Spurs	Starters	Victor Wembanyama	25:21	15	19	2	3	8	10	2	9	11	3	0	9	1	2	40
+San Antonio Spurs	Reserves	Keldon Johnson	26:04	2	6	0	1	0	0	2	3	5	3	0	0	0	3	4
+San Antonio Spurs	Reserves	Harrison Barnes	21:00	3	8	2	6	3	3	1	1	2	0	0	0	0	1	11
+San Antonio Spurs	Reserves	Carter Bryant	14:10	2	4	2	2	2	2	1	0	1	1	0	0	0	2	8
+San Antonio Spurs	Reserves	Luke Kornet	13:26	1	1	0	0	0	0	1	3	4	1	0	1	0	2	2
+San Antonio Spurs	Reserves	Jordan McLaughlin	11:12	2	5	0	1	0	0	3	1	4	2	1	0	1	0	4
+San Antonio Spurs	Reserves	Tarris Reed Jr.	9:13	2	3	0	0	0	0	1	2	3	1	0	1	1	3	4
+San Antonio Spurs	Reserves	David Jones Garcia	7:53	1	5	0	1	0	0	0	0	0	0	2	0	1	0	2
+San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
+San Antonio Spurs	Reserves	Devin Vassell	Did Not Dress
+San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
+San Antonio Spurs	Reserves	Ja'Kobi Gillespie	Did Not Dress
+San Antonio Spurs	Reserves	Maliq Brown	Did Not Dress
+San Antonio Spurs	Totals	Team Totals	240	46	90	11	30	19	25	15	40	55	30	6	11	9	18	122
+Phoenix Suns	Starters	Devin Booker	29:28	10	17	3	5	9	10	1	1	2	4	1	1	0	3	32
+Phoenix Suns	Starters	Dillon Brooks	26:21	3	14	1	2	0	0	2	2	4	0	0	0	1	1	7
+Phoenix Suns	Starters	Miles Bridges	25:31	3	9	0	4	1	1	0	5	5	0	0	2	0	1	7
+Phoenix Suns	Starters	Jalen Green	24:25	2	8	0	1	2	2	0	5	5	4	0	0	3	0	6
+Phoenix Suns	Starters	Oso Ighodaro	18:14	2	5	0	0	3	4	2	2	4	2	0	0	1	2	7
+Phoenix Suns	Reserves	Collin Gillespie	23:32	2	6	2	4	0	0	2	0	2	3	0	0	1	5	6
+Phoenix Suns	Reserves	Ryan Dunn	22:37	1	6	1	3	0	0	0	2	2	0	1	2	0	1	3
+Phoenix Suns	Reserves	Khaman Maluach	19:48	4	6	1	1	2	2	1	4	5	2	0	1	0	1	11
+Phoenix Suns	Reserves	Luke Kennard	14:26	1	4	1	3	0	0	0	1	1	0	0	0	0	0	3
+Phoenix Suns	Reserves	Jamaree Bouyea	9:13	2	2	0	0	0	0	0	0	0	3	0	0	0	1	4
+Phoenix Suns	Reserves	Rasheer Fleming	8:37	1	3	0	1	0	0	1	0	1	0	1	0	0	0	2
+Phoenix Suns	Reserves	Duop Reath	5:56	1	3	0	2	0	0	0	2	2	0	0	0	0	1	2
+Phoenix Suns	Reserves	Pat Spencer	5:56	1	3	0	0	0	0	2	0	2	2	0	1	1	0	2
+Phoenix Suns	Reserves	Koa Peat	5:56	2	3	0	0	0	0	0	0	0	1	0	0	0	1	4
+Phoenix Suns	Reserves	Jordan Goodwin	Did Not Dress
+Phoenix Suns	Reserves	Mark Williams	Did Not Dress
+Phoenix Suns	Reserves	Drew Timme	Did Not Dress
+Phoenix Suns	Totals	Team Totals	240	35	89	9	26	17	19	11	24	35	21	3	7	7	17	96
+```
