@@ -1,6 +1,6 @@
-Oklahoma City Thunder||Portland Trail Blazers|||not final
 Milwaukee Bucks|85|New York Knicks|117|https://www.basketball-reference.com/boxscores/202611100NYK.html|final
 Boston Celtics|123|Philadelphia 76ers|101|https://www.basketball-reference.com/boxscores/202611100PHI.html|final
 Los Angeles Clippers|110|Phoenix Suns|133|https://www.basketball-reference.com/boxscores/202611100PHO.html|final
 Miami Heat|115|Utah Jazz|109|https://www.basketball-reference.com/boxscores/202611100UTA.html|final
 Orlando Magic|107|Sacramento Kings|100|https://www.basketball-reference.com/boxscores/202611100SAC.html|final
+Oklahoma City Thunder|103|Portland Trail Blazers|123|https://www.basketball-reference.com/boxscores/202611100POR.html|final
