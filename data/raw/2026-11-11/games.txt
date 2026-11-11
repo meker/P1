@@ -1,0 +1,10 @@
+Cleveland Cavaliers||New York Knicks|||not final
+Boston Celtics||Toronto Raptors|||not final
+Washington Wizards||Indiana Pacers|||not final
+Los Angeles Lakers||Milwaukee Bucks|||not final
+Brooklyn Nets||New Orleans Pelicans|||not final
+Denver Nuggets||Memphis Grizzlies|||not final
+San Antonio Spurs||Chicago Bulls|||not final
+Orlando Magic||Utah Jazz|||not final
+Golden State Warriors||Houston Rockets|||not final
+Oklahoma City Thunder||Portland Trail Blazers|||not final
