@@ -1,0 +1,42 @@
+Final: Miami Heat 115, Utah Jazz 109
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Miami Heat	Starters	Davion Mitchell	37:44	5	13	3	7	6	8	1	4	5	8	2	0	2	3	19
+Miami Heat	Starters	Bam Adebayo	37:06	1	8	0	2	9	12	0	8	8	4	4	2	0	4	11
+Miami Heat	Starters	Pelle Larsson	31:07	4	7	2	3	4	4	4	3	7	2	1	0	4	0	14
+Miami Heat	Starters	Giannis Antetokounmpo	30:34	12	21	1	2	5	9	2	9	11	4	0	0	1	3	30
+Miami Heat	Starters	Klay Thompson	30:04	3	13	2	10	3	3	0	1	1	2	1	2	1	3	11
+Miami Heat	Reserves	Ryan Conwell	21:04	1	7	1	6	2	2	0	4	4	2	0	0	0	3	5
+Miami Heat	Reserves	Andrew Wiggins	18:32	5	8	2	4	1	1	0	0	0	0	0	0	0	1	13
+Miami Heat	Reserves	Bobby Portis Jr.	16:36	2	7	1	4	0	0	0	1	1	1	0	0	0	1	5
+Miami Heat	Reserves	Myron Gardner	10:05	1	2	0	1	2	2	1	2	3	1	0	0	0	0	4
+Miami Heat	Reserves	Simone Fontecchio	7:08	1	3	0	2	1	3	0	0	0	0	0	0	0	2	3
+Miami Heat	Reserves	Tim Hardaway Jr.	Did Not Play
+Miami Heat	Reserves	Keshad Johnson	Did Not Play
+Miami Heat	Reserves	Nikola Jović	Did Not Play
+Miami Heat	Reserves	Nick Richards	Did Not Play
+Miami Heat	Reserves	Dru Smith	Did Not Play
+Miami Heat	Reserves	Vladislav Goldin	Did Not Dress
+Miami Heat	Reserves	Tre Donaldson	Did Not Dress
+Miami Heat	Totals	Team Totals	240	35	89	12	41	33	44	8	32	40	24	8	4	8	20	115
+Utah Jazz	Starters	Ace Bailey	35:17	10	15	3	5	0	0	0	7	7	2	0	0	2	4	23
+Utah Jazz	Starters	Darryn Peterson	30:59	10	19	4	9	1	2	1	3	4	4	1	0	5	6	25
+Utah Jazz	Starters	Josh Green	30:15	1	5	0	3	0	0	1	4	5	4	0	0	1	1	2
+Utah Jazz	Starters	Josh Okogie	21:17	1	8	0	3	4	5	2	2	4	4	1	0	1	3	6
+Utah Jazz	Starters	Jaxson Hayes	17:07	3	5	0	0	0	0	1	1	2	1	1	1	1	4	6
+Utah Jazz	Reserves	Isaiah Collier	24:17	5	10	4	4	3	6	0	5	5	5	1	0	2	6	17
+Utah Jazz	Reserves	Svi Mykhailiuk	21:17	3	8	1	5	0	0	0	2	2	3	1	0	1	2	7
+Utah Jazz	Reserves	Mo Bamba	16:47	2	3	0	0	3	4	5	2	7	0	0	3	1	1	7
+Utah Jazz	Reserves	Kyle Filipowski	14:43	3	5	0	1	1	3	1	3	4	1	0	0	2	2	7
+Utah Jazz	Reserves	Tony Bradley	14:06	1	1	0	0	2	2	0	5	5	0	0	1	0	1	4
+Utah Jazz	Reserves	Brice Sensabaugh	13:56	2	5	1	3	0	0	0	4	4	4	1	0	2	0	5
+Utah Jazz	Reserves	Kobe Bufkin	Did Not Play
+Utah Jazz	Reserves	Harrison Ingram	Did Not Play
+Utah Jazz	Reserves	Jusuf Nurkić	Did Not Dress
+Utah Jazz	Reserves	Lauri Markkanen	Did Not Dress
+Utah Jazz	Reserves	Jaren Jackson Jr.	Did Not Dress
+Utah Jazz	Reserves	Keyonte George	Did Not Dress
+Utah Jazz	Reserves	Trey Alexander	Did Not Dress
+Utah Jazz	Totals	Team Totals	240	41	84	13	33	14	22	11	38	49	28	6	5	18	30	109
+```
