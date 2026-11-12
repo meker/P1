@@ -1,0 +1,43 @@
+Final: Brooklyn Nets 145, New Orleans Pelicans 111
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Brooklyn Nets	Starters	Danny Wolf	29:26	3	8	1	2	3	4	3	8	11	4	1	2	2	2	10
+Brooklyn Nets	Starters	Julius Randle	29:20	6	16	0	5	5	6	1	3	4	5	0	0	2	2	17
+Brooklyn Nets	Starters	Michael Porter Jr.	28:28	7	14	4	10	4	4	1	5	6	3	1	0	1	0	22
+Brooklyn Nets	Starters	Egor Dëmin	23:17	5	8	4	6	8	10	1	0	1	1	1	0	1	1	22
+Brooklyn Nets	Starters	Day'Ron Sharpe	19:05	5	6	2	3	3	4	2	2	4	5	1	4	2	2	15
+Brooklyn Nets	Reserves	Keon Ellis	26:01	3	4	2	3	3	3	0	4	4	3	1	0	1	2	11
+Brooklyn Nets	Reserves	Moritz Wagner	19:26	6	8	2	4	2	2	0	3	3	4	0	0	1	4	16
+Brooklyn Nets	Reserves	Noah Clowney	18:34	5	7	2	3	4	5	2	1	3	0	2	1	1	2	16
+Brooklyn Nets	Reserves	Terance Mann	18:05	2	4	2	3	0	0	0	1	1	3	1	0	0	2	6
+Brooklyn Nets	Reserves	Chaney Johnson	15:02	1	2	0	1	2	2	1	2	3	2	0	1	1	5	4
+Brooklyn Nets	Reserves	Drake Powell	6:38	2	2	1	1	1	2	0	0	0	0	0	0	0	1	6
+Brooklyn Nets	Reserves	Josh Minott	6:38	0	0	0	0	0	0	0	2	2	0	0	0	1	2	0
+Brooklyn Nets	Reserves	Grant Nelson	Did Not Dress
+Brooklyn Nets	Reserves	Nolan Traoré	Did Not Dress
+Brooklyn Nets	Reserves	Ben Saraf	Did Not Dress
+Brooklyn Nets	Reserves	Mikel Brown Jr.	Did Not Dress
+Brooklyn Nets	Reserves	Joshua Jefferson	Did Not Dress
+Brooklyn Nets	Reserves	Tyler Bilodeau	Did Not Dress
+Brooklyn Nets	Totals	Team Totals	240	45	79	20	41	35	42	11	31	42	30	8	8	13	25	145
+New Orleans Pelicans	Starters	Zion Williamson	29:57	8	14	1	1	12	14	2	2	4	2	0	1	2	4	29
+New Orleans Pelicans	Starters	Dejounte Murray	27:56	2	6	1	3	0	1	0	2	2	4	1	0	2	1	5
+New Orleans Pelicans	Starters	Jeremiah Fears	27:47	6	12	2	3	0	0	0	4	4	5	0	0	4	3	14
+New Orleans Pelicans	Starters	Herbert Jones	24:58	1	6	0	2	0	0	0	2	2	3	3	2	2	4	2
+New Orleans Pelicans	Starters	Karlo Matković	21:39	2	6	0	4	0	0	1	3	4	1	0	0	2	4	4
+New Orleans Pelicans	Reserves	Saddiq Bey	28:57	5	11	3	8	2	3	0	1	1	2	0	0	0	1	15
+New Orleans Pelicans	Reserves	Jordan Poole	21:06	5	8	2	3	2	4	0	0	0	1	0	1	2	4	14
+New Orleans Pelicans	Reserves	Derik Queen	13:47	2	3	1	1	4	4	0	0	0	0	2	0	1	3	9
+New Orleans Pelicans	Reserves	Bryce McGowens	12:58	1	3	1	1	8	8	0	1	1	1	2	0	1	1	11
+New Orleans Pelicans	Reserves	DeAndre Jordan	11:01	0	0	0	0	0	0	0	3	3	0	1	1	0	1	0
+New Orleans Pelicans	Reserves	Julian Reese	6:38	0	0	0	0	2	2	2	0	2	1	1	1	0	3	2
+New Orleans Pelicans	Reserves	AJ Johnson	6:38	1	2	0	1	0	0	0	1	1	0	0	0	0	0	2
+New Orleans Pelicans	Reserves	Jaron Pierre Jr.	6:38	1	6	1	3	1	2	4	0	4	0	0	0	0	1	4
+New Orleans Pelicans	Reserves	Malik Dia	Did Not Dress
+New Orleans Pelicans	Reserves	Yves Missi	Did Not Dress
+New Orleans Pelicans	Reserves	Trey Murphy III	Did Not Dress
+New Orleans Pelicans	Reserves	Trendon Watford	Did Not Dress
+New Orleans Pelicans	Reserves	Bennedict Mathurin	Did Not Dress
+New Orleans Pelicans	Totals	Team Totals	240	34	77	12	30	31	38	9	19	28	20	10	6	16	30	111
+```

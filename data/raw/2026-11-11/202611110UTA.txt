@@ -1,0 +1,42 @@
+Final: Orlando Magic 123, Utah Jazz 106
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Orlando Magic	Starters	Franz Wagner	39:22	13	23	3	8	9	10	2	6	8	1	1	0	4	2	38
+Orlando Magic	Starters	Anthony Black	38:30	6	14	3	6	7	9	0	7	7	8	1	0	3	4	22
+Orlando Magic	Starters	Desmond Bane	34:18	9	16	7	11	0	0	0	3	3	2	1	0	1	4	25
+Orlando Magic	Starters	Wendell Carter Jr.	27:59	3	5	0	1	3	3	2	5	7	3	0	0	2	5	9
+Orlando Magic	Starters	Alex Morales	17:32	2	4	1	3	0	0	1	3	4	3	0	0	0	3	5
+Orlando Magic	Reserves	Jevon Carter	27:44	4	12	3	10	0	0	1	2	3	4	2	0	0	4	11
+Orlando Magic	Reserves	Goga Bitadze	20:01	1	2	0	0	2	4	1	6	7	0	1	2	0	2	4
+Orlando Magic	Reserves	Jase Richardson	19:52	2	8	1	6	1	1	0	1	1	2	1	2	1	4	6
+Orlando Magic	Reserves	Nikola Vučević	13:58	1	3	0	1	1	1	2	3	5	1	0	0	0	0	3
+Orlando Magic	Reserves	Colin Castleton	0:44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Orlando Magic	Reserves	Jamal Cain	Did Not Dress
+Orlando Magic	Reserves	Tristan da Silva	Did Not Dress
+Orlando Magic	Reserves	Noah Penda	Did Not Dress
+Orlando Magic	Reserves	Izaiyah Nelson	Did Not Dress
+Orlando Magic	Reserves	Jonathan Isaac	Did Not Dress
+Orlando Magic	Reserves	Jalen Suggs	Did Not Dress
+Orlando Magic	Reserves	Paolo Banchero	Did Not Dress
+Orlando Magic	Totals	Team Totals	240	41	87	18	46	23	28	9	36	45	24	7	4	11	28	123
+Utah Jazz	Starters	Keyonte George	33:13	3	13	2	8	5	5	0	7	7	7	0	0	3	3	13
+Utah Jazz	Starters	Darryn Peterson	32:50	7	19	2	9	4	4	3	1	4	5	1	1	1	4	20
+Utah Jazz	Starters	Ace Bailey	31:05	6	17	3	11	3	4	2	5	7	2	2	4	2	1	18
+Utah Jazz	Starters	Jaxson Hayes	30:03	4	7	0	0	3	4	1	7	8	0	2	0	1	2	11
+Utah Jazz	Starters	Josh Green	25:53	1	4	1	3	0	0	2	0	2	1	0	0	1	3	3
+Utah Jazz	Reserves	Brice Sensabaugh	22:39	6	10	3	6	4	5	1	2	3	1	1	1	1	1	19
+Utah Jazz	Reserves	Svi Mykhailiuk	19:31	1	3	1	3	0	0	0	0	0	2	0	0	0	2	3
+Utah Jazz	Reserves	Mo Bamba	17:57	2	3	0	0	1	2	0	1	1	1	0	2	0	2	5
+Utah Jazz	Reserves	Josh Okogie	15:13	1	2	1	2	4	4	0	3	3	0	0	0	1	3	7
+Utah Jazz	Reserves	Isaiah Collier	11:36	2	3	1	2	2	4	0	3	3	2	0	0	1	2	7
+Utah Jazz	Reserves	Tony Bradley	Did Not Play
+Utah Jazz	Reserves	Kobe Bufkin	Did Not Play
+Utah Jazz	Reserves	Kyle Filipowski	Did Not Play
+Utah Jazz	Reserves	Harrison Ingram	Did Not Play
+Utah Jazz	Reserves	Lauri Markkanen	Did Not Dress
+Utah Jazz	Reserves	Jaren Jackson Jr.	Did Not Dress
+Utah Jazz	Reserves	Jusuf Nurkić	Did Not Dress
+Utah Jazz	Reserves	Trey Alexander	Did Not Dress
+Utah Jazz	Totals	Team Totals	240	33	81	14	44	26	32	9	29	38	21	6	8	11	23	106
+```

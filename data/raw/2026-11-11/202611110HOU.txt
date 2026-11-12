@@ -1,0 +1,42 @@
+Final: Golden State Warriors 105, Houston Rockets 115
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Golden State Warriors	Starters	Brandin Podziemski	37:04	6	14	3	10	4	5	1	5	6	4	2	0	1	3	19
+Golden State Warriors	Starters	Yaxel Lendeborg	36:05	9	19	2	7	5	8	2	8	10	0	2	0	2	2	25
+Golden State Warriors	Starters	Draymond Green	26:50	3	5	1	1	0	0	3	2	5	7	0	1	1	2	7
+Golden State Warriors	Starters	Al Horford	20:57	1	7	0	5	0	0	0	1	1	4	0	0	0	3	2
+Golden State Warriors	Starters	Stephen Curry	5:35	1	3	1	2	0	0	0	0	0	0	0	0	1	0	3
+Golden State Warriors	Reserves	De'Anthony Melton	24:56	3	7	3	7	2	2	0	4	4	3	0	1	2	3	11
+Golden State Warriors	Reserves	Georges Niang	19:19	1	7	1	3	2	3	4	1	5	0	0	0	0	0	5
+Golden State Warriors	Reserves	Will Richard	18:51	3	6	2	3	1	2	2	2	4	0	1	0	2	2	9
+Golden State Warriors	Reserves	LJ Cryer	17:47	4	9	3	8	2	2	1	0	1	1	0	0	0	2	13
+Golden State Warriors	Reserves	Charles Bassey	13:29	3	4	0	0	1	2	3	3	6	0	0	1	0	1	7
+Golden State Warriors	Reserves	Gui Santos	12:05	0	3	0	2	0	0	0	3	3	1	0	1	4	0	0
+Golden State Warriors	Reserves	Graham Ike	3:31	1	2	0	1	2	2	0	0	0	1	0	0	0	1	4
+Golden State Warriors	Reserves	Malevy Leons	3:31	0	1	0	1	0	0	0	3	3	0	0	2	0	1	0
+Golden State Warriors	Reserves	Jimmy Butler III	Did Not Dress
+Golden State Warriors	Reserves	Kristaps Porziņģis	Did Not Dress
+Golden State Warriors	Reserves	Gary Payton II	Did Not Dress
+Golden State Warriors	Reserves	Brandon Williams	Did Not Dress
+Golden State Warriors	Reserves	Moses Moody	Did Not Dress
+Golden State Warriors	Totals	Team Totals	240	35	87	16	50	19	26	16	32	48	21	5	6	13	20	105
+Houston Rockets	Starters	Alperen Şengün	37:08	8	14	1	2	2	4	4	9	13	9	1	1	2	4	19
+Houston Rockets	Starters	Jabari Smith Jr.	35:23	5	14	2	9	2	2	2	6	8	0	1	3	2	3	14
+Houston Rockets	Starters	Kevin Durant	33:57	8	17	1	4	3	4	0	4	4	5	0	0	2	2	20
+Houston Rockets	Starters	Fred VanVleet	29:33	6	9	4	7	2	2	0	2	2	6	3	0	0	2	18
+Houston Rockets	Starters	Amen Thompson	28:54	8	11	0	1	3	5	3	4	7	4	1	2	2	3	19
+Houston Rockets	Reserves	Tari Eason	22:21	2	11	0	5	2	2	0	3	3	0	0	1	1	0	6
+Houston Rockets	Reserves	Reed Sheppard	20:17	5	9	3	6	0	0	0	1	1	1	1	0	1	1	13
+Houston Rockets	Reserves	Marcus Smart	16:42	2	2	2	2	0	0	0	2	2	1	0	0	1	4	6
+Houston Rockets	Reserves	Bogdan Bogdanović	9:42	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+Houston Rockets	Reserves	Bruce Thornton	2:40	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Houston Rockets	Reserves	Oscar Tshiebwe	1:08	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Houston Rockets	Reserves	Isaiah Crawford	1:08	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Houston Rockets	Reserves	Jae'Sean Tate	1:08	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Houston Rockets	Reserves	Steven Adams	Did Not Dress
+Houston Rockets	Reserves	Clint Capela	Did Not Dress
+Houston Rockets	Reserves	Julian Phillips	Did Not Dress
+Houston Rockets	Reserves	Quadir Copeland	Did Not Dress
+Houston Rockets	Totals	Team Totals	240	44	87	13	36	14	19	9	31	40	26	7	7	11	23	115
+```

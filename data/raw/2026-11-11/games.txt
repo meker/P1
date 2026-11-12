@@ -1,10 +1,10 @@
-Cleveland Cavaliers||New York Knicks|||not final
-Boston Celtics||Toronto Raptors|||not final
-Washington Wizards||Indiana Pacers|||not final
-Los Angeles Lakers||Milwaukee Bucks|||not final
-Brooklyn Nets||New Orleans Pelicans|||not final
-Denver Nuggets||Memphis Grizzlies|||not final
-San Antonio Spurs||Chicago Bulls|||not final
-Orlando Magic||Utah Jazz|||not final
-Golden State Warriors||Houston Rockets|||not final
-Oklahoma City Thunder||Portland Trail Blazers|||not final
+Cleveland Cavaliers|115|New York Knicks|107|https://www.basketball-reference.com/boxscores/202611110NYK.html|final
+Boston Celtics|98|Toronto Raptors|93|https://www.basketball-reference.com/boxscores/202611110TOR.html|final
+Washington Wizards|101|Indiana Pacers|114|https://www.basketball-reference.com/boxscores/202611110IND.html|final
+Los Angeles Lakers|123|Milwaukee Bucks|112|https://www.basketball-reference.com/boxscores/202611110MIL.html|final
+Brooklyn Nets|145|New Orleans Pelicans|111|https://www.basketball-reference.com/boxscores/202611110NOP.html|final
+Denver Nuggets|123|Memphis Grizzlies|118|https://www.basketball-reference.com/boxscores/202611110MEM.html|final
+San Antonio Spurs|124|Chicago Bulls|119|https://www.basketball-reference.com/boxscores/202611110CHI.html|final
+Orlando Magic|123|Utah Jazz|106|https://www.basketball-reference.com/boxscores/202611110UTA.html|final
+Golden State Warriors|105|Houston Rockets|115|https://www.basketball-reference.com/boxscores/202611110HOU.html|final
+Oklahoma City Thunder|108|Portland Trail Blazers|118|https://www.basketball-reference.com/boxscores/202611110POR.html|final

@@ -1,0 +1,42 @@
+Final: Washington Wizards 101, Indiana Pacers 114
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Washington Wizards	Starters	Kyshawn George	39:11	9	20	5	8	2	2	1	8	9	3	0	0	6	1	25
+Washington Wizards	Starters	AJ Dybantsa	34:18	6	15	0	4	1	4	1	3	4	2	1	1	3	4	13
+Washington Wizards	Starters	Trae Young	34:12	5	10	3	8	2	2	0	3	3	4	1	0	0	2	15
+Washington Wizards	Starters	Anthony Davis	33:37	7	20	0	3	7	9	7	6	13	0	1	2	1	2	21
+Washington Wizards	Starters	Alex Sarr	25:02	2	6	1	3	0	0	1	7	8	0	0	0	2	3	5
+Washington Wizards	Reserves	Tre Johnson	29:12	5	10	2	4	3	3	2	1	3	1	3	0	1	3	15
+Washington Wizards	Reserves	Bilal Coulibaly	25:17	2	5	0	3	1	2	2	4	6	2	1	1	0	3	5
+Washington Wizards	Reserves	Bub Carrington	10:04	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0
+Washington Wizards	Reserves	Deandre Ayton	9:07	1	2	0	0	0	0	1	1	2	0	0	0	1	2	2
+Washington Wizards	Reserves	Anthony Gill	Did Not Play
+Washington Wizards	Reserves	Tre Mann	Did Not Play
+Washington Wizards	Reserves	Khris Middleton	Did Not Play
+Washington Wizards	Reserves	Will Riley	Did Not Play
+Washington Wizards	Reserves	Jamir Watkins	Did Not Dress
+Washington Wizards	Reserves	Felix Okpara	Did Not Dress
+Washington Wizards	Reserves	Tristan Vukčević	Did Not Dress
+Washington Wizards	Reserves	Justin Champagnie	Did Not Dress
+Washington Wizards	Reserves	Reece Beekman	Did Not Dress
+Washington Wizards	Totals	Team Totals	240	37	90	11	35	16	22	15	33	48	12	7	4	14	20	101
+Indiana Pacers	Starters	Andrew Nembhard	34:11	6	11	3	5	2	2	0	2	2	10	0	0	1	3	17
+Indiana Pacers	Starters	Kelly Oubre Jr.	33:44	7	15	0	5	0	0	1	5	6	1	4	1	0	1	14
+Indiana Pacers	Starters	Pascal Siakam	31:46	7	17	2	7	12	12	3	5	8	5	1	0	2	1	28
+Indiana Pacers	Starters	Ivica Zubac	31:22	9	15	0	0	2	2	6	6	12	1	0	2	2	2	20
+Indiana Pacers	Starters	Aaron Nesmith	21:48	1	6	0	4	0	0	1	0	1	1	0	0	0	2	2
+Indiana Pacers	Reserves	Quenton Jackson	21:18	1	4	1	2	1	2	0	2	2	2	1	0	1	1	4
+Indiana Pacers	Reserves	Obi Toppin	16:14	3	7	2	4	0	0	0	3	3	1	0	0	2	1	8
+Indiana Pacers	Reserves	T.J. McConnell	13:49	3	6	0	0	1	1	1	2	3	7	1	0	0	0	7
+Indiana Pacers	Reserves	Jalen Slawson	12:00	1	2	0	0	0	0	0	3	3	1	1	0	0	2	2
+Indiana Pacers	Reserves	Jay Huff	11:21	2	3	0	1	2	3	1	3	4	0	1	0	2	1	6
+Indiana Pacers	Reserves	Jarace Walker	7:10	0	1	0	1	1	2	1	0	1	0	0	0	1	1	1
+Indiana Pacers	Reserves	Larry Nance Jr.	5:17	2	2	1	1	0	0	0	0	0	0	0	0	0	0	5
+Indiana Pacers	Reserves	Braden Smith	Did Not Play
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Reserves	Kobe Brown	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	42	89	9	30	21	24	14	31	45	29	9	3	11	15	114
+```

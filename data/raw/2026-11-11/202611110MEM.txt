@@ -1,0 +1,42 @@
+Final: Denver Nuggets 123, Memphis Grizzlies 118
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Denver Nuggets	Starters	Christian Braun	37:03	5	13	2	6	0	0	2	3	5	4	1	1	0	2	12
+Denver Nuggets	Starters	Nikola Jokić	36:55	10	16	1	3	6	8	2	9	11	8	1	1	1	3	27
+Denver Nuggets	Starters	Jamal Murray	32:07	12	19	4	7	2	3	2	2	4	8	0	2	1	4	30
+Denver Nuggets	Starters	Cameron Johnson	29:44	9	15	4	7	1	1	2	2	4	3	1	0	0	1	23
+Denver Nuggets	Starters	Aaron Gordon	27:04	3	11	1	7	2	2	0	3	3	2	1	2	1	1	9
+Denver Nuggets	Reserves	Spencer Jones	21:34	1	3	1	3	0	0	1	0	1	0	0	1	1	3	3
+Denver Nuggets	Reserves	DeMar DeRozan	20:17	4	9	0	2	0	2	0	1	1	4	0	1	0	1	8
+Denver Nuggets	Reserves	Trevon Brazile	12:30	3	4	1	2	0	0	0	5	5	0	0	1	0	1	7
+Denver Nuggets	Reserves	Marvin Bagley III	12:16	2	6	0	0	0	0	2	0	2	1	0	1	0	0	4
+Denver Nuggets	Reserves	Tyus Jones	10:30	0	2	0	1	0	0	0	1	1	4	0	1	0	0	0
+Denver Nuggets	Reserves	Alpha Diallo	Did Not Play
+Denver Nuggets	Reserves	DaRon Holmes	Did Not Play
+Denver Nuggets	Reserves	Bryce Hopkins	Did Not Play
+Denver Nuggets	Reserves	Zeke Nnaji	Did Not Play
+Denver Nuggets	Reserves	Ryan Nembhard	Did Not Dress
+Denver Nuggets	Reserves	Julian Strawther	Did Not Dress
+Denver Nuggets	Reserves	Cam Whitmore	Did Not Dress
+Denver Nuggets	Totals	Team Totals	240	49	98	14	38	11	16	11	26	37	34	4	11	4	16	123
+Memphis Grizzlies	Starters	Cameron Boozer	33:08	5	13	2	7	1	2	3	8	11	5	1	0	2	2	13
+Memphis Grizzlies	Starters	Ty Jerome	32:21	9	18	1	5	3	3	0	2	2	5	0	0	1	0	22
+Memphis Grizzlies	Starters	Jaylen Wells	30:43	6	13	5	10	5	5	1	1	2	1	0	0	2	2	22
+Memphis Grizzlies	Starters	Cedric Coward	26:58	5	12	1	4	4	4	3	8	11	4	0	0	1	2	15
+Memphis Grizzlies	Starters	Zach Edey	19:33	1	4	0	0	0	0	1	4	5	0	0	1	1	3	2
+Memphis Grizzlies	Reserves	Jerami Grant	20:13	6	9	2	3	0	0	1	1	2	2	0	0	1	2	14
+Memphis Grizzlies	Reserves	Cam Spencer	20:01	5	7	3	4	2	2	0	3	3	3	0	1	2	1	15
+Memphis Grizzlies	Reserves	Isaiah Stewart	18:03	1	3	1	2	0	0	1	0	1	2	0	0	1	5	3
+Memphis Grizzlies	Reserves	Javon Small	15:04	1	5	1	4	0	0	0	1	1	4	0	1	0	1	3
+Memphis Grizzlies	Reserves	GG Jackson	12:56	1	3	0	1	0	1	0	1	1	0	1	1	0	2	2
+Memphis Grizzlies	Reserves	Taylor Hendricks	11:00	1	1	1	1	4	4	1	1	2	1	0	0	0	1	7
+Memphis Grizzlies	Reserves	Karim López	Did Not Play
+Memphis Grizzlies	Reserves	Jahmai Mashack	Did Not Play
+Memphis Grizzlies	Reserves	Kris Murray	Did Not Play
+Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	Did Not Play
+Memphis Grizzlies	Reserves	Scotty Pippen Jr.	Did Not Dress
+Memphis Grizzlies	Reserves	Quinten Post	Did Not Dress
+Memphis Grizzlies	Reserves	Richie Saunders	Did Not Dress
+Memphis Grizzlies	Totals	Team Totals	240	41	88	17	41	19	21	11	30	41	27	2	4	11	21	118
+```
