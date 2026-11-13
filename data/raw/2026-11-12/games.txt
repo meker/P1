@@ -1,4 +1,4 @@
-Toronto Raptors||Philadelphia 76ers|||not final
-Detroit Pistons||Washington Wizards|||not final
-Dallas Mavericks||Minnesota Timberwolves|||not final
-Charlotte Hornets||Phoenix Suns|||not final
+Toronto Raptors|112|Philadelphia 76ers|123|https://www.basketball-reference.com/boxscores/202611120PHI.html|final
+Detroit Pistons|144|Washington Wizards|140|https://www.basketball-reference.com/boxscores/202611120WAS.html|final
+Dallas Mavericks|94|Minnesota Timberwolves|133|https://www.basketball-reference.com/boxscores/202611120MIN.html|final
+Charlotte Hornets|96|Phoenix Suns|101|https://www.basketball-reference.com/boxscores/202611120PHO.html|final
