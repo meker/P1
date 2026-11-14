@@ -1,0 +1,41 @@
+Final: New York Knicks 104, Indiana Pacers 106
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+New York Knicks	Starters	Jalen Brunson	35:57	11	22	4	9	7	8	0	1	1	11	2	0	4	3	33
+New York Knicks	Starters	Karl-Anthony Towns	33:53	9	19	3	7	2	3	3	12	15	5	3	0	1	2	23
+New York Knicks	Starters	OG Anunoby	33:20	4	13	2	8	1	2	0	2	2	1	1	1	3	3	11
+New York Knicks	Starters	Mikal Bridges	28:40	8	12	2	4	0	0	1	2	3	3	2	0	3	5	18
+New York Knicks	Starters	Josh Hart	23:13	0	4	0	3	0	0	1	4	5	4	0	0	0	2	0
+New York Knicks	Reserves	Miles McBride	21:49	3	8	3	7	0	0	0	1	1	1	1	1	0	1	9
+New York Knicks	Reserves	Landry Shamet	21:02	2	6	1	5	0	0	1	2	3	1	1	0	1	1	5
+New York Knicks	Reserves	Tyler Kolek	18:30	2	4	1	2	0	0	2	4	6	2	0	0	0	2	5
+New York Knicks	Reserves	Andre Drummond	13:47	0	1	0	0	0	0	0	6	6	0	1	1	1	2	0
+New York Knicks	Reserves	Jordan Clarkson	8:40	0	2	0	1	0	0	0	1	1	0	0	0	0	2	0
+New York Knicks	Reserves	Pacôme Dadiet	1:09	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+New York Knicks	Reserves	Jose Alvarado	Did Not Play
+New York Knicks	Reserves	Mohamed Diawara	Did Not Play
+New York Knicks	Reserves	James Wiseman	Did Not Play
+New York Knicks	Reserves	Dalton Knecht	Did Not Dress
+New York Knicks	Reserves	Jaden Akins	Did Not Dress
+New York Knicks	Reserves	Tyler Nickel	Did Not Dress
+New York Knicks	Totals	Team Totals	240	39	91	16	46	10	13	8	35	43	28	11	3	13	24	104
+Indiana Pacers	Starters	Andrew Nembhard	33:42	4	14	1	6	3	3	1	3	4	6	0	0	6	0	12
+Indiana Pacers	Starters	Aaron Nesmith	32:31	7	10	2	3	2	2	1	6	7	1	0	0	1	1	18
+Indiana Pacers	Starters	Pascal Siakam	31:58	5	13	2	4	7	12	1	2	3	2	0	0	3	4	19
+Indiana Pacers	Starters	Kelly Oubre Jr.	29:52	5	13	1	4	5	6	1	4	5	0	2	1	0	3	16
+Indiana Pacers	Starters	Ivica Zubac	25:46	6	12	0	0	0	0	9	4	13	1	0	1	1	0	12
+Indiana Pacers	Reserves	Quenton Jackson	20:18	1	4	1	3	0	0	2	3	5	4	1	0	1	4	3
+Indiana Pacers	Reserves	T.J. McConnell	17:20	3	9	0	1	0	0	0	3	3	7	2	0	2	1	6
+Indiana Pacers	Reserves	Obi Toppin	16:02	4	6	1	3	0	0	0	3	3	1	0	0	0	0	9
+Indiana Pacers	Reserves	Larry Nance Jr.	13:57	1	2	0	1	0	0	1	1	2	1	1	0	0	2	2
+Indiana Pacers	Reserves	Jalen Slawson	10:17	0	2	0	0	1	2	1	3	4	0	0	0	1	1	1
+Indiana Pacers	Reserves	Jay Huff	8:17	3	5	2	4	0	0	0	1	1	0	0	1	0	0	8
+Indiana Pacers	Reserves	Jarace Walker	Did Not Play
+Indiana Pacers	Reserves	Braden Smith	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Reserves	Kobe Brown	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	39	90	10	29	18	25	17	33	50	23	6	3	15	16	106
+```

@@ -1,0 +1,41 @@
+Final: Cleveland Cavaliers 121, Miami Heat 133
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Cleveland Cavaliers	Starters	James Harden	34:49	5	13	2	8	8	8	0	6	6	8	3	1	2	2	20
+Cleveland Cavaliers	Starters	Donovan Mitchell	32:51	9	21	5	12	2	4	0	4	4	7	0	0	3	5	25
+Cleveland Cavaliers	Starters	Jarrett Allen	31:40	3	4	0	0	3	4	3	5	8	1	1	1	1	3	9
+Cleveland Cavaliers	Starters	Peyton Watson	30:25	2	10	0	5	0	0	1	3	4	2	0	0	2	3	4
+Cleveland Cavaliers	Starters	Jaylon Tyson	29:52	6	11	4	7	0	0	0	3	3	1	1	0	0	3	16
+Cleveland Cavaliers	Reserves	Tyrese Proctor	27:20	7	9	5	7	3	4	1	3	4	3	1	0	0	4	22
+Cleveland Cavaliers	Reserves	Meleek Thomas	17:54	5	8	2	5	0	0	0	0	0	3	1	0	0	5	12
+Cleveland Cavaliers	Reserves	Thomas Bryant	16:20	3	8	0	3	3	5	0	1	1	1	1	0	0	1	9
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	9:28	0	0	0	0	0	0	1	1	2	2	0	1	0	2	0
+Cleveland Cavaliers	Reserves	Mario Hezonja	9:21	2	2	0	0	0	0	1	3	4	0	0	0	1	1	4
+Cleveland Cavaliers	Reserves	Riley Minix	Did Not Play
+Cleveland Cavaliers	Reserves	Norchad Omier	Did Not Play
+Cleveland Cavaliers	Reserves	Sam Merrill	Did Not Dress
+Cleveland Cavaliers	Reserves	Evan Mobley	Did Not Dress
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Dress
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Ernest Udeh, Jr.	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	240	42	86	18	47	19	25	7	29	36	28	8	3	9	29	121
+Miami Heat	Starters	Davion Mitchell	38:56	7	14	3	7	5	6	1	4	5	17	0	1	1	3	22
+Miami Heat	Starters	Bam Adebayo	38:05	13	19	2	3	9	10	4	10	14	3	0	0	0	2	37
+Miami Heat	Starters	Giannis Antetokounmpo	31:00	15	20	1	2	6	11	2	7	9	2	0	1	4	0	37
+Miami Heat	Starters	Tim Hardaway Jr.	20:09	1	6	0	2	2	2	2	1	3	2	1	0	0	1	4
+Miami Heat	Starters	Myron Gardner	19:19	0	3	0	3	0	0	1	3	4	2	0	0	0	3	0
+Miami Heat	Reserves	Ryan Conwell	32:45	6	12	4	9	4	4	2	3	5	2	0	0	2	3	20
+Miami Heat	Reserves	Andrew Wiggins	31:33	2	5	1	3	3	4	0	3	3	4	0	0	0	1	8
+Miami Heat	Reserves	Bobby Portis Jr.	15:03	2	6	1	3	0	0	1	2	3	2	0	0	1	5	5
+Miami Heat	Reserves	Simone Fontecchio	7:26	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0
+Miami Heat	Reserves	Dru Smith	5:44	0	3	0	2	0	0	0	0	0	1	0	0	0	2	0
+Miami Heat	Reserves	Tre Donaldson	Did Not Play
+Miami Heat	Reserves	Keshad Johnson	Did Not Play
+Miami Heat	Reserves	Nikola Jović	Did Not Play
+Miami Heat	Reserves	Nick Richards	Did Not Play
+Miami Heat	Reserves	Klay Thompson	Did Not Play
+Miami Heat	Reserves	Pelle Larsson	Did Not Dress
+Miami Heat	Reserves	Vladislav Goldin	Did Not Dress
+Miami Heat	Totals	Team Totals	240	46	88	12	34	29	37	13	33	46	37	1	2	9	20	133
+```

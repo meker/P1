@@ -1,0 +1,42 @@
+Final: Golden State Warriors 85, San Antonio Spurs 123
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Golden State Warriors	Starters	Will Richard	30:19	2	4	1	2	2	2	2	2	4	1	0	0	2	4	7
+Golden State Warriors	Starters	Yaxel Lendeborg	23:40	1	13	0	2	1	2	2	5	7	1	0	1	3	3	3
+Golden State Warriors	Starters	Brandin Podziemski	22:03	2	10	2	5	2	2	1	2	3	0	0	1	0	0	8
+Golden State Warriors	Starters	De'Anthony Melton	18:21	3	11	2	6	0	0	1	3	4	3	1	1	0	1	8
+Golden State Warriors	Starters	Draymond Green	15:44	2	5	0	2	0	0	0	3	3	3	1	0	2	3	4
+Golden State Warriors	Reserves	LJ Cryer	23:57	7	17	6	11	0	0	1	1	2	6	1	0	0	1	20
+Golden State Warriors	Reserves	Gui Santos	21:10	3	8	1	3	0	1	1	3	4	1	0	1	1	1	7
+Golden State Warriors	Reserves	Charles Bassey	20:10	5	7	0	0	1	2	1	4	5	2	0	0	3	4	11
+Golden State Warriors	Reserves	Georges Niang	15:14	2	4	1	2	0	0	0	3	3	2	0	0	0	1	5
+Golden State Warriors	Reserves	Malevy Leons	13:58	1	2	1	2	2	2	0	1	1	0	0	0	0	1	5
+Golden State Warriors	Reserves	Graham Ike	13:01	2	7	1	3	0	0	1	1	2	3	1	1	1	1	5
+Golden State Warriors	Reserves	Gary Payton II	12:32	1	3	0	2	0	0	0	2	2	0	0	0	1	2	2
+Golden State Warriors	Reserves	Al Horford	9:51	0	2	0	1	0	0	0	3	3	1	0	0	0	0	0
+Golden State Warriors	Reserves	Jimmy Butler III	Did Not Dress
+Golden State Warriors	Reserves	Kristaps Porziņģis	Did Not Dress
+Golden State Warriors	Reserves	Brandon Williams	Did Not Dress
+Golden State Warriors	Reserves	Moses Moody	Did Not Dress
+Golden State Warriors	Reserves	Stephen Curry	Did Not Dress
+Golden State Warriors	Totals	Team Totals	240	31	93	15	41	8	11	10	33	43	23	4	5	13	22	85
+San Antonio Spurs	Starters	Dylan Harper	25:10	4	8	1	3	0	0	1	2	3	4	1	0	0	1	9
+San Antonio Spurs	Starters	Stephon Castle	25:07	12	18	5	8	3	3	1	4	5	6	0	1	1	1	32
+San Antonio Spurs	Starters	Devin Vassell	22:52	3	6	0	3	1	2	0	2	2	2	0	0	0	2	7
+San Antonio Spurs	Starters	Victor Wembanyama	20:54	5	11	0	2	2	3	1	11	12	6	1	2	2	0	12
+San Antonio Spurs	Starters	De'Aaron Fox	16:49	1	6	0	3	5	5	1	4	5	1	1	0	2	1	7
+San Antonio Spurs	Reserves	Keldon Johnson	24:56	6	11	2	6	4	6	1	3	4	4	1	0	2	0	18
+San Antonio Spurs	Reserves	Julian Champagnie	22:43	3	8	1	5	0	0	1	7	8	3	0	1	1	2	7
+San Antonio Spurs	Reserves	Harrison Barnes	21:19	4	9	3	6	0	0	0	1	1	1	0	0	1	1	11
+San Antonio Spurs	Reserves	Carter Bryant	19:06	3	10	2	6	0	0	1	2	3	2	0	0	0	3	8
+San Antonio Spurs	Reserves	Luke Kornet	16:12	2	3	0	0	2	2	4	3	7	2	0	2	0	1	6
+San Antonio Spurs	Reserves	Jordan McLaughlin	13:58	2	3	0	1	0	0	2	4	6	2	1	1	0	0	4
+San Antonio Spurs	Reserves	Tarris Reed Jr.	10:54	1	2	0	0	0	2	2	2	4	1	2	0	0	1	2
+San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
+San Antonio Spurs	Reserves	David Jones Garcia	Did Not Dress
+San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
+San Antonio Spurs	Reserves	Ja'Kobi Gillespie	Did Not Dress
+San Antonio Spurs	Reserves	Maliq Brown	Did Not Dress
+San Antonio Spurs	Totals	Team Totals	240	46	95	14	43	17	23	15	45	60	34	7	7	9	13	123
+```

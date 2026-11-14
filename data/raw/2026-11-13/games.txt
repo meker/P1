@@ -1,9 +1,9 @@
-New York Knicks||Indiana Pacers|||not final
-Milwaukee Bucks||Orlando Magic|||not final
-Cleveland Cavaliers||Miami Heat|||not final
-Atlanta Hawks||Chicago Bulls|||not final
-Memphis Grizzlies||New Orleans Pelicans|||not final
-Utah Jazz||Houston Rockets|||not final
-Golden State Warriors||San Antonio Spurs|||not final
-Portland Trail Blazers||Sacramento Kings|||not final
 Oklahoma City Thunder||Los Angeles Clippers|||not final
+New York Knicks|104|Indiana Pacers|106|https://www.basketball-reference.com/boxscores/202611130IND.html|final
+Milwaukee Bucks|99|Orlando Magic|107|https://www.basketball-reference.com/boxscores/202611130ORL.html|final
+Cleveland Cavaliers|121|Miami Heat|133|https://www.basketball-reference.com/boxscores/202611130MIA.html|final
+Atlanta Hawks|117|Chicago Bulls|125|https://www.basketball-reference.com/boxscores/202611130CHI.html|final
+Memphis Grizzlies|142|New Orleans Pelicans|111|https://www.basketball-reference.com/boxscores/202611130NOP.html|final
+Utah Jazz|118|Houston Rockets|125|https://www.basketball-reference.com/boxscores/202611130HOU.html|final
+Golden State Warriors|85|San Antonio Spurs|123|https://www.basketball-reference.com/boxscores/202611130SAS.html|final
+Portland Trail Blazers|120|Sacramento Kings|107|https://www.basketball-reference.com/boxscores/202611130SAC.html|final
