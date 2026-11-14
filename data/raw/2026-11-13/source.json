@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated_at": "2026-11-14T05:46:23Z",
+ "updated_at": "2026-11-14T05:50:38Z",
  "games": 9,
  "final": 8,
  "pending": 1,
@@ -14,7 +14,7 @@
    "away": "OKC",
    "home": "LAC",
    "status": "in progress",
-   "status_text": "Q4 5:16",
+   "status_text": "Q4 2:43",
    "source": null,
    "away_score": null,
    "home_score": null,
