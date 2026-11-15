@@ -1,5 +1,5 @@
-Denver Nuggets||New Orleans Pelicans|||not final
-Dallas Mavericks||Cleveland Cavaliers|||not final
-Brooklyn Nets||Memphis Grizzlies|||not final
-Detroit Pistons||Miami Heat|||not final
-Chicago Bulls||Minnesota Timberwolves|||not final
+Denver Nuggets|116|New Orleans Pelicans|108|https://www.basketball-reference.com/boxscores/202611140NOP.html|final
+Dallas Mavericks|117|Cleveland Cavaliers|127|https://www.basketball-reference.com/boxscores/202611140CLE.html|final
+Brooklyn Nets|110|Memphis Grizzlies|129|https://www.basketball-reference.com/boxscores/202611140MEM.html|final
+Detroit Pistons|117|Miami Heat|137|https://www.basketball-reference.com/boxscores/202611140MIA.html|final
+Chicago Bulls|117|Minnesota Timberwolves|106|https://www.basketball-reference.com/boxscores/202611140MIN.html|final

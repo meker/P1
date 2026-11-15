@@ -1,0 +1,42 @@
+Final: Dallas Mavericks 117, Cleveland Cavaliers 127
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Dallas Mavericks	Starters	Cooper Flagg	38:24	6	19	0	6	6	8	1	7	8	5	0	1	0	2	18
+Dallas Mavericks	Starters	Kyrie Irving	37:19	11	25	7	16	5	7	2	4	6	5	3	1	1	3	34
+Dallas Mavericks	Starters	Caleb Martin	32:42	6	7	1	2	2	2	3	5	8	3	1	0	1	4	15
+Dallas Mavericks	Starters	P.J. Washington	26:03	3	9	2	4	2	2	1	2	3	1	0	1	1	2	10
+Dallas Mavericks	Starters	Daniel Gafford	16:45	4	5	1	1	1	2	1	2	3	1	0	0	1	2	10
+Dallas Mavericks	Reserves	Naji Marshall	29:55	4	10	0	3	4	4	2	1	3	5	1	0	3	1	12
+Dallas Mavericks	Reserves	Santi Aldama	16:13	2	6	2	5	1	2	1	1	2	1	1	0	0	3	7
+Dallas Mavericks	Reserves	Morez Johnson Jr.	14:56	0	2	0	0	4	4	1	1	2	0	1	0	0	0	4
+Dallas Mavericks	Reserves	Zaccharie Risacher	14:28	2	5	1	3	0	0	1	1	2	0	1	0	0	2	5
+Dallas Mavericks	Reserves	Walter Clayton Jr.	13:16	1	5	0	4	0	0	0	2	2	2	0	0	0	1	2
+Dallas Mavericks	Reserves	Moussa Cissé	Did Not Play
+Dallas Mavericks	Reserves	Jett Howard	Did Not Play
+Dallas Mavericks	Reserves	Tobi Lawal	Did Not Play
+Dallas Mavericks	Reserves	Marcus Sasser	Did Not Play
+Dallas Mavericks	Reserves	Tarik Biberovic	Did Not Dress
+Dallas Mavericks	Reserves	Sergio de Larrea	Did Not Dress
+Dallas Mavericks	Reserves	Max Christie	Did Not Dress
+Dallas Mavericks	Reserves	Dereck Lively II	Did Not Dress
+Dallas Mavericks	Totals	Team Totals	240	39	93	14	44	25	31	13	26	39	23	8	3	7	20	117
+Cleveland Cavaliers	Starters	Tyrese Proctor	34:05	10	19	4	13	0	0	4	7	11	10	0	0	1	2	24
+Cleveland Cavaliers	Starters	Mario Hezonja	34:03	9	12	2	2	2	2	0	7	7	4	0	0	2	3	22
+Cleveland Cavaliers	Starters	Jaylon Tyson	33:37	5	13	3	7	5	5	0	4	4	4	0	0	2	4	18
+Cleveland Cavaliers	Starters	Meleek Thomas	33:33	8	17	3	9	1	2	1	3	4	2	0	0	4	3	20
+Cleveland Cavaliers	Starters	Thomas Bryant	27:25	7	12	2	4	3	4	2	9	11	3	0	0	1	3	19
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	28:22	3	6	0	1	3	3	4	5	9	6	1	1	5	0	9
+Cleveland Cavaliers	Reserves	Norchad Omier	26:45	5	5	1	1	2	2	2	6	8	2	1	0	1	5	13
+Cleveland Cavaliers	Reserves	Riley Minix	22:10	1	6	0	3	0	0	0	0	0	0	0	0	0	4	2
+Cleveland Cavaliers	Reserves	Jarrett Allen	Did Not Play
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Play
+Cleveland Cavaliers	Reserves	Peyton Watson	Did Not Play
+Cleveland Cavaliers	Reserves	James Harden	Did Not Dress
+Cleveland Cavaliers	Reserves	Donovan Mitchell	Did Not Dress
+Cleveland Cavaliers	Reserves	Sam Merrill	Did Not Dress
+Cleveland Cavaliers	Reserves	Evan Mobley	Did Not Dress
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Ernest Udeh, Jr.	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	240	48	90	15	40	16	18	13	41	54	31	2	1	16	24	127
+```
