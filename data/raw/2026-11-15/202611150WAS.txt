@@ -1,0 +1,42 @@
+Final: Houston Rockets 147, Washington Wizards 119
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Houston Rockets	Starters	Kevin Durant	29:32	8	13	2	3	7	8	1	3	4	5	1	0	2	0	25
+Houston Rockets	Starters	Amen Thompson	29:15	9	11	3	3	5	6	2	5	7	7	1	1	3	1	26
+Houston Rockets	Starters	Alperen Şengün	28:14	5	8	1	2	8	9	1	7	8	8	2	0	1	3	19
+Houston Rockets	Starters	Jabari Smith Jr.	27:49	3	15	1	7	2	2	2	4	6	5	0	1	1	4	9
+Houston Rockets	Starters	Steven Adams	12:09	3	4	0	0	0	0	4	3	7	1	0	1	2	1	6
+Houston Rockets	Reserves	Tari Eason	30:03	10	14	3	5	2	3	0	7	7	1	0	0	1	4	25
+Houston Rockets	Reserves	Reed Sheppard	25:39	4	9	3	8	0	0	1	0	1	6	2	0	1	1	11
+Houston Rockets	Reserves	Bogdan Bogdanović	22:08	4	6	2	4	2	4	0	3	3	4	0	0	1	2	12
+Houston Rockets	Reserves	Oscar Tshiebwe	12:00	2	3	0	0	0	0	4	5	9	3	0	1	0	3	4
+Houston Rockets	Reserves	Isaiah Crawford	9:20	2	3	0	1	0	0	2	0	2	0	1	0	0	2	4
+Houston Rockets	Reserves	Jae'Sean Tate	8:03	2	2	0	0	0	0	1	1	2	0	0	0	1	0	4
+Houston Rockets	Reserves	Bruce Thornton	5:48	0	2	0	0	2	2	0	0	0	0	0	0	1	0	2
+Houston Rockets	Reserves	Marcus Smart	Player Suspended
+Houston Rockets	Reserves	Fred VanVleet	Did Not Dress
+Houston Rockets	Reserves	Julian Phillips	Did Not Dress
+Houston Rockets	Reserves	Clint Capela	Did Not Dress
+Houston Rockets	Reserves	Quadir Copeland	Did Not Dress
+Houston Rockets	Totals	Team Totals	240	52	90	15	33	28	34	18	38	56	40	7	4	14	21	147
+Washington Wizards	Starters	Anthony Davis	30:35	4	11	0	0	6	6	3	5	8	5	1	2	2	2	14
+Washington Wizards	Starters	AJ Dybantsa	30:20	6	18	2	7	2	4	2	5	7	1	1	0	2	0	16
+Washington Wizards	Starters	Kyshawn George	30:07	4	13	1	4	2	4	1	1	2	4	3	1	0	4	11
+Washington Wizards	Starters	Alex Sarr	27:02	9	13	3	6	4	8	2	7	9	2	0	3	1	3	25
+Washington Wizards	Starters	Trae Young	26:06	0	5	0	3	0	0	0	1	1	8	2	0	3	3	0
+Washington Wizards	Reserves	Bub Carrington	22:49	4	8	3	5	0	0	0	0	0	4	0	0	0	1	11
+Washington Wizards	Reserves	Bilal Coulibaly	21:02	2	7	1	4	4	4	1	1	2	0	1	2	0	3	9
+Washington Wizards	Reserves	Will Riley	15:45	4	6	2	3	4	5	3	0	3	0	1	0	0	2	14
+Washington Wizards	Reserves	Tre Mann	11:17	1	2	1	2	1	2	0	1	1	1	0	0	2	3	4
+Washington Wizards	Reserves	Deandre Ayton	9:57	1	1	0	0	0	0	0	1	1	0	0	0	1	3	2
+Washington Wizards	Reserves	Khris Middleton	9:15	3	4	2	3	0	0	0	0	0	2	0	0	0	0	8
+Washington Wizards	Reserves	Anthony Gill	5:45	2	2	0	0	1	1	1	0	1	0	0	0	0	0	5
+Washington Wizards	Reserves	Justin Champagnie	Did Not Dress
+Washington Wizards	Reserves	Reece Beekman	Did Not Dress
+Washington Wizards	Reserves	Tristan Vukčević	Did Not Dress
+Washington Wizards	Reserves	Jamir Watkins	Did Not Dress
+Washington Wizards	Reserves	Tre Johnson	Did Not Dress
+Washington Wizards	Reserves	Felix Okpara	Did Not Dress
+Washington Wizards	Totals	Team Totals	240	40	90	15	37	24	34	13	22	35	27	9	8	11	24	119
+```

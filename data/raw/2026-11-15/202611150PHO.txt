@@ -1,0 +1,42 @@
+Final: Los Angeles Lakers 131, Phoenix Suns 123
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Los Angeles Lakers	Starters	Quentin Grimes	37:26	7	10	5	6	3	4	2	4	6	1	2	0	3	3	22
+Los Angeles Lakers	Starters	Luka Dončić	35:44	13	28	5	13	12	14	0	3	3	9	1	0	2	5	43
+Los Angeles Lakers	Starters	Walker Kessler	32:26	4	5	0	0	6	6	6	6	12	3	1	2	2	2	14
+Los Angeles Lakers	Starters	Jake LaRavia	32:19	4	10	2	6	2	2	0	3	3	3	1	3	0	2	12
+Los Angeles Lakers	Starters	Matisse Thybulle	26:05	4	9	2	6	2	2	2	6	8	0	3	2	4	3	12
+Los Angeles Lakers	Reserves	Collin Sexton	23:45	6	11	2	5	2	4	0	0	0	3	0	0	2	2	16
+Los Angeles Lakers	Reserves	Sandro Mamukelashvili	21:10	2	8	0	4	0	0	1	1	2	3	1	0	1	2	4
+Los Angeles Lakers	Reserves	Ziaire Williams	18:59	2	3	0	1	2	2	0	2	2	3	2	0	1	4	6
+Los Angeles Lakers	Reserves	Jarred Vanderbilt	12:09	1	2	0	0	0	2	1	3	4	0	0	1	0	1	2
+Los Angeles Lakers	Reserves	Jaden Hardy	Did Not Play
+Los Angeles Lakers	Reserves	Bronny James	Did Not Play
+Los Angeles Lakers	Reserves	Kevon Looney	Did Not Play
+Los Angeles Lakers	Reserves	Chris Mañon	Did Not Play
+Los Angeles Lakers	Reserves	Adou Thiero	Did Not Play
+Los Angeles Lakers	Reserves	Austin Reaves	Did Not Dress
+Los Angeles Lakers	Reserves	Arthur Kaluma	Did Not Dress
+Los Angeles Lakers	Reserves	Cameron Carr	Did Not Dress
+Los Angeles Lakers	Reserves	Carson Cooper	Did Not Dress
+Los Angeles Lakers	Totals	Team Totals	240	43	86	16	41	29	36	12	28	40	25	11	8	15	24	131
+Phoenix Suns	Starters	Devin Booker	27:48	4	14	0	4	9	9	1	3	4	7	1	0	1	2	17
+Phoenix Suns	Starters	Miles Bridges	24:06	6	10	2	5	0	1	1	2	3	3	0	0	0	2	14
+Phoenix Suns	Starters	Dillon Brooks	22:18	0	2	0	1	1	2	0	2	2	0	0	0	4	3	1
+Phoenix Suns	Starters	Jalen Green	21:16	4	11	1	6	0	0	0	2	2	1	2	0	2	4	9
+Phoenix Suns	Starters	Oso Ighodaro	17:01	2	3	0	0	0	0	0	2	2	3	0	1	2	2	4
+Phoenix Suns	Reserves	Jordan Goodwin	31:21	3	10	1	8	7	9	2	5	7	6	1	1	4	4	14
+Phoenix Suns	Reserves	Collin Gillespie	27:38	8	14	5	10	5	6	0	4	4	4	0	0	1	1	26
+Phoenix Suns	Reserves	Ryan Dunn	23:59	1	3	1	3	0	0	4	2	6	1	0	0	1	2	3
+Phoenix Suns	Reserves	Luke Kennard	23:08	7	14	3	9	1	1	3	3	6	4	0	0	0	1	18
+Phoenix Suns	Reserves	Khaman Maluach	13:11	3	4	0	0	1	2	1	3	4	0	0	1	0	1	7
+Phoenix Suns	Reserves	Koa Peat	8:15	5	7	0	0	0	0	2	0	2	0	0	0	1	1	10
+Phoenix Suns	Reserves	Jamaree Bouyea	Did Not Play
+Phoenix Suns	Reserves	Rasheer Fleming	Did Not Play
+Phoenix Suns	Reserves	Duop Reath	Did Not Play
+Phoenix Suns	Reserves	Pat Spencer	Did Not Play
+Phoenix Suns	Reserves	Mark Williams	Did Not Dress
+Phoenix Suns	Reserves	Drew Timme	Did Not Dress
+Phoenix Suns	Totals	Team Totals	240	43	92	13	46	24	30	14	28	42	29	4	3	16	23	123
+```

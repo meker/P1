@@ -1,0 +1,43 @@
+Final: Atlanta Hawks 113, Milwaukee Bucks 106
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Atlanta Hawks	Starters	Onyeka Okongwu	35:46	6	12	3	8	1	2	1	10	11	0	2	1	2	2	16
+Atlanta Hawks	Starters	Jalen Johnson	34:53	5	13	0	2	4	8	2	9	11	5	0	0	4	4	14
+Atlanta Hawks	Starters	Nickeil Alexander-Walker	32:30	7	15	2	8	4	5	1	4	5	4	1	1	2	2	20
+Atlanta Hawks	Starters	CJ McCollum	30:15	5	10	1	3	9	9	1	3	4	2	4	0	0	0	20
+Atlanta Hawks	Starters	Dyson Daniels	26:56	4	9	0	1	1	2	4	6	10	5	2	0	3	4	9
+Atlanta Hawks	Reserves	Aaron Wiggins	23:37	3	7	1	5	0	0	0	3	3	3	1	0	4	1	7
+Atlanta Hawks	Reserves	Luguentz Dort	18:26	1	4	0	3	1	2	2	2	4	0	0	0	2	1	3
+Atlanta Hawks	Reserves	Corey Kispert	15:51	4	8	3	6	3	3	1	2	3	1	1	0	0	1	14
+Atlanta Hawks	Reserves	Zuby Ejiofor	12:14	1	3	1	1	1	2	2	1	3	0	1	0	0	2	4
+Atlanta Hawks	Reserves	RayJ Dennis	9:32	2	6	1	3	1	1	0	1	1	3	0	0	0	3	6
+Atlanta Hawks	Reserves	Dorian Finney-Smith	Did Not Play
+Atlanta Hawks	Reserves	Kingston Flemings	Did Not Dress
+Atlanta Hawks	Reserves	Asa Newell	Did Not Dress
+Atlanta Hawks	Reserves	Keshon Gilbert	Did Not Dress
+Atlanta Hawks	Reserves	Henri Veesaar	Did Not Dress
+Atlanta Hawks	Reserves	Mouhamed Gueye	Did Not Dress
+Atlanta Hawks	Reserves	Jock Landale	Did Not Dress
+Atlanta Hawks	Reserves	Jalen Wilson	Did Not Dress
+Atlanta Hawks	Totals	Team Totals	240	38	87	12	40	25	34	14	41	55	23	12	2	17	20	113
+Milwaukee Bucks	Starters	Brayden Burries	29:22	3	9	2	5	5	6	2	6	8	4	2	0	2	4	13
+Milwaukee Bucks	Starters	Myles Turner	23:28	3	6	1	3	1	1	3	4	7	1	0	1	0	5	8
+Milwaukee Bucks	Starters	Kyle Kuzma	22:27	5	11	3	6	1	2	1	5	6	2	0	0	2	0	14
+Milwaukee Bucks	Starters	Tyler Herro	20:27	2	13	0	5	1	1	2	3	5	3	1	0	5	0	5
+Milwaukee Bucks	Starters	Jericho Sims	10:50	2	3	0	0	0	0	1	1	2	0	0	0	2	2	4
+Milwaukee Bucks	Reserves	Gary Trent Jr.	30:03	7	16	4	12	0	1	0	2	2	1	3	0	0	3	18
+Milwaukee Bucks	Reserves	Jaime Jaquez Jr.	29:41	2	7	2	4	0	0	1	4	5	4	2	0	5	2	6
+Milwaukee Bucks	Reserves	Kasparas Jakučionis	26:08	9	16	4	10	3	3	4	1	5	5	3	0	2	2	25
+Milwaukee Bucks	Reserves	Kel'el Ware	24:32	2	7	1	3	3	4	3	8	11	2	0	3	1	1	8
+Milwaukee Bucks	Reserves	Nate Ament	16:44	2	5	1	3	0	0	0	2	2	1	0	0	1	3	5
+Milwaukee Bucks	Reserves	AJ Green	6:18	0	3	0	3	0	0	0	0	0	0	0	0	0	2	0
+Milwaukee Bucks	Reserves	Caris LeVert	Did Not Play
+Milwaukee Bucks	Reserves	Ryan Rollins	Did Not Dress
+Milwaukee Bucks	Reserves	Ousmane Dieng	Did Not Dress
+Milwaukee Bucks	Reserves	Kam Jones	Did Not Dress
+Milwaukee Bucks	Reserves	Bogoljub Markovic	Did Not Dress
+Milwaukee Bucks	Reserves	Pete Nance	Did Not Dress
+Milwaukee Bucks	Reserves	Cormac Ryan	Did Not Dress
+Milwaukee Bucks	Totals	Team Totals	240	37	96	18	54	14	18	17	36	53	23	11	4	20	24	106
+```

@@ -1,9 +1,9 @@
-Indiana Pacers||Philadelphia 76ers|||not final
-Los Angeles Lakers||Phoenix Suns|||not final
-Charlotte Hornets||Los Angeles Clippers|||not final
-San Antonio Spurs||Utah Jazz|||not final
-New York Knicks||Toronto Raptors|||not final
-Dallas Mavericks||Boston Celtics|||not final
-Houston Rockets||Washington Wizards|||not final
-Atlanta Hawks||Milwaukee Bucks|||not final
-Oklahoma City Thunder||Sacramento Kings|||not final
+Indiana Pacers|124|Philadelphia 76ers|131|https://www.basketball-reference.com/boxscores/202611150PHI.html|final
+Los Angeles Lakers|131|Phoenix Suns|123|https://www.basketball-reference.com/boxscores/202611150PHO.html|final
+Charlotte Hornets|105|Los Angeles Clippers|113|https://www.basketball-reference.com/boxscores/202611150LAC.html|final
+San Antonio Spurs|110|Utah Jazz|102|https://www.basketball-reference.com/boxscores/202611150UTA.html|final
+New York Knicks|112|Toronto Raptors|108|https://www.basketball-reference.com/boxscores/202611150TOR.html|final
+Dallas Mavericks|94|Boston Celtics|131|https://www.basketball-reference.com/boxscores/202611150BOS.html|final
+Houston Rockets|147|Washington Wizards|119|https://www.basketball-reference.com/boxscores/202611150WAS.html|final
+Atlanta Hawks|113|Milwaukee Bucks|106|https://www.basketball-reference.com/boxscores/202611150MIL.html|final
+Oklahoma City Thunder|125|Sacramento Kings|103|https://www.basketball-reference.com/boxscores/202611150SAC.html|final
