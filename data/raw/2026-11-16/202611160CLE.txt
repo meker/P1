@@ -1,0 +1,42 @@
+Final: Chicago Bulls 115, Cleveland Cavaliers 126
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Chicago Bulls	Starters	Norman Powell	32:57	10	18	0	6	7	11	0	2	2	6	1	0	4	3	27
+Chicago Bulls	Starters	Isaac Okoro	32:11	5	12	3	7	0	0	3	3	6	2	4	0	0	3	13
+Chicago Bulls	Starters	Matas Buzelis	31:26	8	14	3	6	4	4	0	3	3	0	1	1	2	2	23
+Chicago Bulls	Starters	Jalen Smith	27:45	6	9	3	6	2	3	6	5	11	3	2	2	1	2	17
+Chicago Bulls	Starters	Josh Giddey	23:48	1	5	1	4	1	2	0	4	4	8	0	1	6	2	4
+Chicago Bulls	Reserves	Tre Jones	23:00	6	11	0	3	4	4	0	2	2	6	4	0	1	0	16
+Chicago Bulls	Reserves	Buddy Hield	19:06	2	8	2	7	0	0	1	3	4	2	0	0	0	4	6
+Chicago Bulls	Reserves	Nic Claxton	16:38	3	6	0	0	2	2	0	2	2	1	1	0	1	0	8
+Chicago Bulls	Reserves	Noa Essengue	13:59	0	4	0	3	1	2	1	1	2	1	1	0	0	3	1
+Chicago Bulls	Reserves	Patrick Williams	12:56	0	2	0	1	0	0	0	0	0	0	0	0	2	0	0
+Chicago Bulls	Reserves	Jordan Hawkins	3:37	0	1	0	1	0	0	0	0	0	1	0	0	0	1	0
+Chicago Bulls	Reserves	Dailyn Swain	1:50	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+Chicago Bulls	Reserves	Leonard Miller	0:47	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Chicago Bulls	Reserves	Zach Collins	Did Not Play
+Chicago Bulls	Reserves	Orlando Robinson	Did Not Dress
+Chicago Bulls	Reserves	Caleb Wilson	Did Not Dress
+Chicago Bulls	Reserves	Tobe Awaka	Did Not Dress
+Chicago Bulls	Reserves	Jaylin Sellers	Did Not Dress
+Chicago Bulls	Totals	Team Totals	240	41	90	12	44	21	28	11	26	37	30	14	4	17	20	115
+Cleveland Cavaliers	Starters	Donovan Mitchell	35:51	16	25	2	5	5	5	1	3	4	4	3	0	3	1	39
+Cleveland Cavaliers	Starters	James Harden	34:22	3	10	2	6	1	2	0	4	4	10	1	0	2	2	9
+Cleveland Cavaliers	Starters	Jarrett Allen	30:12	6	9	0	0	1	2	6	8	14	3	1	1	4	5	13
+Cleveland Cavaliers	Starters	Tyrese Proctor	28:54	6	13	2	6	3	5	0	3	3	2	2	1	4	3	17
+Cleveland Cavaliers	Starters	Peyton Watson	21:31	5	10	2	5	2	4	0	4	4	0	0	1	3	2	14
+Cleveland Cavaliers	Reserves	Meleek Thomas	30:03	4	13	1	7	1	2	3	3	6	3	2	0	1	3	10
+Cleveland Cavaliers	Reserves	Thomas Bryant	17:48	4	4	0	0	1	1	1	4	5	4	1	0	0	2	9
+Cleveland Cavaliers	Reserves	Mario Hezonja	14:46	4	7	1	3	0	0	0	4	4	2	1	0	2	0	9
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	13:38	1	2	0	0	0	0	1	0	1	3	2	0	1	2	2
+Cleveland Cavaliers	Reserves	Norchad Omier	12:55	2	4	0	1	0	0	3	3	6	2	1	1	0	2	4
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Play
+Cleveland Cavaliers	Reserves	Riley Minix	Did Not Play
+Cleveland Cavaliers	Reserves	Ernest Udeh, Jr.	Did Not Dress
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Jaylon Tyson	Did Not Dress
+Cleveland Cavaliers	Reserves	Sam Merrill	Did Not Dress
+Cleveland Cavaliers	Reserves	Evan Mobley	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	240	51	97	10	33	14	21	15	36	51	33	14	4	20	22	126
+```

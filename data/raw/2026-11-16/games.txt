@@ -1,8 +1,8 @@
-Orlando Magic||Boston Celtics|||not final
-Memphis Grizzlies||Washington Wizards|||not final
-Chicago Bulls||Cleveland Cavaliers|||not final
-Houston Rockets||Miami Heat|||not final
-Philadelphia 76ers||Brooklyn Nets|||not final
-Golden State Warriors||New Orleans Pelicans|||not final
-Portland Trail Blazers||Minnesota Timberwolves|||not final
-Phoenix Suns||Denver Nuggets|||not final
+Orlando Magic|115|Boston Celtics|105|https://www.basketball-reference.com/boxscores/202611160BOS.html|final
+Memphis Grizzlies|136|Washington Wizards|120|https://www.basketball-reference.com/boxscores/202611160WAS.html|final
+Chicago Bulls|115|Cleveland Cavaliers|126|https://www.basketball-reference.com/boxscores/202611160CLE.html|final
+Houston Rockets|110|Miami Heat|128|https://www.basketball-reference.com/boxscores/202611160MIA.html|final
+Philadelphia 76ers|135|Brooklyn Nets|123|https://www.basketball-reference.com/boxscores/202611160BRK.html|final
+Golden State Warriors|94|New Orleans Pelicans|115|https://www.basketball-reference.com/boxscores/202611160NOP.html|final
+Portland Trail Blazers|98|Minnesota Timberwolves|106|https://www.basketball-reference.com/boxscores/202611160MIN.html|final
+Phoenix Suns|117|Denver Nuggets|105|https://www.basketball-reference.com/boxscores/202611160DEN.html|final
