@@ -15,17 +15,15 @@ Charlotte Hornets	Reserves	Tidjane Salaün	5:28	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0
 Charlotte Hornets	Reserves	Liam McNeeley	0:12	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0
 Charlotte Hornets	Reserves	Dennis Schröder	Not With Team
 Charlotte Hornets	Reserves	Grayson Allen	Did Not Dress
-Charlotte Hornets	Reserves	Kon Knueppel	Did Not Dress
-Charlotte Hornets	Reserves	Grayson Allen	Did Not Dress
 Charlotte Hornets	Reserves	PJ Hall	Did Not Dress
 Charlotte Hornets	Reserves	Michael Ajayi	Did Not Dress
 Charlotte Hornets	Reserves	Kon Knueppel	Did Not Dress
 Charlotte Hornets	Reserves	Hannes Steinbach	Did Not Dress
 Charlotte Hornets	Reserves	Kylan Boswell	Did Not Dress
-Charlotte Hornets	Totals	Team Totals	265	40	87	18	54	16	20	12	39	51	24	8	4	20	27	114
-Los Angeles Lakers	Starters	Luka Dončić	42:20	13	34	5	16	5	7	0	6	6	7	1	1	5	5	36
+Charlotte Hornets	Totals	Team Totals	265	40	87	18	54	16	20	12	39	51	24	8	4	18	27	114
+Los Angeles Lakers	Starters	Luka Dončić	42:20	13	34	5	16	5	7	0	7	7	7	1	1	5	5	36
 Los Angeles Lakers	Starters	Quentin Grimes	41:33	16	24	10	14	5	6	2	4	6	3	1	0	3	1	47
-Los Angeles Lakers	Starters	Matisse Thybulle	31:12	2	6	2	6	1	2	0	6	6	0	3	1	1	3	7
+Los Angeles Lakers	Starters	Matisse Thybulle	31:12	2	6	2	6	1	2	0	5	5	0	3	1	1	3	7
 Los Angeles Lakers	Starters	Jake LaRavia	22:46	2	5	0	1	0	0	2	3	5	2	0	1	1	1	4
 Los Angeles Lakers	Starters	Kevon Looney	17:02	2	3	0	0	0	0	5	3	8	0	0	0	0	0	4
 Los Angeles Lakers	Reserves	Collin Sexton	25:12	3	12	1	7	3	4	1	3	4	3	0	0	2	2	10
@@ -37,11 +35,9 @@ Los Angeles Lakers	Reserves	Adou Thiero	6:28	0	2	0	1	0	0	0	0	0	1	1	0	0	0	0
 Los Angeles Lakers	Reserves	Cameron Carr	Did Not Play
 Los Angeles Lakers	Reserves	Jaden Hardy	Did Not Play
 Los Angeles Lakers	Reserves	Bronny James	Did Not Play
-Los Angeles Lakers	Reserves	Walker Kessler	Did Not Dress
-Los Angeles Lakers	Reserves	Austin Reaves	Did Not Dress
 Los Angeles Lakers	Reserves	Chris Mañon	Did Not Dress
 Los Angeles Lakers	Reserves	Austin Reaves	Did Not Dress
 Los Angeles Lakers	Reserves	Walker Kessler	Did Not Dress
 Los Angeles Lakers	Reserves	Arthur Kaluma	Did Not Dress
-Los Angeles Lakers	Totals	Team Totals	265	41	99	18	50	18	29	19	31	50	21	8	3	14	20	118
+Los Angeles Lakers	Totals	Team Totals	265	41	99	18	50	18	29	19	31	50	21	8	3	13	20	118
 ```
