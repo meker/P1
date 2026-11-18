@@ -1,5 +1,5 @@
-Charlotte Hornets||Los Angeles Lakers|||not final
 New York Knicks|111|Toronto Raptors|102|https://www.basketball-reference.com/boxscores/202611170TOR.html|final
 Detroit Pistons|105|San Antonio Spurs|93|https://www.basketball-reference.com/boxscores/202611170SAS.html|final
 Portland Trail Blazers|105|Minnesota Timberwolves|106|https://www.basketball-reference.com/boxscores/202611170MIN.html|final
 Utah Jazz|132|Los Angeles Clippers|107|https://www.basketball-reference.com/boxscores/202611170LAC.html|final
+Charlotte Hornets|114|Los Angeles Lakers|118|https://www.basketball-reference.com/boxscores/202611170LAL.html|final
