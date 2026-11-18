@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updated_at": "2026-11-18T06:47:50Z",
+ "updated_at": "2026-11-18T06:50:10Z",
  "games": 5,
  "final": 4,
  "pending": 1,
@@ -14,7 +14,7 @@
    "away": "CHO",
    "home": "LAL",
    "status": "in progress",
-   "status_text": "OT 2:20",
+   "status_text": "OT 1:05",
    "source": null,
    "away_score": null,
    "home_score": null,
