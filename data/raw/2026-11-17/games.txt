@@ -1,5 +1,5 @@
-New York Knicks||Toronto Raptors|||not final
-Detroit Pistons||San Antonio Spurs|||not final
-Portland Trail Blazers||Minnesota Timberwolves|||not final
 Utah Jazz||Los Angeles Clippers|||not final
 Charlotte Hornets||Los Angeles Lakers|||not final
+New York Knicks|111|Toronto Raptors|102|https://www.basketball-reference.com/boxscores/202611170TOR.html|final
+Detroit Pistons|105|San Antonio Spurs|93|https://www.basketball-reference.com/boxscores/202611170SAS.html|final
+Portland Trail Blazers|105|Minnesota Timberwolves|106|https://www.basketball-reference.com/boxscores/202611170MIN.html|final

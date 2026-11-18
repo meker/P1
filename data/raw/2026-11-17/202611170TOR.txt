@@ -1,0 +1,41 @@
+Final: New York Knicks 111, Toronto Raptors 102
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+New York Knicks	Starters	Karl-Anthony Towns	36:26	7	9	1	2	1	1	6	10	16	8	1	0	2	5	16
+New York Knicks	Starters	OG Anunoby	35:48	5	11	1	4	5	6	1	3	4	0	1	2	1	4	16
+New York Knicks	Starters	Jalen Brunson	34:26	10	22	4	11	7	7	1	4	5	5	0	1	2	2	31
+New York Knicks	Starters	Josh Hart	31:25	2	5	1	4	0	0	0	4	4	2	1	1	1	4	5
+New York Knicks	Starters	Mikal Bridges	30:02	7	11	2	5	1	2	0	5	5	1	0	0	2	0	17
+New York Knicks	Reserves	Landry Shamet	24:09	4	7	2	4	2	2	0	1	1	1	0	0	0	0	12
+New York Knicks	Reserves	Tyler Kolek	13:26	2	5	0	3	0	0	1	0	1	3	0	0	1	1	4
+New York Knicks	Reserves	Andre Drummond	10:59	1	2	0	0	0	0	3	5	8	0	0	0	1	1	2
+New York Knicks	Reserves	Miles McBride	9:08	1	1	1	1	0	0	0	0	0	1	0	0	1	0	3
+New York Knicks	Reserves	Jordan Clarkson	7:40	1	3	0	1	1	1	0	0	0	0	0	0	1	1	3
+New York Knicks	Reserves	Jose Alvarado	6:32	1	2	0	0	0	0	0	0	0	4	0	0	0	2	2
+New York Knicks	Reserves	Pacôme Dadiet	Did Not Play
+New York Knicks	Reserves	Mohamed Diawara	Did Not Play
+New York Knicks	Reserves	James Wiseman	Did Not Play
+New York Knicks	Reserves	Dalton Knecht	Did Not Dress
+New York Knicks	Reserves	Jaden Akins	Did Not Dress
+New York Knicks	Reserves	Tyler Nickel	Did Not Dress
+New York Knicks	Totals	Team Totals	240	41	78	12	35	17	19	12	32	44	25	3	4	12	20	111
+Toronto Raptors	Starters	RJ Barrett	38:41	9	17	2	8	2	6	0	5	5	5	0	1	0	1	22
+Toronto Raptors	Starters	Scottie Barnes	34:06	7	14	1	2	5	6	1	3	4	2	0	2	0	5	20
+Toronto Raptors	Starters	Immanuel Quickley	33:50	6	11	2	5	0	0	1	0	1	7	0	0	1	3	14
+Toronto Raptors	Starters	Ja'Kobe Walter	33:18	9	15	7	12	0	0	0	1	1	2	2	0	1	3	25
+Toronto Raptors	Starters	Collin Murray-Boyles	33:15	4	6	0	0	0	0	1	0	1	3	1	3	1	3	8
+Toronto Raptors	Reserves	Jamal Shead	19:53	2	7	1	3	2	4	0	0	0	6	0	0	1	0	7
+Toronto Raptors	Reserves	Jakob Poeltl	18:21	1	3	0	0	1	2	1	5	6	1	1	0	0	1	3
+Toronto Raptors	Reserves	Allen Graves	13:25	1	3	1	3	0	0	1	1	2	1	1	0	1	3	3
+Toronto Raptors	Reserves	Alijah Martin	8:12	0	0	0	0	0	0	0	2	2	0	0	0	0	0	0
+Toronto Raptors	Reserves	Jamison Battle	6:58	0	2	0	2	0	0	0	1	1	0	0	0	0	1	0
+Toronto Raptors	Reserves	Kyle Anderson	Did Not Play
+Toronto Raptors	Reserves	Jaden Bradley	Did Not Play
+Toronto Raptors	Reserves	Trayce Jackson-Davis	Did Not Play
+Toronto Raptors	Reserves	Nate Bittle	Did Not Dress
+Toronto Raptors	Reserves	Kawhi Leonard	Did Not Dress
+Toronto Raptors	Reserves	Kevin McCullar Jr.	Did Not Dress
+Toronto Raptors	Reserves	Malachi Smith	Did Not Dress
+Toronto Raptors	Totals	Team Totals	240	39	78	14	35	10	18	5	18	23	27	5	6	5	20	102
+```
