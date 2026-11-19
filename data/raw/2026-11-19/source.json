@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-19",
+ "updated_at": "2026-11-19T17:32:23Z",
+ "games": 4,
+ "final": 0,
+ "pending": 4,
+ "problems": 0,
+ "sources": [],
+ "list": [
+  {
+   "boxid": "202611190SAS",
+   "away": "LAC",
+   "home": "SAS",
+   "status": "not started",
+   "status_text": "8:00 pm ET",
+   "source": null,
+   "away_score": null,
+   "home_score": null,
+   "final_at": null,
+   "nba_game_id": "0022600273",
+   "espn_event_id": null,
+   "url": null,
+   "problems": []
+  },
+  {
+   "boxid": "202611190MEM",
+   "away": "GSW",
+   "home": "MEM",
+   "status": "not started",
+   "status_text": "8:00 pm ET",
+   "source": null,
+   "away_score": null,
+   "home_score": null,
+   "final_at": null,
+   "nba_game_id": "0022600270",
+   "espn_event_id": null,
+   "url": null,
+   "problems": []
+  },
+  {
+   "boxid": "202611190MIN",
+   "away": "NYK",
+   "home": "MIN",
+   "status": "not started",
+   "status_text": "8:00 pm ET",
+   "source": null,
+   "away_score": null,
+   "home_score": null,
+   "final_at": null,
+   "nba_game_id": "0022600272",
+   "espn_event_id": null,
+   "url": null,
+   "problems": []
+  },
+  {
+   "boxid": "202611190MIL",
+   "away": "POR",
+   "home": "MIL",
+   "status": "not started",
+   "status_text": "8:00 pm ET",
+   "source": null,
+   "away_score": null,
+   "home_score": null,
+   "final_at": null,
+   "nba_game_id": "0022600271",
+   "espn_event_id": null,
+   "url": null,
+   "problems": []
+  }
+ ]
+}
