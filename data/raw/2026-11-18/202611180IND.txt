@@ -1,0 +1,41 @@
+Final: Houston Rockets 119, Indiana Pacers 104
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Houston Rockets	Starters	Kevin Durant	31:35	7	9	4	5	3	4	0	2	2	3	0	0	2	1	21
+Houston Rockets	Starters	Amen Thompson	31:21	6	11	0	1	3	4	1	8	9	3	1	1	3	1	15
+Houston Rockets	Starters	Fred VanVleet	26:39	6	13	3	7	0	0	0	2	2	6	1	0	2	1	15
+Houston Rockets	Starters	Jabari Smith Jr.	25:51	7	10	3	6	0	0	0	4	4	2	0	1	0	4	17
+Houston Rockets	Starters	Alperen Şengün	14:10	3	10	1	1	0	0	3	4	7	1	0	0	3	1	7
+Houston Rockets	Reserves	Tari Eason	24:52	4	11	1	3	2	3	2	2	4	3	2	0	3	2	11
+Houston Rockets	Reserves	Reed Sheppard	24:46	7	10	6	7	0	0	1	3	4	2	1	1	0	4	20
+Houston Rockets	Reserves	Marcus Smart	18:16	1	4	1	2	1	2	0	2	2	4	1	1	2	1	4
+Houston Rockets	Reserves	Steven Adams	16:22	2	5	0	0	0	0	3	2	5	2	0	0	0	1	4
+Houston Rockets	Reserves	Oscar Tshiebwe	10:45	1	2	0	0	2	2	2	2	4	3	1	0	0	2	4
+Houston Rockets	Reserves	Bogdan Bogdanović	10:44	0	3	0	3	1	2	1	2	3	0	0	0	1	0	1
+Houston Rockets	Reserves	Isaiah Crawford	2:23	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Houston Rockets	Reserves	Bruce Thornton	1:08	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Houston Rockets	Reserves	Jae'Sean Tate	1:08	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Houston Rockets	Reserves	Quadir Copeland	Did Not Dress
+Houston Rockets	Reserves	Julian Phillips	Did Not Dress
+Houston Rockets	Reserves	Clint Capela	Did Not Dress
+Houston Rockets	Totals	Team Totals	240	44	89	19	35	12	17	13	33	46	30	7	4	16	18	119
+Indiana Pacers	Starters	Pascal Siakam	32:38	10	17	2	2	2	2	1	3	4	3	3	1	1	0	24
+Indiana Pacers	Starters	Aaron Nesmith	28:53	1	7	0	3	0	0	0	3	3	3	1	1	1	3	2
+Indiana Pacers	Starters	Ivica Zubac	23:49	2	4	0	0	0	0	1	2	3	4	0	1	1	0	4
+Indiana Pacers	Starters	Kelly Oubre Jr.	22:31	7	10	2	5	1	1	0	4	4	0	0	1	2	4	17
+Indiana Pacers	Starters	Quenton Jackson	22:06	6	9	2	3	1	1	2	0	2	3	3	0	3	1	15
+Indiana Pacers	Reserves	T.J. McConnell	18:28	7	10	0	0	0	0	1	1	2	5	2	0	2	0	14
+Indiana Pacers	Reserves	Braden Smith	18:26	3	5	2	4	0	0	0	5	5	3	2	0	0	1	8
+Indiana Pacers	Reserves	Obi Toppin	17:16	2	5	0	3	2	3	0	1	1	1	0	0	0	0	6
+Indiana Pacers	Reserves	Jarace Walker	17:12	0	5	0	3	1	2	0	3	3	1	1	0	1	0	1
+Indiana Pacers	Reserves	Jay Huff	14:37	2	7	0	4	1	1	1	2	3	0	0	2	0	1	5
+Indiana Pacers	Reserves	Jalen Slawson	12:15	2	5	1	4	0	0	1	3	4	2	1	0	0	2	5
+Indiana Pacers	Reserves	Larry Nance Jr.	9:26	1	3	1	3	0	0	0	1	1	0	0	0	0	4	3
+Indiana Pacers	Reserves	Kobe Brown	2:23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Indiana Pacers	Reserves	Andrew Nembhard	Did Not Dress
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	43	87	10	34	8	10	7	28	35	25	13	6	11	16	104
+```

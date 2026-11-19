@@ -1,0 +1,43 @@
+Final: Atlanta Hawks 117, Oklahoma City Thunder 112
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Atlanta Hawks	Starters	Dyson Daniels	37:02	5	9	0	2	0	0	4	6	10	4	2	0	1	2	10
+Atlanta Hawks	Starters	Onyeka Okongwu	35:54	11	21	5	13	1	3	2	7	9	2	0	1	5	3	28
+Atlanta Hawks	Starters	Jalen Johnson	33:58	5	15	1	6	5	5	2	10	12	11	0	1	3	3	16
+Atlanta Hawks	Starters	Nickeil Alexander-Walker	32:27	8	16	3	7	0	0	0	4	4	7	1	0	1	3	19
+Atlanta Hawks	Starters	Aaron Wiggins	26:00	5	13	4	8	0	0	2	1	3	1	1	0	1	1	14
+Atlanta Hawks	Reserves	Luguentz Dort	30:48	6	11	3	6	1	2	1	2	3	0	2	0	0	3	16
+Atlanta Hawks	Reserves	Corey Kispert	16:50	2	5	2	4	2	2	0	1	1	2	0	2	0	1	8
+Atlanta Hawks	Reserves	Zuby Ejiofor	12:06	1	3	1	2	0	0	1	2	3	0	0	0	1	1	3
+Atlanta Hawks	Reserves	RayJ Dennis	9:41	1	6	1	2	0	0	2	1	3	5	1	0	1	2	3
+Atlanta Hawks	Reserves	Dorian Finney-Smith	5:15	0	0	0	0	0	0	0	2	2	0	1	0	0	1	0
+Atlanta Hawks	Reserves	Kingston Flemings	Did Not Play
+Atlanta Hawks	Reserves	Jalen Wilson	Did Not Play
+Atlanta Hawks	Reserves	CJ McCollum	Did Not Dress
+Atlanta Hawks	Reserves	Jock Landale	Did Not Dress
+Atlanta Hawks	Reserves	Mouhamed Gueye	Did Not Dress
+Atlanta Hawks	Reserves	Asa Newell	Did Not Dress
+Atlanta Hawks	Reserves	Henri Veesaar	Did Not Dress
+Atlanta Hawks	Reserves	Rafael Castro	Did Not Dress
+Atlanta Hawks	Totals	Team Totals	240	44	99	20	50	9	12	14	36	50	32	8	4	13	20	117
+Oklahoma City Thunder	Starters	Shai Gilgeous-Alexander	36:02	14	29	1	6	5	10	1	4	5	3	2	2	4	0	34
+Oklahoma City Thunder	Starters	Ajay Mitchell	33:52	5	11	0	2	3	3	0	6	6	6	0	2	2	3	13
+Oklahoma City Thunder	Starters	Jared McCain	33:06	7	14	4	9	0	0	1	2	3	1	1	0	1	1	18
+Oklahoma City Thunder	Starters	Isaiah Hartenstein	27:15	3	5	0	0	0	0	1	16	17	6	0	1	0	0	6
+Oklahoma City Thunder	Starters	Aday Mara	26:56	4	6	0	0	2	4	1	5	6	8	0	1	1	1	10
+Oklahoma City Thunder	Reserves	Kenrich Williams	22:58	5	8	0	2	0	0	1	4	5	1	1	2	0	1	10
+Oklahoma City Thunder	Reserves	Bennett Stirtz	16:46	2	3	2	2	0	0	0	0	0	2	0	0	0	0	6
+Oklahoma City Thunder	Reserves	Jaylin Williams	15:43	1	3	1	2	0	2	0	1	1	1	0	1	2	2	3
+Oklahoma City Thunder	Reserves	Nique Clifford	12:43	3	6	1	2	0	0	0	0	0	0	0	0	0	2	7
+Oklahoma City Thunder	Reserves	Alex Caruso	9:24	2	5	0	1	1	2	0	0	0	1	1	0	2	2	5
+Oklahoma City Thunder	Reserves	Nikola Topić	5:15	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+Oklahoma City Thunder	Reserves	Brooks Barnhizer	Did Not Play
+Oklahoma City Thunder	Reserves	Josh Dix	Did Not Dress
+Oklahoma City Thunder	Reserves	Micah Peavy	Did Not Dress
+Oklahoma City Thunder	Reserves	Cason Wallace	Did Not Dress
+Oklahoma City Thunder	Reserves	Thomas Sorber	Did Not Dress
+Oklahoma City Thunder	Reserves	Chet Holmgren	Did Not Dress
+Oklahoma City Thunder	Reserves	Jalen Williams	Did Not Dress
+Oklahoma City Thunder	Totals	Team Totals	240	46	90	9	26	11	21	5	38	43	30	5	9	13	13	112
+```

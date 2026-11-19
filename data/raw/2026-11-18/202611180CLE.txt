@@ -1,0 +1,42 @@
+Final: Memphis Grizzlies 124, Cleveland Cavaliers 121
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Memphis Grizzlies	Starters	Cedric Coward	33:26	6	11	4	7	4	6	1	2	3	5	2	0	2	0	20
+Memphis Grizzlies	Starters	Cam Spencer	29:27	9	11	5	6	3	4	0	1	1	7	0	1	2	2	26
+Memphis Grizzlies	Starters	Cameron Boozer	27:41	5	9	1	3	7	7	1	7	8	5	4	1	1	2	18
+Memphis Grizzlies	Starters	Jaylen Wells	25:50	2	5	1	3	0	0	0	4	4	2	0	0	1	2	5
+Memphis Grizzlies	Starters	Zach Edey	21:14	5	7	0	0	1	1	0	2	2	1	2	0	1	6	11
+Memphis Grizzlies	Reserves	Javon Small	20:43	1	6	0	4	0	0	1	3	4	5	1	0	1	1	2
+Memphis Grizzlies	Reserves	Taylor Hendricks	20:42	6	7	1	2	5	6	2	4	6	2	0	2	0	0	18
+Memphis Grizzlies	Reserves	Jerami Grant	20:10	2	5	1	3	3	3	0	0	0	1	0	1	2	1	8
+Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	16:05	2	5	0	2	1	2	0	2	2	0	0	0	1	1	5
+Memphis Grizzlies	Reserves	Jahmai Mashack	12:49	1	6	1	4	0	0	0	2	2	2	0	1	0	2	3
+Memphis Grizzlies	Reserves	Quinten Post	6:04	1	1	1	1	0	0	0	2	2	0	0	0	0	0	3
+Memphis Grizzlies	Reserves	Kris Murray	5:49	2	5	1	4	0	0	0	0	0	0	0	0	0	1	5
+Memphis Grizzlies	Reserves	Karim López	Did Not Play
+Memphis Grizzlies	Reserves	Richie Saunders	Did Not Dress
+Memphis Grizzlies	Reserves	GG Jackson	Did Not Dress
+Memphis Grizzlies	Reserves	Ty Jerome	Did Not Dress
+Memphis Grizzlies	Reserves	Isaiah Stewart	Did Not Dress
+Memphis Grizzlies	Reserves	Scotty Pippen Jr.	Did Not Dress
+Memphis Grizzlies	Totals	Team Totals	240	42	78	16	39	24	29	5	29	34	30	9	6	11	18	124
+Cleveland Cavaliers	Starters	James Harden	35:31	4	10	3	7	3	3	1	5	6	9	0	1	3	2	14
+Cleveland Cavaliers	Starters	Donovan Mitchell	35:26	14	27	2	9	4	4	2	2	4	3	1	0	3	3	34
+Cleveland Cavaliers	Starters	Jarrett Allen	29:37	7	15	0	1	5	5	5	4	9	4	1	0	4	2	19
+Cleveland Cavaliers	Starters	Mario Hezonja	28:02	7	12	2	5	0	0	1	6	7	5	1	0	0	4	16
+Cleveland Cavaliers	Starters	Tyrese Proctor	25:46	3	6	2	4	0	0	1	0	1	1	0	0	0	3	8
+Cleveland Cavaliers	Reserves	Sam Merrill	22:57	2	6	1	4	2	4	2	0	2	3	2	0	0	6	7
+Cleveland Cavaliers	Reserves	Meleek Thomas	22:06	5	9	4	6	0	0	1	1	2	2	1	0	1	2	14
+Cleveland Cavaliers	Reserves	Norchad Omier	16:21	1	2	0	1	0	0	5	2	7	0	1	1	0	3	2
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	12:13	0	4	0	1	2	2	2	1	3	1	0	2	0	1	2
+Cleveland Cavaliers	Reserves	Thomas Bryant	12:01	1	4	1	3	2	2	0	4	4	0	0	1	0	0	5
+Cleveland Cavaliers	Reserves	Zack Austin	Did Not Play
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Play
+Cleveland Cavaliers	Reserves	Evan Mobley	Did Not Dress
+Cleveland Cavaliers	Reserves	Peyton Watson	Did Not Dress
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Jaylon Tyson	Did Not Dress
+Cleveland Cavaliers	Reserves	Ernest Udeh Jr.	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	240	44	95	15	41	18	20	20	25	45	28	7	5	11	26	121
+```
