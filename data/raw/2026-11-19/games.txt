@@ -1,4 +1,4 @@
-Los Angeles Clippers||San Antonio Spurs|||not final
-Golden State Warriors||Memphis Grizzlies|||not final
-New York Knicks||Minnesota Timberwolves|||not final
-Portland Trail Blazers||Milwaukee Bucks|||not final
+Los Angeles Clippers|112|San Antonio Spurs|124|https://www.basketball-reference.com/boxscores/202611190SAS.html|final
+Golden State Warriors|98|Memphis Grizzlies|126|https://www.basketball-reference.com/boxscores/202611190MEM.html|final
+New York Knicks|102|Minnesota Timberwolves|99|https://www.basketball-reference.com/boxscores/202611190MIN.html|final
+Portland Trail Blazers|124|Milwaukee Bucks|114|https://www.basketball-reference.com/boxscores/202611190MIL.html|final
