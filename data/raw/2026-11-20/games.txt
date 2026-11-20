@@ -1,0 +1,9 @@
+Charlotte Hornets||Atlanta Hawks|||not final
+Toronto Raptors||Detroit Pistons|||not final
+Indiana Pacers||Cleveland Cavaliers|||not final
+Orlando Magic||Brooklyn Nets|||not final
+New Orleans Pelicans||Oklahoma City Thunder|||not final
+Washington Wizards||Chicago Bulls|||not final
+Phoenix Suns||Utah Jazz|||not final
+Houston Rockets||Denver Nuggets|||not final
+Sacramento Kings||Los Angeles Lakers|||not final
