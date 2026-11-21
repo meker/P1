@@ -1,0 +1,42 @@
+Final: Toronto Raptors 105, Detroit Pistons 102
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Toronto Raptors	Starters	Scottie Barnes	37:23	14	21	0	0	1	2	2	3	5	5	1	0	3	5	29
+Toronto Raptors	Starters	Allen Graves	32:39	6	9	2	4	6	6	4	6	10	1	3	1	0	3	20
+Toronto Raptors	Starters	Immanuel Quickley	32:37	6	10	3	7	3	4	0	3	3	10	0	0	3	2	18
+Toronto Raptors	Starters	Ja'Kobe Walter	32:37	2	11	2	8	2	2	0	3	3	3	1	0	1	3	8
+Toronto Raptors	Starters	Jakob Poeltl	32:13	5	7	0	0	0	0	2	7	9	3	0	2	0	2	10
+Toronto Raptors	Reserves	Jamison Battle	20:26	4	6	2	4	0	0	1	4	5	0	0	0	1	1	10
+Toronto Raptors	Reserves	Trayce Jackson-Davis	15:47	4	4	0	0	0	0	0	2	2	1	1	1	0	2	8
+Toronto Raptors	Reserves	Alijah Martin	15:44	0	4	0	3	0	0	1	1	2	1	0	0	1	1	0
+Toronto Raptors	Reserves	Jamal Shead	15:23	0	4	0	2	0	0	0	1	1	4	0	0	2	2	0
+Toronto Raptors	Reserves	Malachi Smith	5:12	1	1	0	0	0	0	0	0	0	1	0	0	1	0	2
+Toronto Raptors	Reserves	Kyle Anderson	Did Not Play
+Toronto Raptors	Reserves	Collin Murray-Boyles	Did Not Play
+Toronto Raptors	Reserves	Jaden Bradley	Did Not Dress
+Toronto Raptors	Reserves	Nate Bittle	Did Not Dress
+Toronto Raptors	Reserves	Kevin McCullar Jr.	Did Not Dress
+Toronto Raptors	Reserves	RJ Barrett	Did Not Dress
+Toronto Raptors	Reserves	Kawhi Leonard	Did Not Dress
+Toronto Raptors	Totals	Team Totals	240	42	77	9	28	12	14	10	30	40	29	6	4	12	21	105
+Detroit Pistons	Starters	Daniss Jenkins	39:21	5	14	2	4	2	2	0	4	4	1	2	0	1	4	14
+Detroit Pistons	Starters	Kevin Huerter	35:55	7	15	4	8	2	3	0	3	3	3	1	0	2	3	20
+Detroit Pistons	Starters	Cade Cunningham	35:44	10	22	2	7	1	4	1	4	5	9	1	0	3	1	23
+Detroit Pistons	Starters	Ausar Thompson	33:27	6	9	0	1	1	2	5	1	6	3	2	0	1	3	13
+Detroit Pistons	Starters	John Collins	19:54	1	4	0	2	1	1	2	4	6	1	0	0	1	2	3
+Detroit Pistons	Reserves	Paul Reed	28:08	3	5	0	0	2	2	2	5	7	3	3	1	1	0	8
+Detroit Pistons	Reserves	Javonte Green	22:40	3	4	3	4	3	3	0	1	1	0	0	0	0	1	12
+Detroit Pistons	Reserves	Isaiah Joe	18:28	2	7	1	6	4	4	0	1	1	0	0	0	2	1	9
+Detroit Pistons	Reserves	Chaz Lanier	6:23	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+Detroit Pistons	Reserves	Elijah Harkless	Did Not Play
+Detroit Pistons	Reserves	Isaac Jones	Did Not Play
+Detroit Pistons	Reserves	Tolu Smith	Did Not Play
+Detroit Pistons	Reserves	Taurean Prince	Did Not Dress
+Detroit Pistons	Reserves	Duncan Robinson	Did Not Dress
+Detroit Pistons	Reserves	Jalen Duren	Did Not Dress
+Detroit Pistons	Reserves	Ronald Holland II	Did Not Dress
+Detroit Pistons	Reserves	Ugonna Onyenso	Did Not Dress
+Detroit Pistons	Reserves	Ebuka Okorie	Did Not Dress
+Detroit Pistons	Totals	Team Totals	240	37	81	12	33	16	21	10	23	33	20	9	1	11	15	102
+```

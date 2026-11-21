@@ -1,0 +1,42 @@
+Final: Orlando Magic 113, Brooklyn Nets 111
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Orlando Magic	Starters	Anthony Black	36:31	4	11	2	6	3	8	3	4	7	6	3	2	5	1	13
+Orlando Magic	Starters	Franz Wagner	36:14	13	25	2	5	7	9	0	5	5	7	0	1	2	2	35
+Orlando Magic	Starters	Wendell Carter Jr.	35:04	2	4	0	2	4	4	3	5	8	2	0	2	1	4	8
+Orlando Magic	Starters	Desmond Bane	30:36	7	17	7	13	0	0	1	1	2	3	5	1	1	4	21
+Orlando Magic	Starters	Jalen Suggs	29:47	3	10	2	7	0	0	1	5	6	2	1	0	4	4	8
+Orlando Magic	Reserves	Tristan da Silva	23:41	2	6	2	6	0	0	1	0	1	2	0	0	0	1	6
+Orlando Magic	Reserves	Nikola Vučević	23:03	5	5	3	3	2	2	3	5	8	1	0	0	2	3	15
+Orlando Magic	Reserves	Goga Bitadze	14:46	2	2	0	0	0	0	0	4	4	1	0	0	1	4	4
+Orlando Magic	Reserves	Jevon Carter	10:18	1	1	1	1	0	0	0	0	0	0	1	0	0	3	3
+Orlando Magic	Reserves	Jamal Cain	Did Not Play
+Orlando Magic	Reserves	Alex Morales	Did Not Play
+Orlando Magic	Reserves	Jase Richardson	Did Not Play
+Orlando Magic	Reserves	Jonathan Isaac	Did Not Dress
+Orlando Magic	Reserves	Colin Castleton	Did Not Dress
+Orlando Magic	Reserves	Paolo Banchero	Did Not Dress
+Orlando Magic	Reserves	Noah Penda	Did Not Dress
+Orlando Magic	Reserves	Izaiyah Nelson	Did Not Dress
+Orlando Magic	Totals	Team Totals	240	39	81	19	43	16	23	12	29	41	24	10	6	16	26	113
+Brooklyn Nets	Starters	Julius Randle	39:28	9	20	1	7	8	11	3	6	9	6	3	0	3	5	27
+Brooklyn Nets	Starters	Michael Porter Jr.	34:04	6	14	3	6	1	2	0	4	4	5	2	0	3	2	16
+Brooklyn Nets	Starters	Day'Ron Sharpe	26:29	7	9	0	1	3	3	7	4	11	2	1	1	1	1	17
+Brooklyn Nets	Starters	Danny Wolf	25:40	6	10	4	6	4	4	3	2	5	2	1	0	3	4	20
+Brooklyn Nets	Starters	Nolan Traoré	17:57	2	6	0	2	0	0	0	0	0	2	0	0	0	0	4
+Brooklyn Nets	Reserves	Mikel Brown Jr.	24:09	6	14	3	8	3	3	0	1	1	0	0	0	1	3	18
+Brooklyn Nets	Reserves	Noah Clowney	21:44	0	4	0	3	0	0	0	2	2	2	1	1	0	3	0
+Brooklyn Nets	Reserves	Moritz Wagner	21:31	1	3	1	2	0	0	0	5	5	2	2	0	4	3	3
+Brooklyn Nets	Reserves	Egor Dëmin	20:44	1	6	0	3	4	4	0	3	3	2	0	0	2	3	6
+Brooklyn Nets	Reserves	Keon Ellis	8:16	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0
+Brooklyn Nets	Reserves	Chaney Johnson	Did Not Play
+Brooklyn Nets	Reserves	Terance Mann	Did Not Play
+Brooklyn Nets	Reserves	Josh Minott	Did Not Play
+Brooklyn Nets	Reserves	Drake Powell	Did Not Play
+Brooklyn Nets	Reserves	Ben Saraf	Did Not Play
+Brooklyn Nets	Reserves	Joshua Jefferson	Did Not Dress
+Brooklyn Nets	Reserves	Tyler Bilodeau	Did Not Dress
+Brooklyn Nets	Reserves	Grant Nelson	Did Not Dress
+Brooklyn Nets	Totals	Team Totals	240	38	86	12	38	23	27	13	28	41	24	10	3	17	24	111
+```

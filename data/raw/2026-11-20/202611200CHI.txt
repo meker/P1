@@ -1,0 +1,43 @@
+Final: Washington Wizards 98, Chicago Bulls 94
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Washington Wizards	Starters	AJ Dybantsa	36:38	9	18	2	4	0	0	1	9	10	6	2	1	3	3	20
+Washington Wizards	Starters	Trae Young	35:29	4	13	4	8	4	4	0	2	2	5	3	0	1	4	16
+Washington Wizards	Starters	Kyshawn George	34:36	5	17	1	8	0	0	3	4	7	5	1	2	3	5	11
+Washington Wizards	Starters	Anthony Davis	33:52	16	26	0	0	4	9	5	6	11	3	0	0	3	2	36
+Washington Wizards	Starters	Alex Sarr	20:14	1	3	1	2	0	0	0	3	3	0	1	1	2	2	3
+Washington Wizards	Reserves	Khris Middleton	28:00	2	5	0	1	1	2	0	2	2	3	0	0	0	3	5
+Washington Wizards	Reserves	Bilal Coulibaly	23:34	1	3	0	0	0	0	1	4	5	0	2	2	0	2	2
+Washington Wizards	Reserves	Deandre Ayton	11:09	0	1	0	0	0	0	1	3	4	1	0	0	0	1	0
+Washington Wizards	Reserves	Will Riley	6:17	0	0	0	0	0	2	0	1	1	1	0	0	0	0	0
+Washington Wizards	Reserves	Bub Carrington	5:46	1	2	1	2	0	0	0	0	0	0	0	0	0	0	3
+Washington Wizards	Reserves	Tre Johnson	4:25	1	2	0	1	0	0	0	1	1	0	0	0	0	0	2
+Washington Wizards	Reserves	Anthony Gill	Did Not Play
+Washington Wizards	Reserves	Tre Mann	Did Not Play
+Washington Wizards	Reserves	Felix Okpara	Did Not Dress
+Washington Wizards	Reserves	Justin Champagnie	Did Not Dress
+Washington Wizards	Reserves	Reece Beekman	Did Not Dress
+Washington Wizards	Reserves	Tristan Vukčević	Did Not Dress
+Washington Wizards	Reserves	Jamir Watkins	Did Not Dress
+Washington Wizards	Totals	Team Totals	240	40	90	9	26	9	17	11	35	46	24	9	6	12	22	98
+Chicago Bulls	Starters	Norman Powell	32:38	7	18	1	5	1	2	0	3	3	2	1	0	1	2	16
+Chicago Bulls	Starters	Isaac Okoro	29:00	2	4	1	3	4	4	3	4	7	1	1	0	1	1	9
+Chicago Bulls	Starters	Nic Claxton	28:49	4	8	0	0	3	3	1	6	7	1	0	2	3	4	11
+Chicago Bulls	Starters	Matas Buzelis	24:39	4	10	1	5	0	0	0	5	5	1	1	0	3	4	9
+Chicago Bulls	Starters	Josh Giddey	22:34	1	6	0	1	0	0	2	4	6	7	0	0	2	0	2
+Chicago Bulls	Reserves	Tre Jones	25:26	5	14	0	1	2	2	0	1	1	7	1	0	0	3	12
+Chicago Bulls	Reserves	Buddy Hield	23:23	5	10	4	9	1	1	2	2	4	0	0	0	2	1	15
+Chicago Bulls	Reserves	Patrick Williams	23:03	2	8	0	4	2	2	0	3	3	1	1	1	1	0	6
+Chicago Bulls	Reserves	Zach Collins	15:16	3	7	0	3	0	0	1	1	2	4	1	2	0	2	6
+Chicago Bulls	Reserves	Noa Essengue	15:12	3	3	2	2	0	2	1	3	4	0	1	0	1	3	8
+Chicago Bulls	Reserves	Jordan Hawkins	Did Not Play
+Chicago Bulls	Reserves	Leonard Miller	Did Not Play
+Chicago Bulls	Reserves	Orlando Robinson	Did Not Dress
+Chicago Bulls	Reserves	Jalen Smith	Did Not Dress
+Chicago Bulls	Reserves	Caleb Wilson	Did Not Dress
+Chicago Bulls	Reserves	Dailyn Swain	Did Not Dress
+Chicago Bulls	Reserves	Tobe Awaka	Did Not Dress
+Chicago Bulls	Reserves	Jaylin Sellers	Did Not Dress
+Chicago Bulls	Totals	Team Totals	240	36	88	9	33	13	16	10	32	42	24	7	5	14	20	94
+```

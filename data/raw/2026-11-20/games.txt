@@ -1,9 +1,9 @@
-Charlotte Hornets||Atlanta Hawks|||not final
-Toronto Raptors||Detroit Pistons|||not final
-Indiana Pacers||Cleveland Cavaliers|||not final
-Orlando Magic||Brooklyn Nets|||not final
-New Orleans Pelicans||Oklahoma City Thunder|||not final
-Washington Wizards||Chicago Bulls|||not final
-Phoenix Suns||Utah Jazz|||not final
-Houston Rockets||Denver Nuggets|||not final
-Sacramento Kings||Los Angeles Lakers|||not final
+Charlotte Hornets|97|Atlanta Hawks|111|https://www.basketball-reference.com/boxscores/202611200ATL.html|final
+Toronto Raptors|105|Detroit Pistons|102|https://www.basketball-reference.com/boxscores/202611200DET.html|final
+Indiana Pacers|119|Cleveland Cavaliers|128|https://www.basketball-reference.com/boxscores/202611200CLE.html|final
+Orlando Magic|113|Brooklyn Nets|111|https://www.basketball-reference.com/boxscores/202611200BRK.html|final
+New Orleans Pelicans|120|Oklahoma City Thunder|126|https://www.basketball-reference.com/boxscores/202611200OKC.html|final
+Washington Wizards|98|Chicago Bulls|94|https://www.basketball-reference.com/boxscores/202611200CHI.html|final
+Phoenix Suns|111|Utah Jazz|101|https://www.basketball-reference.com/boxscores/202611200UTA.html|final
+Houston Rockets|124|Denver Nuggets|133|https://www.basketball-reference.com/boxscores/202611200DEN.html|final
+Sacramento Kings|104|Los Angeles Lakers|106|https://www.basketball-reference.com/boxscores/202611200LAL.html|final

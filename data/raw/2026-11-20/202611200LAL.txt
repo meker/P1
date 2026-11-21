@@ -1,0 +1,42 @@
+Final: Sacramento Kings 104, Los Angeles Lakers 106
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Sacramento Kings	Starters	Keegan Murray	39:57	5	10	2	5	1	2	3	4	7	4	1	0	2	3	13
+Sacramento Kings	Starters	Zach LaVine	38:54	7	17	2	5	3	4	2	5	7	4	2	1	1	2	19
+Sacramento Kings	Starters	Domantas Sabonis	38:24	8	13	1	1	2	3	7	9	16	1	0	0	3	3	19
+Sacramento Kings	Starters	De'Andre Hunter	36:58	12	16	5	6	1	1	2	4	6	2	0	1	0	2	30
+Sacramento Kings	Starters	Darius Acuff Jr.	36:19	8	23	2	11	0	0	0	1	1	12	1	0	6	1	18
+Sacramento Kings	Reserves	Leaky Black	18:41	0	1	0	1	0	0	0	3	3	1	2	0	0	3	0
+Sacramento Kings	Reserves	Malik Monk	11:41	0	5	0	3	2	2	0	0	0	3	0	1	4	1	2
+Sacramento Kings	Reserves	Dylan Cardwell	9:36	0	0	0	0	0	0	2	2	4	0	0	1	0	3	0
+Sacramento Kings	Reserves	Emanuel Sharp	9:30	1	5	1	5	0	0	0	0	0	1	0	0	0	2	3
+Sacramento Kings	Reserves	Alex Karaban	Did Not Play
+Sacramento Kings	Reserves	Daeqwon Plowden	Did Not Play
+Sacramento Kings	Reserves	Mason Plumlee	Did Not Play
+Sacramento Kings	Reserves	Ben Simmons	Did Not Dress
+Sacramento Kings	Reserves	Precious Achiuwa	Did Not Dress
+Sacramento Kings	Reserves	Jonathan Mogbo	Did Not Dress
+Sacramento Kings	Reserves	Maxime Raynaud	Did Not Dress
+Sacramento Kings	Reserves	Sean Pedulla	Did Not Dress
+Sacramento Kings	Totals	Team Totals	240	41	90	13	37	9	12	16	28	44	28	6	4	16	20	104
+Los Angeles Lakers	Starters	Luka Dončić	36:06	9	18	2	9	5	6	0	4	4	8	2	0	6	4	25
+Los Angeles Lakers	Starters	Quentin Grimes	34:58	2	7	1	5	8	9	3	2	5	7	0	0	3	1	13
+Los Angeles Lakers	Starters	Walker Kessler	30:06	7	11	1	1	0	2	1	6	7	2	1	3	2	5	15
+Los Angeles Lakers	Starters	Ziaire Williams	27:37	2	8	1	6	0	0	0	0	0	1	0	0	0	0	5
+Los Angeles Lakers	Starters	Matisse Thybulle	27:20	5	8	4	5	0	0	0	1	1	1	1	1	0	1	14
+Los Angeles Lakers	Reserves	Jake LaRavia	23:37	2	4	1	3	1	2	0	3	3	0	0	0	0	1	6
+Los Angeles Lakers	Reserves	Sandro Mamukelashvili	20:23	4	8	0	2	1	1	3	6	9	2	1	1	2	1	9
+Los Angeles Lakers	Reserves	Collin Sexton	18:18	4	7	0	1	2	2	0	1	1	4	2	0	0	1	10
+Los Angeles Lakers	Reserves	Cameron Carr	11:31	2	5	1	4	0	0	0	1	1	0	1	0	0	1	5
+Los Angeles Lakers	Reserves	Jarred Vanderbilt	10:05	2	2	0	0	0	0	2	2	4	2	0	0	1	1	4
+Los Angeles Lakers	Reserves	Jaden Hardy	Did Not Play
+Los Angeles Lakers	Reserves	Bronny James	Did Not Play
+Los Angeles Lakers	Reserves	Kevon Looney	Did Not Play
+Los Angeles Lakers	Reserves	Adou Thiero	Did Not Play
+Los Angeles Lakers	Reserves	Chris Mañon	Did Not Dress
+Los Angeles Lakers	Reserves	Carson Cooper	Did Not Dress
+Los Angeles Lakers	Reserves	Austin Reaves	Did Not Dress
+Los Angeles Lakers	Reserves	Arthur Kaluma	Did Not Dress
+Los Angeles Lakers	Totals	Team Totals	240	39	78	11	36	17	22	9	26	35	27	8	5	14	16	106
+```

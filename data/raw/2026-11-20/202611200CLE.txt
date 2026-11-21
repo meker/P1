@@ -1,0 +1,41 @@
+Final: Indiana Pacers 119, Cleveland Cavaliers 128
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Indiana Pacers	Starters	Pascal Siakam	29:49	8	17	2	6	3	6	0	7	7	2	0	0	2	1	21
+Indiana Pacers	Starters	Aaron Nesmith	28:55	1	6	0	2	0	1	2	8	10	7	0	2	0	1	2
+Indiana Pacers	Starters	Ivica Zubac	27:18	8	11	0	0	5	6	5	5	10	2	0	3	2	2	21
+Indiana Pacers	Starters	Andrew Nembhard	25:43	3	10	3	6	3	4	0	3	3	8	1	0	2	2	12
+Indiana Pacers	Starters	Kelly Oubre Jr.	23:11	6	10	3	5	2	2	1	5	6	0	0	2	1	5	17
+Indiana Pacers	Reserves	Obi Toppin	26:25	6	11	2	5	3	4	0	3	3	2	0	0	2	2	17
+Indiana Pacers	Reserves	Quenton Jackson	18:20	1	5	1	5	0	0	0	2	2	2	2	0	2	1	3
+Indiana Pacers	Reserves	Jalen Slawson	14:18	2	3	0	0	0	0	0	2	2	2	2	1	1	0	4
+Indiana Pacers	Reserves	Braden Smith	11:23	2	4	1	1	0	0	0	3	3	5	1	0	1	2	5
+Indiana Pacers	Reserves	Jarace Walker	11:16	2	2	1	1	3	4	1	0	1	3	0	0	1	2	8
+Indiana Pacers	Reserves	Larry Nance Jr.	11:00	3	6	1	3	0	0	0	2	2	0	0	2	0	1	7
+Indiana Pacers	Reserves	T.J. McConnell	10:54	1	4	0	0	0	0	0	1	1	2	0	0	0	0	2
+Indiana Pacers	Reserves	Jay Huff	1:28	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Reserves	Kobe Brown	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	43	89	14	34	19	27	9	41	50	35	6	10	14	19	119
+Cleveland Cavaliers	Starters	James Harden	40:07	15	26	7	11	14	14	0	6	6	6	1	0	2	3	51
+Cleveland Cavaliers	Starters	Jarrett Allen	30:46	3	7	0	0	0	0	0	8	8	4	0	2	1	0	6
+Cleveland Cavaliers	Starters	Peyton Watson	29:16	6	9	3	6	0	0	0	4	4	3	2	1	4	5	15
+Cleveland Cavaliers	Starters	Donovan Mitchell	29:00	8	17	2	7	2	4	1	2	3	3	0	0	2	4	20
+Cleveland Cavaliers	Starters	Tyrese Proctor	23:32	2	6	1	3	0	0	0	1	1	2	0	0	0	3	5
+Cleveland Cavaliers	Reserves	Sam Merrill	25:07	2	7	2	7	0	0	0	1	1	1	0	0	0	1	6
+Cleveland Cavaliers	Reserves	Meleek Thomas	20:21	2	8	0	4	0	0	0	1	1	4	4	0	2	2	4
+Cleveland Cavaliers	Reserves	Mario Hezonja	19:36	4	8	2	4	0	0	2	8	10	3	0	0	1	4	10
+Cleveland Cavaliers	Reserves	Thomas Bryant	16:00	3	4	2	2	1	2	2	4	6	0	1	0	0	1	9
+Cleveland Cavaliers	Reserves	Norchad Omier	6:15	1	3	0	0	0	0	0	1	1	0	1	0	0	0	2
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	Did Not Play
+Cleveland Cavaliers	Reserves	Evan Mobley	Did Not Dress
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Dress
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Jaylon Tyson	Did Not Dress
+Cleveland Cavaliers	Reserves	Zack Austin	Did Not Dress
+Cleveland Cavaliers	Reserves	Ernest Udeh Jr.	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	240	46	95	19	44	17	20	5	36	41	26	9	3	12	23	128
+```
