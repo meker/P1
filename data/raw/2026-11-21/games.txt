@@ -1,6 +1,6 @@
-Milwaukee Bucks||Philadelphia 76ers|||not final
-Portland Trail Blazers||New York Knicks|||not final
-New Orleans Pelicans||San Antonio Spurs|||not final
-Memphis Grizzlies||Minnesota Timberwolves|||not final
-Los Angeles Clippers||Dallas Mavericks|||not final
-Boston Celtics||Sacramento Kings|||not final
+Milwaukee Bucks|129|Philadelphia 76ers|132|https://www.basketball-reference.com/boxscores/202611210PHI.html|final
+Portland Trail Blazers|96|New York Knicks|97|https://www.basketball-reference.com/boxscores/202611210NYK.html|final
+New Orleans Pelicans|91|San Antonio Spurs|114|https://www.basketball-reference.com/boxscores/202611210SAS.html|final
+Memphis Grizzlies|95|Minnesota Timberwolves|104|https://www.basketball-reference.com/boxscores/202611210MIN.html|final
+Los Angeles Clippers|100|Dallas Mavericks|110|https://www.basketball-reference.com/boxscores/202611210DAL.html|final
+Boston Celtics|96|Sacramento Kings|97|https://www.basketball-reference.com/boxscores/202611210SAC.html|final

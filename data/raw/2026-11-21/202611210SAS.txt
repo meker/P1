@@ -1,0 +1,42 @@
+Final: New Orleans Pelicans 91, San Antonio Spurs 114
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+New Orleans Pelicans	Starters	Derik Queen	35:15	7	16	0	1	1	2	4	11	15	0	1	0	3	2	15
+New Orleans Pelicans	Starters	Yves Missi	35:08	3	8	0	0	3	6	4	10	14	1	2	1	0	1	9
+New Orleans Pelicans	Starters	Jeremiah Fears	34:21	9	17	2	6	9	10	2	3	5	4	2	0	5	1	29
+New Orleans Pelicans	Starters	Saddiq Bey	32:17	1	12	0	7	0	1	1	3	4	2	0	0	0	1	2
+New Orleans Pelicans	Starters	Herbert Jones	25:15	1	8	0	3	0	2	2	2	4	2	3	0	2	4	2
+New Orleans Pelicans	Reserves	Jordan Poole	30:35	9	16	3	9	4	4	0	3	3	2	0	0	2	3	25
+New Orleans Pelicans	Reserves	Jaron Pierre Jr.	24:46	2	7	2	5	0	0	1	4	5	0	0	0	1	3	6
+New Orleans Pelicans	Reserves	Karlo Matković	14:46	1	4	1	3	0	0	1	2	3	0	0	1	1	2	3
+New Orleans Pelicans	Reserves	AJ Johnson	7:37	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0
+New Orleans Pelicans	Reserves	DeAndre Jordan	Did Not Play
+New Orleans Pelicans	Reserves	Zion Williamson	Did Not Play
+New Orleans Pelicans	Reserves	Dejounte Murray	Did Not Dress
+New Orleans Pelicans	Reserves	Trey Murphy III	Did Not Dress
+New Orleans Pelicans	Reserves	Trendon Watford	Did Not Dress
+New Orleans Pelicans	Reserves	Bennedict Mathurin	Did Not Dress
+New Orleans Pelicans	Reserves	Bryce McGowens	Did Not Dress
+New Orleans Pelicans	Reserves	Julian Reese	Did Not Dress
+New Orleans Pelicans	Reserves	Malik Dia	Did Not Dress
+New Orleans Pelicans	Totals	Team Totals	240	33	90	8	35	17	25	15	38	53	11	8	2	14	17	91
+San Antonio Spurs	Starters	Victor Wembanyama	31:51	20	29	5	11	5	6	3	15	18	1	4	5	3	3	50
+San Antonio Spurs	Starters	Stephon Castle	29:28	7	12	5	7	0	0	0	3	3	6	0	0	2	2	19
+San Antonio Spurs	Starters	De'Aaron Fox	25:49	1	4	0	3	3	3	1	1	2	10	0	0	3	1	5
+San Antonio Spurs	Starters	Devin Vassell	25:31	2	7	2	6	4	5	0	4	4	2	0	2	1	1	10
+San Antonio Spurs	Starters	Julian Champagnie	24:55	3	10	3	10	0	0	0	3	3	3	0	1	0	1	9
+San Antonio Spurs	Reserves	Keldon Johnson	23:27	3	8	2	5	2	4	1	3	4	4	0	0	0	1	10
+San Antonio Spurs	Reserves	Harrison Barnes	21:05	1	7	0	3	1	2	3	2	5	2	0	0	0	0	3
+San Antonio Spurs	Reserves	Carter Bryant	20:05	3	8	2	7	0	0	1	2	3	0	0	0	2	3	8
+San Antonio Spurs	Reserves	Jordan McLaughlin	18:06	0	3	0	3	0	0	0	3	3	2	1	1	1	3	0
+San Antonio Spurs	Reserves	Luke Kornet	10:02	0	0	0	0	0	0	2	1	3	0	0	0	0	1	0
+San Antonio Spurs	Reserves	Tarris Reed Jr.	6:07	0	1	0	1	0	0	2	2	4	0	0	0	1	2	0
+San Antonio Spurs	Reserves	David Jones Garcia	3:34	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
+San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
+San Antonio Spurs	Reserves	Ja'Kobi Gillespie	Did Not Dress
+San Antonio Spurs	Reserves	Maliq Brown	Did Not Dress
+San Antonio Spurs	Reserves	Dylan Harper	Did Not Dress
+San Antonio Spurs	Totals	Team Totals	240	40	89	19	56	15	20	13	40	53	30	5	9	13	18	114
+```
