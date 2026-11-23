@@ -1,7 +1,7 @@
-Detroit Pistons||Atlanta Hawks|||not final
-Oklahoma City Thunder||Miami Heat|||not final
-Dallas Mavericks||Utah Jazz|||not final
-Orlando Magic||Washington Wizards|||not final
-Denver Nuggets||Chicago Bulls|||not final
-Indiana Pacers||New York Knicks|||not final
-Boston Celtics||Golden State Warriors|||not final
+Detroit Pistons|97|Atlanta Hawks|107|https://www.basketball-reference.com/boxscores/202611220ATL.html|final
+Oklahoma City Thunder|113|Miami Heat|123|https://www.basketball-reference.com/boxscores/202611220MIA.html|final
+Dallas Mavericks|116|Utah Jazz|114|https://www.basketball-reference.com/boxscores/202611220UTA.html|final
+Orlando Magic|96|Washington Wizards|116|https://www.basketball-reference.com/boxscores/202611220WAS.html|final
+Denver Nuggets|151|Chicago Bulls|145|https://www.basketball-reference.com/boxscores/202611220CHI.html|final
+Indiana Pacers|106|New York Knicks|113|https://www.basketball-reference.com/boxscores/202611220NYK.html|final
+Boston Celtics|87|Golden State Warriors|88|https://www.basketball-reference.com/boxscores/202611220GSW.html|final

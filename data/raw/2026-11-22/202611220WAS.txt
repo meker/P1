@@ -1,0 +1,42 @@
+Final: Orlando Magic 96, Washington Wizards 116
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Orlando Magic	Starters	Anthony Black	34:43	5	12	2	4	2	2	2	3	5	2	2	0	2	4	14
+Orlando Magic	Starters	Desmond Bane	32:49	7	14	3	8	0	0	1	0	1	5	1	0	1	2	17
+Orlando Magic	Starters	Franz Wagner	32:24	7	18	0	3	2	2	2	6	8	6	2	0	2	0	16
+Orlando Magic	Starters	Wendell Carter Jr.	25:32	4	6	1	2	0	0	1	5	6	3	1	1	2	2	9
+Orlando Magic	Starters	Jalen Suggs	21:47	2	11	0	6	5	5	1	3	4	2	0	0	0	4	9
+Orlando Magic	Reserves	Tristan da Silva	27:21	6	10	4	7	2	2	0	3	3	0	0	0	1	1	18
+Orlando Magic	Reserves	Nikola Vučević	16:30	2	6	1	4	0	0	0	3	3	3	2	0	0	1	5
+Orlando Magic	Reserves	Goga Bitadze	14:53	0	0	0	0	1	2	2	2	4	1	0	1	0	2	1
+Orlando Magic	Reserves	Jevon Carter	14:26	1	5	1	4	0	0	0	2	2	2	0	0	0	1	3
+Orlando Magic	Reserves	Jamal Cain	8:45	1	2	0	0	0	0	0	1	1	0	0	0	0	0	2
+Orlando Magic	Reserves	Jase Richardson	6:00	1	3	0	0	0	0	0	1	1	1	0	0	0	0	2
+Orlando Magic	Reserves	Alex Morales	4:50	0	1	0	1	0	0	0	1	1	2	0	0	0	0	0
+Orlando Magic	Reserves	Jonathan Isaac	Did Not Dress
+Orlando Magic	Reserves	Colin Castleton	Did Not Dress
+Orlando Magic	Reserves	Paolo Banchero	Did Not Dress
+Orlando Magic	Reserves	Noah Penda	Did Not Dress
+Orlando Magic	Reserves	Izaiyah Nelson	Did Not Dress
+Orlando Magic	Totals	Team Totals	240	36	88	12	39	12	13	9	30	39	27	8	2	8	17	96
+Washington Wizards	Starters	Kyshawn George	35:39	9	17	6	11	0	1	0	3	3	4	0	1	2	0	24
+Washington Wizards	Starters	AJ Dybantsa	33:00	4	10	0	0	8	11	0	8	8	6	1	0	2	4	16
+Washington Wizards	Starters	Anthony Davis	32:50	8	13	2	5	4	4	1	6	7	1	2	1	2	1	22
+Washington Wizards	Starters	Trae Young	27:42	3	10	3	7	2	2	0	4	4	11	1	0	3	2	11
+Washington Wizards	Starters	Alex Sarr	26:03	3	5	2	3	2	2	1	8	9	2	2	1	0	0	10
+Washington Wizards	Reserves	Bilal Coulibaly	25:07	4	7	4	6	0	0	1	2	3	1	0	1	3	2	12
+Washington Wizards	Reserves	Khris Middleton	20:25	2	4	2	3	0	0	0	2	2	2	0	0	0	3	6
+Washington Wizards	Reserves	Tre Johnson	15:13	4	5	3	3	0	0	1	1	2	0	0	0	1	1	11
+Washington Wizards	Reserves	Will Riley	8:56	2	4	0	1	0	0	0	3	3	1	0	0	0	3	4
+Washington Wizards	Reserves	Deandre Ayton	4:56	0	0	0	0	0	0	1	1	2	2	0	0	0	0	0
+Washington Wizards	Reserves	Tre Mann	3:23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Washington Wizards	Reserves	Bub Carrington	3:23	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Washington Wizards	Reserves	Anthony Gill	3:23	0	0	0	0	0	0	0	2	2	1	0	0	0	0	0
+Washington Wizards	Reserves	Justin Champagnie	Did Not Dress
+Washington Wizards	Reserves	Reece Beekman	Did Not Dress
+Washington Wizards	Reserves	Tristan Vukčević	Did Not Dress
+Washington Wizards	Reserves	Jamir Watkins	Did Not Dress
+Washington Wizards	Reserves	Felix Okpara	Did Not Dress
+Washington Wizards	Totals	Team Totals	240	39	75	22	39	16	20	5	40	45	31	6	4	13	17	116
+```

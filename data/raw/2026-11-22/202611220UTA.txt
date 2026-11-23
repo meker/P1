@@ -1,0 +1,43 @@
+Final: Dallas Mavericks 116, Utah Jazz 114
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Dallas Mavericks	Starters	Cooper Flagg	30:59	8	17	3	7	9	10	2	1	3	4	1	0	5	2	28
+Dallas Mavericks	Starters	Caleb Martin	29:04	5	9	3	5	0	0	2	4	6	4	4	0	0	1	13
+Dallas Mavericks	Starters	Daniel Gafford	27:49	5	8	0	0	0	0	1	3	4	4	2	0	0	2	10
+Dallas Mavericks	Starters	Zaccharie Risacher	27:41	6	11	0	5	3	5	1	7	8	2	0	0	1	2	15
+Dallas Mavericks	Starters	Kyrie Irving	27:10	6	13	4	8	0	0	0	1	1	8	1	0	1	1	16
+Dallas Mavericks	Reserves	Naji Marshall	25:02	2	6	1	4	1	1	0	0	0	4	5	0	0	2	6
+Dallas Mavericks	Reserves	Walter Clayton Jr.	21:01	3	7	2	4	1	1	0	0	0	3	0	0	1	2	9
+Dallas Mavericks	Reserves	Morez Johnson Jr.	19:51	3	4	1	1	0	0	1	5	6	2	2	0	2	4	7
+Dallas Mavericks	Reserves	Santi Aldama	15:52	4	8	1	3	0	0	0	4	4	1	0	0	1	2	9
+Dallas Mavericks	Reserves	Max Christie	15:32	1	5	1	5	0	0	0	2	2	0	1	0	0	1	3
+Dallas Mavericks	Reserves	Moussa Cissé	Did Not Play
+Dallas Mavericks	Reserves	Jett Howard	Did Not Play
+Dallas Mavericks	Reserves	Marcus Sasser	Did Not Play
+Dallas Mavericks	Reserves	P.J. Washington	Did Not Dress
+Dallas Mavericks	Reserves	Dereck Lively II	Did Not Dress
+Dallas Mavericks	Reserves	Tarik Biberovic	Did Not Dress
+Dallas Mavericks	Reserves	Sergio de Larrea	Did Not Dress
+Dallas Mavericks	Reserves	Tobi Lawal	Did Not Dress
+Dallas Mavericks	Totals	Team Totals	240	43	88	16	42	14	17	7	27	34	32	16	0	11	19	116
+Utah Jazz	Starters	Ace Bailey	32:36	6	10	3	6	1	2	2	3	5	2	3	0	3	2	16
+Utah Jazz	Starters	Keyonte George	26:17	4	9	2	6	5	5	0	5	5	7	0	0	1	0	15
+Utah Jazz	Starters	Darryn Peterson	25:02	3	9	0	5	0	0	0	3	3	5	0	0	4	1	6
+Utah Jazz	Starters	Josh Green	22:37	0	3	0	3	0	0	1	0	1	0	1	0	1	3	0
+Utah Jazz	Starters	Jaxson Hayes	12:06	3	3	0	0	2	4	0	3	3	1	0	0	2	1	8
+Utah Jazz	Reserves	Svi Mykhailiuk	31:53	12	23	10	15	5	5	1	4	5	3	0	0	3	2	39
+Utah Jazz	Reserves	Mo Bamba	23:08	3	6	0	1	0	1	3	7	10	1	0	1	5	6	6
+Utah Jazz	Reserves	Brice Sensabaugh	16:58	4	6	2	3	0	0	0	3	3	2	0	0	1	2	10
+Utah Jazz	Reserves	Josh Okogie	14:13	0	2	0	2	1	2	2	2	4	0	1	0	1	1	1
+Utah Jazz	Reserves	Isaiah Collier	13:29	4	5	1	1	1	2	1	1	2	7	1	1	2	2	10
+Utah Jazz	Reserves	Tony Bradley	12:42	0	0	0	0	1	2	3	2	5	0	0	0	0	0	1
+Utah Jazz	Reserves	Kyle Filipowski	8:59	1	4	0	3	0	2	0	4	4	3	0	0	0	0	2
+Utah Jazz	Reserves	Jusuf Nurkić	Did Not Dress
+Utah Jazz	Reserves	Lauri Markkanen	Did Not Dress
+Utah Jazz	Reserves	Jaren Jackson Jr.	Did Not Dress
+Utah Jazz	Reserves	Harrison Ingram	Did Not Dress
+Utah Jazz	Reserves	Kobe Bufkin	Did Not Dress
+Utah Jazz	Reserves	Jonas Aidoo	Did Not Dress
+Utah Jazz	Totals	Team Totals	240	40	80	18	45	16	25	13	37	50	31	6	2	23	20	114
+```

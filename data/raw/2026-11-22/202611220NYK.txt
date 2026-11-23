@@ -1,0 +1,41 @@
+Final: Indiana Pacers 106, New York Knicks 113
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Indiana Pacers	Starters	Pascal Siakam	33:26	9	22	3	6	4	4	1	5	6	1	2	0	2	3	25
+Indiana Pacers	Starters	Andrew Nembhard	32:14	5	13	2	3	4	7	0	2	2	8	0	0	6	2	16
+Indiana Pacers	Starters	Aaron Nesmith	31:38	2	7	0	3	5	5	1	1	2	2	1	0	0	3	9
+Indiana Pacers	Starters	Ivica Zubac	31:16	5	11	0	0	0	0	3	11	14	1	0	0	1	2	10
+Indiana Pacers	Starters	Kelly Oubre Jr.	27:17	4	10	0	4	7	9	1	4	5	0	0	0	0	3	15
+Indiana Pacers	Reserves	Obi Toppin	21:44	3	8	0	2	3	3	0	5	5	1	0	0	2	2	9
+Indiana Pacers	Reserves	Braden Smith	17:36	2	3	0	0	2	2	0	1	1	4	0	0	0	1	6
+Indiana Pacers	Reserves	Quenton Jackson	17:00	0	2	0	2	2	2	0	1	1	3	2	0	0	4	2
+Indiana Pacers	Reserves	Jalen Slawson	14:09	3	4	0	1	1	1	1	2	3	0	1	3	0	1	7
+Indiana Pacers	Reserves	Larry Nance Jr.	10:52	2	2	1	1	0	0	0	3	3	0	1	0	1	3	5
+Indiana Pacers	Reserves	Jay Huff	1:24	1	2	0	1	0	0	0	0	0	0	0	0	0	0	2
+Indiana Pacers	Reserves	Jarace Walker	1:24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Indiana Pacers	Reserves	T.J. McConnell	Did Not Dress
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Reserves	Kobe Brown	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	36	84	6	23	28	33	7	35	42	20	7	3	12	24	106
+New York Knicks	Starters	Josh Hart	38:32	5	11	0	4	0	0	0	11	11	10	1	0	3	4	10
+New York Knicks	Starters	Jalen Brunson	32:19	8	18	1	6	5	7	0	3	3	7	1	0	4	5	22
+New York Knicks	Starters	Landry Shamet	32:06	7	15	3	9	0	0	0	2	2	3	1	0	0	2	17
+New York Knicks	Starters	Mikal Bridges	31:16	3	12	2	8	0	0	0	3	3	1	1	0	2	4	8
+New York Knicks	Starters	Karl-Anthony Towns	29:19	9	14	4	4	8	12	4	9	13	5	3	2	1	5	30
+New York Knicks	Reserves	Jose Alvarado	22:03	4	7	3	6	0	0	1	0	1	3	0	1	1	0	11
+New York Knicks	Reserves	Andre Drummond	18:33	1	3	0	0	0	0	3	7	10	1	0	1	3	4	2
+New York Knicks	Reserves	Pacôme Dadiet	17:06	2	5	1	2	0	0	1	1	2	0	0	0	2	2	5
+New York Knicks	Reserves	Tyler Kolek	10:48	2	5	1	3	3	3	2	1	3	0	0	0	0	3	8
+New York Knicks	Reserves	Mohamed Diawara	7:59	0	2	0	1	0	0	1	1	2	0	0	0	0	2	0
+New York Knicks	Reserves	Dalton Knecht	Did Not Play
+New York Knicks	Reserves	Miles McBride	Did Not Play
+New York Knicks	Reserves	James Wiseman	Did Not Play
+New York Knicks	Reserves	Jordan Clarkson	Did Not Dress
+New York Knicks	Reserves	OG Anunoby	Did Not Dress
+New York Knicks	Reserves	Jaden Akins	Did Not Dress
+New York Knicks	Reserves	Tyler Nickel	Did Not Dress
+New York Knicks	Totals	Team Totals	240	41	92	15	43	16	22	12	38	50	30	7	4	16	31	113
+```

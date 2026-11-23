@@ -1,0 +1,42 @@
+Final: Denver Nuggets 151, Chicago Bulls 145
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Denver Nuggets	Starters	Jamal Murray	45:09	13	22	6	11	13	14	1	4	5	7	3	2	2	3	45
+Denver Nuggets	Starters	Nikola Jokić	42:09	14	22	1	3	8	10	5	13	18	11	1	1	3	1	37
+Denver Nuggets	Starters	Christian Braun	38:13	8	14	3	6	2	2	2	6	8	3	1	0	1	2	21
+Denver Nuggets	Starters	Cameron Johnson	35:57	6	9	4	5	0	0	1	1	2	5	2	0	3	1	16
+Denver Nuggets	Starters	Aaron Gordon	32:44	8	19	1	5	1	1	6	2	8	5	2	1	1	5	18
+Denver Nuggets	Reserves	Spencer Jones	19:37	0	1	0	1	0	0	0	4	4	0	0	2	1	2	0
+Denver Nuggets	Reserves	DeMar DeRozan	17:57	1	5	0	0	2	3	0	0	0	1	0	0	1	2	4
+Denver Nuggets	Reserves	Trevon Brazile	14:33	3	5	2	2	0	0	0	0	0	0	0	1	0	2	8
+Denver Nuggets	Reserves	Marvin Bagley III	10:51	1	3	0	1	0	0	0	2	2	0	0	0	0	3	2
+Denver Nuggets	Reserves	Tyus Jones	7:52	0	2	0	1	0	0	0	0	0	1	0	0	0	3	0
+Denver Nuggets	Reserves	Alpha Diallo	Did Not Play
+Denver Nuggets	Reserves	Ryan Nembhard	Did Not Play
+Denver Nuggets	Reserves	Zeke Nnaji	Did Not Play
+Denver Nuggets	Reserves	Julian Strawther	Did Not Dress
+Denver Nuggets	Reserves	Cam Whitmore	Did Not Dress
+Denver Nuggets	Reserves	DaRon Holmes	Did Not Dress
+Denver Nuggets	Reserves	Bryce Hopkins	Did Not Dress
+Denver Nuggets	Totals	Team Totals	265	54	102	17	35	26	30	15	32	47	33	9	7	12	24	151
+Chicago Bulls	Starters	Isaac Okoro	41:34	3	10	2	8	3	4	1	0	1	2	1	1	1	6	11
+Chicago Bulls	Starters	Josh Giddey	41:29	10	17	2	5	1	2	1	13	14	22	0	1	5	4	23
+Chicago Bulls	Starters	Buddy Hield	39:51	13	19	7	13	0	0	1	6	7	6	1	0	3	2	33
+Chicago Bulls	Starters	Matas Buzelis	38:17	7	17	4	12	3	4	1	4	5	3	0	2	1	1	21
+Chicago Bulls	Starters	Jalen Smith	33:50	10	14	6	7	0	0	3	1	4	1	2	2	1	6	26
+Chicago Bulls	Reserves	Zach Collins	16:59	2	4	1	3	0	0	0	1	1	0	0	1	2	3	5
+Chicago Bulls	Reserves	Patrick Williams	16:10	0	3	0	1	2	2	0	2	2	0	1	0	1	1	2
+Chicago Bulls	Reserves	Jordan Hawkins	13:44	2	6	2	4	0	0	0	1	1	1	0	0	0	0	6
+Chicago Bulls	Reserves	Tre Jones	11:57	2	4	0	0	5	6	1	1	2	4	0	0	0	0	9
+Chicago Bulls	Reserves	Noa Essengue	11:09	3	6	1	2	2	2	1	3	4	0	0	0	0	2	9
+Chicago Bulls	Reserves	Tobe Awaka	Did Not Play
+Chicago Bulls	Reserves	Leonard Miller	Did Not Play
+Chicago Bulls	Reserves	Orlando Robinson	Did Not Play
+Chicago Bulls	Reserves	Dailyn Swain	Did Not Play
+Chicago Bulls	Reserves	Norman Powell	Did Not Dress
+Chicago Bulls	Reserves	Nic Claxton	Did Not Dress
+Chicago Bulls	Reserves	Caleb Wilson	Did Not Dress
+Chicago Bulls	Reserves	Jaylin Sellers	Did Not Dress
+Chicago Bulls	Totals	Team Totals	265	52	100	25	55	16	20	9	32	41	39	5	7	14	25	145
+```
