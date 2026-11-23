@@ -1,0 +1,10 @@
+Memphis Grizzlies||Charlotte Hornets|||not final
+Portland Trail Blazers||Philadelphia 76ers|||not final
+Brooklyn Nets||Minnesota Timberwolves|||not final
+Milwaukee Bucks||Toronto Raptors|||not final
+Oklahoma City Thunder||Indiana Pacers|||not final
+Cleveland Cavaliers||Chicago Bulls|||not final
+Phoenix Suns||New Orleans Pelicans|||not final
+Los Angeles Clippers||Houston Rockets|||not final
+San Antonio Spurs||Sacramento Kings|||not final
+Utah Jazz||Los Angeles Lakers|||not final
