@@ -1,0 +1,43 @@
+Final: Memphis Grizzlies 117, Charlotte Hornets 111
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Memphis Grizzlies	Starters	Kris Murray	32:00	4	6	1	3	0	0	0	3	3	1	4	1	0	2	9
+Memphis Grizzlies	Starters	Cedric Coward	29:32	6	15	0	5	4	4	3	6	9	3	1	0	3	4	16
+Memphis Grizzlies	Starters	Ty Jerome	29:05	10	21	7	12	2	2	1	3	4	3	2	0	5	1	29
+Memphis Grizzlies	Starters	Zach Edey	22:48	3	3	0	0	2	2	3	8	11	1	0	1	2	5	8
+Memphis Grizzlies	Starters	Jaylen Wells	20:08	3	5	2	3	0	0	0	2	2	0	0	1	1	0	8
+Memphis Grizzlies	Reserves	Taylor Hendricks	23:58	1	5	1	4	0	0	0	4	4	1	0	0	1	1	3
+Memphis Grizzlies	Reserves	Cam Spencer	20:50	5	7	3	5	11	11	0	1	1	5	0	0	1	1	24
+Memphis Grizzlies	Reserves	Isaiah Stewart	20:39	5	9	1	3	0	0	3	1	4	0	0	0	1	3	11
+Memphis Grizzlies	Reserves	Javon Small	19:15	1	7	0	3	1	1	1	2	3	5	1	0	1	1	3
+Memphis Grizzlies	Reserves	Olivier-Maxence Prosper	18:40	1	3	0	1	4	4	1	2	3	0	0	0	1	0	6
+Memphis Grizzlies	Reserves	Quinten Post	3:05	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Memphis Grizzlies	Reserves	Karim López	Did Not Play
+Memphis Grizzlies	Reserves	Jahmai Mashack	Did Not Play
+Memphis Grizzlies	Reserves	Scotty Pippen Jr.	Did Not Dress
+Memphis Grizzlies	Reserves	GG Jackson	Did Not Dress
+Memphis Grizzlies	Reserves	Jerami Grant	Did Not Dress
+Memphis Grizzlies	Reserves	Cameron Boozer	Did Not Dress
+Memphis Grizzlies	Reserves	Richie Saunders	Did Not Dress
+Memphis Grizzlies	Totals	Team Totals	240	39	81	15	39	24	24	12	32	44	19	9	3	16	18	117
+Charlotte Hornets	Starters	Naz Reid	38:16	8	25	3	10	5	6	3	3	6	3	2	0	2	1	24
+Charlotte Hornets	Starters	Moussa Diabaté	35:12	3	4	0	0	4	4	4	6	10	3	2	2	1	2	10
+Charlotte Hornets	Starters	Brandon Miller	34:35	6	19	4	8	4	4	1	2	3	5	0	3	5	5	20
+Charlotte Hornets	Starters	Coby White	27:52	7	18	5	10	2	2	0	3	3	2	0	1	2	1	21
+Charlotte Hornets	Starters	Sion James	27:33	2	6	1	4	0	0	0	4	4	4	2	0	1	2	5
+Charlotte Hornets	Reserves	Christian Anderson	25:18	9	12	6	8	1	1	2	0	2	3	1	1	1	4	25
+Charlotte Hornets	Reserves	Tidjane Salaün	17:07	0	2	0	1	0	0	2	3	5	1	2	1	0	1	0
+Charlotte Hornets	Reserves	Royce O'Neale	12:45	0	0	0	0	0	0	0	1	1	1	0	0	1	1	0
+Charlotte Hornets	Reserves	Liam McNeeley	8:34	1	4	1	4	0	0	1	1	2	0	0	0	0	1	3
+Charlotte Hornets	Reserves	Ryan Kalkbrenner	8:30	0	0	0	0	0	0	1	1	2	0	0	0	0	1	0
+Charlotte Hornets	Reserves	Hannes Steinbach	4:18	1	2	0	0	1	2	0	1	1	0	1	0	0	0	3
+Charlotte Hornets	Reserves	PJ Hall	Did Not Play
+Charlotte Hornets	Reserves	Kylan Boswell	Did Not Dress
+Charlotte Hornets	Reserves	Grayson Allen	Did Not Dress
+Charlotte Hornets	Reserves	Grant Williams	Did Not Dress
+Charlotte Hornets	Reserves	Michael Ajayi	Did Not Dress
+Charlotte Hornets	Reserves	Kon Knueppel	Did Not Dress
+Charlotte Hornets	Reserves	Dennis Schröder	Did Not Dress
+Charlotte Hornets	Totals	Team Totals	240	37	92	20	45	17	19	14	25	39	22	10	8	13	19	111
+```

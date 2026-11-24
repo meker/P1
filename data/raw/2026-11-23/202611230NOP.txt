@@ -1,0 +1,42 @@
+Final: Phoenix Suns 123, New Orleans Pelicans 119
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Phoenix Suns	Starters	Devin Booker	42:01	8	20	2	6	4	5	0	5	5	8	3	1	3	1	22
+Phoenix Suns	Starters	Jalen Green	36:42	9	17	3	9	4	4	0	3	3	0	2	0	2	1	25
+Phoenix Suns	Starters	Miles Bridges	34:48	4	8	2	4	4	6	1	10	11	5	3	0	4	5	14
+Phoenix Suns	Starters	Dillon Brooks	33:36	5	13	2	4	4	6	3	2	5	7	1	0	2	4	16
+Phoenix Suns	Starters	Oso Ighodaro	29:47	3	5	0	0	1	1	1	3	4	1	2	2	2	4	7
+Phoenix Suns	Reserves	Collin Gillespie	30:23	7	11	3	6	1	1	0	3	3	3	0	0	2	2	18
+Phoenix Suns	Reserves	Jordan Goodwin	18:04	2	5	2	5	0	0	1	1	2	2	2	0	0	3	6
+Phoenix Suns	Reserves	Khaman Maluach	16:19	3	4	0	0	2	2	2	4	6	0	0	2	2	2	8
+Phoenix Suns	Reserves	Luke Kennard	14:04	2	6	0	4	0	0	0	1	1	2	0	0	0	0	4
+Phoenix Suns	Reserves	Ryan Dunn	9:17	1	2	1	1	0	2	1	1	2	0	0	0	0	0	3
+Phoenix Suns	Reserves	Jamaree Bouyea	Did Not Play
+Phoenix Suns	Reserves	Rasheer Fleming	Did Not Play
+Phoenix Suns	Reserves	Koa Peat	Did Not Play
+Phoenix Suns	Reserves	Duop Reath	Did Not Play
+Phoenix Suns	Reserves	Pat Spencer	Did Not Dress
+Phoenix Suns	Reserves	Mark Williams	Did Not Dress
+Phoenix Suns	Reserves	Drew Timme	Did Not Dress
+Phoenix Suns	Totals	Team Totals	265	44	91	15	39	20	27	9	33	42	28	13	5	17	22	123
+New Orleans Pelicans	Starters	Jeremiah Fears	39:49	3	17	0	3	1	2	4	3	7	11	4	0	2	6	7
+New Orleans Pelicans	Starters	Zion Williamson	39:37	10	18	0	0	5	5	2	2	4	0	1	0	6	1	25
+New Orleans Pelicans	Starters	Trey Murphy III	35:08	4	14	1	6	0	0	2	7	9	2	2	0	1	1	9
+New Orleans Pelicans	Starters	Yves Missi	21:45	2	4	0	0	0	0	4	4	8	0	0	2	1	5	4
+New Orleans Pelicans	Starters	Herbert Jones	21:15	2	6	1	2	2	2	1	2	3	4	3	0	1	5	7
+New Orleans Pelicans	Reserves	Saddiq Bey	39:53	8	18	2	9	3	6	1	3	4	3	2	0	1	1	21
+New Orleans Pelicans	Reserves	Jordan Poole	27:08	9	12	6	8	4	4	0	0	0	3	1	0	1	2	28
+New Orleans Pelicans	Reserves	Derik Queen	21:17	5	9	0	2	1	5	1	8	9	2	1	1	5	2	11
+New Orleans Pelicans	Reserves	Karlo Matković	13:23	2	3	1	2	0	0	2	2	4	1	1	0	0	0	5
+New Orleans Pelicans	Reserves	Bryce McGowens	5:45	0	0	0	0	2	2	0	1	1	1	0	0	0	1	2
+New Orleans Pelicans	Reserves	Malik Dia	Did Not Play
+New Orleans Pelicans	Reserves	AJ Johnson	Did Not Play
+New Orleans Pelicans	Reserves	DeAndre Jordan	Did Not Play
+New Orleans Pelicans	Reserves	Jaron Pierre Jr.	Did Not Play
+New Orleans Pelicans	Reserves	Trendon Watford	Did Not Dress
+New Orleans Pelicans	Reserves	Bennedict Mathurin	Did Not Dress
+New Orleans Pelicans	Reserves	Dejounte Murray	Did Not Dress
+New Orleans Pelicans	Reserves	Julian Reese	Did Not Dress
+New Orleans Pelicans	Totals	Team Totals	265	45	101	11	32	18	26	17	32	49	27	15	3	18	24	119
+```

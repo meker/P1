@@ -1,0 +1,42 @@
+Final: Cleveland Cavaliers 108, Chicago Bulls 122
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Cleveland Cavaliers	Starters	James Harden	37:22	5	14	3	8	8	8	1	5	6	5	0	0	7	2	21
+Cleveland Cavaliers	Starters	Donovan Mitchell	37:04	8	17	1	6	11	12	1	2	3	5	1	2	2	2	28
+Cleveland Cavaliers	Starters	Jarrett Allen	28:57	6	7	0	0	4	5	1	3	4	0	0	1	3	1	16
+Cleveland Cavaliers	Starters	Peyton Watson	28:38	3	7	1	1	1	2	2	8	10	3	0	6	3	1	8
+Cleveland Cavaliers	Starters	Sam Merrill	25:22	3	6	2	4	4	4	1	2	3	2	2	1	0	1	12
+Cleveland Cavaliers	Reserves	Meleek Thomas	21:15	6	10	1	5	0	1	2	1	3	2	1	0	0	2	13
+Cleveland Cavaliers	Reserves	Tyrese Proctor	21:05	2	6	0	2	0	0	0	2	2	2	0	0	1	2	4
+Cleveland Cavaliers	Reserves	Jaylon Tyson	12:22	0	3	0	3	0	0	0	2	2	0	0	0	1	1	0
+Cleveland Cavaliers	Reserves	Mario Hezonja	12:12	2	6	0	1	0	0	2	3	5	0	0	0	0	2	4
+Cleveland Cavaliers	Reserves	Norchad Omier	8:13	1	1	0	0	0	0	3	1	4	2	0	0	0	2	2
+Cleveland Cavaliers	Reserves	Thomas Bryant	7:30	0	1	0	1	0	0	0	2	2	0	0	0	1	2	0
+Cleveland Cavaliers	Reserves	Craig Porter Jr.	Did Not Play
+Cleveland Cavaliers	Reserves	Ernest Udeh Jr.	Did Not Dress
+Cleveland Cavaliers	Reserves	Evan Mobley	Did Not Dress
+Cleveland Cavaliers	Reserves	Khalifa Diop	Did Not Dress
+Cleveland Cavaliers	Reserves	Nae'Qwan Tomlin	Did Not Dress
+Cleveland Cavaliers	Reserves	Zack Austin	Did Not Dress
+Cleveland Cavaliers	Totals	Team Totals	240	36	78	8	31	28	32	13	31	44	21	4	10	18	18	108
+Chicago Bulls	Starters	Matas Buzelis	26:56	5	10	4	6	1	2	0	6	6	0	1	0	1	4	15
+Chicago Bulls	Starters	Buddy Hield	26:53	6	15	4	11	1	1	1	4	5	0	2	0	0	4	17
+Chicago Bulls	Starters	Isaac Okoro	26:44	4	6	3	5	1	2	1	3	4	3	1	0	2	3	12
+Chicago Bulls	Starters	Jalen Smith	24:53	4	7	1	4	2	2	4	2	6	4	0	0	0	1	11
+Chicago Bulls	Starters	Josh Giddey	22:03	2	11	0	3	0	0	1	1	2	11	1	1	3	1	4
+Chicago Bulls	Reserves	Tre Jones	26:31	4	12	1	5	7	8	1	3	4	9	2	0	3	0	16
+Chicago Bulls	Reserves	Nic Claxton	23:07	3	7	0	0	0	0	2	4	6	0	2	0	0	3	6
+Chicago Bulls	Reserves	Jaylin Sellers	21:45	4	6	1	2	0	0	1	1	2	4	2	0	0	1	9
+Chicago Bulls	Reserves	Patrick Williams	18:30	3	5	1	2	0	0	2	3	5	2	1	0	2	3	7
+Chicago Bulls	Reserves	Jordan Hawkins	18:20	7	13	4	10	1	1	0	1	1	2	0	0	0	1	19
+Chicago Bulls	Reserves	Noa Essengue	4:19	2	4	1	1	1	1	1	1	2	0	0	0	0	2	6
+Chicago Bulls	Reserves	Tobe Awaka	Did Not Play
+Chicago Bulls	Reserves	Zach Collins	Did Not Play
+Chicago Bulls	Reserves	Leonard Miller	Did Not Play
+Chicago Bulls	Reserves	Dailyn Swain	Did Not Play
+Chicago Bulls	Reserves	Orlando Robinson	Did Not Dress
+Chicago Bulls	Reserves	Norman Powell	Did Not Dress
+Chicago Bulls	Reserves	Caleb Wilson	Did Not Dress
+Chicago Bulls	Totals	Team Totals	240	44	96	20	49	14	17	14	29	43	35	12	1	11	23	122
+```

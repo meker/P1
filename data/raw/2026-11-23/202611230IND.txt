@@ -1,0 +1,42 @@
+Final: Oklahoma City Thunder 120, Indiana Pacers 125
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Oklahoma City Thunder	Starters	Shai Gilgeous-Alexander	37:48	13	30	4	10	8	10	1	4	5	7	0	1	2	3	38
+Oklahoma City Thunder	Starters	Jared McCain	35:40	6	15	1	8	0	0	1	4	5	0	1	1	1	2	13
+Oklahoma City Thunder	Starters	Ajay Mitchell	34:44	4	14	2	3	2	2	1	3	4	3	0	0	0	3	12
+Oklahoma City Thunder	Starters	Isaiah Hartenstein	30:12	7	12	0	0	4	4	3	6	9	3	0	1	1	1	18
+Oklahoma City Thunder	Starters	Micah Peavy	24:25	2	5	1	3	2	2	1	2	3	2	0	0	0	4	7
+Oklahoma City Thunder	Reserves	Kenrich Williams	26:27	8	13	4	6	0	0	4	5	9	2	1	1	0	3	20
+Oklahoma City Thunder	Reserves	Bennett Stirtz	19:25	2	5	1	4	0	0	1	8	9	3	1	2	1	0	5
+Oklahoma City Thunder	Reserves	Josh Dix	15:50	0	3	0	2	0	0	1	0	1	1	1	0	0	1	0
+Oklahoma City Thunder	Reserves	Brooks Barnhizer	9:13	2	2	0	0	3	3	3	1	4	0	0	0	0	1	7
+Oklahoma City Thunder	Reserves	Nique Clifford	6:16	0	2	0	1	0	0	0	0	0	0	0	0	0	2	0
+Oklahoma City Thunder	Reserves	Alex Caruso	Did Not Dress
+Oklahoma City Thunder	Reserves	Aday Mara	Did Not Dress
+Oklahoma City Thunder	Reserves	Thomas Sorber	Did Not Dress
+Oklahoma City Thunder	Reserves	Nikola Topić	Did Not Dress
+Oklahoma City Thunder	Reserves	Chet Holmgren	Did Not Dress
+Oklahoma City Thunder	Reserves	Jalen Williams	Did Not Dress
+Oklahoma City Thunder	Reserves	Jaylin Williams	Did Not Dress
+Oklahoma City Thunder	Reserves	Cason Wallace	Did Not Dress
+Oklahoma City Thunder	Totals	Team Totals	240	44	101	13	37	19	21	16	33	49	21	4	6	5	20	120
+Indiana Pacers	Starters	Andrew Nembhard	38:20	6	15	2	6	1	2	0	2	2	6	2	0	1	2	15
+Indiana Pacers	Starters	Pascal Siakam	35:00	9	18	2	5	0	0	2	6	8	5	0	0	1	2	20
+Indiana Pacers	Starters	Kelly Oubre Jr.	28:23	8	13	4	7	0	0	2	2	4	2	0	2	2	2	20
+Indiana Pacers	Starters	Ivica Zubac	25:48	6	13	0	0	2	2	8	7	15	1	0	0	1	2	14
+Indiana Pacers	Starters	Braden Smith	23:40	2	8	1	2	1	2	1	1	2	6	1	0	0	2	6
+Indiana Pacers	Reserves	Obi Toppin	24:19	6	14	2	8	3	3	0	6	6	4	0	0	2	5	17
+Indiana Pacers	Reserves	Quenton Jackson	20:03	4	9	1	4	0	0	0	3	3	0	0	0	1	2	9
+Indiana Pacers	Reserves	Jalen Slawson	19:57	5	9	3	3	3	4	4	6	10	2	1	4	1	0	16
+Indiana Pacers	Reserves	Jarace Walker	13:42	1	6	0	2	2	2	3	5	8	3	0	1	0	0	4
+Indiana Pacers	Reserves	Kobe Brown	7:00	2	2	0	0	0	0	0	0	0	1	0	0	0	0	4
+Indiana Pacers	Reserves	Larry Nance Jr.	3:48	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Indiana Pacers	Reserves	Jay Huff	Did Not Play
+Indiana Pacers	Reserves	T.J. McConnell	Did Not Dress
+Indiana Pacers	Reserves	Aaron Nesmith	Did Not Dress
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	49	107	15	37	12	15	20	38	58	30	4	7	9	17	125
+```

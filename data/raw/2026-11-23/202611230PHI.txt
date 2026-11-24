@@ -1,0 +1,41 @@
+Final: Portland Trail Blazers 128, Philadelphia 76ers 111
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Portland Trail Blazers	Starters	Deni Avdija	29:49	12	19	5	9	2	5	0	3	3	7	1	0	5	2	31
+Portland Trail Blazers	Starters	Toumani Camara	29:24	2	8	1	6	0	0	1	4	5	3	0	0	1	4	5
+Portland Trail Blazers	Starters	Donovan Clingan	28:46	7	8	1	1	0	2	5	13	18	5	0	2	1	3	15
+Portland Trail Blazers	Starters	Damian Lillard	28:31	4	15	1	6	9	9	2	1	3	5	1	0	0	1	18
+Portland Trail Blazers	Starters	Sidy Cissoko	24:20	1	3	1	3	2	4	1	3	4	0	1	1	1	1	5
+Portland Trail Blazers	Reserves	Jrue Holiday	27:35	7	13	4	5	0	0	0	2	2	5	2	0	2	1	18
+Portland Trail Blazers	Reserves	Scoot Henderson	26:06	6	12	3	5	2	2	2	1	3	3	0	1	1	3	17
+Portland Trail Blazers	Reserves	Robert Williams III	16:23	2	2	0	0	2	2	4	2	6	1	0	2	0	1	6
+Portland Trail Blazers	Reserves	Jayson Kent	14:19	3	5	3	5	0	0	0	2	2	1	0	0	0	1	9
+Portland Trail Blazers	Reserves	Branden Carlson	6:14	0	3	0	2	0	2	0	3	3	0	0	0	1	0	0
+Portland Trail Blazers	Reserves	Yang Hansen	2:51	1	1	0	0	0	0	0	0	0	1	0	0	0	0	2
+Portland Trail Blazers	Reserves	Micah Potter	2:51	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Portland Trail Blazers	Reserves	John Tonje	2:51	1	1	0	0	0	0	0	0	0	1	0	0	0	0	2
+Portland Trail Blazers	Reserves	Ja Morant	Did Not Dress
+Portland Trail Blazers	Reserves	Chris Youngblood	Did Not Dress
+Portland Trail Blazers	Reserves	Shaedon Sharpe	Did Not Dress
+Portland Trail Blazers	Reserves	Vít Krejčí	Did Not Dress
+Portland Trail Blazers	Totals	Team Totals	240	46	90	19	42	17	26	15	34	49	32	5	6	12	17	128
+Philadelphia 76ers	Starters	VJ Edgecombe	35:19	5	11	1	4	1	1	1	6	7	7	2	0	3	2	12
+Philadelphia 76ers	Starters	Tyrese Maxey	34:45	7	16	2	7	6	6	1	1	2	5	0	0	3	1	22
+Philadelphia 76ers	Starters	LeBron James	30:05	8	13	4	5	3	4	0	6	6	3	0	0	1	3	23
+Philadelphia 76ers	Starters	Jaylen Brown	29:22	8	14	1	3	3	4	0	2	2	4	2	0	0	4	20
+Philadelphia 76ers	Starters	Jabari Walker	19:34	3	8	0	4	4	5	2	3	5	2	1	0	0	2	10
+Philadelphia 76ers	Reserves	Dean Wade	28:02	0	5	0	4	2	2	0	2	2	2	0	0	2	1	2
+Philadelphia 76ers	Reserves	Anfernee Simons	18:28	1	3	0	1	1	2	0	0	0	0	0	0	0	1	3
+Philadelphia 76ers	Reserves	Kentavious Caldwell-Pope	17:12	1	5	0	4	0	0	2	1	3	1	0	1	0	0	2
+Philadelphia 76ers	Reserves	Dominick Barlow	16:08	3	6	0	0	0	0	2	0	2	0	1	2	0	3	6
+Philadelphia 76ers	Reserves	Adem Bona	5:23	2	3	0	0	0	0	1	1	2	0	1	1	0	1	4
+Philadelphia 76ers	Reserves	Justin Edwards	2:51	2	2	1	1	0	0	0	1	1	0	0	0	0	0	5
+Philadelphia 76ers	Reserves	Labaron Philon Jr.	2:51	1	1	0	0	0	0	0	1	1	1	0	0	0	0	2
+Philadelphia 76ers	Reserves	Tacko Fall	Did Not Play
+Philadelphia 76ers	Reserves	Joel Embiid	Did Not Dress
+Philadelphia 76ers	Reserves	Ariel Hukporti	Did Not Dress
+Philadelphia 76ers	Reserves	Caleb Love	Did Not Dress
+Philadelphia 76ers	Reserves	Rayan Rupert	Did Not Dress
+Philadelphia 76ers	Totals	Team Totals	240	41	87	9	33	20	24	9	24	33	25	7	4	9	18	111
+```

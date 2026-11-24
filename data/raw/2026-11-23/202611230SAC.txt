@@ -1,0 +1,42 @@
+Final: San Antonio Spurs 123, Sacramento Kings 107
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+San Antonio Spurs	Starters	Stephon Castle	36:43	9	23	4	8	6	6	3	5	8	11	0	0	2	0	28
+San Antonio Spurs	Starters	Devin Vassell	33:48	6	15	4	9	0	0	2	4	6	2	1	0	0	1	16
+San Antonio Spurs	Starters	Julian Champagnie	30:03	7	14	6	13	2	3	1	6	7	3	0	1	2	4	22
+San Antonio Spurs	Starters	Luke Kornet	28:54	7	10	0	0	4	4	3	8	11	3	0	0	0	1	18
+San Antonio Spurs	Starters	Harrison Barnes	26:14	3	10	1	5	2	2	2	0	2	2	0	0	1	0	9
+San Antonio Spurs	Reserves	Keldon Johnson	25:42	4	10	0	3	4	4	1	3	4	5	1	0	2	0	12
+San Antonio Spurs	Reserves	Ja'Kobi Gillespie	14:39	1	3	1	3	0	0	1	1	2	4	1	0	0	2	3
+San Antonio Spurs	Reserves	Tarris Reed Jr.	14:35	1	1	0	0	5	6	3	4	7	1	0	2	1	2	7
+San Antonio Spurs	Reserves	Jordan McLaughlin	14:29	3	6	0	1	0	0	2	0	2	0	0	0	0	1	6
+San Antonio Spurs	Reserves	Carter Bryant	11:50	0	3	0	3	0	0	2	1	3	2	0	0	0	3	0
+San Antonio Spurs	Reserves	David Jones Garcia	1:59	1	2	0	1	0	0	0	0	0	0	0	0	0	0	2
+San Antonio Spurs	Reserves	Maliq Brown	1:05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+San Antonio Spurs	Reserves	Jayden Quaintance	Did Not Dress
+San Antonio Spurs	Reserves	Tobias Harris	Did Not Dress
+San Antonio Spurs	Reserves	Dylan Harper	Did Not Dress
+San Antonio Spurs	Reserves	De'Aaron Fox	Did Not Dress
+San Antonio Spurs	Reserves	Victor Wembanyama	Did Not Dress
+San Antonio Spurs	Totals	Team Totals	240	42	97	16	46	23	25	20	32	52	33	3	3	8	14	123
+Sacramento Kings	Starters	Keegan Murray	38:47	6	12	2	5	0	0	0	2	2	1	0	1	1	1	14
+Sacramento Kings	Starters	De'Andre Hunter	38:23	7	12	1	3	0	1	0	7	7	8	1	0	1	4	15
+Sacramento Kings	Starters	Darius Acuff Jr.	32:32	5	14	0	4	2	2	0	1	1	4	0	0	1	3	12
+Sacramento Kings	Starters	Zach LaVine	30:23	8	17	2	6	0	0	1	5	6	2	0	1	1	1	18
+Sacramento Kings	Starters	Domantas Sabonis	30:16	8	9	0	0	4	6	4	8	12	8	0	0	3	6	20
+Sacramento Kings	Reserves	Malik Monk	16:23	5	10	4	8	1	1	0	3	3	4	1	0	0	1	15
+Sacramento Kings	Reserves	Leaky Black	13:16	1	3	1	3	0	0	1	2	3	3	1	0	1	0	3
+Sacramento Kings	Reserves	Emanuel Sharp	13:06	0	4	0	4	0	0	0	1	1	2	0	0	0	2	0
+Sacramento Kings	Reserves	Dylan Cardwell	11:28	0	2	0	0	0	0	4	3	7	0	0	1	2	3	0
+Sacramento Kings	Reserves	Precious Achiuwa	10:04	4	7	0	1	1	2	2	1	3	0	1	0	0	2	9
+Sacramento Kings	Reserves	Gabe Vincent	3:12	0	2	0	1	0	0	0	0	0	0	0	0	0	1	0
+Sacramento Kings	Reserves	Daeqwon Plowden	1:05	0	0	0	0	1	2	0	0	0	0	0	0	0	0	1
+Sacramento Kings	Reserves	Alex Karaban	1:05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Sacramento Kings	Reserves	Mason Plumlee	Did Not Play
+Sacramento Kings	Reserves	Ben Simmons	Did Not Dress
+Sacramento Kings	Reserves	Jonathan Mogbo	Did Not Dress
+Sacramento Kings	Reserves	Maxime Raynaud	Did Not Dress
+Sacramento Kings	Reserves	Sean Pedulla	Did Not Dress
+Sacramento Kings	Totals	Team Totals	240	44	92	10	35	9	14	12	33	45	32	4	3	10	24	107
+```
