@@ -1,0 +1,3 @@
+Detroit Pistons|104|Orlando Magic|86|https://www.basketball-reference.com/boxscores/202611240ORL.html|final
+Boston Celtics|131|Washington Wizards|116|https://www.basketball-reference.com/boxscores/202611240WAS.html|final
+Dallas Mavericks|120|Denver Nuggets|101|https://www.basketball-reference.com/boxscores/202611240DEN.html|final
