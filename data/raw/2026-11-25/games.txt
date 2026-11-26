@@ -1,0 +1,9 @@
+Miami Heat|104|Philadelphia 76ers|111|https://www.basketball-reference.com/boxscores/202611250PHI.html|final
+Chicago Bulls|107|Charlotte Hornets|105|https://www.basketball-reference.com/boxscores/202611250CHO.html|final
+Cleveland Cavaliers|102|New York Knicks|121|https://www.basketball-reference.com/boxscores/202611250NYK.html|final
+Minnesota Timberwolves|113|Oklahoma City Thunder|106|https://www.basketball-reference.com/boxscores/202611250OKC.html|final
+Los Angeles Clippers|97|Memphis Grizzlies|115|https://www.basketball-reference.com/boxscores/202611250MEM.html|final
+Brooklyn Nets|104|Milwaukee Bucks|97|https://www.basketball-reference.com/boxscores/202611250MIL.html|final
+Phoenix Suns|104|Houston Rockets|116|https://www.basketball-reference.com/boxscores/202611250HOU.html|final
+San Antonio Spurs|111|Portland Trail Blazers|116|https://www.basketball-reference.com/boxscores/202611250POR.html|final
+Sacramento Kings|110|Golden State Warriors|129|https://www.basketball-reference.com/boxscores/202611250GSW.html|final

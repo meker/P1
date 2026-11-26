@@ -1,0 +1,41 @@
+Final: Miami Heat 104, Philadelphia 76ers 111
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Miami Heat	Starters	Davion Mitchell	40:03	7	14	3	5	3	6	1	3	4	10	0	0	3	0	20
+Miami Heat	Starters	Giannis Antetokounmpo	36:14	11	18	0	1	10	13	1	13	14	4	2	1	5	3	32
+Miami Heat	Starters	Bam Adebayo	35:07	6	16	1	3	4	5	4	7	11	3	1	0	2	2	17
+Miami Heat	Starters	Klay Thompson	31:25	3	12	1	7	0	0	0	0	0	1	1	1	0	1	7
+Miami Heat	Starters	Pelle Larsson	28:00	3	7	1	4	1	2	2	2	4	1	0	0	0	3	8
+Miami Heat	Reserves	Andrew Wiggins	23:57	4	6	0	2	0	0	1	1	2	2	0	0	0	2	8
+Miami Heat	Reserves	Ryan Conwell	18:16	3	7	1	4	0	0	1	0	1	1	0	0	2	1	7
+Miami Heat	Reserves	Bobby Portis Jr.	15:17	2	4	1	3	0	0	0	5	5	1	0	1	0	1	5
+Miami Heat	Reserves	Simone Fontecchio	6:16	0	2	0	2	0	0	0	1	1	1	0	0	0	1	0
+Miami Heat	Reserves	Myron Gardner	5:25	0	0	0	0	0	0	2	0	2	0	0	0	1	0	0
+Miami Heat	Reserves	Tim Hardaway Jr.	Did Not Play
+Miami Heat	Reserves	Nikola Jović	Did Not Play
+Miami Heat	Reserves	Nick Richards	Did Not Play
+Miami Heat	Reserves	Dru Smith	Did Not Play
+Miami Heat	Reserves	Keshad Johnson	Did Not Dress
+Miami Heat	Reserves	Vladislav Goldin	Did Not Dress
+Miami Heat	Reserves	Tre Donaldson	Did Not Dress
+Miami Heat	Totals	Team Totals	240	39	86	8	31	18	26	12	32	44	24	4	3	13	14	104
+Philadelphia 76ers	Starters	Tyrese Maxey	37:16	12	21	3	5	3	4	1	3	4	6	1	0	5	3	30
+Philadelphia 76ers	Starters	VJ Edgecombe	35:54	6	13	2	7	4	4	1	5	6	5	2	0	1	4	18
+Philadelphia 76ers	Starters	LeBron James	35:01	9	15	4	6	3	3	1	9	10	12	1	0	3	0	25
+Philadelphia 76ers	Starters	Jabari Walker	17:19	3	3	1	1	0	0	0	2	2	1	1	0	0	2	7
+Philadelphia 76ers	Starters	Jaylen Brown	16:47	2	8	0	1	2	2	0	1	1	1	0	0	0	1	6
+Philadelphia 76ers	Reserves	Kentavious Caldwell-Pope	27:50	2	6	1	4	0	0	0	1	1	3	2	0	1	1	5
+Philadelphia 76ers	Reserves	Dean Wade	26:13	2	6	1	4	0	2	1	3	4	0	1	1	0	1	5
+Philadelphia 76ers	Reserves	Dominick Barlow	16:00	4	8	0	0	1	2	5	3	8	0	0	1	0	2	9
+Philadelphia 76ers	Reserves	Anfernee Simons	14:58	2	6	2	6	0	0	1	0	1	1	1	0	0	1	6
+Philadelphia 76ers	Reserves	Adem Bona	12:42	0	3	0	1	0	0	2	4	6	0	0	2	0	5	0
+Philadelphia 76ers	Reserves	Justin Edwards	Did Not Play
+Philadelphia 76ers	Reserves	Tacko Fall	Did Not Play
+Philadelphia 76ers	Reserves	Labaron Philon Jr.	Did Not Play
+Philadelphia 76ers	Reserves	Joel Embiid	Did Not Dress
+Philadelphia 76ers	Reserves	Ariel Hukporti	Did Not Dress
+Philadelphia 76ers	Reserves	Caleb Love	Did Not Dress
+Philadelphia 76ers	Reserves	Rayan Rupert	Did Not Dress
+Philadelphia 76ers	Totals	Team Totals	240	42	89	14	35	13	17	12	31	43	29	9	4	10	20	111
+```
