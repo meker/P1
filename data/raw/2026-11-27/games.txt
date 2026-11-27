@@ -1,0 +1,11 @@
+Miami Heat||New York Knicks|||not final
+Milwaukee Bucks||Detroit Pistons|||not final
+Philadelphia 76ers||Indiana Pacers|||not final
+Brooklyn Nets||Toronto Raptors|||not final
+Atlanta Hawks||Boston Celtics|||not final
+Memphis Grizzlies||Minnesota Timberwolves|||not final
+Dallas Mavericks||Phoenix Suns|||not final
+Los Angeles Lakers||San Antonio Spurs|||not final
+Denver Nuggets||Utah Jazz|||not final
+Golden State Warriors||Portland Trail Blazers|||not final
+New Orleans Pelicans||Los Angeles Clippers|||not final
