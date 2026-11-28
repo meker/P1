@@ -1,0 +1,42 @@
+Final: Denver Nuggets 120, Utah Jazz 107
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Denver Nuggets	Starters	Nikola Jokić	36:21	7	19	2	3	1	2	1	8	9	15	2	0	2	1	17
+Denver Nuggets	Starters	Jamal Murray	35:20	12	20	3	6	9	10	0	5	5	1	3	0	2	1	36
+Denver Nuggets	Starters	Christian Braun	32:11	8	13	2	4	2	2	1	7	8	3	1	0	1	3	20
+Denver Nuggets	Starters	Cameron Johnson	28:06	6	12	2	4	0	0	1	1	2	3	2	0	2	1	14
+Denver Nuggets	Starters	Aaron Gordon	28:03	2	5	0	1	4	4	2	4	6	4	0	0	0	1	8
+Denver Nuggets	Reserves	DeMar DeRozan	21:56	2	5	0	0	6	6	0	2	2	0	1	0	1	3	10
+Denver Nuggets	Reserves	Spencer Jones	17:15	1	3	0	2	0	0	0	2	2	0	0	1	0	2	2
+Denver Nuggets	Reserves	Julian Strawther	14:30	2	5	1	3	0	0	0	3	3	2	0	0	0	1	5
+Denver Nuggets	Reserves	Marvin Bagley III	11:39	2	7	0	1	2	2	3	2	5	1	0	0	0	1	6
+Denver Nuggets	Reserves	Ryan Nembhard	10:18	1	2	0	0	0	0	0	0	0	3	0	1	1	4	2
+Denver Nuggets	Reserves	Trevon Brazile	4:22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Denver Nuggets	Reserves	Alpha Diallo	Did Not Play
+Denver Nuggets	Reserves	Tyus Jones	Did Not Play
+Denver Nuggets	Reserves	Zeke Nnaji	Did Not Play
+Denver Nuggets	Reserves	Bryce Hopkins	Did Not Dress
+Denver Nuggets	Reserves	DaRon Holmes	Did Not Dress
+Denver Nuggets	Reserves	Cam Whitmore	Did Not Dress
+Denver Nuggets	Totals	Team Totals	240	43	91	10	24	24	26	8	34	42	32	9	2	9	18	120
+Utah Jazz	Starters	Keyonte George	37:33	9	14	5	9	2	3	1	3	4	4	1	0	6	3	25
+Utah Jazz	Starters	Darryn Peterson	33:50	7	15	1	6	5	6	0	5	5	3	1	1	2	3	20
+Utah Jazz	Starters	Ace Bailey	24:27	3	8	1	5	1	2	0	3	3	1	1	1	0	2	8
+Utah Jazz	Starters	Josh Green	23:46	0	7	0	5	0	0	1	2	3	1	0	0	1	1	0
+Utah Jazz	Starters	Jusuf Nurkić	17:50	2	4	1	1	0	0	2	4	6	11	1	0	2	2	5
+Utah Jazz	Reserves	Svi Mykhailiuk	27:32	7	12	4	8	0	0	0	2	2	0	0	0	2	3	18
+Utah Jazz	Reserves	Jaxson Hayes	22:00	5	6	0	0	2	2	3	2	5	1	0	0	2	1	12
+Utah Jazz	Reserves	Kyle Filipowski	20:40	2	5	0	2	2	2	0	6	6	5	1	2	3	5	6
+Utah Jazz	Reserves	Brice Sensabaugh	20:28	5	10	2	6	0	0	1	3	4	3	1	0	0	0	12
+Utah Jazz	Reserves	Josh Okogie	11:56	0	2	0	2	1	2	0	0	0	0	0	1	0	1	1
+Utah Jazz	Reserves	Tony Bradley	Did Not Play
+Utah Jazz	Reserves	Isaiah Collier	Did Not Play
+Utah Jazz	Reserves	Lauri Markkanen	Did Not Dress
+Utah Jazz	Reserves	Mo Bamba	Did Not Dress
+Utah Jazz	Reserves	Jaren Jackson Jr.	Did Not Dress
+Utah Jazz	Reserves	Harrison Ingram	Did Not Dress
+Utah Jazz	Reserves	Kobe Bufkin	Did Not Dress
+Utah Jazz	Reserves	Jonas Aidoo	Did Not Dress
+Utah Jazz	Totals	Team Totals	240	40	83	14	44	13	17	8	30	38	29	6	5	18	21	107
+```

@@ -1,0 +1,42 @@
+Final: Dallas Mavericks 113, Phoenix Suns 109
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Dallas Mavericks	Starters	Cooper Flagg	41:58	13	27	1	4	7	8	3	4	7	8	5	4	2	1	34
+Dallas Mavericks	Starters	Zaccharie Risacher	30:40	4	9	1	2	1	2	0	6	6	1	1	2	0	2	10
+Dallas Mavericks	Starters	P.J. Washington	24:59	3	10	1	6	0	0	2	4	6	1	0	0	1	3	7
+Dallas Mavericks	Starters	Daniel Gafford	20:32	3	5	0	0	2	2	1	7	8	1	1	1	2	1	8
+Dallas Mavericks	Starters	Caleb Martin	14:05	2	6	1	5	0	0	2	1	3	4	1	0	1	1	5
+Dallas Mavericks	Reserves	Naji Marshall	31:13	6	12	2	5	0	0	1	1	2	5	2	0	1	3	14
+Dallas Mavericks	Reserves	Morez Johnson Jr.	25:53	2	6	0	1	0	0	1	3	4	4	0	0	0	2	4
+Dallas Mavericks	Reserves	Max Christie	20:02	5	7	2	4	4	4	0	3	3	2	0	0	1	2	16
+Dallas Mavericks	Reserves	Walter Clayton Jr.	18:17	4	9	1	3	0	0	0	0	0	3	2	0	2	3	9
+Dallas Mavericks	Reserves	Santi Aldama	12:21	2	2	0	0	2	2	1	2	3	2	0	0	1	1	6
+Dallas Mavericks	Reserves	Moussa Cissé	Did Not Play
+Dallas Mavericks	Reserves	Jett Howard	Did Not Play
+Dallas Mavericks	Reserves	Marcus Sasser	Did Not Play
+Dallas Mavericks	Reserves	Kyrie Irving	Did Not Dress
+Dallas Mavericks	Reserves	Dereck Lively II	Did Not Dress
+Dallas Mavericks	Reserves	Tarik Biberovic	Did Not Dress
+Dallas Mavericks	Reserves	Sergio de Larrea	Did Not Dress
+Dallas Mavericks	Reserves	Tobi Lawal	Did Not Dress
+Dallas Mavericks	Totals	Team Totals	240	44	93	9	30	16	18	11	31	42	31	12	7	11	19	113
+Phoenix Suns	Starters	Devin Booker	37:36	11	21	5	10	4	4	3	2	5	5	0	0	5	3	31
+Phoenix Suns	Starters	Oso Ighodaro	32:39	2	3	0	0	1	2	1	4	5	7	0	1	4	2	5
+Phoenix Suns	Starters	Miles Bridges	30:01	5	9	1	5	2	2	0	5	5	0	0	0	1	2	13
+Phoenix Suns	Starters	Dillon Brooks	27:35	6	13	0	3	0	0	1	2	3	3	0	0	2	3	12
+Phoenix Suns	Starters	Jalen Green	18:48	2	4	1	1	0	0	0	1	1	0	0	1	2	0	5
+Phoenix Suns	Reserves	Collin Gillespie	30:09	6	10	2	5	0	0	2	7	9	3	2	0	2	0	14
+Phoenix Suns	Reserves	Jordan Goodwin	24:48	3	10	2	7	0	0	0	4	4	5	0	0	0	2	8
+Phoenix Suns	Reserves	Khaman Maluach	15:01	2	5	0	0	2	2	3	1	4	0	0	0	1	3	6
+Phoenix Suns	Reserves	Ryan Dunn	11:59	2	5	2	4	3	4	2	3	5	2	0	0	0	0	9
+Phoenix Suns	Reserves	Luke Kennard	11:24	2	6	2	5	0	0	0	2	2	1	1	0	1	3	6
+Phoenix Suns	Reserves	Jamaree Bouyea	Did Not Play
+Phoenix Suns	Reserves	Rasheer Fleming	Did Not Play
+Phoenix Suns	Reserves	Koa Peat	Did Not Play
+Phoenix Suns	Reserves	Duop Reath	Did Not Dress
+Phoenix Suns	Reserves	Pat Spencer	Did Not Dress
+Phoenix Suns	Reserves	Mark Williams	Did Not Dress
+Phoenix Suns	Reserves	Drew Timme	Did Not Dress
+Phoenix Suns	Totals	Team Totals	240	41	86	15	40	12	14	12	31	43	26	3	2	18	18	109
+```

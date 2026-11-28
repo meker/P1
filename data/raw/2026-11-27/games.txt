@@ -1,11 +1,11 @@
-Miami Heat||New York Knicks|||not final
-Milwaukee Bucks||Detroit Pistons|||not final
-Philadelphia 76ers||Indiana Pacers|||not final
-Brooklyn Nets||Toronto Raptors|||not final
-Atlanta Hawks||Boston Celtics|||not final
-Memphis Grizzlies||Minnesota Timberwolves|||not final
-Dallas Mavericks||Phoenix Suns|||not final
-Los Angeles Lakers||San Antonio Spurs|||not final
-Denver Nuggets||Utah Jazz|||not final
-Golden State Warriors||Portland Trail Blazers|||not final
-New Orleans Pelicans||Los Angeles Clippers|||not final
+Miami Heat|108|New York Knicks|105|https://www.basketball-reference.com/boxscores/202611270NYK.html|final
+Milwaukee Bucks|98|Detroit Pistons|113|https://www.basketball-reference.com/boxscores/202611270DET.html|final
+Philadelphia 76ers|111|Indiana Pacers|87|https://www.basketball-reference.com/boxscores/202611270IND.html|final
+Brooklyn Nets|100|Toronto Raptors|124|https://www.basketball-reference.com/boxscores/202611270TOR.html|final
+Atlanta Hawks|87|Boston Celtics|86|https://www.basketball-reference.com/boxscores/202611270BOS.html|final
+Memphis Grizzlies|114|Minnesota Timberwolves|109|https://www.basketball-reference.com/boxscores/202611270MIN.html|final
+Dallas Mavericks|113|Phoenix Suns|109|https://www.basketball-reference.com/boxscores/202611270PHO.html|final
+Los Angeles Lakers|96|San Antonio Spurs|99|https://www.basketball-reference.com/boxscores/202611270SAS.html|final
+Denver Nuggets|120|Utah Jazz|107|https://www.basketball-reference.com/boxscores/202611270UTA.html|final
+Golden State Warriors|94|Portland Trail Blazers|116|https://www.basketball-reference.com/boxscores/202611270POR.html|final
+New Orleans Pelicans|105|Los Angeles Clippers|104|https://www.basketball-reference.com/boxscores/202611270LAC.html|final

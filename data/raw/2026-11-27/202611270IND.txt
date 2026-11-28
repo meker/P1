@@ -1,0 +1,41 @@
+Final: Philadelphia 76ers 111, Indiana Pacers 87
+
+```
+team	section	player	MP	FG	FGA	3P	3PA	FT	FTA	ORB	DRB	TRB	AST	STL	BLK	TOV	PF	PTS
+Philadelphia 76ers	Starters	VJ Edgecombe	32:01	4	6	1	1	0	0	0	5	5	7	1	1	2	2	9
+Philadelphia 76ers	Starters	Tyrese Maxey	29:13	3	13	0	5	8	8	0	1	1	6	0	0	3	2	14
+Philadelphia 76ers	Starters	Joel Embiid	27:54	5	14	1	3	3	4	1	10	11	3	3	0	1	2	14
+Philadelphia 76ers	Starters	LeBron James	27:08	8	13	3	6	2	3	1	6	7	6	0	1	2	1	21
+Philadelphia 76ers	Starters	Dominick Barlow	17:43	6	7	0	0	0	0	3	5	8	1	2	2	0	1	12
+Philadelphia 76ers	Reserves	Anfernee Simons	25:12	7	14	5	12	0	0	0	2	2	3	1	0	1	1	19
+Philadelphia 76ers	Reserves	Jabari Walker	22:43	1	3	1	3	1	2	0	4	4	1	1	0	2	2	4
+Philadelphia 76ers	Reserves	Kentavious Caldwell-Pope	21:19	3	3	2	2	0	0	0	0	0	1	0	0	1	4	8
+Philadelphia 76ers	Reserves	Adem Bona	13:46	0	2	0	0	0	0	0	3	3	0	0	1	0	4	0
+Philadelphia 76ers	Reserves	Labaron Philon Jr.	11:29	1	3	1	2	0	0	0	0	0	2	0	0	1	0	3
+Philadelphia 76ers	Reserves	Justin Edwards	7:29	1	3	1	3	0	0	0	1	1	0	0	0	1	2	3
+Philadelphia 76ers	Reserves	Tacko Fall	4:03	2	2	0	0	0	0	0	1	1	0	0	0	1	2	4
+Philadelphia 76ers	Reserves	Ariel Hukporti	Did Not Dress
+Philadelphia 76ers	Reserves	Caleb Love	Did Not Dress
+Philadelphia 76ers	Reserves	Rayan Rupert	Did Not Dress
+Philadelphia 76ers	Reserves	Jaylen Brown	Did Not Dress
+Philadelphia 76ers	Reserves	Dean Wade	Did Not Dress
+Philadelphia 76ers	Totals	Team Totals	240	41	83	15	37	14	17	5	38	43	30	8	5	15	23	111
+Indiana Pacers	Starters	Andrew Nembhard	25:33	5	10	2	6	2	2	2	2	4	3	1	0	2	0	14
+Indiana Pacers	Starters	Pascal Siakam	24:57	3	14	0	4	5	6	0	2	2	2	1	0	1	1	11
+Indiana Pacers	Starters	Aaron Nesmith	23:51	1	8	0	4	4	4	0	4	4	0	2	0	2	2	6
+Indiana Pacers	Starters	Ivica Zubac	23:33	2	7	0	0	1	4	6	10	16	2	0	0	4	3	5
+Indiana Pacers	Starters	Kelly Oubre Jr.	16:39	1	6	0	2	6	9	1	2	3	0	2	1	0	3	8
+Indiana Pacers	Reserves	Quenton Jackson	23:05	4	8	1	4	0	0	1	3	4	1	3	0	2	0	9
+Indiana Pacers	Reserves	Jay Huff	21:59	8	12	2	6	0	2	1	0	1	0	0	0	1	1	18
+Indiana Pacers	Reserves	Braden Smith	21:16	1	6	0	3	0	0	1	0	1	1	0	0	3	1	2
+Indiana Pacers	Reserves	Jalen Slawson	20:46	1	3	0	2	2	3	2	4	6	4	0	0	1	2	4
+Indiana Pacers	Reserves	Obi Toppin	15:05	1	4	0	2	0	0	0	3	3	1	0	0	0	0	2
+Indiana Pacers	Reserves	Jarace Walker	14:57	2	5	0	2	2	2	2	3	5	3	0	0	1	0	6
+Indiana Pacers	Reserves	Larry Nance Jr.	8:19	1	3	0	2	0	0	2	0	2	2	0	0	1	0	2
+Indiana Pacers	Reserves	Tyrese Haliburton	Did Not Dress
+Indiana Pacers	Reserves	T.J. McConnell	Did Not Dress
+Indiana Pacers	Reserves	Kobe Brown	Did Not Dress
+Indiana Pacers	Reserves	Ben Sheppard	Did Not Dress
+Indiana Pacers	Reserves	Johnny Furphy	Did Not Dress
+Indiana Pacers	Totals	Team Totals	240	30	86	5	37	22	32	18	33	51	19	9	1	18	13	87
+```
